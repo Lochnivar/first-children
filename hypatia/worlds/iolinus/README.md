@@ -23,6 +23,7 @@ Iolinus is one world/story within the [Hypatia framework](../../FRAMEWORK.md). T
 
 This world is organized into clear categories:
 
+- **[books/](books/README.md)** - Book-level documentation and organization
 - **[characters/](characters/README.md)** - Character profiles organized by role
 - **[world-building/](world-building/README.md)** - All world-building elements (magic, cosmology, cultures, organizations, etc.)
 - **[locations/](locations/README.md)** - Cities, regions, and geographic features
