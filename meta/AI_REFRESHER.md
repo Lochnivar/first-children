@@ -107,6 +107,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 - **Hypatia:** The over-universe (conceptually "The Library") containing all worlds (conceptually "Books"). From First Speech: *hypatia* — simultaneously "library" and "creator."
 - **First Speech:** Original conceptual framework from the Prime Author providing foundational terminology. Purely conceptual, the closest approximation First Children or mortals can achieve.
 - **The Deepest Truth:** Everything is energy. Everything is quantum. All existence (mortal bodies, ghosts, spirits, even First Children) are patterns of coherent energy at the quantum layer.
+- **Earth:** A world within Hypatia—a solo, non-interventionist creation with no mortal quantum access. Functions as a "control" world, hinting at Marcionite theology validity.
 
 **Iolinus-Specific Details:**
 - **Nala (Goddess of Liberation):** First Child fighting to free Iolinus from her brother Zeta/Malachor. Has full Quantumancy. Influenced Quantumancers to attempt the Shattering (morally grey). Has her own plan involving the Godshards.
@@ -459,6 +460,7 @@ Each major directory has a `README.md` that serves as a comprehensive index:
 - **All magic is quantum:** "Magic" systems are comprehension tools for mortals
 - **Anchors:** Stable constructs that offload quantum persistence (Godstone is Iolinus-specific anchor)
 - **First Speech:** Original conceptual framework; *hypatia* means "library" and "creator" simultaneously
+- **Earth:** A world within Hypatia—a solo, non-interventionist creation with no mortal quantum access (source of Earth souls for liberation operations)
 
 ### Key Iolinus Concepts to Remember
 - **Earth souls:** People from Earth transplanted into Iolinus bodies (soul transfer mechanism: greyroses)
