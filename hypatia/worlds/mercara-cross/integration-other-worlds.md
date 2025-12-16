@@ -6,7 +6,9 @@
 
 ## Overview
 
-Mercara's Cross connects to all worlds in Hypatia, serving as the central transit hub. Different platforms handle traffic to different world clusters, and each connection has unique characteristics and story potential.
+Mercara's Cross connects to all worlds in Hypatia, serving as the central transit hub. With over 1,247 documented platforms, the Cross demonstrates the vast scale of the Library. Different platforms handle traffic to different world clusters, and each connection has unique characteristics and story potential.
+
+**See [Platform List](platform-list.md) for complete directory of all documented platforms.**
 
 ## Hegemon/Stratara Connection
 

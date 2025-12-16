@@ -29,6 +29,14 @@ Iolinus is a known world (Book) in Hypatia (the Library), created solely by Mala
 
 **Current Era:** Living with the consequences of that singular catastrophe
 
+**Mercara's Cross Connection:**
+- **Platform 1237:** Iolinus portal at Mercara's Cross
+- **Status:** **SEALED** - Peer Judgment Seal (Indefinite)
+- Shadow-wall is absolute; even First Children honor the judgment and do not use the portal
+- No traffic, no First Children use via portal (they bypass through quantum sea if needed, but do not visit since judgment)
+- One of the newest additions before the seal
+- See [Mercara's Cross Platform List](../mercara-cross/platform-list.md) for details
+
 ## Framework Elements Demonstrated
 
 This shows how Iolinus demonstrates **general framework rules**:

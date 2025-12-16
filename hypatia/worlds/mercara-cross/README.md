@@ -27,6 +27,9 @@ The Station Master who created the Cross and maintains transit infrastructure
 ### [Core Infrastructure](core-infrastructure.md)
 The Grand Anchor, portal platforms, transit halls, Ledger Core
 
+### [Platform List](platform-list.md)
+Complete directory of all documented platforms (1,247+ platforms)
+
 ### [Geographic Structure](geographic-structure.md)
 Central Station District, Station Markets, Support Infrastructure, The Margins
 

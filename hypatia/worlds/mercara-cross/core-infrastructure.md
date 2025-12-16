@@ -32,10 +32,12 @@ Mercara's Cross is built around the Grand Anchor—a massive quantum stabilizati
 - Scheduling maintained by quantum probability alignment
 
 **Notable Platforms:**
-- **Platform 7:** Delverium connections - Next departure in 3 cycles
-- **Platform 12:** Hegemon/Stratara gates - Diplomatic transits only
-- **Platform 934:** Earth connections - Cultural exchange arrivals
-- Additional platforms for other worlds
+- **Platform 7:** Delverium connections - Constant adventurer flow
+- **Platform 12:** Stratara gates - Restricted diplomatic transits
+- **Platform 934:** Earth connections - Primary liberation source (mostly inbound)
+- **Platform 1237:** Iolinus - **SEALED** (Peer Judgment Seal - Indefinite)
+- **Platform 1247:** Current highest stable platform
+- See [Platform List](platform-list.md) for complete directory (1,247+ documented platforms)
 
 **Framework Alignment:**
 - Portals are stable rift connections (framework concept)
