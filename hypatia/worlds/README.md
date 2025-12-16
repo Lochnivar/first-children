@@ -33,6 +33,14 @@ World documentation at the framework level shows how each world **expands upon o
   - Took interest in Iolinus after observing Malachor's abuse
   - Working to liberate mortals from Malachor's dominion
 - **Defining event:** The Shattering — purely Iolinus-specific
+
+### [Stratara](stratara.md)
+- **Creators:** 4-6 First Children siblings - collaborative creation
+  - Created Stratara jointly as an experiment in "controlled imbalance"
+  - Collaboration devolved into a conquest game over ownership questions
+- **Status:** Contested creation - demonstrates collaborative world creation conflicts
+- **Defining concept:** Cosmic "game" among First Children, with territories as quantum nodes
+- **Framework demonstration:** Peer judgment, contested creations, moralistic gray areas
   - The Godstone was destroyed/fractured into seven Godshards
   - Reality permanently wounded: rifts formed, quantum instability spawns monsters
   - This is the Iolinus implementation—other worlds might have similar concepts but different implementations
