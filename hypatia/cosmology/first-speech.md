@@ -84,3 +84,4 @@ This term from First Speech captures the dual nature of Hypatia as both the cont
 
 *For Prime Author details, see [big-g-god.md](big-g-god.md)*  
 *For framework overview, see [../../FRAMEWORK.md](../../FRAMEWORK.md)*
+
