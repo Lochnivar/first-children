@@ -50,6 +50,15 @@ World documentation at the framework level shows how each world **expands upon o
 - **Defining concept:** LitRPG dungeon playground with gamified quantum manipulation
 - **Framework demonstration:** Anchor mechanics, quantum foundation, mortal potential exploration
 
+### [Hegemon](hegemon.md)
+- **Creators:** 4-6 First Children siblings - collaborative creation
+  - Created Hegemon jointly as an experiment in "controlled imbalance"
+  - Collaboration devolved into ongoing strategic conquest competition
+- **Status:** Contested creation - demonstrates collaborative world creation conflicts
+- **Defining concept:** Living game board for geopolitical manipulation through mortal civilizations
+- **Framework demonstration:** Peer judgment, contested creations, moral complexity of using mortals as game pieces
+- **Note:** Similar to Stratara but focused on strategic conquest rather than Risk-style territory control
+
 ### Earth
 - One of the worlds in Hypatia (not external)
 - A "control" world with no magic and very little hands-on involvement by any First Children
