@@ -41,6 +41,14 @@ World documentation at the framework level shows how each world **expands upon o
 - **Status:** Contested creation - demonstrates collaborative world creation conflicts
 - **Defining concept:** Cosmic "game" among First Children, with territories as quantum nodes
 - **Framework demonstration:** Peer judgment, contested creations, moralistic gray areas
+
+### [Delverium](delverium.md)
+- **Creator:** Zorathar (The Architect) - sole creator
+  - Created Delverium as an experiment in meritocracy
+  - Testing how far mortals can swim in the quantum sea
+- **Status:** Solo creation - demonstrates experimental world creation
+- **Defining concept:** LitRPG dungeon playground with gamified quantum manipulation
+- **Framework demonstration:** Anchor mechanics, quantum foundation, mortal potential exploration
   - The Godstone was destroyed/fractured into seven Godshards
   - Reality permanently wounded: rifts formed, quantum instability spawns monsters
   - This is the Iolinus implementation—other worlds might have similar concepts but different implementations
