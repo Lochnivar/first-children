@@ -20,6 +20,7 @@ AI rules should be organized by topic or type as needed.
 
 ## Current Rules
 
+- **`no-auto-push.md`** - AI must not push commits to GitHub without explicit user request
 - **`golden-rule-no-original-text.md`** - Absolute rule: AI never creates original story prose in plot/scene files without explicit request
 - **`hash-consistency-tracking.md`** - Guideline for maintaining consistency and dependency tracking (adapted from alt-history project)
 
