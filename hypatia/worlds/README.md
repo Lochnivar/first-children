@@ -49,11 +49,6 @@ World documentation at the framework level shows how each world **expands upon o
 - **Status:** Solo creation - demonstrates experimental world creation
 - **Defining concept:** LitRPG dungeon playground with gamified quantum manipulation
 - **Framework demonstration:** Anchor mechanics, quantum foundation, mortal potential exploration
-  - The Godstone was destroyed/fractured into seven Godshards
-  - Reality permanently wounded: rifts formed, quantum instability spawns monsters
-  - This is the Iolinus implementation—other worlds might have similar concepts but different implementations
-- **Current era:** Living with the consequences of that singular catastrophe
-- Demonstrates solo world creation and liberation operation patterns
 
 ### Earth
 - One of the worlds in Hypatia (not external)
