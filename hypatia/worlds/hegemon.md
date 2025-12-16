@@ -92,7 +92,12 @@ Hegemon is a proposed world that demonstrates **collaborative world creation** d
 - Reset mechanics (if any)
 - Resistance movement structure
 
-**Note:** This world concept is similar to Stratara but focuses on strategic conquest and geopolitical manipulation rather than Risk-style territory control. Both demonstrate collaborative creation conflicts but explore different aspects of the framework.
+**Connection to Stratara:**
+- See [Hegemon-Stratara Connection](hegemon-stratara-connection.md) for exploration of dual board meta-game concept
+- Both worlds can function as interconnected game boards
+- Potential for cross-world interactions, soul transfer, and coordinated strategies
+
+**Note:** This world concept is similar to Stratara but focuses on strategic conquest and geopolitical manipulation rather than Risk-style territory control. Both demonstrate collaborative creation conflicts but explore different aspects of the framework. They can also function as two interconnected boards in a larger meta-game.
 
 ---
 

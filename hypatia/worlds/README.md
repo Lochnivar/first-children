@@ -58,6 +58,13 @@ World documentation at the framework level shows how each world **expands upon o
 - **Defining concept:** Living game board for geopolitical manipulation through mortal civilizations
 - **Framework demonstration:** Peer judgment, contested creations, moral complexity of using mortals as game pieces
 - **Note:** Similar to Stratara but focused on strategic conquest rather than Risk-style territory control
+- **Connection:** Can function as interconnected game board with Stratara - see [Hegemon-Stratara Connection](hegemon-stratara-connection.md)
+
+### [Hegemon-Stratara Connection](hegemon-stratara-connection.md)
+- **Concept:** Dual board meta-game where First Children play both worlds simultaneously
+- **Status:** Proposed connection - explores interaction mechanisms between worlds
+- **Framework demonstration:** Cross-world connections, soul transfer, escalation of collaborative creation conflicts
+- **Interaction mechanisms:** Soul transfer, quantum resonance, dual victory conditions, meta-game complexity
 
 ### Earth
 - One of the worlds in Hypatia (not external)

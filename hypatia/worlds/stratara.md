@@ -61,6 +61,7 @@ Stratara is a proposed world that demonstrates **collaborative world creation** 
 - A mortal with full-ish Quantumancy fragments (rare exception) disrupts the game, drawing external First Child attention
 - Sibling betrayal: One First Child cheats by violating a minor moralistic rule, triggering peer intervention
 - Crossover: Souls from Iolinus (or another world) get pulled in for a liberation operation, bringing foreign quantum interfaces that glitch the board
+- **Dual Board Meta-Game:** See [Hegemon-Stratara Connection](hegemon-stratara-connection.md) for exploration of interconnected game boards where First Children play both worlds simultaneously
 
 ## Framework Conformance
 
