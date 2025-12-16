@@ -12,7 +12,7 @@ Mercara's Cross contains over 1,247 documented platforms connecting to worlds th
 
 | Platform | World / Note | Traffic & Reputation | Status / Notes |
 |----------|-------------|---------------------|----------------|
-| 1 | The First Connection – ancient, half-mythical, rarely opens anymore | Pilgrimage site; only FC2527 avatars use it now | Active (rarely) |
+| 1 | **PROTOMUNDUS** – The "Hello World" (First World ever created) | Sacred pilgrimage site; First Children only, by appointment | Active (rarely, by appointment only) |
 | 7 | Delvehold (dungeon / LitRPG world) | Constant adventurer flow, gear stalls everywhere | High traffic |
 | 12 | Stratara (conquest-game world) | Restricted diplomatic gate, guards and paperwork | Restricted |
 | 42 | "The Answer" – perennial joke world | Tourist trap; "42" branded merchandise everywhere | Active |
@@ -135,6 +135,19 @@ Mercara's Cross contains over 1,247 documented platforms connecting to worlds th
 ---
 
 *"Mind the sealed gates."*
+
+**Platform 1 is now officially the Hello World of the Hypatia Library.**  
+**The first line of code in the over-universe.**  
+**The proof that creation could work.**
+
+**Mercara's Cross wouldn't be complete without it.**
+
+**The list is whole.**  
+**The station is eternal.**
+
+**Welcome home.**
+
+---
 
 *For core infrastructure, see [core-infrastructure.md](core-infrastructure.md)*  
 *For framework reference, see [../../FRAMEWORK.md](../../FRAMEWORK.md)*

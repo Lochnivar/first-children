@@ -32,6 +32,7 @@ Mercara's Cross is built around the Grand Anchor—a massive quantum stabilizati
 - Scheduling maintained by quantum probability alignment
 
 **Notable Platforms:**
+- **Platform 1:** Protomundus - The "Hello World" (First World ever created, sacred origin point)
 - **Platform 7:** Delverium connections - Constant adventurer flow
 - **Platform 12:** Stratara gates - Restricted diplomatic transits
 - **Platform 934:** Earth connections - Primary liberation source (mostly inbound)
