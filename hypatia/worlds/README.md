@@ -66,6 +66,15 @@ World documentation at the framework level shows how each world **expands upon o
 - **Framework demonstration:** Cross-world connections, soul transfer, escalation of collaborative creation conflicts
 - **Interaction mechanisms:** Soul transfer, quantum resonance, dual victory conditions, meta-game complexity
 
+### [Mercara's Cross](mercara-cross.md)
+- **Creator:** Mercara (The Station Master) - sole creator
+  - Created as stable transit infrastructure connecting all worlds
+  - Neutral ground by design—"siblings need somewhere to meet that isn't anyone's territory"
+- **Status:** Infrastructure world - demonstrates solo creation for utility
+- **Defining concept:** Inter-world transit nexus that organically evolved into commercial hub
+- **Framework demonstration:** Soul transfer hub, infrastructure creation, neutral ground, commercial evolution
+- **Integration:** Connects all worlds—Platform 7 (Delverium), Platform 12 (Hegemon/Stratara), Platform 934 (Earth)
+
 ### Earth
 - One of the worlds in Hypatia (not external)
 - A "control" world with no magic and very little hands-on involvement by any First Children
