@@ -1,0 +1,594 @@
+[
+  {
+    "cell": 1326,
+    "x": 780.13,
+    "y": 223.79,
+    "state": 14,
+    "i": 14,
+    "culture": 11,
+    "name": "Thu",
+    "feature": 6,
+    "capital": 1,
+    "port": 1,
+    "population": 3.83,
+    "type": "Naval",
+    "coa": {
+      "t1": "sable",
+      "ordinaries": [
+        {
+          "ordinary": "fess",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1105,
+    "x": 739.29,
+    "y": 199.19,
+    "state": 14,
+    "i": 38,
+    "culture": 11,
+    "name": "Long Son Lay",
+    "capital": 0,
+    "feature": 4,
+    "port": 0,
+    "population": 2.641,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "mace",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2456,
+    "x": 820.31,
+    "y": 335.38,
+    "state": 14,
+    "i": 93,
+    "culture": 11,
+    "name": "Dien",
+    "capital": 0,
+    "feature": 8,
+    "port": 1,
+    "population": 36.403,
+    "type": "Naval",
+    "coa": {
+      "t1": "sable",
+      "division": {
+        "division": "perCross",
+        "t": "or",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "saltire",
+          "t": "argent",
+          "line": "wavy",
+          "divided": "counter"
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 1,
+    "temple": 1
+  },
+  {
+    "cell": 398,
+    "x": 728.05,
+    "y": 118.67,
+    "state": 14,
+    "i": 94,
+    "culture": 11,
+    "name": "Kinh",
+    "capital": 0,
+    "feature": 4,
+    "port": 0,
+    "population": 1.465,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "orle",
+          "t": "purpure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "mullet4",
+          "t": "gules",
+          "p": "ken",
+          "size": 0.4
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1436,
+    "x": 762.6,
+    "y": 240.8,
+    "state": 14,
+    "i": 97,
+    "culture": 11,
+    "name": "Cam Son",
+    "capital": 0,
+    "feature": 6,
+    "port": 0,
+    "population": 1.73,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "ordinaries": [
+        {
+          "ordinary": "piles",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "triangle",
+          "t": "or",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1566,
+    "x": 803.8,
+    "y": 248.3,
+    "state": 14,
+    "i": 120,
+    "culture": 11,
+    "name": "Vi Chau Hoa",
+    "capital": 0,
+    "feature": 6,
+    "port": 0,
+    "population": 1.612,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perCross",
+        "t": "semy_of_goutte-or-azure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "grenade",
+          "t": "gules",
+          "p": "e",
+          "t2": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1818,
+    "x": 804.74,
+    "y": 274.83,
+    "state": 14,
+    "i": 128,
+    "culture": 11,
+    "name": "Tuy Trang",
+    "capital": 0,
+    "feature": 6,
+    "port": 0,
+    "population": 11.984,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "spiral",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2320,
+    "x": 841.78,
+    "y": 321.16,
+    "state": 14,
+    "i": 129,
+    "culture": 5,
+    "name": "Phan Dinh",
+    "capital": 0,
+    "feature": 8,
+    "port": 0,
+    "population": 1.664,
+    "type": "Generic",
+    "coa": {
+      "t1": "semy_of_triangle-azure-argent",
+      "division": {
+        "division": "perChevron",
+        "t": "or",
+        "line": "straight"
+      },
+      "shield": "spanish"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 394,
+    "x": 709.2,
+    "y": 126.4,
+    "state": 14,
+    "i": 159,
+    "culture": 11,
+    "name": "Song",
+    "capital": 0,
+    "feature": 4,
+    "port": 0,
+    "population": 1.502,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "ordinaries": [
+        {
+          "ordinary": "pileInBendSinister",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "ladder",
+          "t": "sable",
+          "p": "e",
+          "size": 0.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2317,
+    "x": 829.92,
+    "y": 315.77,
+    "state": 14,
+    "i": 233,
+    "culture": 11,
+    "name": "Plei Son",
+    "capital": 0,
+    "feature": 8,
+    "port": 0,
+    "population": 1.725,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "ordinaries": [
+        {
+          "ordinary": "terrace",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 777,
+    "x": 724.21,
+    "y": 170.79,
+    "state": 14,
+    "i": 291,
+    "culture": 11,
+    "name": "Huong Son",
+    "capital": 0,
+    "feature": 4,
+    "port": 0,
+    "population": 6.906,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "bendSinister",
+          "t": "argent",
+          "line": "nowyReversed"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "mullet4",
+          "t": "gules",
+          "p": "lem",
+          "size": 0.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 998,
+    "x": 734,
+    "y": 192.6,
+    "state": 14,
+    "i": 312,
+    "culture": 11,
+    "name": "Mong",
+    "capital": 0,
+    "feature": 4,
+    "port": 0,
+    "population": 0.996,
+    "type": "Hunting",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "doveDisplayed",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1319,
+    "x": 757.34,
+    "y": 222.79,
+    "state": 14,
+    "i": 313,
+    "culture": 11,
+    "name": "La Nhon",
+    "capital": 0,
+    "feature": 6,
+    "port": 0,
+    "population": 5.433,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "pale",
+          "t": "vert",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "mullet4",
+          "t": "or",
+          "p": "beh",
+          "size": 0.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 483,
+    "x": 721.39,
+    "y": 137.75,
+    "state": 14,
+    "i": 316,
+    "culture": 11,
+    "name": "Song Chau",
+    "capital": 0,
+    "feature": 4,
+    "port": 0,
+    "population": 4.271,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "deerHeadCaboshed",
+          "t": "purpure",
+          "p": "jln",
+          "t2": "purpure",
+          "size": 0.7
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2599,
+    "x": 849.19,
+    "y": 339.02,
+    "state": 14,
+    "i": 411,
+    "culture": 11,
+    "name": "Vung",
+    "capital": 0,
+    "feature": 8,
+    "port": 0,
+    "population": 18.122,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "division": {
+        "division": "perBend",
+        "t": "purpure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "mullet4",
+          "t": "azure",
+          "p": "l",
+          "size": 0.7
+        },
+        {
+          "charge": "wasp",
+          "t": "argent",
+          "p": "m",
+          "size": 0.7
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1562,
+    "x": 789.3,
+    "y": 246.3,
+    "state": 14,
+    "i": 454,
+    "culture": 11,
+    "name": "Ben Thuot",
+    "capital": 0,
+    "feature": 6,
+    "port": 0,
+    "population": 1.21,
+    "type": "Generic",
+    "coa": {
+      "t1": "fusily-vert-argent",
+      "ordinaries": [
+        {
+          "ordinary": "gemelle",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "mullet4",
+          "t": "or",
+          "p": "abc",
+          "size": 0.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2067,
+    "x": 819.59,
+    "y": 291.99,
+    "state": 14,
+    "i": 456,
+    "culture": 11,
+    "name": "Ba Duong",
+    "capital": 0,
+    "feature": 8,
+    "port": 0,
+    "population": 1.889,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perFess",
+        "t": "or",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "mullet4",
+          "t": "argent",
+          "p": "jlh",
+          "divided": "counter",
+          "size": 0.7
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

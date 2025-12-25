@@ -1,0 +1,18 @@
+{
+  "t1": "argent",
+  "division": {
+    "division": "perSaltire",
+    "t": "vert"
+  },
+  "charges": [
+    {
+      "charge": "wyvernWithWingsDisplayed",
+      "t": "azure",
+      "p": "e",
+      "t2": "purpure",
+      "t3": "azure",
+      "size": 1.5
+    }
+  ],
+  "shield": "round"
+}

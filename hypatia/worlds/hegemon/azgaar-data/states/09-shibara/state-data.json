@@ -1,0 +1,110 @@
+{
+  "i": 9,
+  "color": "#87b1e6",
+  "name": "Shibara",
+  "expansionism": 3.7,
+  "capital": 9,
+  "type": "Nomadic",
+  "center": 2819,
+  "culture": 12,
+  "coa": {
+    "t1": "semy_of_lozengeFaceted-argent-vert",
+    "division": {
+      "division": "perFess",
+      "t": "sable",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "snowflake",
+        "t": "gules",
+        "p": "jlh",
+        "size": 0.7
+      }
+    ],
+    "shield": "round"
+  },
+  "pole": [
+    488,
+    379
+  ],
+  "urban": 54.32,
+  "rural": 342.2366261482239,
+  "burgs": 6,
+  "area": 2534,
+  "cells": 28,
+  "neighbors": [
+    4,
+    6,
+    5
+  ],
+  "campaigns": [
+    {
+      "name": "Agriman Invasion",
+      "start": 88,
+      "end": 102
+    },
+    {
+      "name": "Niljalian Crusade",
+      "start": 289,
+      "end": 292
+    },
+    {
+      "name": "Siyafar War",
+      "start": 368,
+      "end": 373
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Vassal",
+    "Friendly",
+    "Ally",
+    "Unknown",
+    "Ally",
+    "x",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally",
+    "Neutral",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally"
+  ],
+  "form": "Monarchy",
+  "formName": "Emirate",
+  "fullName": "Emirate of Shibara",
+  "provinces": [
+    51,
+    52
+  ],
+  "alert": 0.12,
+  "military": [
+    {
+      "i": 0,
+      "a": 186,
+      "cell": 2946,
+      "x": 458.56,
+      "y": 382.37,
+      "bx": 458.56,
+      "by": 382.37,
+      "u": {
+        "cavalry": 93,
+        "archers": 50,
+        "infantry": 42,
+        "artillery": 1
+      },
+      "n": 0,
+      "name": "1st (Dhura) Regiment",
+      "state": 9,
+      "icon": "🐴"
+    }
+  ]
+}

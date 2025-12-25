@@ -1,0 +1,931 @@
+[
+  {
+    "cell": 3694,
+    "x": 227.9,
+    "y": 450.21,
+    "state": 16,
+    "i": 16,
+    "culture": 3,
+    "name": "Rifjor",
+    "feature": 3,
+    "capital": 1,
+    "port": 1,
+    "population": 3.407,
+    "type": "Naval",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "boat",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3697,
+    "x": 273.34,
+    "y": 443.84,
+    "state": 16,
+    "i": 26,
+    "culture": 3,
+    "name": "Sandset",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 6.311,
+    "type": "Generic",
+    "coa": {
+      "t1": "pappellony-gules-or",
+      "ordinaries": [
+        {
+          "ordinary": "terrace",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4289,
+    "x": 268.83,
+    "y": 511.43,
+    "state": 16,
+    "i": 34,
+    "culture": 3,
+    "name": "Vesetso",
+    "capital": 0,
+    "feature": 3,
+    "port": 17,
+    "population": 31.947,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "azure",
+          "line": "indented"
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 1,
+    "temple": 1
+  },
+  {
+    "cell": 3922,
+    "x": 279.64,
+    "y": 470.48,
+    "state": 16,
+    "i": 40,
+    "culture": 3,
+    "name": "Grekurnoy",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 8.544,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "ordinaries": [
+        {
+          "ordinary": "fessCotissed",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "compassRose",
+          "t": "purpure",
+          "p": "def",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4280,
+    "x": 242.4,
+    "y": 503.4,
+    "state": 16,
+    "i": 77,
+    "culture": 3,
+    "name": "Bygland",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.519,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "lionPassant",
+          "t": "sable",
+          "p": "e",
+          "t2": "sable",
+          "t3": "sable",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4417,
+    "x": 310.23,
+    "y": 520.75,
+    "state": 16,
+    "i": 92,
+    "culture": 3,
+    "name": "Gar",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 18.598,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "division": {
+        "division": "perCross",
+        "t": "counterPotent-argent-azure-small",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "billet",
+          "t": "or",
+          "p": "j",
+          "size": 0.6
+        },
+        {
+          "charge": "trefle",
+          "t": "azure",
+          "p": "l",
+          "size": 0.6
+        },
+        {
+          "charge": "crossHummetty",
+          "t": "gules",
+          "p": "m",
+          "size": 0.6
+        },
+        {
+          "charge": "chain",
+          "t": "or",
+          "p": "o",
+          "size": 0.6
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3333,
+    "x": 282.23,
+    "y": 412.45,
+    "state": 16,
+    "i": 111,
+    "culture": 3,
+    "name": "Finvograv",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.822,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "division": {
+        "division": "perCross",
+        "t": "or",
+        "line": "wavy"
+      },
+      "charges": [
+        {
+          "charge": "roundel2",
+          "t": "argent",
+          "p": "j",
+          "size": 0.6
+        },
+        {
+          "charge": "billet",
+          "t": "purpure",
+          "p": "l",
+          "size": 0.6
+        },
+        {
+          "charge": "trefle",
+          "t": "vert",
+          "p": "m",
+          "size": 0.6
+        },
+        {
+          "charge": "crown",
+          "t": "or",
+          "p": "o",
+          "size": 0.6
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3808,
+    "x": 263.72,
+    "y": 461.73,
+    "state": 16,
+    "i": 125,
+    "culture": 3,
+    "name": "Grinnes",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.58,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "ordinaries": [
+        {
+          "ordinary": "orle",
+          "t": "argent"
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4276,
+    "x": 229.01,
+    "y": 507.19,
+    "state": 16,
+    "i": 140,
+    "culture": 3,
+    "name": "Holderten",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 17.756,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "bendletSinister",
+          "t": "sable",
+          "line": "embattled"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "rhinoceros",
+          "t": "argent",
+          "p": "lem",
+          "t2": "argent",
+          "size": 0.3
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4661,
+    "x": 316.7,
+    "y": 543.8,
+    "state": 16,
+    "i": 152,
+    "culture": 3,
+    "name": "Brufarda",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 6.695,
+    "type": "Lake",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "argent",
+          "line": "potenty"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "escallop",
+          "t": "azure",
+          "p": "beh",
+          "size": 0.3
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4415,
+    "x": 292,
+    "y": 524.6,
+    "state": 16,
+    "i": 179,
+    "culture": 3,
+    "name": "Selfosvol",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 15.992,
+    "type": "Lake",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "salmon",
+          "t": "sable",
+          "p": "e",
+          "t2": "sable",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4537,
+    "x": 303.5,
+    "y": 538.2,
+    "state": 16,
+    "i": 180,
+    "culture": 3,
+    "name": "Tvervik",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 12.786,
+    "type": "Lake",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "billet",
+          "t": "or",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3062,
+    "x": 302.33,
+    "y": 390.99,
+    "state": 16,
+    "i": 199,
+    "culture": 12,
+    "name": "Alqvard",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 7.383,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "division": {
+        "division": "perBendSinister",
+        "t": "gules",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "crescent",
+          "t": "azure",
+          "p": "e",
+          "size": 1.5,
+          "reversed": 1
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3184,
+    "x": 188.36,
+    "y": 404.9,
+    "state": 16,
+    "i": 209,
+    "culture": 7,
+    "name": "Veravarth",
+    "capital": 0,
+    "feature": 12,
+    "port": 0,
+    "population": 12.211,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perBend",
+        "t": "sable",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "mullet6",
+          "t": "gules",
+          "p": "l",
+          "size": 0.7
+        },
+        {
+          "charge": "horseshoe",
+          "t": "or",
+          "p": "m",
+          "size": 0.7
+        }
+      ],
+      "shield": "roman"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4154,
+    "x": 289.46,
+    "y": 494.85,
+    "state": 16,
+    "i": 215,
+    "culture": 3,
+    "name": "Enenehamnd",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 6.826,
+    "type": "Generic",
+    "coa": {
+      "t1": "pally-argent-azure",
+      "division": {
+        "division": "perBend",
+        "t": "purpure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "mullet7",
+          "t": "sable",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3046,
+    "x": 198.2,
+    "y": 399.2,
+    "state": 16,
+    "i": 218,
+    "culture": 7,
+    "name": "Ralefoss",
+    "capital": 0,
+    "feature": 12,
+    "port": 0,
+    "population": 1.658,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perCross",
+        "t": "argent",
+        "line": "wavy"
+      },
+      "charges": [
+        {
+          "charge": "key",
+          "t": "or",
+          "p": "e",
+          "divided": "counter",
+          "size": 1.5
+        }
+      ],
+      "shield": "roman"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3329,
+    "x": 257.88,
+    "y": 410.05,
+    "state": 16,
+    "i": 221,
+    "culture": 3,
+    "name": "Alfjor",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 16.659,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "ordinaries": [
+        {
+          "ordinary": "bar",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "key",
+          "t": "argent",
+          "p": "abc",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3462,
+    "x": 245.2,
+    "y": 422.2,
+    "state": 16,
+    "i": 228,
+    "culture": 3,
+    "name": "Kornes",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 8.816,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "armEmbowedHoldingSabre",
+          "t": "sable",
+          "p": "e",
+          "t2": "sable",
+          "t3": "sable",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3585,
+    "x": 281.4,
+    "y": 432,
+    "state": 16,
+    "i": 232,
+    "culture": 3,
+    "name": "Krudarnes",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.765,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "billet",
+          "t": "or",
+          "p": "beh",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4293,
+    "x": 318.64,
+    "y": 505.35,
+    "state": 16,
+    "i": 236,
+    "culture": 3,
+    "name": "Lanmoen",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.144,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "crossFleury",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3323,
+    "x": 218.61,
+    "y": 407.58,
+    "state": 16,
+    "i": 248,
+    "culture": 7,
+    "name": "Dusustheim",
+    "capital": 0,
+    "feature": 12,
+    "port": 0,
+    "population": 6.825,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "chief",
+          "t": "vert",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "feather",
+          "t": "argent",
+          "p": "abc",
+          "size": 0.5
+        }
+      ],
+      "shield": "roman"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4033,
+    "x": 259.67,
+    "y": 485.19,
+    "state": 16,
+    "i": 262,
+    "culture": 3,
+    "name": "Leisey",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 9.439,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "key",
+          "t": "gules",
+          "p": "beh",
+          "size": 0.3
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4031,
+    "x": 243.28,
+    "y": 477.73,
+    "state": 16,
+    "i": 401,
+    "culture": 3,
+    "name": "Gardurdet",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 8.657,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perCross",
+        "t": "argent",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "crossTemplar",
+          "t": "or",
+          "p": "j",
+          "size": 0.6
+        },
+        {
+          "charge": "bone",
+          "t": "vert",
+          "p": "l",
+          "size": 0.6
+        },
+        {
+          "charge": "archer",
+          "t": "azure",
+          "p": "m",
+          "size": 0.6
+        },
+        {
+          "charge": "ramHeadErased",
+          "t": "or",
+          "p": "o",
+          "size": 0.6
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3332,
+    "x": 272.11,
+    "y": 407.36,
+    "state": 16,
+    "i": 413,
+    "culture": 3,
+    "name": "Straumen",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.019,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perFess",
+        "t": "gules",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "moonInCrescent",
+          "t": "sable",
+          "p": "kn",
+          "divided": "counter",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3926,
+    "x": 329.92,
+    "y": 473.39,
+    "state": 16,
+    "i": 460,
+    "culture": 12,
+    "name": "Alkhavn",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.167,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "division": {
+        "division": "perCross",
+        "t": "or",
+        "line": "wavy"
+      },
+      "charges": [
+        {
+          "charge": "shears",
+          "t": "argent",
+          "p": "e",
+          "divided": "counter",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

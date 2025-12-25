@@ -1,0 +1,1153 @@
+[
+  {
+    "cell": 1547,
+    "x": 680.86,
+    "y": 249.25,
+    "state": 8,
+    "i": 8,
+    "culture": 8,
+    "name": "Celvi",
+    "feature": 3,
+    "capital": 1,
+    "port": 1,
+    "population": 3.225,
+    "type": "Naval",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "gyronny",
+        "t": "argent"
+      },
+      "charges": [
+        {
+          "charge": "dragonPassant",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2435,
+    "x": 625.41,
+    "y": 332.46,
+    "state": 8,
+    "i": 31,
+    "culture": 8,
+    "name": "Asaccio",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.739,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "ordinaries": [
+        {
+          "ordinary": "orle",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lanceWithBanner",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "argent",
+          "size": 1.1
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2446,
+    "x": 728.84,
+    "y": 340.74,
+    "state": 8,
+    "i": 39,
+    "culture": 8,
+    "name": "Cerpi",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 29.421,
+    "type": "Naval",
+    "coa": {
+      "t1": "sable",
+      "division": {
+        "division": "perChevron",
+        "t": "argent",
+        "line": "barby"
+      },
+      "charges": [
+        {
+          "charge": "cinquefoil",
+          "t": "or",
+          "p": "jlh",
+          "divided": "counter",
+          "size": 0.7
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 1809,
+    "x": 714.1,
+    "y": 273.03,
+    "state": 8,
+    "i": 42,
+    "culture": 8,
+    "name": "Celvieno",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.681,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "division": {
+        "division": "perCross",
+        "t": "argent",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "goutte",
+          "t": "or",
+          "p": "j",
+          "size": 0.6,
+          "reversed": 1
+        },
+        {
+          "charge": "estoile",
+          "t": "gules",
+          "p": "l",
+          "size": 0.6
+        },
+        {
+          "charge": "unicornRampant",
+          "t": "vert",
+          "p": "m",
+          "size": 0.6
+        },
+        {
+          "charge": "chain",
+          "t": "or",
+          "p": "o",
+          "size": 0.6
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1307,
+    "x": 636.11,
+    "y": 229.98,
+    "state": 8,
+    "i": 51,
+    "culture": 8,
+    "name": "Sgurnesi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 11.974,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "division": {
+        "division": "gyronny",
+        "t": "argent"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "or",
+          "line": "wavy",
+          "divided": "field"
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1677,
+    "x": 642.93,
+    "y": 258.63,
+    "state": 8,
+    "i": 52,
+    "culture": 8,
+    "name": "Cacumo",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 16.773,
+    "type": "Generic",
+    "coa": {
+      "t1": "lozengy-sable-or",
+      "ordinaries": [
+        {
+          "ordinary": "bordure",
+          "t": "argent"
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2441,
+    "x": 669.17,
+    "y": 335.36,
+    "state": 8,
+    "i": 53,
+    "culture": 8,
+    "name": "Cicuci",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 11.178,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "inescutcheon",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2581,
+    "x": 689.34,
+    "y": 349.28,
+    "state": 8,
+    "i": 62,
+    "culture": 8,
+    "name": "Frastelfano",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 6.034,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "drum",
+          "t": "gules",
+          "p": "e",
+          "t2": "sable",
+          "t3": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2057,
+    "x": 690.42,
+    "y": 297.48,
+    "state": 8,
+    "i": 80,
+    "culture": 8,
+    "name": "Menimontur",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.36,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "chevron",
+          "t": "or"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crossFleury",
+          "t": "gules",
+          "p": "ach",
+          "size": 0.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2584,
+    "x": 708.8,
+    "y": 343,
+    "state": 8,
+    "i": 91,
+    "culture": 8,
+    "name": "Gormiagorre",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.931,
+    "type": "Generic",
+    "coa": {
+      "t1": "potent-argent-purpure",
+      "charges": [
+        {
+          "charge": "lymphad",
+          "t": "vert",
+          "p": "e",
+          "t2": "vert",
+          "t3": "vert",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2438,
+    "x": 635.23,
+    "y": 339.86,
+    "state": 8,
+    "i": 116,
+    "culture": 8,
+    "name": "Setriconevi",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 24.557,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "escallop",
+          "t": "gules",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2059,
+    "x": 719.73,
+    "y": 294.26,
+    "state": 8,
+    "i": 154,
+    "culture": 8,
+    "name": "Serrovo",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 10.479,
+    "type": "Naval",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "dolphin",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1803,
+    "x": 650.14,
+    "y": 272.68,
+    "state": 8,
+    "i": 176,
+    "culture": 8,
+    "name": "Supilianola",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.607,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "bridge2",
+          "t": "azure",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2185,
+    "x": 704.23,
+    "y": 303.59,
+    "state": 8,
+    "i": 177,
+    "culture": 8,
+    "name": "Allene",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 9.391,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "charges": [
+        {
+          "charge": "shears",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 385,
+    "x": 600.34,
+    "y": 120.27,
+    "state": 8,
+    "i": 182,
+    "culture": 8,
+    "name": "Vallo",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 31.749,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "drakkar",
+          "t": "azure",
+          "p": "e",
+          "t2": "purpure",
+          "t3": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 1,
+    "temple": 0
+  },
+  {
+    "cell": 2303,
+    "x": 666.34,
+    "y": 322.52,
+    "state": 8,
+    "i": 183,
+    "culture": 8,
+    "name": "Anfignanoli",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 14.883,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perCross",
+        "t": "argent",
+        "line": "angled"
+      },
+      "charges": [
+        {
+          "charge": "ratRampant",
+          "t": "or",
+          "p": "jlmo",
+          "t2": "or",
+          "divided": "counter",
+          "size": 0.6
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 991,
+    "x": 642.6,
+    "y": 199,
+    "state": 8,
+    "i": 187,
+    "culture": 8,
+    "name": "Mazese",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.992,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "ordinaries": [
+        {
+          "ordinary": "saltireParted",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "eagleTwoHeads",
+          "t": "vert",
+          "p": "e",
+          "t2": "vert",
+          "t3": "argent",
+          "size": 0.7
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2448,
+    "x": 741.39,
+    "y": 332.56,
+    "state": 8,
+    "i": 194,
+    "culture": 8,
+    "name": "Vinolico",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 16.728,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "scrollClosed",
+          "t": "vert",
+          "p": "e",
+          "t2": "vert",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1807,
+    "x": 692.21,
+    "y": 272.15,
+    "state": 8,
+    "i": 202,
+    "culture": 8,
+    "name": "Conzale",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.625,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "ordinaries": [
+        {
+          "ordinary": "gore",
+          "t": "argent"
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1422,
+    "x": 657.5,
+    "y": 235.18,
+    "state": 8,
+    "i": 207,
+    "culture": 8,
+    "name": "Belfa",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 12.954,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "charges": [
+        {
+          "charge": "mullet6",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 986,
+    "x": 595.51,
+    "y": 187.71,
+    "state": 8,
+    "i": 230,
+    "culture": 8,
+    "name": "Ronza",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.94,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "ordinaries": [
+        {
+          "ordinary": "bordure",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "eagleTwoHeads",
+          "t": "argent",
+          "p": "jleh",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 0.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2305,
+    "x": 690.68,
+    "y": 317.13,
+    "state": 8,
+    "i": 256,
+    "culture": 8,
+    "name": "Contechiara",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.657,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "division": {
+        "division": "perBend",
+        "t": "or",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "eagleTwoHeads",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1206,
+    "x": 654.68,
+    "y": 215.77,
+    "state": 8,
+    "i": 257,
+    "culture": 8,
+    "name": "Catati",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 12.226,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "ordinaries": [
+        {
+          "ordinary": "saltire",
+          "t": "argent",
+          "line": "invecked"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "eagleTwoHeads",
+          "t": "sable",
+          "p": "e",
+          "t2": "sable",
+          "t3": "sable",
+          "size": 0.7
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 770,
+    "x": 595.97,
+    "y": 164.58,
+    "state": 8,
+    "i": 264,
+    "culture": 8,
+    "name": "Solico",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.025,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "anchor",
+          "t": "sable",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2442,
+    "x": 682.95,
+    "y": 332.41,
+    "state": 8,
+    "i": 295,
+    "culture": 8,
+    "name": "Lubro",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.702,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "key",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2445,
+    "x": 713.78,
+    "y": 327.92,
+    "state": 8,
+    "i": 306,
+    "culture": 8,
+    "name": "Roccamemino",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 9.608,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "ordinaries": [
+        {
+          "ordinary": "bordure",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "owl",
+          "t": "sable",
+          "p": "ABCDEFGHIJKL",
+          "t2": "argent",
+          "size": 0.18
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1926,
+    "x": 621.69,
+    "y": 285.09,
+    "state": 8,
+    "i": 314,
+    "culture": 8,
+    "name": "Anasosi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.986,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "mullet7",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1928,
+    "x": 642.6,
+    "y": 285.29,
+    "state": 8,
+    "i": 315,
+    "culture": 8,
+    "name": "Ischiano",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.706,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "division": {
+        "division": "perPale",
+        "t": "fusily-gules-argent-smaller",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "crosier",
+          "t": "or",
+          "p": "p",
+          "size": 0.7
+        },
+        {
+          "charge": "lionHeadCaboshed",
+          "t": "or",
+          "p": "q",
+          "size": 0.7
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 877,
+    "x": 624.26,
+    "y": 182.12,
+    "state": 8,
+    "i": 369,
+    "culture": 8,
+    "name": "Marvamatro",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 6.678,
+    "type": "Naval",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "terrace",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "eagleTwoHeads",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1805,
+    "x": 671.35,
+    "y": 277.04,
+    "state": 8,
+    "i": 370,
+    "culture": 8,
+    "name": "Cergosiliano",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 4.908,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "eagleTwoHeads",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2300,
+    "x": 635.04,
+    "y": 323.64,
+    "state": 8,
+    "i": 422,
+    "culture": 8,
+    "name": "Campi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 6.278,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "charges": [
+        {
+          "charge": "crossAnkh",
+          "t": "argent",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 771,
+    "x": 612.67,
+    "y": 168.97,
+    "state": 8,
+    "i": 451,
+    "culture": 8,
+    "name": "Cascoli",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.138,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "salmon",
+          "t": "argent",
+          "p": "e",
+          "t2": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2053,
+    "x": 643.24,
+    "y": 299.95,
+    "state": 8,
+    "i": 505,
+    "culture": 8,
+    "name": "Fusolitella",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.785,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "bow",
+          "t": "sable",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

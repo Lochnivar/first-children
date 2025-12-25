@@ -1,0 +1,13 @@
+{
+  "t1": "or",
+  "charges": [
+    {
+      "charge": "catPassantGuardant",
+      "t": "azure",
+      "p": "e",
+      "t2": "azure",
+      "size": 1.5
+    }
+  ],
+  "shield": "heater"
+}

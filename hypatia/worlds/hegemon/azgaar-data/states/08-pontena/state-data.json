@@ -1,0 +1,105 @@
+{
+  "i": 8,
+  "color": "#ff9e63",
+  "name": "Pontena",
+  "expansionism": 2,
+  "capital": 8,
+  "type": "Generic",
+  "center": 1547,
+  "culture": 8,
+  "coa": {
+    "t1": "vert",
+    "division": {
+      "division": "gyronny",
+      "t": "argent"
+    },
+    "charges": [
+      {
+        "charge": "eagleTwoHeads",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    673,
+    297
+  ],
+  "urban": 268.91799999999995,
+  "rural": 1926.6161453723907,
+  "burgs": 33,
+  "area": 17019,
+  "cells": 154,
+  "neighbors": [
+    4
+  ],
+  "campaigns": [
+    {
+      "name": "Lanelean Invasion",
+      "start": 310,
+      "end": 313
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Vassal",
+    "Friendly",
+    "Ally",
+    "Unknown",
+    "x",
+    "Ally",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally",
+    "Neutral",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally"
+  ],
+  "form": "Monarchy",
+  "formName": "Principality",
+  "fullName": "Principality of Pontena",
+  "provinces": [
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    118
+  ],
+  "alert": 0.1,
+  "military": [
+    {
+      "i": 0,
+      "a": 970,
+      "cell": 2183,
+      "x": 682.46,
+      "y": 309.61,
+      "bx": 682.46,
+      "by": 309.61,
+      "u": {
+        "infantry": 461,
+        "archers": 266,
+        "cavalry": 238,
+        "artillery": 5
+      },
+      "n": 0,
+      "name": "1st (Setriconevi) Regiment",
+      "state": 8,
+      "icon": "⚔️"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "i": 0,
+    "a": 2500,
+    "cell": 1824,
+    "x": 864.67,
+    "y": 271.7,
+    "bx": 864.67,
+    "by": 271.7,
+    "u": {
+      "archers": 961,
+      "artillery": 4,
+      "cavalry": 624,
+      "infantry": 911
+    },
+    "n": 0,
+    "name": "1st (Ezaranco) Regiment",
+    "state": 10,
+    "icon": "🏹"
+  },
+  {
+    "i": 1,
+    "a": 1754,
+    "cell": 1346,
+    "x": 966.58,
+    "y": 226.5,
+    "bx": 966.58,
+    "by": 226.5,
+    "u": {
+      "archers": 609,
+      "cavalry": 613,
+      "artillery": 1,
+      "infantry": 531
+    },
+    "n": 0,
+    "name": "2nd (Thanhranh) Regiment",
+    "state": 10,
+    "icon": "🐴"
+  },
+  {
+    "i": 2,
+    "a": 1235,
+    "cell": 411,
+    "x": 819.5,
+    "y": 119.45,
+    "bx": 819.5,
+    "by": 119.45,
+    "u": {
+      "archers": 722,
+      "cavalry": 68,
+      "infantry": 445
+    },
+    "n": 0,
+    "name": "3rd (Phanbang) Regiment",
+    "state": 10,
+    "icon": "🏹"
+  },
+  {
+    "i": 3,
+    "a": 1077,
+    "cell": 503,
+    "x": 922.89,
+    "y": 128.95,
+    "bx": 922.89,
+    "by": 128.95,
+    "u": {
+      "archers": 634,
+      "cavalry": 57,
+      "artillery": 2,
+      "infantry": 384
+    },
+    "n": 0,
+    "name": "4th (Nghia) Regiment",
+    "state": 10,
+    "icon": "🏹"
+  },
+  {
+    "i": 4,
+    "a": 1,
+    "cell": 2984,
+    "x": 930.45,
+    "y": 369.23,
+    "bx": 930.45,
+    "by": 369.23,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "1st Fleet",
+    "state": 10,
+    "icon": "🌊"
+  },
+  {
+    "i": 5,
+    "a": 1,
+    "cell": 1118,
+    "x": 841.43,
+    "y": 212.94,
+    "bx": 841.43,
+    "by": 212.94,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "2nd Fleet",
+    "state": 10,
+    "icon": "🌊"
+  },
+  {
+    "i": 6,
+    "a": 1,
+    "cell": 2325,
+    "x": 873.43,
+    "y": 317.45,
+    "bx": 873.43,
+    "by": 317.45,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "3rd Fleet",
+    "state": 10,
+    "icon": "🌊"
+  }
+]

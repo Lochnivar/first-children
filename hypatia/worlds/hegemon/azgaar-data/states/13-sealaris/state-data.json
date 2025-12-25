@@ -1,0 +1,107 @@
+{
+  "i": 13,
+  "color": "#74bbb9",
+  "name": "Sealaris",
+  "expansionism": 2.7,
+  "capital": 13,
+  "type": "Generic",
+  "center": 4988,
+  "culture": 9,
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "or",
+        "p": "abcpqh",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    996,
+    574
+  ],
+  "urban": 18.181,
+  "rural": 407.16155833005905,
+  "burgs": 4,
+  "area": 17066,
+  "cells": 164,
+  "neighbors": [
+    3,
+    12,
+    0
+  ],
+  "campaigns": [
+    {
+      "name": "Torklian Campaign",
+      "start": 1,
+      "end": 5
+    },
+    {
+      "name": "Wihulter War",
+      "start": 257,
+      "end": 258
+    },
+    {
+      "name": "Kutiotanian Invasion",
+      "start": 265,
+      "end": 269
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Enemy",
+    "Unknown",
+    "Suspicion",
+    "Unknown",
+    "Unknown",
+    "Neutral",
+    "Friendly",
+    "Vassal",
+    "x",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Ally",
+    "Ally"
+  ],
+  "form": "Monarchy",
+  "formName": "Principality",
+  "fullName": "Principality of Sealaris",
+  "provinces": [
+    76,
+    77,
+    123,
+    124
+  ],
+  "alert": 0.5,
+  "military": [
+    {
+      "i": 0,
+      "a": 769,
+      "cell": 4854,
+      "x": 992.15,
+      "y": 554.24,
+      "bx": 992.15,
+      "by": 554.24,
+      "u": {
+        "infantry": 328,
+        "cavalry": 156,
+        "archers": 281,
+        "artillery": 4
+      },
+      "n": 0,
+      "name": "1st (Taren) Regiment",
+      "state": 13,
+      "icon": "⚔️"
+    }
+  ]
+}

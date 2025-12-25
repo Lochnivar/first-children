@@ -1,0 +1,14 @@
+{
+  "name": "Valthir",
+  "base": 6,
+  "shield": "heater",
+  "center": 4673,
+  "i": 3,
+  "color": "#dababf",
+  "type": "Generic",
+  "expansionism": 1,
+  "origins": [
+    0
+  ],
+  "code": "No"
+}

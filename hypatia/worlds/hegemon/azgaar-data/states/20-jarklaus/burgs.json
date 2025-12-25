@@ -1,0 +1,514 @@
+[
+  {
+    "cell": 4667,
+    "x": 346.99,
+    "y": 546.13,
+    "state": 20,
+    "i": 20,
+    "culture": 3,
+    "name": "Bogaber",
+    "feature": 3,
+    "capital": 1,
+    "port": 17,
+    "population": 3.13,
+    "type": "Naval",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perSaltire",
+        "t": "or"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "pilesInPoint",
+          "t": "argent",
+          "divided": "counter"
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5069,
+    "x": 363.39,
+    "y": 577.41,
+    "state": 20,
+    "i": 47,
+    "culture": 3,
+    "name": "Morgen",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.645,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "division": {
+        "division": "perPale",
+        "t": "sable",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "gyron",
+          "t": "purpure",
+          "divided": "division"
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4545,
+    "x": 349.78,
+    "y": 525.85,
+    "state": 20,
+    "i": 65,
+    "culture": 3,
+    "name": "Vopnafjor",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.491,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "ordinaries": [
+        {
+          "ordinary": "crossParted",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "bookClosed",
+          "t": "gules",
+          "p": "e",
+          "t2": "argent",
+          "t3": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4929,
+    "x": 342.22,
+    "y": 564.98,
+    "state": 20,
+    "i": 74,
+    "culture": 3,
+    "name": "Igekurdur",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 10.685,
+    "type": "Lake",
+    "coa": {
+      "t1": "masoned-gules-argent",
+      "charges": [
+        {
+          "charge": "crescent",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4798,
+    "x": 367.55,
+    "y": 549.35,
+    "state": 20,
+    "i": 85,
+    "culture": 3,
+    "name": "Skjervosen",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.76,
+    "type": "River",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "chevron",
+          "t": "azure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "catPassantGuardant",
+          "t": "argent",
+          "p": "h",
+          "t2": "purpure",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4425,
+    "x": 383.43,
+    "y": 515.83,
+    "state": 20,
+    "i": 88,
+    "culture": 3,
+    "name": "Bosreyda",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 13.389,
+    "type": "River",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "chevronReversed",
+          "t": "gules"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "catPassantGuardant",
+          "t": "sable",
+          "p": "b",
+          "t2": "sable",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4550,
+    "x": 415.96,
+    "y": 524.96,
+    "state": 20,
+    "i": 89,
+    "culture": 3,
+    "name": "Dondyrka",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.658,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "scorpion",
+          "t": "vert",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4803,
+    "x": 421.66,
+    "y": 548.3,
+    "state": 20,
+    "i": 126,
+    "culture": 3,
+    "name": "Lonsbotn",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.577,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perBendSinister",
+        "t": "argent",
+        "line": "wavy"
+      },
+      "charges": [
+        {
+          "charge": "scale",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "divided": "counter",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4936,
+    "x": 416.43,
+    "y": 565.36,
+    "state": 20,
+    "i": 136,
+    "culture": 3,
+    "name": "Fallsova",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 17.336,
+    "type": "River",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "bar",
+          "t": "vert",
+          "line": "straight"
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4542,
+    "x": 331.68,
+    "y": 525.2,
+    "state": 20,
+    "i": 181,
+    "culture": 3,
+    "name": "Snubakuda",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 8.862,
+    "type": "Lake",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "dragonRampant",
+          "t": "azure",
+          "p": "jln",
+          "t2": "azure",
+          "t3": "purpure",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4801,
+    "x": 406.29,
+    "y": 551.5,
+    "state": 20,
+    "i": 237,
+    "culture": 3,
+    "name": "Olendever",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.868,
+    "type": "River",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "wasp",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4549,
+    "x": 403.41,
+    "y": 532,
+    "state": 20,
+    "i": 318,
+    "culture": 3,
+    "name": "Fenikalen",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 19.78,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "key",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4162,
+    "x": 374.35,
+    "y": 498.93,
+    "state": 20,
+    "i": 331,
+    "culture": 12,
+    "name": "Qoshavn",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.43,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "chief",
+          "t": "azure",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lozenge",
+          "t": "argent",
+          "p": "abc",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4806,
+    "x": 462.2,
+    "y": 547.89,
+    "state": 20,
+    "i": 403,
+    "culture": 10,
+    "name": "Hina",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 4.203,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "horseshoe",
+          "t": "or",
+          "p": "jlh",
+          "size": 0.7
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5071,
+    "x": 388.5,
+    "y": 578.19,
+    "state": 20,
+    "i": 417,
+    "culture": 3,
+    "name": "Hogurnoy",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.641,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "bridge",
+          "t": "gules",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  }
+]

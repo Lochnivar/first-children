@@ -1,0 +1,196 @@
+{
+  "i": 7,
+  "color": "#65cfc5",
+  "name": "Naiersbia",
+  "expansionism": 2.3,
+  "capital": 7,
+  "type": "Generic",
+  "center": 4258,
+  "culture": 6,
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "duck",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "hessen"
+  },
+  "pole": [
+    1256,
+    599
+  ],
+  "urban": 236.40099999999998,
+  "rural": 1923.1603159308434,
+  "burgs": 32,
+  "area": 36913,
+  "cells": 325,
+  "neighbors": [
+    15,
+    2,
+    11,
+    0,
+    3
+  ],
+  "campaigns": [
+    {
+      "name": "Cournonian Invasion",
+      "start": 119,
+      "end": 134
+    },
+    {
+      "name": "Tridian Campaign",
+      "start": 212,
+      "end": 213
+    },
+    {
+      "name": "Kusbachach Conquest",
+      "start": 287,
+      "end": 298
+    },
+    {
+      "name": "Brinachian Campaign",
+      "start": 358,
+      "end": 362
+    },
+    {
+      "name": "Torklian Intervention",
+      "start": 368,
+      "end": 373
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Neutral",
+    "Suspicion",
+    "Suspicion",
+    "Unknown",
+    "Ally",
+    "Unknown",
+    "x",
+    "Unknown",
+    "Unknown",
+    "Ally",
+    "Suspicion",
+    "Suspicion",
+    "Suspicion",
+    "Unknown",
+    "Rival",
+    "Unknown",
+    "Rival",
+    "Ally",
+    "Suspicion",
+    "Friendly"
+  ],
+  "form": "Theocracy",
+  "formName": "Theocracy",
+  "fullName": "Naiersbian Theocracy",
+  "provinces": [
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    116,
+    117
+  ],
+  "alert": 0.74,
+  "military": [
+    {
+      "i": 0,
+      "a": 2367,
+      "cell": 4626,
+      "x": 1249.67,
+      "y": 527.23,
+      "bx": 1249.67,
+      "by": 527.23,
+      "u": {
+        "infantry": 756,
+        "cavalry": 1029,
+        "artillery": 6,
+        "archers": 576
+      },
+      "n": 0,
+      "name": "1st (Uxbrid) Regiment",
+      "state": 7,
+      "icon": "🐴"
+    },
+    {
+      "i": 1,
+      "a": 2361,
+      "cell": 3785,
+      "x": 1341.84,
+      "y": 447.41,
+      "bx": 1341.84,
+      "by": 447.41,
+      "u": {
+        "archers": 1125,
+        "cavalry": 278,
+        "infantry": 937,
+        "artillery": 21
+      },
+      "n": 0,
+      "name": "2nd (Schenland) Regiment",
+      "state": 7,
+      "icon": "🏹"
+    },
+    {
+      "i": 2,
+      "a": 1197,
+      "cell": 5296,
+      "x": 1271.93,
+      "y": 585.62,
+      "bx": 1271.93,
+      "by": 585.62,
+      "u": {
+        "archers": 372,
+        "cavalry": 398,
+        "artillery": 15,
+        "infantry": 412
+      },
+      "n": 0,
+      "name": "3rd (Biterstein) Regiment",
+      "state": 7,
+      "icon": "⚔️"
+    },
+    {
+      "i": 3,
+      "a": 2,
+      "cell": 5302,
+      "x": 1333.92,
+      "y": 571.34,
+      "bx": 1333.92,
+      "by": 571.34,
+      "u": {
+        "fleet": 2
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 7,
+      "icon": "🌊"
+    },
+    {
+      "i": 4,
+      "a": 1,
+      "cell": 4129,
+      "x": 1329.2,
+      "y": 485.5,
+      "bx": 1329.2,
+      "by": 485.5,
+      "u": {
+        "fleet": 1
+      },
+      "n": 1,
+      "name": "2nd Fleet",
+      "state": 7,
+      "icon": "🌊"
+    }
+  ]
+}

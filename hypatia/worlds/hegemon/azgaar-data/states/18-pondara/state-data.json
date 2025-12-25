@@ -1,0 +1,131 @@
+{
+  "i": 18,
+  "color": "#f2f744",
+  "name": "Pondara",
+  "expansionism": 3.2,
+  "capital": 18,
+  "type": "Generic",
+  "center": 3862,
+  "culture": 9,
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "anchor",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    1024,
+    441
+  ],
+  "urban": 123.263,
+  "rural": 893.1929901838303,
+  "burgs": 19,
+  "area": 16786,
+  "cells": 140,
+  "neighbors": [
+    10,
+    15,
+    0,
+    3
+  ],
+  "campaigns": [
+    {
+      "name": "Pilworth War",
+      "start": 62,
+      "end": 69
+    },
+    {
+      "name": "Torklian Conflict",
+      "start": 97,
+      "end": 111
+    },
+    {
+      "name": "Presbutean Campaign",
+      "start": 314,
+      "end": 321
+    },
+    {
+      "name": "Alveiman War",
+      "start": 360,
+      "end": 367
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Neutral",
+    "Friendly",
+    "Friendly",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Ally",
+    "Unknown",
+    "Unknown",
+    "Vassal",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Rival",
+    "Unknown",
+    "Rival",
+    "x",
+    "Neutral",
+    "Neutral"
+  ],
+  "form": "Monarchy",
+  "formName": "Dominion",
+  "fullName": "Dominion of Pondara",
+  "provinces": [
+    100,
+    101,
+    102,
+    103,
+    130,
+    131
+  ],
+  "alert": 0.81,
+  "military": [
+    {
+      "i": 0,
+      "a": 2035,
+      "cell": 3751,
+      "x": 947.17,
+      "y": 448.25,
+      "bx": 947.17,
+      "by": 448.25,
+      "u": {
+        "infantry": 727,
+        "cavalry": 811,
+        "archers": 483,
+        "artillery": 14
+      },
+      "n": 0,
+      "name": "1st (Clifractia) Regiment",
+      "state": 18,
+      "icon": "🐴"
+    },
+    {
+      "i": 1,
+      "a": 2,
+      "cell": 3862,
+      "x": 933.95,
+      "y": 470.21,
+      "bx": 933.95,
+      "by": 470.21,
+      "u": {
+        "fleet": 2
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 18,
+      "icon": "🌊"
+    }
+  ]
+}

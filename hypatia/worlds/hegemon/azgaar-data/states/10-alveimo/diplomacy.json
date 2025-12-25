@@ -1,0 +1,30 @@
+{
+  "neighbors": [
+    15,
+    18
+  ],
+  "diplomacy_array": [
+    "x",
+    "Neutral",
+    "Friendly",
+    "Friendly",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Ally",
+    "Unknown",
+    "Unknown",
+    "x",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Rival",
+    "Unknown",
+    "Rival",
+    "Suzerain",
+    "Neutral",
+    "Neutral"
+  ],
+  "note": "Diplomacy array corresponds to state indices. Index position = target state index."
+}

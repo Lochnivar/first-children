@@ -1,0 +1,21 @@
+[
+  {
+    "i": 0,
+    "a": 769,
+    "cell": 4854,
+    "x": 992.15,
+    "y": 554.24,
+    "bx": 992.15,
+    "by": 554.24,
+    "u": {
+      "infantry": 328,
+      "cavalry": 156,
+      "archers": 281,
+      "artillery": 4
+    },
+    "n": 0,
+    "name": "1st (Taren) Regiment",
+    "state": 13,
+    "icon": "⚔️"
+  }
+]

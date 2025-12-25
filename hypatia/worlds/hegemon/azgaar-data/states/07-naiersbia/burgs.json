@@ -1,0 +1,1149 @@
+[
+  {
+    "cell": 4258,
+    "x": 1322.64,
+    "y": 493.89,
+    "state": 7,
+    "i": 7,
+    "culture": 6,
+    "name": "Breisberg",
+    "feature": 2,
+    "capital": 1,
+    "port": 1,
+    "population": 3.615,
+    "type": "Naval",
+    "coa": {
+      "t1": "purpure",
+      "ordinaries": [
+        {
+          "ordinary": "bend",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crescent",
+          "t": "azure",
+          "p": "e",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 3160,
+    "x": 1356.2,
+    "y": 391.42,
+    "state": 7,
+    "i": 50,
+    "culture": 4,
+    "name": "Monetsk",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 6.768,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "orle",
+          "t": "sable"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4625,
+    "x": 1234.05,
+    "y": 525.47,
+    "state": 7,
+    "i": 82,
+    "culture": 6,
+    "name": "March",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 8.181,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "ordinaries": [
+        {
+          "ordinary": "bar",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "key",
+          "t": "gules",
+          "p": "def",
+          "size": 0.3
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4010,
+    "x": 1319.38,
+    "y": 465.56,
+    "state": 7,
+    "i": 96,
+    "culture": 6,
+    "name": "Kapfloch",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.414,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "ramHeadErased",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 3562,
+    "x": 1351.75,
+    "y": 424.25,
+    "state": 7,
+    "i": 114,
+    "culture": 6,
+    "name": "Durtengen",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 8.765,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "division": {
+        "division": "perChevron",
+        "t": "or",
+        "line": "wavy"
+      },
+      "charges": [
+        {
+          "charge": "fleurDeLis",
+          "t": "argent",
+          "p": "dfbh",
+          "divided": "counter",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 3785,
+    "x": 1342.84,
+    "y": 448.41,
+    "state": 7,
+    "i": 121,
+    "culture": 6,
+    "name": "Ballin",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 24.459,
+    "type": "River",
+    "coa": {
+      "t1": "bendy-sable-or-small",
+      "charges": [
+        {
+          "charge": "crossArrowed",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4623,
+    "x": 1213.23,
+    "y": 524.28,
+    "state": 7,
+    "i": 123,
+    "culture": 9,
+    "name": "Uxbrid",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 14.513,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "division": {
+        "division": "perFess",
+        "t": "or",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "fess",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5296,
+    "x": 1263.92,
+    "y": 590.73,
+    "state": 7,
+    "i": 130,
+    "culture": 6,
+    "name": "Biterstein",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 36.029,
+    "type": "Naval",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "inescutcheon",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        },
+        {
+          "charge": "pegasus",
+          "t": "azure",
+          "p": "e",
+          "size": 0.75
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 1,
+    "temple": 1
+  },
+  {
+    "cell": 4896,
+    "x": 1353.05,
+    "y": 551.3,
+    "state": 7,
+    "i": 134,
+    "culture": 6,
+    "name": "Schwobermers",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.788,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "cavalier",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 3158,
+    "x": 1330.47,
+    "y": 394.43,
+    "state": 7,
+    "i": 144,
+    "culture": 4,
+    "name": "Pevesk",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 14.38,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "sagittarius",
+          "t": "azure",
+          "p": "e",
+          "t2": "gules",
+          "t3": "purpure",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 3435,
+    "x": 1380.03,
+    "y": 407.81,
+    "state": 7,
+    "i": 145,
+    "culture": 6,
+    "name": "Malster",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 15.662,
+    "type": "Generic",
+    "coa": {
+      "t1": "potent-gules-argent",
+      "ordinaries": [
+        {
+          "ordinary": "pall",
+          "t": "or"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "goutte",
+          "t": "azure",
+          "p": "jlh",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4750,
+    "x": 1218.61,
+    "y": 542.78,
+    "state": 7,
+    "i": 147,
+    "culture": 9,
+    "name": "Aralis",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.693,
+    "type": "Lake",
+    "coa": {
+      "t1": "or",
+      "division": {
+        "division": "perCross",
+        "t": "purpure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "mullet",
+          "t": "azure",
+          "p": "j",
+          "size": 0.6
+        },
+        {
+          "charge": "billet",
+          "t": "argent",
+          "p": "l",
+          "size": 0.6
+        },
+        {
+          "charge": "crown2",
+          "t": "or",
+          "p": "m",
+          "size": 0.6
+        },
+        {
+          "charge": "anvil",
+          "t": "purpure",
+          "p": "o",
+          "size": 0.6
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5302,
+    "x": 1329.84,
+    "y": 578.37,
+    "state": 7,
+    "i": 174,
+    "culture": 6,
+    "name": "Mullbachin",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 18.176,
+    "type": "Naval",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "drakkar",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4763,
+    "x": 1332.14,
+    "y": 531.45,
+    "state": 7,
+    "i": 196,
+    "culture": 6,
+    "name": "Sulzkirchen",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 2.737,
+    "type": "Naval",
+    "coa": {
+      "t1": "semy_of_trefle-sable-argent",
+      "ordinaries": [
+        {
+          "ordinary": "bend",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "mullet4",
+          "t": "or",
+          "p": "c",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3677,
+    "x": 1364.4,
+    "y": 438.9,
+    "state": 7,
+    "i": 225,
+    "culture": 6,
+    "name": "Viltern",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 9.776,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "fleurDeLis",
+          "t": "or",
+          "p": "kmo",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4129,
+    "x": 1325.84,
+    "y": 482.94,
+    "state": 7,
+    "i": 250,
+    "culture": 6,
+    "name": "Schodeck",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 7.713,
+    "type": "Naval",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perPale",
+        "t": "argent",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "bendlet",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "fleurDeLis",
+          "t": "gules",
+          "p": "joe",
+          "size": 0.3
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4506,
+    "x": 1312.77,
+    "y": 519.57,
+    "state": 7,
+    "i": 276,
+    "culture": 6,
+    "name": "Sollingen",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 1.682,
+    "type": "Naval",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "lozenge",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3161,
+    "x": 1363.59,
+    "y": 386.66,
+    "state": 7,
+    "i": 290,
+    "culture": 2,
+    "name": "Sapelle",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.561,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "archer",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3162,
+    "x": 1384.85,
+    "y": 397.74,
+    "state": 7,
+    "i": 326,
+    "culture": 2,
+    "name": "Marreziepieds",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 8.693,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "bar",
+          "t": "gules",
+          "line": "urdy"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "anchor",
+          "t": "argent",
+          "p": "def",
+          "size": 0.3
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5560,
+    "x": 1312.01,
+    "y": 607.22,
+    "state": 7,
+    "i": 339,
+    "culture": 6,
+    "name": "Ehrsweresch",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 2.39,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "division": {
+        "division": "perBend",
+        "t": "pally-argent-purpure-smaller",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "arbalest",
+          "t": "or",
+          "p": "l",
+          "t2": "or",
+          "t3": "or",
+          "size": 0.7
+        },
+        {
+          "charge": "chain",
+          "t": "sable",
+          "p": "m",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4626,
+    "x": 1249.67,
+    "y": 527.23,
+    "state": 7,
+    "i": 352,
+    "culture": 6,
+    "name": "Rheinachried",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 4.13,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "bell",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5683,
+    "x": 1294.27,
+    "y": 622.17,
+    "state": 7,
+    "i": 355,
+    "culture": 6,
+    "name": "Schopefenb",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 11.133,
+    "type": "River",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "goat",
+          "t": "sable",
+          "p": "e",
+          "t2": "gules",
+          "t3": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5284,
+    "x": 1212.3,
+    "y": 585.4,
+    "state": 7,
+    "i": 374,
+    "culture": 9,
+    "name": "Castrinches",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.754,
+    "type": "Lake",
+    "coa": {
+      "t1": "pappellony2-sable-or",
+      "ordinaries": [
+        {
+          "ordinary": "terrace",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 5916,
+    "x": 1262.6,
+    "y": 650.5,
+    "state": 7,
+    "i": 383,
+    "culture": 9,
+    "name": "Dunsterlow",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 2.468,
+    "type": "Hunting",
+    "coa": {
+      "t1": "sable",
+      "ordinaries": [
+        {
+          "ordinary": "fess",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "hatchet",
+          "t": "sable",
+          "p": "def",
+          "t2": "sable",
+          "size": 0.5,
+          "sinister": 1
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4118,
+    "x": 1193.73,
+    "y": 487.13,
+    "state": 7,
+    "i": 402,
+    "culture": 9,
+    "name": "Aziontaford",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 7.609,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "scorpion",
+          "t": "azure",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4871,
+    "x": 1159.67,
+    "y": 552.76,
+    "state": 7,
+    "i": 404,
+    "culture": 9,
+    "name": "Stotford",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 8.286,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "bordure",
+          "t": "gules"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lizard",
+          "t": "or",
+          "p": "ABCDEFGHIJKL",
+          "size": 0.18
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4754,
+    "x": 1246.84,
+    "y": 540.4,
+    "state": 7,
+    "i": 416,
+    "culture": 6,
+    "name": "Schopenzen",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.732,
+    "type": "Generic",
+    "coa": {
+      "t1": "bendySinister-argent-vert-small",
+      "ordinaries": [
+        {
+          "ordinary": "pale",
+          "t": "purpure",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "bell",
+          "t": "or",
+          "p": "beh",
+          "t2": "sable",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5148,
+    "x": 1184.7,
+    "y": 580.2,
+    "state": 7,
+    "i": 439,
+    "culture": 9,
+    "name": "Grantbury",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 4.311,
+    "type": "Lake",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "fusil",
+          "t": "purpure",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4387,
+    "x": 1316.02,
+    "y": 506.37,
+    "state": 7,
+    "i": 480,
+    "culture": 6,
+    "name": "Rickinwei",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.94,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "ermine-argent-sable",
+      "ordinaries": [
+        {
+          "ordinary": "chevronReversed",
+          "t": "purpure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "scorpion",
+          "t": "gules",
+          "p": "b",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4629,
+    "x": 1284.86,
+    "y": 525.64,
+    "state": 7,
+    "i": 482,
+    "culture": 6,
+    "name": "Baselpirs",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 2.269,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "division": {
+        "division": "perBendSinister",
+        "t": "argent",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "duck",
+          "t": "or",
+          "p": "jo",
+          "t2": "or",
+          "t3": "or",
+          "divided": "counter",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5022,
+    "x": 1304.85,
+    "y": 563.92,
+    "state": 7,
+    "i": 485,
+    "culture": 6,
+    "name": "Freutachtal",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.829,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "duck",
+          "t": "or",
+          "p": "jln",
+          "t2": "or",
+          "t3": "or",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4385,
+    "x": 1294.98,
+    "y": 501.77,
+    "state": 7,
+    "i": 500,
+    "culture": 6,
+    "name": "Lenzlin",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.945,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perCross",
+        "t": "purpure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "duck",
+          "t": "azure",
+          "p": "jlmo",
+          "t2": "azure",
+          "t3": "azure",
+          "divided": "counter",
+          "size": 0.6
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

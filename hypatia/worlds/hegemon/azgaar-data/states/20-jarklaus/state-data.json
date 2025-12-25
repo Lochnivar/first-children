@@ -1,0 +1,174 @@
+{
+  "i": 20,
+  "color": "#e6a884",
+  "name": "Jarklaus",
+  "expansionism": 2.6,
+  "capital": 20,
+  "type": "Generic",
+  "center": 4667,
+  "culture": 3,
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "catPassantGuardant",
+        "t": "azure",
+        "p": "e",
+        "t2": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    408,
+    559
+  ],
+  "urban": 93.455,
+  "rural": 1753.433938369155,
+  "burgs": 15,
+  "area": 45515,
+  "cells": 391,
+  "neighbors": [
+    16,
+    6,
+    5,
+    0,
+    1
+  ],
+  "campaigns": [
+    {
+      "name": "Niljalian Campaign",
+      "start": 110,
+      "end": 111
+    },
+    {
+      "name": "Siyafar Invasion",
+      "start": 287,
+      "end": 295
+    },
+    {
+      "name": "Sornian Rebellion",
+      "start": 368,
+      "end": 369
+    },
+    {
+      "name": "Heldelan Rebellion",
+      "start": 368,
+      "end": 373
+    },
+    {
+      "name": "Aunahver Conflict",
+      "start": 368,
+      "end": 369
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Rival",
+    "Neutral",
+    "Neutral",
+    "Ally",
+    "Enemy",
+    "Ally",
+    "Friendly",
+    "Ally",
+    "Ally",
+    "Neutral",
+    "Suspicion",
+    "Ally",
+    "Ally",
+    "Ally",
+    "Ally",
+    "Ally",
+    "Ally",
+    "Neutral",
+    "Ally",
+    "x"
+  ],
+  "form": "Monarchy",
+  "formName": "Kingdom",
+  "fullName": "Kingdom of Jarklaus",
+  "provinces": [
+    108,
+    109,
+    110,
+    132,
+    133
+  ],
+  "alert": 1.03,
+  "military": [
+    {
+      "i": 0,
+      "a": 4639,
+      "cell": 4800,
+      "x": 393.53,
+      "y": 548.94,
+      "bx": 393.53,
+      "by": 548.94,
+      "u": {
+        "infantry": 2058,
+        "archers": 1366,
+        "cavalry": 1195,
+        "artillery": 20
+      },
+      "n": 0,
+      "name": "1st (Fenikalen) Regiment",
+      "state": 20,
+      "icon": "⚔️"
+    },
+    {
+      "i": 1,
+      "a": 2242,
+      "cell": 5070,
+      "x": 379.19,
+      "y": 576.28,
+      "bx": 379.19,
+      "by": 576.28,
+      "u": {
+        "infantry": 958,
+        "cavalry": 353,
+        "archers": 923,
+        "artillery": 8
+      },
+      "n": 0,
+      "name": "2nd (Hafjornia) Regiment",
+      "state": 20,
+      "icon": "⚔️"
+    },
+    {
+      "i": 2,
+      "a": 188,
+      "cell": 6195,
+      "x": 574.32,
+      "y": 683.62,
+      "bx": 574.32,
+      "by": 683.62,
+      "u": {
+        "archers": 84,
+        "cavalry": 17,
+        "infantry": 87
+      },
+      "n": 0,
+      "name": "3rd (Melalen) Regiment",
+      "state": 20,
+      "icon": "⚔️"
+    },
+    {
+      "i": 3,
+      "a": 1,
+      "cell": 4667,
+      "x": 339.75,
+      "y": 550.57,
+      "bx": 339.75,
+      "by": 550.57,
+      "u": {
+        "fleet": 1
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 20,
+      "icon": "🌊"
+    }
+  ]
+}

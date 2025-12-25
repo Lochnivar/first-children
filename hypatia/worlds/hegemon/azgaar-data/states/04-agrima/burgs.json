@@ -1,0 +1,2603 @@
+[
+  {
+    "cell": 1790,
+    "x": 498.62,
+    "y": 284.9,
+    "state": 4,
+    "i": 4,
+    "culture": 1,
+    "name": "Agrima",
+    "feature": 3,
+    "capital": 1,
+    "port": 1,
+    "population": 7.721,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "point",
+          "t": "azure"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 206,
+    "x": 502.83,
+    "y": 100.49,
+    "state": 4,
+    "i": 48,
+    "culture": 1,
+    "name": "Darchzut",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 9.317,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "wyvernWithWingsDisplayed",
+          "t": "sable",
+          "p": "e",
+          "t2": "sable",
+          "t3": "azure",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2545,
+    "x": 455.98,
+    "y": 337.9,
+    "state": 4,
+    "i": 67,
+    "culture": 1,
+    "name": "Tanelanou",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.567,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "crossPotent",
+          "t": "azure",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2561,
+    "x": 544.32,
+    "y": 349.47,
+    "state": 4,
+    "i": 68,
+    "culture": 1,
+    "name": "Guerdagaga",
+    "capital": 0,
+    "feature": 10,
+    "port": 1,
+    "population": 2.678,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "bowWithArrow",
+          "t": "purpure",
+          "p": "e",
+          "t2": "purpure",
+          "t3": "sable",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 283,
+    "x": 440.03,
+    "y": 110.44,
+    "state": 4,
+    "i": 100,
+    "culture": 1,
+    "name": "Assifzamua",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.552,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "ordinaries": [
+        {
+          "ordinary": "pilesInPoint",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "key",
+          "t": "or",
+          "p": "abc",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1770,
+    "x": 289.9,
+    "y": 268.92,
+    "state": 4,
+    "i": 105,
+    "culture": 1,
+    "name": "Taroulad",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.68,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perPale",
+        "t": "or",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "ramHeadErased",
+          "t": "argent",
+          "p": "jo",
+          "t2": "argent",
+          "t3": "argent",
+          "divided": "counter",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 636,
+    "x": 349.28,
+    "y": 160.39,
+    "state": 4,
+    "i": 112,
+    "culture": 1,
+    "name": "Amizawt",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.989,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "division": {
+        "division": "perChevronReversed",
+        "t": "argent",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "bordure",
+          "t": "or"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "falchion",
+          "t": "gules",
+          "p": "ABCDEFGHIJKL",
+          "t2": "gules",
+          "size": 0.18
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 209,
+    "x": 542.57,
+    "y": 96.49,
+    "state": 4,
+    "i": 119,
+    "culture": 8,
+    "name": "Mzurit",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 5.141,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "buckle",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 213,
+    "x": 561.74,
+    "y": 92.82,
+    "state": 4,
+    "i": 127,
+    "culture": 8,
+    "name": "Tazaghrut",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 4.024,
+    "type": "Naval",
+    "coa": {
+      "t1": "barry-argent-gules",
+      "division": {
+        "division": "chevronny",
+        "t": "vert"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "bendlet",
+          "t": "sable",
+          "line": "straight"
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 365,
+    "x": 402.52,
+    "y": 117.53,
+    "state": 4,
+    "i": 156,
+    "culture": 1,
+    "name": "Tarbous",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 10.364,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "division": {
+        "division": "perPale",
+        "t": "argent",
+        "line": "dragonTeeth"
+      },
+      "charges": [
+        {
+          "charge": "wyvernWithWingsDisplayed",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "divided": "counter",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2421,
+    "x": 554.72,
+    "y": 334.1,
+    "state": 4,
+    "i": 162,
+    "culture": 1,
+    "name": "Khejager",
+    "capital": 0,
+    "feature": 10,
+    "port": 0,
+    "population": 11.181,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "arbalest2",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 872,
+    "x": 573.89,
+    "y": 184.32,
+    "state": 4,
+    "i": 165,
+    "culture": 1,
+    "name": "Sejdabeul",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 6.169,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "doveDisplayed",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 954,
+    "x": 263.31,
+    "y": 188.87,
+    "state": 4,
+    "i": 173,
+    "culture": 1,
+    "name": "Timabeul",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 9.154,
+    "type": "Naval",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "roundel2",
+          "t": "gules",
+          "p": "behdf",
+          "size": 0.3
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 278,
+    "x": 387.21,
+    "y": 114.08,
+    "state": 4,
+    "i": 175,
+    "culture": 1,
+    "name": "Azat",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 1.757,
+    "type": "Naval",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "crossPotent",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2408,
+    "x": 472.2,
+    "y": 338.6,
+    "state": 4,
+    "i": 178,
+    "culture": 1,
+    "name": "Demzuradir",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 18.865,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perChevronReversed",
+        "t": "vert",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "chevronReversed",
+          "t": "purpure"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 547,
+    "x": 411.03,
+    "y": 142.62,
+    "state": 4,
+    "i": 186,
+    "culture": 1,
+    "name": "Wanedia",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.965,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "charges": [
+        {
+          "charge": "monk",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1917,
+    "x": 520.17,
+    "y": 282.32,
+    "state": 4,
+    "i": 188,
+    "culture": 1,
+    "name": "Sakush",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.923,
+    "type": "River",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "bell",
+          "t": "gules",
+          "p": "e",
+          "t2": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 63,
+    "x": 534.1,
+    "y": 75.4,
+    "state": 4,
+    "i": 192,
+    "culture": 8,
+    "name": "Qabrash",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.737,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "gyronny",
+        "t": "gules"
+      },
+      "charges": [
+        {
+          "charge": "mallet",
+          "t": "azure",
+          "p": "e",
+          "t2": "azure",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 456,
+    "x": 380.38,
+    "y": 133.46,
+    "state": 4,
+    "i": 198,
+    "culture": 1,
+    "name": "Zagurirt",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.748,
+    "type": "Generic",
+    "coa": {
+      "t1": "semy_of_crescent-argent-azure",
+      "ordinaries": [
+        {
+          "ordinary": "pilesInPoint",
+          "t": "purpure"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 557,
+    "x": 527.67,
+    "y": 143.35,
+    "state": 4,
+    "i": 205,
+    "culture": 1,
+    "name": "Ideq",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.233,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "ordinaries": [
+        {
+          "ordinary": "fess",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crossSaltire",
+          "t": "purpure",
+          "p": "def",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 763,
+    "x": 513.62,
+    "y": 169.54,
+    "state": 4,
+    "i": 211,
+    "culture": 1,
+    "name": "Gridazida",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.6,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "lizard",
+          "t": "azure",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2393,
+    "x": 312.71,
+    "y": 328.63,
+    "state": 4,
+    "i": 213,
+    "culture": 1,
+    "name": "Khadoran",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 7.639,
+    "type": "Naval",
+    "coa": {
+      "t1": "sable",
+      "division": {
+        "division": "gyronny",
+        "t": "or"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "pilesInPoint",
+          "t": "argent"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 210,
+    "x": 548.82,
+    "y": 100.3,
+    "state": 4,
+    "i": 238,
+    "culture": 8,
+    "name": "Netri",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 8.294,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "spear",
+          "t": "gules",
+          "p": "e",
+          "t2": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 298,
+    "x": 589.93,
+    "y": 113.05,
+    "state": 4,
+    "i": 242,
+    "culture": 8,
+    "name": "Mazraq",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.479,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "crossFormee2",
+          "t": "azure",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 370,
+    "x": 425.55,
+    "y": 118.4,
+    "state": 4,
+    "i": 246,
+    "culture": 1,
+    "name": "Mdiq",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 1.806,
+    "type": "Naval",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "anchor",
+          "t": "or",
+          "p": "beh",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1534,
+    "x": 527.73,
+    "y": 255.06,
+    "state": 4,
+    "i": 259,
+    "culture": 1,
+    "name": "Kaferdayt",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.677,
+    "type": "Lake",
+    "coa": {
+      "t1": "vert",
+      "division": {
+        "division": "perPale",
+        "t": "semy_of_fountain-argent-azure-smaller",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "inescutcheon",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        },
+        {
+          "charge": "squirrel",
+          "t": "azure",
+          "p": "e",
+          "size": 0.75
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1642,
+    "x": 274.9,
+    "y": 264.41,
+    "state": 4,
+    "i": 260,
+    "culture": 1,
+    "name": "Taza",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.081,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "bend",
+          "t": "vert",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lute",
+          "t": "purpure",
+          "p": "cg",
+          "t2": "purpure",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 653,
+    "x": 535.1,
+    "y": 156.03,
+    "state": 4,
+    "i": 263,
+    "culture": 1,
+    "name": "Wagrima",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.94,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perChevron",
+        "t": "azure",
+        "line": "barby"
+      },
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 312,
+    "x": 710.4,
+    "y": 112.9,
+    "state": 4,
+    "i": 277,
+    "culture": 11,
+    "name": "Binhar",
+    "capital": 0,
+    "feature": 4,
+    "port": 0,
+    "population": 1.523,
+    "type": "Hunting",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "sable",
+          "line": "invecked"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "bridge2",
+          "t": "argent",
+          "p": "beh",
+          "size": 0.3
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 289,
+    "x": 478.38,
+    "y": 106.77,
+    "state": 4,
+    "i": 287,
+    "culture": 1,
+    "name": "Tizmour",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.646,
+    "type": "Generic",
+    "coa": {
+      "t1": "bendy-argent-sable-small",
+      "division": {
+        "division": "perPale",
+        "t": "gules",
+        "line": "straight"
+      },
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1903,
+    "x": 377.46,
+    "y": 285.72,
+    "state": 4,
+    "i": 294,
+    "culture": 12,
+    "name": "Kenafiyah",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.703,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "archer",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 380,
+    "x": 540.28,
+    "y": 117.74,
+    "state": 4,
+    "i": 298,
+    "culture": 1,
+    "name": "Souimazafi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.946,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perPale",
+        "t": "semy_of_mullet6-argent-gules-smaller",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "pilesInPoint",
+          "t": "vert"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 656,
+    "x": 579,
+    "y": 158.18,
+    "state": 4,
+    "i": 301,
+    "culture": 1,
+    "name": "Oudedeilal",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.964,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "pale",
+          "t": "gules",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "dove",
+          "t": "argent",
+          "p": "kn",
+          "t2": "sable",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 273,
+    "x": 328.62,
+    "y": 108.42,
+    "state": 4,
+    "i": 303,
+    "culture": 1,
+    "name": "Guelsa",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 10.423,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "chief",
+          "t": "gules",
+          "line": "dentilly"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "grenade",
+          "t": "argent",
+          "p": "abc",
+          "t2": "argent",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 985,
+    "x": 581.81,
+    "y": 196.63,
+    "state": 4,
+    "i": 305,
+    "culture": 1,
+    "name": "Tadirka",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.141,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "wyvernWithWingsDisplayed",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 468,
+    "x": 520.86,
+    "y": 129.4,
+    "state": 4,
+    "i": 309,
+    "culture": 1,
+    "name": "Taghzut",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 10.13,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "crossClechy",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 302,
+    "x": 607.22,
+    "y": 111.48,
+    "state": 4,
+    "i": 319,
+    "culture": 8,
+    "name": "Taghrast",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 18.424,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "helmetZischagge",
+          "t": "gules",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "horsehead2"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1276,
+    "x": 270.27,
+    "y": 231.51,
+    "state": 4,
+    "i": 322,
+    "culture": 1,
+    "name": "Khenit",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 11.069,
+    "type": "Naval",
+    "coa": {
+      "t1": "purpure",
+      "ordinaries": [
+        {
+          "ordinary": "pale",
+          "t": "argent",
+          "line": "wavy"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "arrow",
+          "t": "sable",
+          "p": "beh",
+          "t2": "sable",
+          "t3": "argent",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1900,
+    "x": 342.81,
+    "y": 285.04,
+    "state": 4,
+    "i": 324,
+    "culture": 1,
+    "name": "Sejnafi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.656,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "azure",
+      "ordinaries": [
+        {
+          "ordinary": "bar",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "wyvernWithWingsDisplayed",
+          "t": "or",
+          "p": "jlh",
+          "t2": "or",
+          "t3": "or",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 360,
+    "x": 344.5,
+    "y": 127,
+    "state": 4,
+    "i": 329,
+    "culture": 1,
+    "name": "Tagarbaza",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 9.522,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "pile",
+          "t": "azure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "archer",
+          "t": "argent",
+          "p": "b",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2037,
+    "x": 488.6,
+    "y": 303.7,
+    "state": 4,
+    "i": 335,
+    "culture": 1,
+    "name": "Tine",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.873,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "fessCotissed",
+          "t": "argent",
+          "line": "embattledNotched"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "wyvernWithWingsDisplayed",
+          "t": "gules",
+          "p": "e",
+          "t2": "gules",
+          "t3": "argent",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 552,
+    "x": 468.16,
+    "y": 148.98,
+    "state": 4,
+    "i": 341,
+    "culture": 1,
+    "name": "Tanelibes",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.113,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "ordinaries": [
+        {
+          "ordinary": "pileInBendSinister",
+          "t": "or"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "heart",
+          "t": "vert",
+          "p": "em",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2153,
+    "x": 443.19,
+    "y": 310.69,
+    "state": 4,
+    "i": 343,
+    "culture": 1,
+    "name": "Abkbirbous",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.688,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "goutte",
+          "t": "azure",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 540,
+    "x": 338.25,
+    "y": 145.99,
+    "state": 4,
+    "i": 346,
+    "culture": 1,
+    "name": "Lahilmamzu",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 10.613,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "gyronny",
+        "t": "argent"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "point",
+          "t": "or",
+          "divided": "counter"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1800,
+    "x": 605.28,
+    "y": 271.84,
+    "state": 4,
+    "i": 347,
+    "culture": 1,
+    "name": "Tanden",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.583,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "orle",
+          "t": "vert"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "wyvernWithWingsDisplayed",
+          "t": "vert",
+          "p": "e",
+          "t2": "vert",
+          "t3": "sable",
+          "size": 1.1
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2269,
+    "x": 350.44,
+    "y": 317.31,
+    "state": 4,
+    "i": 348,
+    "culture": 12,
+    "name": "Aljamah",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 4.019,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "shears",
+          "t": "purpure",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1071,
+    "x": 354.56,
+    "y": 201.86,
+    "state": 4,
+    "i": 357,
+    "culture": 1,
+    "name": "Lqlidusa",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.157,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "heart",
+          "t": "or",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1298,
+    "x": 525.7,
+    "y": 228.79,
+    "state": 4,
+    "i": 358,
+    "culture": 1,
+    "name": "Nadesjafi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 8.813,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perSaltire",
+        "t": "argent"
+      },
+      "charges": [
+        {
+          "charge": "mulletPierced",
+          "t": "or",
+          "p": "bhdf",
+          "divided": "counter",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 461,
+    "x": 437.46,
+    "y": 128.96,
+    "state": 4,
+    "i": 375,
+    "culture": 1,
+    "name": "Wehret",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.087,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perPale",
+        "t": "gules",
+        "line": "straight"
+      },
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1081,
+    "x": 461.98,
+    "y": 201.57,
+    "state": 4,
+    "i": 377,
+    "culture": 1,
+    "name": "Essouren",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.725,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "attire",
+          "t": "purpure",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2041,
+    "x": 515.36,
+    "y": 292.78,
+    "state": 4,
+    "i": 378,
+    "culture": 1,
+    "name": "Biwen",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.941,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "crossSaltire",
+          "t": "vert",
+          "p": "jlh",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1185,
+    "x": 415.88,
+    "y": 213.75,
+    "state": 4,
+    "i": 384,
+    "culture": 1,
+    "name": "Tafzahag",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 12.829,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "division": {
+        "division": "perBend",
+        "t": "vert",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "trefle",
+          "t": "sable",
+          "p": "l",
+          "size": 0.7
+        },
+        {
+          "charge": "scissors2",
+          "t": "argent",
+          "p": "m",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2406,
+    "x": 455.81,
+    "y": 327.64,
+    "state": 4,
+    "i": 385,
+    "culture": 1,
+    "name": "Abaralima",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.61,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "pall",
+          "t": "gules"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "horseRampant",
+          "t": "or",
+          "p": "jleh",
+          "t2": "or",
+          "t3": "or",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 545,
+    "x": 389.01,
+    "y": 150.54,
+    "state": 4,
+    "i": 391,
+    "culture": 1,
+    "name": "Zagbarar",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.666,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "bend",
+          "t": "gules",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lizard",
+          "t": "argent",
+          "p": "e",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 847,
+    "x": 324.2,
+    "y": 184.8,
+    "state": 4,
+    "i": 392,
+    "culture": 1,
+    "name": "Korba",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.163,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "gyronny",
+        "t": "purpure"
+      },
+      "charges": [
+        {
+          "charge": "frog",
+          "t": "gules",
+          "p": "jln",
+          "divided": "counter",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1653,
+    "x": 393.04,
+    "y": 265.97,
+    "state": 4,
+    "i": 394,
+    "culture": 1,
+    "name": "Tanourba",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.473,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "or",
+      "division": {
+        "division": "perBend",
+        "t": "purpure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "fleurDeLis",
+          "t": "gules",
+          "p": "l",
+          "size": 0.7
+        },
+        {
+          "charge": "talbotSejant",
+          "t": "argent",
+          "p": "m",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1072,
+    "x": 360.05,
+    "y": 200.25,
+    "state": 4,
+    "i": 406,
+    "culture": 1,
+    "name": "Assentanja",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.412,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "division": {
+        "division": "perSaltire",
+        "t": "or"
+      },
+      "charges": [
+        {
+          "charge": "eagleTwoHeads",
+          "t": "argent",
+          "p": "b",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 0.5
+        },
+        {
+          "charge": "skull2",
+          "t": "purpure",
+          "p": "d",
+          "size": 0.5
+        },
+        {
+          "charge": "cancer",
+          "t": "azure",
+          "p": "f",
+          "size": 0.5
+        },
+        {
+          "charge": "column",
+          "t": "argent",
+          "p": "h",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1284,
+    "x": 365.22,
+    "y": 225.46,
+    "state": 4,
+    "i": 408,
+    "culture": 1,
+    "name": "Birat",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.745,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "crossPattee",
+          "t": "vert",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1412,
+    "x": 538.68,
+    "y": 243.78,
+    "state": 4,
+    "i": 419,
+    "culture": 1,
+    "name": "Houazroura",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.251,
+    "type": "River",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perPale",
+        "t": "purpure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "inescutcheon",
+          "t": "sable",
+          "p": "jo",
+          "size": 0.7
+        },
+        {
+          "charge": "anchor",
+          "t": "argent",
+          "p": "jo",
+          "size": 0.35
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 465,
+    "x": 482.31,
+    "y": 128.43,
+    "state": 4,
+    "i": 429,
+    "culture": 1,
+    "name": "Astournag",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.807,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "piles",
+          "t": "argent"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2022,
+    "x": 333.31,
+    "y": 297.92,
+    "state": 4,
+    "i": 433,
+    "culture": 1,
+    "name": "Bizawt",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 10.157,
+    "type": "Generic",
+    "coa": {
+      "t1": "barry-azure-argent",
+      "division": {
+        "division": "perSaltire",
+        "t": "or"
+      },
+      "charges": [
+        {
+          "charge": "lanceWithBanner",
+          "t": "purpure",
+          "p": "b",
+          "t2": "purpure",
+          "t3": "gules",
+          "size": 0.5
+        },
+        {
+          "charge": "boarHeadErased",
+          "t": "purpure",
+          "p": "d",
+          "size": 0.5
+        },
+        {
+          "charge": "sabresCrossed",
+          "t": "azure",
+          "p": "f",
+          "size": 0.5
+        },
+        {
+          "charge": "crossFormee",
+          "t": "argent",
+          "p": "h",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 472,
+    "x": 568.21,
+    "y": 133.66,
+    "state": 4,
+    "i": 441,
+    "culture": 1,
+    "name": "Nali",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.156,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "bridge",
+          "t": "vert",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1901,
+    "x": 357.92,
+    "y": 285.87,
+    "state": 4,
+    "i": 443,
+    "culture": 1,
+    "name": "Tagriba",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.954,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "lighthouse",
+          "t": "or",
+          "p": "e",
+          "t2": "argent",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2288,
+    "x": 526.92,
+    "y": 319.41,
+    "state": 4,
+    "i": 445,
+    "culture": 1,
+    "name": "Zrifelt",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.77,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "masoned-gules-argent-smaller",
+      "division": {
+        "division": "gyronny",
+        "t": "or"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "pileInBend",
+          "t": "azure"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 275,
+    "x": 355.9,
+    "y": 107.15,
+    "state": 4,
+    "i": 450,
+    "culture": 1,
+    "name": "Melmas",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 16.382,
+    "type": "Hunting",
+    "coa": {
+      "t1": "gules",
+      "division": {
+        "division": "perSaltire",
+        "t": "argent"
+      },
+      "charges": [
+        {
+          "charge": "mullet",
+          "t": "or",
+          "p": "bhdf",
+          "divided": "counter",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1788,
+    "x": 477.25,
+    "y": 269.85,
+    "state": 4,
+    "i": 455,
+    "culture": 1,
+    "name": "Nakelsarif",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.351,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "ouroboros",
+          "t": "vert",
+          "p": "e",
+          "size": 1.5,
+          "sinister": 1
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1402,
+    "x": 422.64,
+    "y": 240.48,
+    "state": 4,
+    "i": 468,
+    "culture": 1,
+    "name": "Alsa",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 4.868,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "centaur",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1527,
+    "x": 472.56,
+    "y": 247.86,
+    "state": 4,
+    "i": 469,
+    "culture": 1,
+    "name": "Oued",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.673,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "terrace",
+          "t": "sable",
+          "line": "escartely"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1910,
+    "x": 457.9,
+    "y": 280.24,
+    "state": 4,
+    "i": 470,
+    "culture": 1,
+    "name": "Qalibah",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.663,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "anchor",
+          "t": "argent",
+          "p": "def",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2401,
+    "x": 405.6,
+    "y": 332.85,
+    "state": 4,
+    "i": 472,
+    "culture": 12,
+    "name": "Safahraf",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.734,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "bendySinister-argent-sable",
+      "division": {
+        "division": "perFess",
+        "t": "azure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "mullet4",
+          "t": "gules",
+          "p": "k",
+          "size": 0.7
+        },
+        {
+          "charge": "ploughshare",
+          "t": "or",
+          "p": "n",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2141,
+    "x": 308.22,
+    "y": 302.77,
+    "state": 4,
+    "i": 491,
+    "culture": 1,
+    "name": "Aka",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.159,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "flaunches",
+          "t": "or"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "wyvernWithWingsDisplayed",
+          "t": "argent",
+          "p": "beh",
+          "t2": "or",
+          "t3": "argent",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2534,
+    "x": 336.02,
+    "y": 347.31,
+    "state": 4,
+    "i": 492,
+    "culture": 1,
+    "name": "Azrouazmiz",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.561,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "chief",
+          "t": "argent",
+          "line": "engrailed"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "scrollClosed",
+          "t": "gules",
+          "p": "abc",
+          "t2": "gules",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 862,
+    "x": 461.06,
+    "y": 182.82,
+    "state": 4,
+    "i": 504,
+    "culture": 1,
+    "name": "Yousjari",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.438,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "vert",
+      "charges": [
+        {
+          "charge": "eagle",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2176,
+    "x": 602.01,
+    "y": 304.1,
+    "state": 4,
+    "i": 506,
+    "culture": 1,
+    "name": "Bout",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.724,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "bend",
+          "t": "gules",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crescent",
+          "t": "or",
+          "p": "jo",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

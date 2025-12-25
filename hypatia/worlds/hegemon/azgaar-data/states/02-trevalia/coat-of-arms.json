@@ -1,0 +1,21 @@
+{
+  "t1": "argent",
+  "ordinaries": [
+    {
+      "ordinary": "pale",
+      "t": "vert",
+      "line": "straight"
+    }
+  ],
+  "charges": [
+    {
+      "charge": "eagle",
+      "t": "argent",
+      "p": "beh",
+      "t2": "argent",
+      "t3": "argent",
+      "size": 0.5
+    }
+  ],
+  "shield": "oldFrench"
+}

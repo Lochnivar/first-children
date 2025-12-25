@@ -1,0 +1,14 @@
+{
+  "name": "Portuzian",
+  "base": 13,
+  "shield": "spanish",
+  "center": 1954,
+  "i": 5,
+  "color": "#ffed6f",
+  "type": "Hunting",
+  "expansionism": 1.4,
+  "origins": [
+    0
+  ],
+  "code": "Po"
+}

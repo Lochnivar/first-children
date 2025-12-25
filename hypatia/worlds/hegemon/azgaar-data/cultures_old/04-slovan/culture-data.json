@@ -1,0 +1,14 @@
+{
+  "name": "Slovan",
+  "base": 5,
+  "shield": "round",
+  "center": 3132,
+  "i": 4,
+  "color": "#fdb462",
+  "type": "Nomadic",
+  "expansionism": 2.2,
+  "origins": [
+    0
+  ],
+  "code": "Sl"
+}

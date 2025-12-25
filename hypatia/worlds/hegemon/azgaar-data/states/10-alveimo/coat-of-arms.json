@@ -1,0 +1,20 @@
+{
+  "t1": "argent",
+  "ordinaries": [
+    {
+      "ordinary": "chevronReversed",
+      "t": "gules"
+    }
+  ],
+  "charges": [
+    {
+      "charge": "greyhoundSejant",
+      "t": "gules",
+      "p": "b",
+      "t2": "gules",
+      "t3": "azure",
+      "size": 0.5
+    }
+  ],
+  "shield": "spanish"
+}

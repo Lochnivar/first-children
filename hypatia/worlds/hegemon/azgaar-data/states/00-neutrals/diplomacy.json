@@ -1,0 +1,25 @@
+{
+  "neighbors": [
+    15,
+    7,
+    18,
+    3,
+    1,
+    20,
+    5,
+    12,
+    13
+  ],
+  "diplomacy_array": [
+    [
+      "Niljalia-Kutiotanian War",
+      "Niljalia declared a war on its rival Kutiotania",
+      "Kutiotania's vassal Sealia joined the war on defenders side",
+      "Kutiotania's vassal Rutarakia joined the war on defenders side",
+      "Kutiotania's ally Jarklaus joined the war on defenders side",
+      "Niljalia's ally Naiersbia avoided entering the war",
+      "Niljalia's ally Cournonia avoided entering the war"
+    ]
+  ],
+  "note": "Diplomacy array corresponds to state indices. Index position = target state index."
+}

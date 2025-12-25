@@ -1,0 +1,480 @@
+[
+  {
+    "cell": 4716,
+    "x": 886.84,
+    "y": 534.32,
+    "state": 12,
+    "i": 12,
+    "culture": 10,
+    "name": "Toti",
+    "feature": 3,
+    "capital": 1,
+    "port": 1,
+    "population": 23.675,
+    "type": "Naval",
+    "coa": {
+      "t1": "sable",
+      "charges": [
+        {
+          "charge": "mulletFaceted",
+          "t": "or",
+          "p": "kn",
+          "size": 0.7
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4589,
+    "x": 822.25,
+    "y": 531.51,
+    "state": 12,
+    "i": 44,
+    "culture": 10,
+    "name": "Lanta",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.655,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "division": {
+        "division": "chevronny",
+        "t": "vert"
+      },
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4594,
+    "x": 881.8,
+    "y": 524.52,
+    "state": 12,
+    "i": 81,
+    "culture": 10,
+    "name": "Kylva",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 13.415,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "division": {
+        "division": "perFess",
+        "t": "argent",
+        "line": "urdy"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "fess",
+          "t": "or",
+          "line": "indented"
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4343,
+    "x": 825.47,
+    "y": 505.57,
+    "state": 12,
+    "i": 141,
+    "culture": 10,
+    "name": "Kansilama",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 7.631,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "division": {
+        "division": "chevronny",
+        "t": "or"
+      },
+      "charges": [
+        {
+          "charge": "escallop",
+          "t": "argent",
+          "p": "e",
+          "divided": "counter",
+          "size": 1.5
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4720,
+    "x": 898.9,
+    "y": 544.4,
+    "state": 12,
+    "i": 216,
+    "culture": 10,
+    "name": "Raajarpio",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 6.194,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "scrollClosed",
+          "t": "gules",
+          "p": "e",
+          "t2": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4348,
+    "x": 855.6,
+    "y": 498.36,
+    "state": 12,
+    "i": 245,
+    "culture": 10,
+    "name": "Kaskog",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 47.238,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "bell",
+          "t": "gules",
+          "p": "e",
+          "t2": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 1,
+    "temple": 1
+  },
+  {
+    "cell": 4839,
+    "x": 837.63,
+    "y": 550.44,
+    "state": 12,
+    "i": 266,
+    "culture": 10,
+    "name": "Kelva",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 5.22,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "anchor",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5106,
+    "x": 792.81,
+    "y": 571.72,
+    "state": 12,
+    "i": 367,
+    "culture": 10,
+    "name": "Rajori",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.674,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "sable",
+          "line": "archedReversed"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "bowWithThreeArrows",
+          "t": "argent",
+          "p": "behdf",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 0.3
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4836,
+    "x": 811.85,
+    "y": 549.48,
+    "state": 12,
+    "i": 373,
+    "culture": 10,
+    "name": "Kylaskihi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 9.091,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "pall",
+          "t": "gules"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crossGamma",
+          "t": "argent",
+          "p": "e",
+          "size": 0.7
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4976,
+    "x": 874.34,
+    "y": 568.08,
+    "state": 12,
+    "i": 449,
+    "culture": 10,
+    "name": "Vanjo",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.765,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "plaice",
+          "t": "argent",
+          "p": "e",
+          "t2": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4583,
+    "x": 748.97,
+    "y": 523.48,
+    "state": 12,
+    "i": 462,
+    "culture": 10,
+    "name": "Jampu",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 5.574,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "gemelle",
+          "t": "azure",
+          "line": "invecked"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "dragonRampant",
+          "t": "sable",
+          "p": "abc",
+          "t2": "purpure",
+          "t3": "vert",
+          "size": 0.5
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4842,
+    "x": 875.66,
+    "y": 553.81,
+    "state": 12,
+    "i": 464,
+    "culture": 10,
+    "name": "Liepola",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 2.962,
+    "type": "River",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perFess",
+        "t": "azure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "ramHeadErased",
+          "t": "vert",
+          "p": "e",
+          "t2": "vert",
+          "t3": "gules",
+          "divided": "counter",
+          "size": 1.5
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4586,
+    "x": 782.61,
+    "y": 527.73,
+    "state": 12,
+    "i": 481,
+    "culture": 10,
+    "name": "Yrylanimaa",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.79,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "castle2",
+          "t": "purpure",
+          "p": "jln",
+          "t2": "sable",
+          "t3": "azure",
+          "size": 0.7
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 5237,
+    "x": 679.38,
+    "y": 591.03,
+    "state": 12,
+    "i": 502,
+    "culture": 10,
+    "name": "Porvioi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 6.586,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "ramHeadErased",
+          "t": "sable",
+          "p": "jln",
+          "t2": "sable",
+          "t3": "azure",
+          "size": 0.7
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

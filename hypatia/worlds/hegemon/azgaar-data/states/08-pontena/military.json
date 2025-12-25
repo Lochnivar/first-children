@@ -1,0 +1,21 @@
+[
+  {
+    "i": 0,
+    "a": 970,
+    "cell": 2183,
+    "x": 682.46,
+    "y": 309.61,
+    "bx": 682.46,
+    "by": 309.61,
+    "u": {
+      "infantry": 461,
+      "archers": 266,
+      "cavalry": 238,
+      "artillery": 5
+    },
+    "n": 0,
+    "name": "1st (Setriconevi) Regiment",
+    "state": 8,
+    "icon": "⚔️"
+  }
+]

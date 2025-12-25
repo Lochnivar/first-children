@@ -1,0 +1,74 @@
+[
+  {
+    "i": 0,
+    "a": 4639,
+    "cell": 4800,
+    "x": 393.53,
+    "y": 548.94,
+    "bx": 393.53,
+    "by": 548.94,
+    "u": {
+      "infantry": 2058,
+      "archers": 1366,
+      "cavalry": 1195,
+      "artillery": 20
+    },
+    "n": 0,
+    "name": "1st (Fenikalen) Regiment",
+    "state": 20,
+    "icon": "⚔️"
+  },
+  {
+    "i": 1,
+    "a": 2242,
+    "cell": 5070,
+    "x": 379.19,
+    "y": 576.28,
+    "bx": 379.19,
+    "by": 576.28,
+    "u": {
+      "infantry": 958,
+      "cavalry": 353,
+      "archers": 923,
+      "artillery": 8
+    },
+    "n": 0,
+    "name": "2nd (Hafjornia) Regiment",
+    "state": 20,
+    "icon": "⚔️"
+  },
+  {
+    "i": 2,
+    "a": 188,
+    "cell": 6195,
+    "x": 574.32,
+    "y": 683.62,
+    "bx": 574.32,
+    "by": 683.62,
+    "u": {
+      "archers": 84,
+      "cavalry": 17,
+      "infantry": 87
+    },
+    "n": 0,
+    "name": "3rd (Melalen) Regiment",
+    "state": 20,
+    "icon": "⚔️"
+  },
+  {
+    "i": 3,
+    "a": 1,
+    "cell": 4667,
+    "x": 339.75,
+    "y": 550.57,
+    "bx": 339.75,
+    "by": 550.57,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "1st Fleet",
+    "state": 20,
+    "icon": "🌊"
+  }
+]

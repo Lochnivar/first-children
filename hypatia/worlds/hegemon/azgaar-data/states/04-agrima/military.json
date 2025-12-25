@@ -1,0 +1,56 @@
+[
+  {
+    "i": 0,
+    "a": 1176,
+    "cell": 2408,
+    "x": 472.2,
+    "y": 338.6,
+    "bx": 472.2,
+    "by": 338.6,
+    "u": {
+      "archers": 424,
+      "cavalry": 517,
+      "infantry": 235
+    },
+    "n": 0,
+    "name": "1st (Demzuradir) Regiment",
+    "state": 4,
+    "icon": "🐴"
+  },
+  {
+    "i": 1,
+    "a": 1119,
+    "cell": 207,
+    "x": 514.88,
+    "y": 95.48,
+    "bx": 514.88,
+    "by": 95.48,
+    "u": {
+      "archers": 513,
+      "cavalry": 133,
+      "infantry": 473
+    },
+    "n": 0,
+    "name": "2nd (Irhermzu) Regiment",
+    "state": 4,
+    "icon": "🏹"
+  },
+  {
+    "i": 2,
+    "a": 930,
+    "cell": 275,
+    "x": 355.9,
+    "y": 107.15,
+    "bx": 355.9,
+    "by": 107.15,
+    "u": {
+      "archers": 372,
+      "cavalry": 234,
+      "infantry": 324
+    },
+    "n": 0,
+    "name": "3rd (Melmas) Regiment",
+    "state": 4,
+    "icon": "🏹"
+  }
+]

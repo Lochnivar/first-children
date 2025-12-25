@@ -1,0 +1,96 @@
+{
+  "i": 14,
+  "color": "#ffa662",
+  "name": "Kailhen",
+  "expansionism": 1.3,
+  "capital": 14,
+  "type": "Generic",
+  "center": 1326,
+  "culture": 11,
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "mullet4",
+        "t": "or",
+        "p": "abcdefgzi",
+        "size": 0.3
+      }
+    ],
+    "shield": "banner"
+  },
+  "pole": [
+    788,
+    243
+  ],
+  "urban": 103.383,
+  "rural": 681.7853806018829,
+  "burgs": 17,
+  "area": 5887,
+  "cells": 90,
+  "neighbors": [
+    4
+  ],
+  "campaigns": [
+    {
+      "name": "Agriman War",
+      "start": 368,
+      "end": 369
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Vassal",
+    "Friendly",
+    "Ally",
+    "Unknown",
+    "Ally",
+    "Ally",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "x",
+    "Neutral",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally"
+  ],
+  "form": "Monarchy",
+  "formName": "Protectorate",
+  "fullName": "Protectorate of Kailhen",
+  "provinces": [
+    78,
+    79,
+    80,
+    81,
+    125
+  ],
+  "alert": 0.1,
+  "military": [
+    {
+      "i": 0,
+      "a": 266,
+      "cell": 2456,
+      "x": 826.1,
+      "y": 333,
+      "bx": 826.1,
+      "by": 333,
+      "u": {
+        "archers": 75,
+        "cavalry": 54,
+        "infantry": 136,
+        "artillery": 1
+      },
+      "n": 0,
+      "name": "1st (Cua) Regiment",
+      "state": 14,
+      "icon": "⚔️"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "i": 0,
+    "a": 186,
+    "cell": 2946,
+    "x": 458.56,
+    "y": 382.37,
+    "bx": 458.56,
+    "by": 382.37,
+    "u": {
+      "cavalry": 93,
+      "archers": 50,
+      "infantry": 42,
+      "artillery": 1
+    },
+    "n": 0,
+    "name": "1st (Dhura) Regiment",
+    "state": 9,
+    "icon": "🐴"
+  }
+]

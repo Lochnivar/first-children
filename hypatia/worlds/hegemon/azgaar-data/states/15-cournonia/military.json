@@ -1,0 +1,126 @@
+[
+  {
+    "i": 0,
+    "a": 3603,
+    "cell": 1041,
+    "x": 1107.59,
+    "y": 192.35,
+    "bx": 1107.59,
+    "by": 192.35,
+    "u": {
+      "archers": 1449,
+      "cavalry": 584,
+      "artillery": 22,
+      "infantry": 1548
+    },
+    "n": 0,
+    "name": "1st (Hauphapia) Regiment",
+    "state": 15,
+    "icon": "⚔️"
+  },
+  {
+    "i": 1,
+    "a": 3207,
+    "cell": 2235,
+    "x": 1253.73,
+    "y": 308.71,
+    "bx": 1253.73,
+    "by": 308.71,
+    "u": {
+      "infantry": 1054,
+      "archers": 681,
+      "cavalry": 1459,
+      "artillery": 13
+    },
+    "n": 0,
+    "name": "2nd (Daranvilter) Regiment",
+    "state": 15,
+    "icon": "🐴"
+  },
+  {
+    "i": 2,
+    "a": 3079,
+    "cell": 1979,
+    "x": 1202.54,
+    "y": 284.11,
+    "bx": 1202.54,
+    "by": 284.11,
+    "u": {
+      "infantry": 1322,
+      "archers": 883,
+      "cavalry": 858,
+      "artillery": 16
+    },
+    "n": 0,
+    "name": "3rd (Lalesia) Regiment",
+    "state": 15,
+    "icon": "⚔️"
+  },
+  {
+    "i": 3,
+    "a": 1227,
+    "cell": 3136,
+    "x": 1074.32,
+    "y": 394.2,
+    "bx": 1074.32,
+    "by": 394.2,
+    "u": {
+      "cavalry": 915,
+      "infantry": 131,
+      "archers": 181
+    },
+    "n": 0,
+    "name": "4th (Kyia) Regiment",
+    "state": 15,
+    "icon": "🐴"
+  },
+  {
+    "i": 4,
+    "a": 3,
+    "cell": 94,
+    "x": 914.19,
+    "y": 73.06,
+    "bx": 914.19,
+    "by": 73.06,
+    "u": {
+      "archers": 2,
+      "infantry": 1
+    },
+    "n": 0,
+    "name": "5th (New Lalesia) Regiment",
+    "state": 15,
+    "icon": "🏹"
+  },
+  {
+    "i": 5,
+    "a": 2,
+    "cell": 1038,
+    "x": 1067.56,
+    "y": 195.3,
+    "bx": 1067.56,
+    "by": 195.3,
+    "u": {
+      "fleet": 2
+    },
+    "n": 1,
+    "name": "1st Fleet",
+    "state": 15,
+    "icon": "🌊"
+  },
+  {
+    "i": 6,
+    "a": 1,
+    "cell": 1153,
+    "x": 1166.48,
+    "y": 194.35,
+    "bx": 1166.48,
+    "by": 194.35,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "2nd Fleet",
+    "state": 15,
+    "icon": "🌊"
+  }
+]

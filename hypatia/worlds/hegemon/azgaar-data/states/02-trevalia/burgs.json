@@ -1,0 +1,689 @@
+[
+  {
+    "cell": 1991,
+    "x": 1283.74,
+    "y": 288.26,
+    "state": 2,
+    "i": 2,
+    "culture": 2,
+    "name": "Autrenay",
+    "feature": 2,
+    "capital": 1,
+    "port": 1,
+    "population": 36.312,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perCross",
+        "t": "gules",
+        "line": "wavy"
+      },
+      "charges": [
+        {
+          "charge": "drakkar",
+          "t": "vert",
+          "p": "e",
+          "t2": "vert",
+          "t3": "vert",
+          "divided": "counter",
+          "size": 1.5
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 1620,
+    "x": 1294.7,
+    "y": 250.7,
+    "state": 2,
+    "i": 33,
+    "culture": 2,
+    "name": "Mongy",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.382,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "ordinaries": [
+        {
+          "ordinary": "pale",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "cock",
+          "t": "sable",
+          "p": "e",
+          "t2": "sable",
+          "t3": "sable",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1746,
+    "x": 1314.1,
+    "y": 261.15,
+    "state": 2,
+    "i": 35,
+    "culture": 2,
+    "name": "Chamille",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 8.261,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perFess",
+        "t": "gules",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "hatchet",
+          "t": "sable",
+          "p": "kn",
+          "t2": "sable",
+          "divided": "counter",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2368,
+    "x": 1318.69,
+    "y": 317.74,
+    "state": 2,
+    "i": 57,
+    "culture": 2,
+    "name": "Corvauvilly",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.73,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "ordinaries": [
+        {
+          "ordinary": "fessDoubleCotissed",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "roundel2",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2503,
+    "x": 1295.99,
+    "y": 334.17,
+    "state": 2,
+    "i": 72,
+    "culture": 2,
+    "name": "Charemigny",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 24.578,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "pall",
+          "t": "purpure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lionRampant",
+          "t": "purpure",
+          "p": "BCKFEILGJbdmfo",
+          "t2": "purpure",
+          "t3": "gules",
+          "size": 0.18
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 1,
+    "temple": 0
+  },
+  {
+    "cell": 1873,
+    "x": 1340.93,
+    "y": 268.6,
+    "state": 2,
+    "i": 79,
+    "culture": 2,
+    "name": "Vignes",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 15.085,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "chevron",
+          "t": "purpure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "pique",
+          "t": "azure",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1862,
+    "x": 1257.26,
+    "y": 276.62,
+    "state": 2,
+    "i": 86,
+    "culture": 2,
+    "name": "Villorrevouil",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 33.038,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "trefoil",
+          "t": "gules",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 1,
+    "temple": 0
+  },
+  {
+    "cell": 1872,
+    "x": 1332.18,
+    "y": 279.46,
+    "state": 2,
+    "i": 98,
+    "culture": 2,
+    "name": "Oines",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 12.647,
+    "type": "Naval",
+    "coa": {
+      "t1": "pally-or-purpure",
+      "division": {
+        "division": "perPale",
+        "t": "azure",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "feather",
+          "t": "sable",
+          "p": "p",
+          "size": 0.7
+        },
+        {
+          "charge": "ramHeadErased",
+          "t": "argent",
+          "p": "q",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2237,
+    "x": 1267.94,
+    "y": 309.05,
+    "state": 2,
+    "i": 106,
+    "culture": 2,
+    "name": "Villes",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 3.42,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "lionPassant",
+          "t": "azure",
+          "p": "jlh",
+          "t2": "azure",
+          "t3": "azure",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2776,
+    "x": 1309.95,
+    "y": 353.13,
+    "state": 2,
+    "i": 132,
+    "culture": 2,
+    "name": "Seichy",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.625,
+    "type": "Generic",
+    "coa": {
+      "t1": "palyBendy-argent-gules",
+      "division": {
+        "division": "perCross",
+        "t": "azure",
+        "line": "straight"
+      },
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1743,
+    "x": 1297.6,
+    "y": 267,
+    "state": 2,
+    "i": 135,
+    "culture": 2,
+    "name": "Saberesse",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.457,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "ordinaries": [
+        {
+          "ordinary": "bendlet",
+          "t": "or",
+          "line": "nowy"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "eagle",
+          "t": "gules",
+          "p": "joe",
+          "t2": "gules",
+          "t3": "gules",
+          "size": 0.3
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2116,
+    "x": 1341.84,
+    "y": 296.3,
+    "state": 2,
+    "i": 142,
+    "culture": 2,
+    "name": "Beresmorete",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 20.753,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "anchor",
+          "t": "sable",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2109,
+    "x": 1273.23,
+    "y": 288.2,
+    "state": 2,
+    "i": 157,
+    "culture": 2,
+    "name": "Vigny",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 16.831,
+    "type": "Naval",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "bendSinister",
+          "t": "argent",
+          "line": "dragonTeeth"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crossHummetty",
+          "t": "purpure",
+          "p": "e",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1750,
+    "x": 1329.56,
+    "y": 263.56,
+    "state": 2,
+    "i": 244,
+    "culture": 2,
+    "name": "Chadongy",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 7.138,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "bullHeadCaboshed",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2241,
+    "x": 1324.05,
+    "y": 304.41,
+    "state": 2,
+    "i": 360,
+    "culture": 2,
+    "name": "Fleuzoyersson",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.741,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "lionPassant",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2373,
+    "x": 1366.92,
+    "y": 317.69,
+    "state": 2,
+    "i": 371,
+    "culture": 2,
+    "name": "Vigne",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 7.285,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perCross",
+        "t": "vert",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "bordure",
+          "t": "azure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "horseshoe",
+          "t": "argent",
+          "p": "ABCDEFGHIJKL",
+          "size": 0.18
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2372,
+    "x": 1358.46,
+    "y": 311.81,
+    "state": 2,
+    "i": 380,
+    "culture": 2,
+    "name": "Coullongy",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 11.929,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perCross",
+        "t": "azure",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "saltire",
+          "t": "gules",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lizard",
+          "t": "or",
+          "p": "e",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2648,
+    "x": 1353.52,
+    "y": 343.25,
+    "state": 2,
+    "i": 387,
+    "culture": 2,
+    "name": "Charierolle",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 6.092,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "pillar",
+          "t": "argent",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2113,
+    "x": 1308.24,
+    "y": 301.11,
+    "state": 2,
+    "i": 435,
+    "culture": 2,
+    "name": "Bridy",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 11.506,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "lionHeadCaboshed",
+          "t": "azure",
+          "p": "jln",
+          "t2": "vert",
+          "size": 0.7
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  }
+]

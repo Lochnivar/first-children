@@ -1,0 +1,14 @@
+{
+  "name": "Romian",
+  "base": 8,
+  "shield": "roman",
+  "center": 3183,
+  "i": 7,
+  "color": "#80b1d3",
+  "type": "Generic",
+  "expansionism": 1.6,
+  "origins": [
+    0
+  ],
+  "code": "Ro"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Yaroslav",
+  "base": 9,
+  "shield": "pavise",
+  "center": 4443,
+  "i": 10,
+  "color": "#fccde5",
+  "type": "Nomadic",
+  "expansionism": 2.3,
+  "origins": [
+    0
+  ],
+  "code": "So"
+}

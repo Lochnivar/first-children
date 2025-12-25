@@ -1,0 +1,14 @@
+{
+  "name": "Khanhthien",
+  "base": 29,
+  "shield": "banner",
+  "center": 1469,
+  "i": 11,
+  "color": "#b3de69",
+  "type": "Generic",
+  "expansionism": 2.3,
+  "origins": [
+    0
+  ],
+  "code": "Vi"
+}

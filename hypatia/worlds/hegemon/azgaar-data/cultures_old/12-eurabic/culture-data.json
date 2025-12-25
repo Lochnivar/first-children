@@ -1,0 +1,14 @@
+{
+  "name": "Eurabic",
+  "base": 18,
+  "shield": "round",
+  "center": 3344,
+  "i": 12,
+  "color": "#eb8de7",
+  "type": "Nomadic",
+  "expansionism": 3,
+  "origins": [
+    0
+  ],
+  "code": "Eu"
+}

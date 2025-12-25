@@ -1,0 +1,300 @@
+[
+  {
+    "cell": 4607,
+    "x": 1033.31,
+    "y": 525.73,
+    "state": 3,
+    "i": 3,
+    "culture": 9,
+    "name": "Winehowen",
+    "feature": 2,
+    "capital": 1,
+    "port": 1,
+    "population": 3.686,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perSaltire",
+        "t": "azure"
+      },
+      "charges": [
+        {
+          "charge": "plaice",
+          "t": "gules",
+          "p": "ABCDEFGHIJKL",
+          "t2": "vert",
+          "divided": "counter",
+          "size": 0.18
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4861,
+    "x": 1054.67,
+    "y": 552.14,
+    "state": 3,
+    "i": 24,
+    "culture": 9,
+    "name": "Witfordmin",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.701,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "heart",
+          "t": "vert",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4864,
+    "x": 1074.37,
+    "y": 552.7,
+    "state": 3,
+    "i": 45,
+    "culture": 9,
+    "name": "Bosbumeham",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 2.425,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "lozengeFaceted",
+          "t": "azure",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5000,
+    "x": 1093.53,
+    "y": 558.36,
+    "state": 3,
+    "i": 164,
+    "culture": 9,
+    "name": "Skiplewesle",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 8.59,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "canton",
+          "t": "azure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "portcullis",
+          "t": "azure",
+          "p": "beh",
+          "t2": "gules",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5268,
+    "x": 1040.95,
+    "y": 588.68,
+    "state": 3,
+    "i": 197,
+    "culture": 9,
+    "name": "Pilney",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 14.195,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "fess",
+          "t": "vert",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "bookClosed",
+          "t": "argent",
+          "p": "def",
+          "t2": "purpure",
+          "t3": "gules",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5137,
+    "x": 1094.4,
+    "y": 581.04,
+    "state": 3,
+    "i": 241,
+    "culture": 9,
+    "name": "Shomyard",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 2.752,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perFess",
+        "t": "gules",
+        "line": "dovetailedIndented"
+      },
+      "charges": [
+        {
+          "charge": "sunInSplendour2",
+          "t": "sable",
+          "p": "k",
+          "size": 0.7
+        },
+        {
+          "charge": "triangle",
+          "t": "argent",
+          "p": "n",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4483,
+    "x": 1053.07,
+    "y": 517.11,
+    "state": 3,
+    "i": 251,
+    "culture": 4,
+    "name": "Sedin",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 9.007,
+    "type": "Generic",
+    "coa": {
+      "t1": "sable",
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "argent",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "eagleTwoHeads",
+          "t": "sable",
+          "p": "behdf",
+          "t2": "sable",
+          "t3": "argent",
+          "size": 0.3
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5280,
+    "x": 1171.98,
+    "y": 585.75,
+    "state": 3,
+    "i": 280,
+    "culture": 9,
+    "name": "Braswestre",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 10.191,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "pale",
+          "t": "gules",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "sabre",
+          "t": "or",
+          "p": "beh",
+          "t2": "gules",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  }
+]

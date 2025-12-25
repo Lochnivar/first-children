@@ -1,0 +1,14 @@
+{
+  "name": "Berberan",
+  "base": 17,
+  "shield": "round",
+  "center": 865,
+  "i": 1,
+  "color": "#ccebc5",
+  "type": "Hunting",
+  "expansionism": 1.6,
+  "origins": [
+    0
+  ],
+  "code": "Be"
+}

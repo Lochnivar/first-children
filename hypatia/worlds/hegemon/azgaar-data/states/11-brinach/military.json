@@ -1,0 +1,107 @@
+[
+  {
+    "i": 0,
+    "a": 1470,
+    "cell": 2918,
+    "x": 1462.7,
+    "y": 375.3,
+    "bx": 1462.7,
+    "by": 375.3,
+    "u": {
+      "archers": 708,
+      "cavalry": 122,
+      "infantry": 628,
+      "artillery": 12
+    },
+    "n": 0,
+    "name": "1st (Brinach) Regiment",
+    "state": 11,
+    "icon": "🏹"
+  },
+  {
+    "i": 1,
+    "a": 887,
+    "cell": 2126,
+    "x": 1404.9,
+    "y": 300.7,
+    "bx": 1404.9,
+    "by": 300.7,
+    "u": {
+      "archers": 460,
+      "cavalry": 49,
+      "artillery": 6,
+      "infantry": 372
+    },
+    "n": 0,
+    "name": "2nd (Breilerbach) Regiment",
+    "state": 11,
+    "icon": "🏹"
+  },
+  {
+    "i": 2,
+    "a": 393,
+    "cell": 5175,
+    "x": 1448,
+    "y": 575.8,
+    "bx": 1448,
+    "by": 575.8,
+    "u": {
+      "archers": 205,
+      "cavalry": 23,
+      "infantry": 163,
+      "artillery": 2
+    },
+    "n": 0,
+    "name": "3rd (Birbach) Regiment",
+    "state": 11,
+    "icon": "🏹"
+  },
+  {
+    "i": 3,
+    "a": 1,
+    "cell": 3445,
+    "x": 1436.55,
+    "y": 408.75,
+    "bx": 1436.55,
+    "by": 408.75,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "1st Fleet",
+    "state": 11,
+    "icon": "🌊"
+  },
+  {
+    "i": 4,
+    "a": 1,
+    "cell": 5175,
+    "x": 1444.64,
+    "y": 563.88,
+    "bx": 1444.64,
+    "by": 563.88,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "2nd Fleet",
+    "state": 11,
+    "icon": "🌊"
+  },
+  {
+    "i": 5,
+    "a": 1,
+    "cell": 1268,
+    "x": 1465.66,
+    "y": 211.54,
+    "bx": 1465.66,
+    "by": 211.54,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "3rd Fleet",
+    "state": 11,
+    "icon": "🌊"
+  }
+]

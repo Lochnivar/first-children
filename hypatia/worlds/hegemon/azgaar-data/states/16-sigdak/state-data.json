@@ -1,0 +1,122 @@
+{
+  "i": 16,
+  "color": "#b1ce73",
+  "name": "Sigdak",
+  "expansionism": 2.5,
+  "capital": 16,
+  "type": "Generic",
+  "center": 3694,
+  "culture": 3,
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "billet",
+        "t": "or",
+        "p": "acgi",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    284,
+    464
+  ],
+  "urban": 224.526,
+  "rural": 1391.7614274024963,
+  "burgs": 25,
+  "area": 13508,
+  "cells": 132,
+  "neighbors": [
+    4,
+    6,
+    20,
+    1
+  ],
+  "campaigns": [
+    {
+      "name": "Laudark War",
+      "start": 101,
+      "end": 102
+    },
+    {
+      "name": "Agriman Invasion",
+      "start": 240,
+      "end": 242
+    },
+    {
+      "name": "Jarklaus Invasion",
+      "start": 241,
+      "end": 243
+    },
+    {
+      "name": "Siyafaran War",
+      "start": 280,
+      "end": 285
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Vassal",
+    "Friendly",
+    "Ally",
+    "Unknown",
+    "Ally",
+    "Ally",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally",
+    "Neutral",
+    "x",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally"
+  ],
+  "form": "Monarchy",
+  "formName": "Protectorate",
+  "fullName": "Protectorate of Sigdak",
+  "provinces": [
+    95,
+    96,
+    97,
+    98,
+    99,
+    129
+  ],
+  "alert": 0.1,
+  "military": [
+    {
+      "i": 0,
+      "a": 671,
+      "cell": 4289,
+      "x": 275,
+      "y": 510.1,
+      "bx": 275,
+      "by": 510.1,
+      "u": {
+        "archers": 253,
+        "artillery": 4,
+        "infantry": 289,
+        "cavalry": 125
+      },
+      "n": 0,
+      "name": "1st (Godoykir) Regiment",
+      "state": 16,
+      "icon": "⚔️"
+    }
+  ]
+}

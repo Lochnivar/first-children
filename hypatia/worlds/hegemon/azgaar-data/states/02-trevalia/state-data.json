@@ -1,0 +1,148 @@
+{
+  "i": 2,
+  "color": "#fc8d62",
+  "name": "Trevalia",
+  "expansionism": 2.2,
+  "capital": 2,
+  "type": "Generic",
+  "center": 1991,
+  "culture": 2,
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "eagle",
+        "t": "argent",
+        "p": "beh",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    1301,
+    325
+  ],
+  "urban": 222.80999999999997,
+  "rural": 1079.6801797151566,
+  "burgs": 19,
+  "area": 10967,
+  "cells": 102,
+  "neighbors": [
+    15,
+    11,
+    7
+  ],
+  "campaigns": [
+    {
+      "name": "Brinachian War",
+      "start": 353,
+      "end": 354
+    },
+    {
+      "name": "Cournonian War",
+      "start": 368,
+      "end": 373
+    },
+    {
+      "name": "Ervoy War",
+      "start": 368,
+      "end": 370
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "x",
+    "Ally",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "Neutral",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Ally",
+    "Neutral",
+    "Ally",
+    "Friendly",
+    "Neutral",
+    "Neutral"
+  ],
+  "form": "Monarchy",
+  "formName": "Grand Duchy",
+  "fullName": "Grand Duchy of Trevalia",
+  "provinces": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "alert": 0.42,
+  "military": [
+    {
+      "i": 0,
+      "a": 2639,
+      "cell": 1991,
+      "x": 1288.3,
+      "y": 293.2,
+      "bx": 1288.3,
+      "by": 293.2,
+      "u": {
+        "archers": 971,
+        "cavalry": 453,
+        "artillery": 28,
+        "infantry": 1187
+      },
+      "n": 0,
+      "name": "1st (Autrenay) Regiment",
+      "state": 2,
+      "icon": "👑"
+    },
+    {
+      "i": 1,
+      "a": 6,
+      "cell": 1991,
+      "x": 1279.43,
+      "y": 284.45,
+      "bx": 1279.43,
+      "by": 284.45,
+      "u": {
+        "fleet": 6
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 2,
+      "icon": "🌊"
+    },
+    {
+      "i": 2,
+      "a": 3,
+      "cell": 2372,
+      "x": 1363.14,
+      "y": 307.97,
+      "bx": 1363.14,
+      "by": 307.97,
+      "u": {
+        "fleet": 3
+      },
+      "n": 1,
+      "name": "2nd Fleet",
+      "state": 2,
+      "icon": "🌊"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "i": 0,
+    "a": 521,
+    "cell": 3483,
+    "x": 468.4,
+    "y": 422.98,
+    "bx": 468.4,
+    "by": 422.98,
+    "u": {
+      "cavalry": 498,
+      "archers": 15,
+      "infantry": 8
+    },
+    "n": 0,
+    "name": "1st (Al Nafia) Regiment",
+    "state": 6,
+    "icon": "🐴"
+  }
+]

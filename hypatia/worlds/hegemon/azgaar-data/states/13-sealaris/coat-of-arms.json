@@ -1,0 +1,12 @@
+{
+  "t1": "gules",
+  "charges": [
+    {
+      "charge": "inescutcheon",
+      "t": "or",
+      "p": "abcpqh",
+      "size": 0.5
+    }
+  ],
+  "shield": "heater"
+}

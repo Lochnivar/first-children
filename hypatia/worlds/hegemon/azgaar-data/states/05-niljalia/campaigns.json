@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Palvilan Invasion",
+    "start": 60,
+    "end": 63
+  },
+  {
+    "name": "Siyafar Conflict",
+    "start": 98,
+    "end": 100
+  },
+  {
+    "name": "Jarklaus Intervention",
+    "start": 182,
+    "end": 189
+  },
+  {
+    "name": "Hinivian Intervention",
+    "start": 345,
+    "end": 347
+  },
+  {
+    "name": "Shibahan Rebellion",
+    "start": 368,
+    "end": 372
+  },
+  {
+    "name": "Kutiotanian Campaign",
+    "start": 368,
+    "end": 373
+  },
+  {
+    "name": "Niljalia-Kutiotanian War",
+    "start": 370,
+    "attacker": 5,
+    "defender": 12
+  }
+]

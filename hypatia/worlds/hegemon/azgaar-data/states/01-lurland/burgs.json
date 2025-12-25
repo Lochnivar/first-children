@@ -1,0 +1,246 @@
+[
+  {
+    "cell": 4403,
+    "x": 218.17,
+    "y": 516.21,
+    "state": 1,
+    "i": 1,
+    "culture": 3,
+    "name": "Djugardi",
+    "feature": 3,
+    "capital": 1,
+    "port": 1,
+    "population": 12.265,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "fess",
+          "t": "purpure",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "moonInCrescent",
+          "t": "argent",
+          "p": "e",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4529,
+    "x": 231.7,
+    "y": 530.8,
+    "state": 1,
+    "i": 146,
+    "culture": 3,
+    "name": "Klakkjah",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 13.525,
+    "type": "Lake",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "chevron",
+          "t": "purpure"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "plough",
+          "t": "argent",
+          "p": "ach",
+          "t2": "argent",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5050,
+    "x": 172.15,
+    "y": 568.27,
+    "state": 1,
+    "i": 210,
+    "culture": 3,
+    "name": "Skonvi",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 1.373,
+    "type": "Naval",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "orle",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "boat",
+          "t": "or",
+          "p": "jleh",
+          "t2": "argent",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4913,
+    "x": 187.99,
+    "y": 563.81,
+    "state": 1,
+    "i": 279,
+    "culture": 3,
+    "name": "Grytnes",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 3.331,
+    "type": "River",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "pale",
+          "t": "azure",
+          "line": "bevilled"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "raft",
+          "t": "or",
+          "p": "e",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5320,
+    "x": 157.22,
+    "y": 602.28,
+    "state": 1,
+    "i": 354,
+    "culture": 3,
+    "name": "Slevelsvik",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 0.824,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "division": {
+        "division": "perCross",
+        "t": "azure",
+        "line": "wavy"
+      },
+      "charges": [
+        {
+          "charge": "escallop",
+          "t": "vert",
+          "p": "j",
+          "size": 0.6
+        },
+        {
+          "charge": "spiral",
+          "t": "argent",
+          "p": "l",
+          "size": 0.6
+        },
+        {
+          "charge": "boarHeadErased",
+          "t": "or",
+          "p": "m",
+          "size": 0.6
+        },
+        {
+          "charge": "roundel2",
+          "t": "azure",
+          "p": "o",
+          "size": 0.6
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4653,
+    "x": 213.37,
+    "y": 535.83,
+    "state": 1,
+    "i": 483,
+    "culture": 3,
+    "name": "Morviteset",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.747,
+    "type": "Generic",
+    "coa": {
+      "t1": "bendy-vert-argent",
+      "ordinaries": [
+        {
+          "ordinary": "terrace",
+          "t": "or",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lizard",
+          "t": "or",
+          "p": "def",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

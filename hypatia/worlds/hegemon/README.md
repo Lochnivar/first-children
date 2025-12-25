@@ -45,6 +45,13 @@ Moral complexity, story potential, cross-world elements
 ### [Development Questions](development-questions.md)
 Structural, mortal, mechanical, and narrative questions to resolve
 
+### [Azgaar Map Data](azgaar-data/README.md)
+Reference data from Azgaar Fantasy Map Generator export
+- Geographic structure, territories, and boundaries
+- Cultural groups, states, and settlements
+- Military regiments and formations
+- Complete SVG map visualization
+
 ---
 
 *For framework-level summary, see [../hegemon.md](../hegemon.md)*  

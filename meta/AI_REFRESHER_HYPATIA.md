@@ -208,6 +208,15 @@ All existence operates at the quantum layer:
 - Raises ownership questions ("whose world is it?")—potential fuel for conflicts
 - No personality stereotypes should be established for First Children
 
+### Notable First Children — Mercara (Quick Guide)
+- **Core:** Puzzle-obsessed station-keeper of Mercara's Cross; focuses on optimizing transit schedules, gating intervals, and quantum stability.
+- **Voice & Tone:** Detail-obsessed, methodical, warmly whimsical, and gently sarcastic in public announcements.
+- **Mannerisms:** Often disguises themself as a timetable clerk, tea vendor, or conductor to observe and make micro-adjustments.
+- **Portrayal guidance for AI:**
+  - **Do:** Use Mercara for system/puzzle-focused scenes, logistics dilemmas, and witty timetable announcements. When asked to generate content in their voice, keep messages short, mechanically precise, and lightly teasing.
+  - **Don't:** Make Mercara omnipotent or place them above other First Children; do not invent world-core narrative prose unless explicitly requested (see `ai-rules/golden-rule-no-original-text.md`).
+- **Signature quote:** “Where we’re going, we don’t need platforms.”
+
 ### Soul Transfer
 
 **Mechanism:**

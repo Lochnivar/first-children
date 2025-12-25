@@ -1,0 +1,19 @@
+{
+  "t1": "gules",
+  "ordinaries": [
+    {
+      "ordinary": "cross",
+      "t": "or",
+      "line": "straight"
+    }
+  ],
+  "charges": [
+    {
+      "charge": "billet",
+      "t": "or",
+      "p": "acgi",
+      "size": 0.5
+    }
+  ],
+  "shield": "heater"
+}

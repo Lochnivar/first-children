@@ -1,0 +1,21 @@
+[
+  {
+    "i": 0,
+    "a": 671,
+    "cell": 4289,
+    "x": 275,
+    "y": 510.1,
+    "bx": 275,
+    "by": 510.1,
+    "u": {
+      "archers": 253,
+      "artillery": 4,
+      "infantry": 289,
+      "cavalry": 125
+    },
+    "n": 0,
+    "name": "1st (Godoykir) Regiment",
+    "state": 16,
+    "icon": "⚔️"
+  }
+]

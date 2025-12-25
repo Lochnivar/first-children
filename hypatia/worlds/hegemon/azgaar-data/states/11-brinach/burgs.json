@@ -1,0 +1,720 @@
+[
+  {
+    "cell": 3445,
+    "x": 1441.26,
+    "y": 409.06,
+    "state": 11,
+    "i": 11,
+    "culture": 6,
+    "name": "Brinach",
+    "feature": 2,
+    "capital": 1,
+    "port": 1,
+    "population": 15.93,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "escallop",
+          "t": "gules",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5175,
+    "x": 1448.95,
+    "y": 568.87,
+    "state": 11,
+    "i": 28,
+    "culture": 6,
+    "name": "Birbach",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 20.351,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "elephantHeadErased",
+          "t": "purpure",
+          "p": "e",
+          "t2": "purpure",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 4902,
+    "x": 1462.35,
+    "y": 553.1,
+    "state": 11,
+    "i": 46,
+    "culture": 6,
+    "name": "Vilburge",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.529,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "lionHeadErased",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3795,
+    "x": 1459.26,
+    "y": 447.79,
+    "state": 11,
+    "i": 63,
+    "culture": 6,
+    "name": "Gernstein",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 4.271,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "division": {
+        "division": "perBend",
+        "t": "or",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "pineCone",
+          "t": "argent",
+          "p": "lm",
+          "divided": "counter",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3570,
+    "x": 1445.01,
+    "y": 427.33,
+    "state": 11,
+    "i": 76,
+    "culture": 6,
+    "name": "Blumberg",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 2.454,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "bendSinister",
+          "t": "gules",
+          "line": "invecked"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "armillarySphere",
+          "t": "argent",
+          "p": "lem",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3168,
+    "x": 1412.18,
+    "y": 395.39,
+    "state": 11,
+    "i": 109,
+    "culture": 6,
+    "name": "Inzheim",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 5.856,
+    "type": "Naval",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "windmill",
+          "t": "sable",
+          "p": "jln",
+          "t2": "sable",
+          "t3": "gules",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4519,
+    "x": 1476.71,
+    "y": 525.97,
+    "state": 11,
+    "i": 115,
+    "culture": 6,
+    "name": "Achernau",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 2.347,
+    "type": "Naval",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perCross",
+        "t": "argent",
+        "line": "potentyDexter"
+      },
+      "charges": [
+        {
+          "charge": "crossedBones",
+          "t": "or",
+          "p": "e",
+          "divided": "counter",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2914,
+    "x": 1444.27,
+    "y": 370.91,
+    "state": 11,
+    "i": 143,
+    "culture": 6,
+    "name": "Schofen",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 8.629,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "rhinoceros",
+          "t": "azure",
+          "p": "e",
+          "t2": "azure",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4514,
+    "x": 1451.86,
+    "y": 512.5,
+    "state": 11,
+    "i": 184,
+    "culture": 6,
+    "name": "Sasbach",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.619,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perChevronReversed",
+        "t": "argent",
+        "line": "wavy"
+      },
+      "charges": [
+        {
+          "charge": "castle",
+          "t": "or",
+          "p": "mok",
+          "t2": "or",
+          "divided": "counter",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3173,
+    "x": 1448.3,
+    "y": 394.6,
+    "state": 11,
+    "i": 189,
+    "culture": 6,
+    "name": "Vogtsbach",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 14.184,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "hook",
+          "t": "purpure",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2126,
+    "x": 1404.9,
+    "y": 300.7,
+    "state": 11,
+    "i": 193,
+    "culture": 6,
+    "name": "Breilerbach",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 20.93,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "division": {
+        "division": "perChevron",
+        "t": "argent",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "mount",
+          "t": "or"
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 1
+  },
+  {
+    "cell": 3312,
+    "x": 1465.78,
+    "y": 398.01,
+    "state": 11,
+    "i": 195,
+    "culture": 6,
+    "name": "Achernach",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 2.404,
+    "type": "Naval",
+    "coa": {
+      "t1": "vert",
+      "charges": [
+        {
+          "charge": "martenCourant",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3174,
+    "x": 1454.56,
+    "y": 385.55,
+    "state": 11,
+    "i": 200,
+    "culture": 6,
+    "name": "Hasberg",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.514,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "ordinaries": [
+        {
+          "ordinary": "gemelle",
+          "t": "sable",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crossClechy",
+          "t": "sable",
+          "p": "abc",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4644,
+    "x": 1459.55,
+    "y": 530.17,
+    "state": 11,
+    "i": 222,
+    "culture": 6,
+    "name": "Enalbrand",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.585,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "angel",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3909,
+    "x": 1464.85,
+    "y": 463.66,
+    "state": 11,
+    "i": 249,
+    "culture": 6,
+    "name": "Tinauried",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 8.205,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "hourglass",
+          "t": "gules",
+          "p": "jeo",
+          "t2": "gules",
+          "t3": "gules",
+          "size": 0.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 1268,
+    "x": 1467.95,
+    "y": 214.22,
+    "state": 11,
+    "i": 258,
+    "culture": 6,
+    "name": "Tiegenheim",
+    "capital": 0,
+    "feature": 2,
+    "port": 1,
+    "population": 16.115,
+    "type": "Naval",
+    "coa": {
+      "t1": "vert",
+      "charges": [
+        {
+          "charge": "lionHeadErased",
+          "t": "argent",
+          "p": "jln",
+          "t2": "argent",
+          "size": 0.7
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2511,
+    "x": 1393.64,
+    "y": 334.49,
+    "state": 11,
+    "i": 272,
+    "culture": 2,
+    "name": "Charbeilly",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 9.447,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "wheatStalk",
+          "t": "purpure",
+          "p": "e",
+          "t2": "purpure",
+          "size": 1.5
+        }
+      ],
+      "shield": "oldFrench"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2514,
+    "x": 1419.07,
+    "y": 327.75,
+    "state": 11,
+    "i": 273,
+    "culture": 6,
+    "name": "Onengen",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.522,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "scale",
+          "t": "purpure",
+          "p": "e",
+          "t2": "purpure",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2913,
+    "x": 1435.26,
+    "y": 365.16,
+    "state": 11,
+    "i": 302,
+    "culture": 6,
+    "name": "Fischach",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.539,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "cock",
+          "t": "sable",
+          "p": "e",
+          "t2": "sable",
+          "t3": "vert",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2911,
+    "x": 1414.29,
+    "y": 370.57,
+    "state": 11,
+    "i": 475,
+    "culture": 6,
+    "name": "Haselden",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.592,
+    "type": "Generic",
+    "coa": {
+      "t1": "vert",
+      "ordinaries": [
+        {
+          "ordinary": "canton",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "lionHeadErased",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3030,
+    "x": 1398.13,
+    "y": 373.31,
+    "state": 11,
+    "i": 477,
+    "culture": 6,
+    "name": "Elzheim",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 15.503,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "bendlet",
+          "t": "purpure",
+          "line": "indented"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "arbalest",
+          "t": "or",
+          "p": "joe",
+          "t2": "gules",
+          "t3": "sable",
+          "size": 0.3
+        }
+      ],
+      "shield": "hessen"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  }
+]

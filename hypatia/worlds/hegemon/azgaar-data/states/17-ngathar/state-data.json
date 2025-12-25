@@ -1,0 +1,106 @@
+{
+  "i": 17,
+  "color": "#c8cf6d",
+  "name": "Ngathar",
+  "expansionism": 1.1,
+  "capital": 17,
+  "type": "Generic",
+  "center": 1729,
+  "culture": 11,
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "lozenge",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "banner"
+  },
+  "pole": [
+    1172,
+    262
+  ],
+  "urban": 2.962,
+  "rural": 20.383036613464355,
+  "burgs": 1,
+  "area": 130,
+  "cells": 2,
+  "neighbors": [
+    15
+  ],
+  "campaigns": [
+    {
+      "name": "Ha Ban Sonese Conflict",
+      "start": 25,
+      "end": 26
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Ally",
+    "Friendly",
+    "Neutral",
+    "Ally",
+    "Neutral",
+    "Rival",
+    "Neutral",
+    "Neutral",
+    "Rival",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Vassal",
+    "Neutral",
+    "x",
+    "Rival",
+    "Neutral",
+    "Ally"
+  ],
+  "form": "Monarchy",
+  "formName": "Duchy",
+  "fullName": "Duchy of Ngathar",
+  "provinces": [],
+  "alert": 0.96,
+  "military": [
+    {
+      "i": 0,
+      "a": 112,
+      "cell": 1728,
+      "x": 1170.2,
+      "y": 260.91,
+      "bx": 1170.2,
+      "by": 260.91,
+      "u": {
+        "archers": 58,
+        "cavalry": 7,
+        "infantry": 46,
+        "artillery": 1
+      },
+      "n": 0,
+      "name": "1st Regiment",
+      "state": 17,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 1,
+      "cell": 1729,
+      "x": 1181.1,
+      "y": 256.7,
+      "bx": 1181.1,
+      "by": 256.7,
+      "u": {
+        "fleet": 1
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 17,
+      "icon": "🌊"
+    }
+  ]
+}

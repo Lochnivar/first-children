@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Niljalian War",
+    "start": 137,
+    "end": 139
+  },
+  {
+    "name": "Sealian War",
+    "start": 150,
+    "end": 151
+  },
+  {
+    "name": "Halosan War",
+    "start": 157,
+    "end": 159
+  },
+  {
+    "name": "Rutarakian Rebellion",
+    "start": 240,
+    "end": 241
+  },
+  {
+    "name": "Niljalia-Kutiotanian War",
+    "start": 370,
+    "attacker": 5,
+    "defender": 12
+  }
+]

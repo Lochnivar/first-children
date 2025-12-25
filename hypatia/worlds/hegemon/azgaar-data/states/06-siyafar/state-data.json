@@ -1,0 +1,118 @@
+{
+  "i": 6,
+  "color": "#ffd92f",
+  "name": "Siyafar",
+  "expansionism": 3.3,
+  "capital": 6,
+  "type": "Nomadic",
+  "center": 3943,
+  "culture": 12,
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "buckle",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "round"
+  },
+  "pole": [
+    423,
+    433
+  ],
+  "urban": 87.213,
+  "rural": 825.6185865998268,
+  "burgs": 19,
+  "area": 24336,
+  "cells": 198,
+  "neighbors": [
+    4,
+    16,
+    9,
+    5,
+    20
+  ],
+  "campaigns": [
+    {
+      "name": "Agriman Conflict",
+      "start": 156,
+      "end": 158
+    },
+    {
+      "name": "Shibahan War",
+      "start": 170,
+      "end": 175
+    },
+    {
+      "name": "Jarklaus Invasion",
+      "start": 250,
+      "end": 255
+    },
+    {
+      "name": "Niljalian War",
+      "start": 254,
+      "end": 259
+    },
+    {
+      "name": "Suraqah War",
+      "start": 299,
+      "end": 306
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Vassal",
+    "Friendly",
+    "x",
+    "Unknown",
+    "Ally",
+    "Ally",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally",
+    "Neutral",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally"
+  ],
+  "form": "Monarchy",
+  "formName": "Kingdom",
+  "fullName": "Kingdom of Siyafar",
+  "provinces": [
+    33,
+    34,
+    35,
+    36
+  ],
+  "alert": 0.1,
+  "military": [
+    {
+      "i": 0,
+      "a": 521,
+      "cell": 3483,
+      "x": 468.4,
+      "y": 422.98,
+      "bx": 468.4,
+      "by": 422.98,
+      "u": {
+        "cavalry": 498,
+        "archers": 15,
+        "infantry": 8
+      },
+      "n": 0,
+      "name": "1st (Al Nafia) Regiment",
+      "state": 6,
+      "icon": "🐴"
+    }
+  ]
+}

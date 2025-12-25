@@ -1,0 +1,133 @@
+[
+  {
+    "cell": 4988,
+    "x": 971.75,
+    "y": 564.57,
+    "state": 13,
+    "i": 13,
+    "culture": 9,
+    "name": "Grantford",
+    "feature": 2,
+    "capital": 1,
+    "port": 1,
+    "population": 3.398,
+    "type": "Naval",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "bearRampant",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4726,
+    "x": 978.41,
+    "y": 543.86,
+    "state": 13,
+    "i": 54,
+    "culture": 9,
+    "name": "Baltashethe",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 5.83,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "scrollClosed",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 6239,
+    "x": 1032.31,
+    "y": 681.72,
+    "state": 13,
+    "i": 440,
+    "culture": 9,
+    "name": "Asingston",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 4.364,
+    "type": "Hunting",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "dragonPassant",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 5529,
+    "x": 962,
+    "y": 613.3,
+    "state": 13,
+    "i": 466,
+    "culture": 9,
+    "name": "Chipsealis",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 4.589,
+    "type": "Hunting",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "grapeBunch2",
+          "t": "argent",
+          "p": "abc",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 0.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

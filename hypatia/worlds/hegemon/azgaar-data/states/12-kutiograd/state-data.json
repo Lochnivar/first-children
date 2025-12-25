@@ -1,0 +1,201 @@
+{
+  "i": 12,
+  "color": "#fad153",
+  "name": "Kutiograd",
+  "expansionism": 1.9,
+  "capital": 12,
+  "type": "Nomadic",
+  "center": 4716,
+  "culture": 10,
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "terrace",
+        "t": "sable",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "ramHeadErased",
+        "t": "vert",
+        "p": "def",
+        "t2": "azure",
+        "t3": "sable",
+        "size": 0.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    801,
+    605
+  ],
+  "urban": 131.47,
+  "rural": 1313.7363187372684,
+  "burgs": 14,
+  "area": 38670,
+  "cells": 300,
+  "neighbors": [
+    19,
+    5,
+    13,
+    0
+  ],
+  "campaigns": [
+    {
+      "name": "Niljalian War",
+      "start": 137,
+      "end": 139
+    },
+    {
+      "name": "Sealian War",
+      "start": 150,
+      "end": 151
+    },
+    {
+      "name": "Halosan War",
+      "start": 157,
+      "end": 159
+    },
+    {
+      "name": "Rutarakian Rebellion",
+      "start": 240,
+      "end": 241
+    },
+    {
+      "name": "Niljalia-Kutiotanian War",
+      "start": 370,
+      "attacker": 5,
+      "defender": 12
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Enemy",
+    "Unknown",
+    "Suspicion",
+    "Unknown",
+    "Unknown",
+    "Neutral",
+    "Friendly",
+    "x",
+    "Suzerain",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Suzerain",
+    "Ally"
+  ],
+  "form": "Theocracy",
+  "formName": "Theocracy",
+  "fullName": "Kutiograd Theocracy",
+  "provinces": [
+    73,
+    74,
+    75,
+    122
+  ],
+  "alert": 1.35,
+  "military": [
+    {
+      "i": 0,
+      "a": 3248,
+      "cell": 4842,
+      "x": 876.66,
+      "y": 554.81,
+      "bx": 876.66,
+      "by": 554.81,
+      "u": {
+        "cavalry": 2173,
+        "artillery": 4,
+        "infantry": 393,
+        "archers": 678
+      },
+      "n": 0,
+      "name": "1st (Toti) Regiment",
+      "state": 12,
+      "icon": "🐴"
+    },
+    {
+      "i": 1,
+      "a": 3133,
+      "cell": 4707,
+      "x": 787.4,
+      "y": 538.43,
+      "bx": 787.4,
+      "by": 538.43,
+      "u": {
+        "cavalry": 2602,
+        "infantry": 207,
+        "archers": 320,
+        "artillery": 4
+      },
+      "n": 0,
+      "name": "2nd (Kaskog) Regiment",
+      "state": 12,
+      "icon": "🐴"
+    },
+    {
+      "i": 2,
+      "a": 2834,
+      "cell": 4348,
+      "x": 857.5,
+      "y": 505.1,
+      "bx": 857.5,
+      "by": 505.1,
+      "u": {
+        "archers": 661,
+        "artillery": 29,
+        "infantry": 593,
+        "cavalry": 1551
+      },
+      "n": 0,
+      "name": "3rd (Kaskog) Regiment",
+      "state": 12,
+      "icon": "🐴"
+    },
+    {
+      "i": 3,
+      "a": 1963,
+      "cell": 5107,
+      "x": 806.36,
+      "y": 575.14,
+      "bx": 806.36,
+      "by": 575.14,
+      "u": {
+        "cavalry": 1349,
+        "infantry": 196,
+        "archers": 417,
+        "artillery": 1
+      },
+      "n": 0,
+      "name": "4th (Toti) Regiment",
+      "state": 12,
+      "icon": "🐴"
+    },
+    {
+      "i": 4,
+      "a": 8,
+      "cell": 4348,
+      "x": 855.02,
+      "y": 491.6,
+      "bx": 855.02,
+      "by": 491.6,
+      "u": {
+        "fleet": 8
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 12,
+      "icon": "🌊"
+    }
+  ]
+}

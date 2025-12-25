@@ -1,0 +1,16 @@
+{
+  "t1": "ermine-gules-argent",
+  "division": {
+    "division": "perBend",
+    "t": "or",
+    "line": "straight"
+  },
+  "ordinaries": [
+    {
+      "ordinary": "pale",
+      "t": "purpure",
+      "line": "straight"
+    }
+  ],
+  "shield": "pavise"
+}

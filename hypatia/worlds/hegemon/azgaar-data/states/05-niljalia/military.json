@@ -1,0 +1,166 @@
+[
+  {
+    "i": 0,
+    "a": 5169,
+    "cell": 3959,
+    "x": 678.74,
+    "y": 471.51,
+    "bx": 678.74,
+    "by": 471.51,
+    "u": {
+      "cavalry": 3559,
+      "artillery": 13,
+      "infantry": 787,
+      "archers": 810
+    },
+    "n": 0,
+    "name": "1st (Piolo) Regiment",
+    "state": 5,
+    "icon": "🐴"
+  },
+  {
+    "i": 1,
+    "a": 3799,
+    "cell": 3615,
+    "x": 611.89,
+    "y": 432.62,
+    "bx": 611.89,
+    "by": 432.62,
+    "u": {
+      "cavalry": 2921,
+      "infantry": 371,
+      "archers": 490,
+      "artillery": 17
+    },
+    "n": 0,
+    "name": "2nd (Hirpanjo) Regiment",
+    "state": 5,
+    "icon": "🐴"
+  },
+  {
+    "i": 2,
+    "a": 3294,
+    "cell": 5230,
+    "x": 594.63,
+    "y": 586.5,
+    "bx": 594.63,
+    "by": 586.5,
+    "u": {
+      "cavalry": 2240,
+      "infantry": 342,
+      "archers": 712
+    },
+    "n": 0,
+    "name": "3rd (Lainenmaa) Regiment",
+    "state": 5,
+    "icon": "🐴"
+  },
+  {
+    "i": 3,
+    "a": 3283,
+    "cell": 3225,
+    "x": 576.28,
+    "y": 399.96,
+    "bx": 576.28,
+    "by": 399.96,
+    "u": {
+      "cavalry": 1812,
+      "artillery": 27,
+      "infantry": 649,
+      "archers": 795
+    },
+    "n": 0,
+    "name": "4th (Pargamsape) Regiment",
+    "state": 5,
+    "icon": "🐴"
+  },
+  {
+    "i": 4,
+    "a": 2996,
+    "cell": 4693,
+    "x": 618.57,
+    "y": 539.27,
+    "bx": 618.57,
+    "by": 539.27,
+    "u": {
+      "cavalry": 2699,
+      "infantry": 88,
+      "archers": 207,
+      "artillery": 2
+    },
+    "n": 0,
+    "name": "5th (Piolo) Regiment",
+    "state": 5,
+    "icon": "🐴"
+  },
+  {
+    "i": 5,
+    "a": 2725,
+    "cell": 5225,
+    "x": 544.83,
+    "y": 590.17,
+    "bx": 544.83,
+    "by": 590.17,
+    "u": {
+      "cavalry": 2116,
+      "infantry": 260,
+      "archers": 346,
+      "artillery": 3
+    },
+    "n": 0,
+    "name": "6th (Lainenmaa) Regiment",
+    "state": 5,
+    "icon": "🐴"
+  },
+  {
+    "i": 6,
+    "a": 2506,
+    "cell": 3612,
+    "x": 574.19,
+    "y": 431.02,
+    "bx": 574.19,
+    "by": 431.02,
+    "u": {
+      "cavalry": 2057,
+      "infantry": 189,
+      "archers": 256,
+      "artillery": 4
+    },
+    "n": 0,
+    "name": "7th (Pargamsape) Regiment",
+    "state": 5,
+    "icon": "🐴"
+  },
+  {
+    "i": 7,
+    "a": 2,
+    "cell": 3089,
+    "x": 552.19,
+    "y": 380.5,
+    "bx": 552.19,
+    "by": 380.5,
+    "u": {
+      "fleet": 2
+    },
+    "n": 1,
+    "name": "1st Fleet",
+    "state": 5,
+    "icon": "🌊"
+  },
+  {
+    "i": 8,
+    "a": 1,
+    "cell": 4317,
+    "x": 527,
+    "y": 513,
+    "bx": 527,
+    "by": 513,
+    "u": {
+      "fleet": 1
+    },
+    "n": 1,
+    "name": "2nd Fleet",
+    "state": 5,
+    "icon": "🌊"
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "cell": 2819,
+    "x": 490.11,
+    "y": 358.7,
+    "state": 9,
+    "i": 9,
+    "culture": 12,
+    "name": "Dhur",
+    "feature": 3,
+    "capital": 1,
+    "port": 1,
+    "population": 3.324,
+    "type": "Naval",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "anchor",
+          "t": "gules",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2950,
+    "x": 500.72,
+    "y": 375.13,
+    "state": 9,
+    "i": 66,
+    "culture": 12,
+    "name": "Sawa",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 17.863,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "tower",
+          "t": "gules",
+          "p": "e",
+          "t2": "gules",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3079,
+    "x": 514.28,
+    "y": 382.42,
+    "state": 9,
+    "i": 69,
+    "culture": 10,
+    "name": "Somepaa",
+    "capital": 0,
+    "feature": 3,
+    "port": 1,
+    "population": 28.137,
+    "type": "Naval",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "dolphin",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "pavise"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 1,
+    "temple": 1
+  },
+  {
+    "cell": 2948,
+    "x": 479.87,
+    "y": 373.74,
+    "state": 9,
+    "i": 84,
+    "culture": 12,
+    "name": "Quwaisadi",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.579,
+    "type": "Generic",
+    "coa": {
+      "t1": "plumetty-or-sable",
+      "division": {
+        "division": "perPale",
+        "t": "azure",
+        "line": "straight"
+      },
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2946,
+    "x": 458.36,
+    "y": 382.17,
+    "state": 9,
+    "i": 101,
+    "culture": 12,
+    "name": "Musha",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.609,
+    "type": "Generic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "lionHeadCaboshed",
+          "t": "sable",
+          "p": "e",
+          "t2": "sable",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2688,
+    "x": 503.81,
+    "y": 354.86,
+    "state": 9,
+    "i": 425,
+    "culture": 1,
+    "name": "Khoudant",
+    "capital": 0,
+    "feature": 3,
+    "port": 0,
+    "population": 1.808,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "ordinaries": [
+        {
+          "ordinary": "gore",
+          "t": "argent"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "cossack",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

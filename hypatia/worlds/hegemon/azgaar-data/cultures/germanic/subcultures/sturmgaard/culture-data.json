@@ -1,0 +1,14 @@
+{
+  "name": "Sturmgaard",
+  "base": 0,
+  "shield": "hessen",
+  "center": 4644,
+  "i": 6,
+  "color": "#fb8072",
+  "type": "Generic",
+  "expansionism": 1.2,
+  "origins": [
+    0
+  ],
+  "code": "Sh"
+}

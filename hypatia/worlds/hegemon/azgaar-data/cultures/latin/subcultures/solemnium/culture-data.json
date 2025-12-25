@@ -1,0 +1,14 @@
+{
+  "name": "Solemnium",
+  "base": 3,
+  "shield": "horsehead2",
+  "center": 2570,
+  "i": 8,
+  "color": "#bc80bd",
+  "type": "Generic",
+  "expansionism": 1.5,
+  "origins": [
+    0
+  ],
+  "code": "Ta"
+}

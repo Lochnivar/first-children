@@ -14,10 +14,19 @@ Mercara (The Station Master, The Crossroads Keeper) is the First Child who creat
 **Pronouns:** They/Them (gender-neutral)  
 **Title:** The Station Master, The Crossroads Keeper
 
+**Epithets:** The Scheduler; The Threshold Keeper; The Marketmaker; The Great Conductor (mortals); "That Obsessive Timetabler" (affectionate sibling nickname)
+
 **Nature:**
-- First Child sibling with full Quantumancy
-- Glorified waveform (pattern of coherent energy at the quantum layer)
-- Sentient and godlike—cannot be truly destroyed but can be reformed
+- One of the First Children — a sibling waveform of coherent quantum energy, immortal and reformable.
+- Like all siblings, possesses full Quantumancy and can step sideways through the quantum sea at will.
+- No special status above her siblings; equal in power, distinct only in obsession.
+
+## Primary Motivation
+
+- Mercara is driven by a single, all-consuming passion: **puzzle addiction**. They experience overlapping quantum threads as inefficiency and an optimization problem.
+- Focuses on preventing bottlenecks, redundant rift overlaps, interference turbulence, and lost waveforms — optimizing schedules, gating intervals, and quantum stability.
+- Maintains the station not for philosophy or morality, but because **the puzzle is beautiful**; perfect synchrony (thousands of trains departing in time) is their closest thing to joy.
+
 
 ## Original Intent
 
@@ -105,13 +114,38 @@ Mercara (The Station Master, The Crossroads Keeper) is the First Child who creat
 - First Children possess full Quantumancy (framework rule)
 - Mercara uses all abilities seamlessly (framework standard)
 
-## Limitations
+## Limitations & Relationships
 
-**Physical Laws:**
-- Cannot force portals where quantum substrate won't support
-- Cannot prevent all corruption (quantum uncertainty)
-- Cannot control mortal behavior beyond infrastructure
-- Subject to physical laws like all First Children
+**Physical Laws & Practical Limits**
+- Cannot force portals where the quantum substrate won't support them.
+- Cannot prevent all corruption or quantum decay; pattern degradation and rare failures still occur despite safeguards.
+- Cannot control mortal behavior beyond infrastructure—mortals remain unpredictable variables.
+- Bound by Prime Author physical laws and quantum uncertainty like all First Children.
+
+**Peer & Platform Relations**
+- Honors peer-judgment seals (for example, Platform 1237 / Iolinus) as part of the larger system — compliance is strategic and part of the puzzle rather than purely doctrinal.
+- Siblings find Mercara's obsession endearing, exasperating, or both; most respect the Cross's utility and defer to their stewardship.
+- Not seeking supremacy; retains neutrality and focuses on optimization and system integrity.
+
+## Role at Mercara's Cross
+
+- **Creator & Sole Maintainer:** Forged the planetary-scale anchor network that stabilizes mortal-safe crossings and personally oversees major anchor maintenance.
+- **Active Presence:** Frequently appears in humble disguises — timetable clerk with clipboard, tea vendor, conductor checking tickets — making micro-adjustments to schedules and observing operations.
+- **Transit Design:** Implemented batch transits ("trains") and quantum gating intervals to prevent deadly wake turbulence; solo mortal crossings are impossible by design.
+- **The Ledger:** Her masterpiece subsystem — an unbreakable quantum contract enforcer that makes trust optional and commerce viable.
+
+## Personality & Demeanor
+
+- Details-obsessed, methodical, quietly intense.
+- Warmly whimsical in public announcements (teasing, reassuring, gently sarcastic).
+- Deeply satisfied by perfect optimization; a flawless multi-platform departure wave is their version of transcendence.
+- Views mortals with detached affection — like watching variables behave predictably in a simulation she adores.
+
+## Signature Quote
+
+> “Where we’re going, we don’t need platforms.”  
+> — Mercara (paraphrasing a mortal film they found logarithmically amusing)
+
 
 **Framework Alignment:**
 - Physical laws cannot be violated (framework constant)

@@ -1,0 +1,19 @@
+{
+  "t1": "purpure",
+  "ordinaries": [
+    {
+      "ordinary": "bend",
+      "t": "or",
+      "line": "straight"
+    }
+  ],
+  "charges": [
+    {
+      "charge": "moonInCrescent",
+      "t": "purpure",
+      "p": "joe",
+      "size": 0.5
+    }
+  ],
+  "shield": "heater"
+}

@@ -1,0 +1,12 @@
+{
+  "t1": "argent",
+  "charges": [
+    {
+      "charge": "lozenge",
+      "t": "gules",
+      "p": "e",
+      "size": 1.5
+    }
+  ],
+  "shield": "banner"
+}

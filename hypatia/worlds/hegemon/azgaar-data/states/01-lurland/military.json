@@ -1,0 +1,37 @@
+[
+  {
+    "i": 0,
+    "a": 2009,
+    "cell": 4656,
+    "x": 238,
+    "y": 546.8,
+    "bx": 238,
+    "by": 546.8,
+    "u": {
+      "archers": 1029,
+      "cavalry": 130,
+      "infantry": 836,
+      "artillery": 14
+    },
+    "n": 0,
+    "name": "1st (Klakkjah) Regiment",
+    "state": 1,
+    "icon": "🏹"
+  },
+  {
+    "i": 1,
+    "a": 2,
+    "cell": 4403,
+    "x": 214.4,
+    "y": 514,
+    "bx": 214.4,
+    "by": 514,
+    "u": {
+      "fleet": 2
+    },
+    "n": 1,
+    "name": "1st Fleet",
+    "state": 1,
+    "icon": "🌊"
+  }
+]

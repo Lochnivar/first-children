@@ -1,0 +1,94 @@
+[
+  {
+    "i": 0,
+    "a": 3248,
+    "cell": 4842,
+    "x": 876.66,
+    "y": 554.81,
+    "bx": 876.66,
+    "by": 554.81,
+    "u": {
+      "cavalry": 2173,
+      "artillery": 4,
+      "infantry": 393,
+      "archers": 678
+    },
+    "n": 0,
+    "name": "1st (Toti) Regiment",
+    "state": 12,
+    "icon": "🐴"
+  },
+  {
+    "i": 1,
+    "a": 3133,
+    "cell": 4707,
+    "x": 787.4,
+    "y": 538.43,
+    "bx": 787.4,
+    "by": 538.43,
+    "u": {
+      "cavalry": 2602,
+      "infantry": 207,
+      "archers": 320,
+      "artillery": 4
+    },
+    "n": 0,
+    "name": "2nd (Kaskog) Regiment",
+    "state": 12,
+    "icon": "🐴"
+  },
+  {
+    "i": 2,
+    "a": 2834,
+    "cell": 4348,
+    "x": 857.5,
+    "y": 505.1,
+    "bx": 857.5,
+    "by": 505.1,
+    "u": {
+      "archers": 661,
+      "artillery": 29,
+      "infantry": 593,
+      "cavalry": 1551
+    },
+    "n": 0,
+    "name": "3rd (Kaskog) Regiment",
+    "state": 12,
+    "icon": "🐴"
+  },
+  {
+    "i": 3,
+    "a": 1963,
+    "cell": 5107,
+    "x": 806.36,
+    "y": 575.14,
+    "bx": 806.36,
+    "by": 575.14,
+    "u": {
+      "cavalry": 1349,
+      "infantry": 196,
+      "archers": 417,
+      "artillery": 1
+    },
+    "n": 0,
+    "name": "4th (Toti) Regiment",
+    "state": 12,
+    "icon": "🐴"
+  },
+  {
+    "i": 4,
+    "a": 8,
+    "cell": 4348,
+    "x": 855.02,
+    "y": 491.6,
+    "bx": 855.02,
+    "by": 491.6,
+    "u": {
+      "fleet": 8
+    },
+    "n": 1,
+    "name": "1st Fleet",
+    "state": 12,
+    "icon": "🌊"
+  }
+]

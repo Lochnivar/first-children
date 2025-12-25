@@ -1,0 +1,129 @@
+{
+  "i": 1,
+  "color": "#66c2a5",
+  "name": "Lurland",
+  "expansionism": 1.4,
+  "capital": 1,
+  "type": "Generic",
+  "center": 4403,
+  "culture": 3,
+  "coa": {
+    "t1": "purpure",
+    "ordinaries": [
+      {
+        "ordinary": "bend",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "moonInCrescent",
+        "t": "purpure",
+        "p": "joe",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    217,
+    556
+  ],
+  "urban": 33.065,
+  "rural": 406.0352105498314,
+  "burgs": 6,
+  "area": 9395,
+  "cells": 92,
+  "neighbors": [
+    16,
+    0,
+    20
+  ],
+  "campaigns": [
+    {
+      "name": "Strenvog Campaign",
+      "start": 1,
+      "end": 4
+    },
+    {
+      "name": "Snuban Intervention",
+      "start": 257,
+      "end": 259
+    },
+    {
+      "name": "Brugaran Conflict",
+      "start": 334,
+      "end": 335
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "x",
+    "Ally",
+    "Ally",
+    "Ally",
+    "Neutral",
+    "Ally",
+    "Neutral",
+    "Ally",
+    "Ally",
+    "Neutral",
+    "Suspicion",
+    "Friendly",
+    "Friendly",
+    "Ally",
+    "Ally",
+    "Ally",
+    "Ally",
+    "Neutral",
+    "Friendly",
+    "Rival"
+  ],
+  "form": "Monarchy",
+  "formName": "Grand Duchy",
+  "fullName": "Grand Duchy of Lurland",
+  "provinces": [
+    1,
+    2,
+    111
+  ],
+  "alert": 1.13,
+  "military": [
+    {
+      "i": 0,
+      "a": 2009,
+      "cell": 4656,
+      "x": 238,
+      "y": 546.8,
+      "bx": 238,
+      "by": 546.8,
+      "u": {
+        "archers": 1029,
+        "cavalry": 130,
+        "infantry": 836,
+        "artillery": 14
+      },
+      "n": 0,
+      "name": "1st (Klakkjah) Regiment",
+      "state": 1,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 2,
+      "cell": 4403,
+      "x": 214.4,
+      "y": 514,
+      "bx": 214.4,
+      "by": 514,
+      "u": {
+        "fleet": 2
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 1,
+      "icon": "🌊"
+    }
+  ]
+}

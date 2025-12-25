@@ -1,0 +1,664 @@
+[
+  {
+    "cell": 3862,
+    "x": 933.7,
+    "y": 462.25,
+    "state": 18,
+    "i": 18,
+    "culture": 9,
+    "name": "Burlowbu",
+    "feature": 2,
+    "capital": 1,
+    "port": 1,
+    "population": 14.531,
+    "type": "Naval",
+    "coa": {
+      "t1": "gules",
+      "division": {
+        "division": "perFess",
+        "t": "argent",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "anchor",
+          "t": "or",
+          "p": "k",
+          "size": 0.7
+        },
+        {
+          "charge": "fasces",
+          "t": "azure",
+          "p": "n",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3639,
+    "x": 948.7,
+    "y": 438.9,
+    "state": 18,
+    "i": 27,
+    "culture": 9,
+    "name": "Comney",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 13.307,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "division": {
+        "division": "perPale",
+        "t": "argent",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "greyhoundSejant",
+          "t": "or",
+          "p": "p",
+          "t2": "or",
+          "t3": "or",
+          "size": 0.7
+        },
+        {
+          "charge": "roundel",
+          "t": "purpure",
+          "p": "q",
+          "size": 0.7
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3396,
+    "x": 946.83,
+    "y": 411.86,
+    "state": 18,
+    "i": 73,
+    "culture": 9,
+    "name": "Maldock",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.751,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "crossPatriarchal",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4096,
+    "x": 956.28,
+    "y": 477.2,
+    "state": 18,
+    "i": 122,
+    "culture": 9,
+    "name": "Southin",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.706,
+    "type": "Generic",
+    "coa": {
+      "t1": "argent",
+      "charges": [
+        {
+          "charge": "bookClosed",
+          "t": "azure",
+          "p": "e",
+          "t2": "sable",
+          "t3": "azure",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4234,
+    "x": 1037.11,
+    "y": 491.1,
+    "state": 18,
+    "i": 139,
+    "culture": 4,
+    "name": "Drolichipo",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 18.409,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "division": {
+        "division": "perPale",
+        "t": "or",
+        "line": "straight"
+      },
+      "charges": [
+        {
+          "charge": "crossVoided",
+          "t": "argent",
+          "p": "p",
+          "size": 0.7
+        },
+        {
+          "charge": "dragonRampant",
+          "t": "gules",
+          "p": "q",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3127,
+    "x": 968.4,
+    "y": 394.9,
+    "state": 18,
+    "i": 203,
+    "culture": 4,
+    "name": "Krichesk",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.738,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "bendSinister",
+          "t": "vert",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crossHummetty",
+          "t": "argent",
+          "p": "lm",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3638,
+    "x": 937.1,
+    "y": 442.2,
+    "state": 18,
+    "i": 204,
+    "culture": 9,
+    "name": "Horsfield",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 17.228,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "stagLodgedRegardant",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5
+        }
+      ],
+      "shield": "heater"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2749,
+    "x": 997.84,
+    "y": 357.83,
+    "state": 18,
+    "i": 234,
+    "culture": 4,
+    "name": "Beretenets",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.412,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "argent",
+      "ordinaries": [
+        {
+          "ordinary": "fess",
+          "t": "sable",
+          "line": "straight"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "orb",
+          "t": "or",
+          "p": "def",
+          "t2": "or",
+          "t3": "gules",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4103,
+    "x": 1020.57,
+    "y": 480.23,
+    "state": 18,
+    "i": 240,
+    "culture": 4,
+    "name": "Cherdere",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.646,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "lanceWithBanner",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "t3": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3387,
+    "x": 845.02,
+    "y": 411.91,
+    "state": 18,
+    "i": 278,
+    "culture": 11,
+    "name": "Duyhaven",
+    "capital": 0,
+    "feature": 13,
+    "port": 0,
+    "population": 27.418,
+    "type": "Generic",
+    "coa": {
+      "t1": "azure",
+      "charges": [
+        {
+          "charge": "maces",
+          "t": "argent",
+          "p": "e",
+          "t2": "argent",
+          "size": 1.5
+        }
+      ],
+      "shield": "banner"
+    },
+    "citadel": 1,
+    "plaza": 1,
+    "walls": 1,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 4101,
+    "x": 994.5,
+    "y": 487.37,
+    "state": 18,
+    "i": 285,
+    "culture": 4,
+    "name": "Benichatin",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 5.607,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "charges": [
+        {
+          "charge": "lionPassant",
+          "t": "or",
+          "p": "bdefh",
+          "t2": "or",
+          "t3": "or",
+          "size": 0.4
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3868,
+    "x": 977.11,
+    "y": 460.97,
+    "state": 18,
+    "i": 307,
+    "culture": 4,
+    "name": "Garacheni",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.675,
+    "type": "Generic",
+    "coa": {
+      "t1": "semy_of_crossSantiago-azure-argent-small",
+      "charges": [
+        {
+          "charge": "scythe2",
+          "t": "or",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3266,
+    "x": 992.53,
+    "y": 404.15,
+    "state": 18,
+    "i": 350,
+    "culture": 4,
+    "name": "Beseche",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 3.681,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "wheel",
+          "t": "argent",
+          "p": "jln",
+          "size": 0.7
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3871,
+    "x": 1015.21,
+    "y": 454.28,
+    "state": 18,
+    "i": 437,
+    "culture": 4,
+    "name": "Mglin",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.755,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "stagLodgedRegardant",
+          "t": "or",
+          "p": "e",
+          "t2": "or",
+          "t3": "or",
+          "size": 1.5,
+          "sinister": 1
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3869,
+    "x": 995.65,
+    "y": 458.47,
+    "state": 18,
+    "i": 459,
+    "culture": 4,
+    "name": "Migokov",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.767,
+    "type": "Generic",
+    "coa": {
+      "t1": "barry-argent-vert",
+      "division": {
+        "division": "perChevronReversed",
+        "t": "gules",
+        "line": "straight"
+      },
+      "ordinaries": [
+        {
+          "ordinary": "cross",
+          "t": "azure",
+          "line": "straight"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2993,
+    "x": 982.91,
+    "y": 381.29,
+    "state": 18,
+    "i": 476,
+    "culture": 4,
+    "name": "Chern",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 0.866,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "pile",
+          "t": "or"
+        }
+      ],
+      "charges": [
+        {
+          "charge": "crossFormee2",
+          "t": "gules",
+          "p": "b",
+          "size": 0.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3534,
+    "x": 1029.4,
+    "y": 426.99,
+    "state": 18,
+    "i": 479,
+    "culture": 4,
+    "name": "Rorys",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 1.939,
+    "type": "Generic",
+    "coa": {
+      "t1": "purpure",
+      "charges": [
+        {
+          "charge": "key",
+          "t": "argent",
+          "p": "e",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 0,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 2878,
+    "x": 1028.91,
+    "y": 365.64,
+    "state": 18,
+    "i": 493,
+    "culture": 4,
+    "name": "Bevetsk",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 7.436,
+    "type": "Nomadic",
+    "coa": {
+      "t1": "or",
+      "charges": [
+        {
+          "charge": "archer",
+          "t": "gules",
+          "p": "e",
+          "t2": "gules",
+          "t3": "purpure",
+          "size": 1.5
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  },
+  {
+    "cell": 3643,
+    "x": 985.7,
+    "y": 430.98,
+    "state": 18,
+    "i": 498,
+    "culture": 4,
+    "name": "Metsalich",
+    "capital": 0,
+    "feature": 2,
+    "port": 0,
+    "population": 3.391,
+    "type": "Generic",
+    "coa": {
+      "t1": "gules",
+      "ordinaries": [
+        {
+          "ordinary": "piles",
+          "t": "argent"
+        }
+      ],
+      "shield": "round"
+    },
+    "citadel": 0,
+    "plaza": 1,
+    "walls": 0,
+    "shanty": 0,
+    "temple": 0
+  }
+]

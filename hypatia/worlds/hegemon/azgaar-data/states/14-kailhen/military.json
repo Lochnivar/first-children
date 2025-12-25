@@ -1,0 +1,21 @@
+[
+  {
+    "i": 0,
+    "a": 266,
+    "cell": 2456,
+    "x": 826.1,
+    "y": 333,
+    "bx": 826.1,
+    "by": 333,
+    "u": {
+      "archers": 75,
+      "cavalry": 54,
+      "infantry": 136,
+      "artillery": 1
+    },
+    "n": 0,
+    "name": "1st (Cua) Regiment",
+    "state": 14,
+    "icon": "⚔️"
+  }
+]

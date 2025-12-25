@@ -1,0 +1,113 @@
+[
+  {
+    "i": 0,
+    "a": 5883,
+    "cell": 3965,
+    "x": 747.62,
+    "y": 475.07,
+    "bx": 747.62,
+    "by": 475.07,
+    "u": {
+      "cavalry": 3640,
+      "archers": 1174,
+      "infantry": 1047,
+      "artillery": 22
+    },
+    "n": 0,
+    "name": "1st (Palsialmaa) Regiment",
+    "state": 19,
+    "icon": "🐴"
+  },
+  {
+    "i": 1,
+    "a": 3713,
+    "cell": 3380,
+    "x": 733.08,
+    "y": 409.95,
+    "bx": 733.08,
+    "by": 409.95,
+    "u": {
+      "cavalry": 1915,
+      "archers": 893,
+      "infantry": 878,
+      "artillery": 27
+    },
+    "n": 0,
+    "name": "2nd (Ruot) Regiment",
+    "state": 19,
+    "icon": "🐴"
+  },
+  {
+    "i": 2,
+    "a": 2697,
+    "cell": 3852,
+    "x": 761.06,
+    "y": 458.99,
+    "bx": 761.06,
+    "by": 458.99,
+    "u": {
+      "cavalry": 1202,
+      "archers": 810,
+      "infantry": 669,
+      "artillery": 16
+    },
+    "n": 0,
+    "name": "3rd (Palsialmaa) Regiment",
+    "state": 19,
+    "icon": "🐴"
+  },
+  {
+    "i": 3,
+    "a": 2623,
+    "cell": 4578,
+    "x": 687.97,
+    "y": 524.46,
+    "bx": 687.97,
+    "by": 524.46,
+    "u": {
+      "cavalry": 2340,
+      "infantry": 80,
+      "archers": 200,
+      "artillery": 3
+    },
+    "n": 0,
+    "name": "4th (Palsialmaa) Regiment",
+    "state": 19,
+    "icon": "🐴"
+  },
+  {
+    "i": 4,
+    "a": 1425,
+    "cell": 3624,
+    "x": 719.81,
+    "y": 438.39,
+    "bx": 719.81,
+    "by": 438.39,
+    "u": {
+      "cavalry": 763,
+      "artillery": 2,
+      "infantry": 349,
+      "archers": 311
+    },
+    "n": 0,
+    "name": "5th (Raulanera) Regiment",
+    "state": 19,
+    "icon": "🐴"
+  },
+  {
+    "i": 5,
+    "a": 5,
+    "cell": 3514,
+    "x": 770.12,
+    "y": 416.3,
+    "bx": 770.12,
+    "by": 416.3,
+    "u": {
+      "fleet": 5
+    },
+    "n": 1,
+    "name": "1st Fleet",
+    "state": 19,
+    "icon": "🌊"
+  }
+]

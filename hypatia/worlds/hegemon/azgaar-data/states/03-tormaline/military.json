@@ -1,0 +1,21 @@
+[
+  {
+    "i": 0,
+    "a": 1004,
+    "cell": 4735,
+    "x": 1053.33,
+    "y": 541.26,
+    "bx": 1053.33,
+    "by": 541.26,
+    "u": {
+      "infantry": 409,
+      "archers": 377,
+      "cavalry": 215,
+      "artillery": 3
+    },
+    "n": 0,
+    "name": "1st (Winehowen) Regiment",
+    "state": 3,
+    "icon": "⚔️"
+  }
+]

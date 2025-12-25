@@ -1,0 +1,118 @@
+{
+  "i": 3,
+  "color": "#8da0cb",
+  "name": "Tormaline",
+  "expansionism": 1.3,
+  "capital": 3,
+  "type": "Generic",
+  "center": 4607,
+  "culture": 9,
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "pilesInPoint",
+        "t": "gules"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "heart",
+        "t": "sable",
+        "p": "def",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    1132,
+    597
+  ],
+  "urban": 52.547,
+  "rural": 626.4791928529739,
+  "burgs": 8,
+  "area": 12045,
+  "cells": 106,
+  "neighbors": [
+    18,
+    0,
+    7,
+    13
+  ],
+  "campaigns": [
+    {
+      "name": "Sealian Conquest",
+      "start": 123,
+      "end": 132
+    },
+    {
+      "name": "Sidleham War",
+      "start": 224,
+      "end": 233
+    },
+    {
+      "name": "Camblean Conquest",
+      "start": 316,
+      "end": 317
+    },
+    {
+      "name": "Guildbumean Conquest",
+      "start": 359,
+      "end": 364
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Ally",
+    "x",
+    "Unknown",
+    "Friendly",
+    "Unknown",
+    "Suspicion",
+    "Unknown",
+    "Unknown",
+    "Friendly",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Friendly",
+    "Unknown",
+    "Friendly",
+    "Friendly",
+    "Neutral",
+    "Neutral"
+  ],
+  "form": "Republic",
+  "formName": "Republic",
+  "fullName": "Republic of Tormaline",
+  "provinces": [
+    7,
+    8,
+    112
+  ],
+  "alert": 0.34,
+  "military": [
+    {
+      "i": 0,
+      "a": 1004,
+      "cell": 4735,
+      "x": 1053.33,
+      "y": 541.26,
+      "bx": 1053.33,
+      "by": 541.26,
+      "u": {
+        "infantry": 409,
+        "archers": 377,
+        "cavalry": 215,
+        "artillery": 3
+      },
+      "n": 0,
+      "name": "1st (Winehowen) Regiment",
+      "state": 3,
+      "icon": "⚔️"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "i": 4,
+  "color": "#e78ac3",
+  "name": "Agrima",
+  "expansionism": 3.7,
+  "capital": 4,
+  "type": "Hunting",
+  "center": 1790,
+  "culture": 1,
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perSaltire",
+      "t": "vert"
+    },
+    "charges": [
+      {
+        "charge": "wyvernWithWingsDisplayed",
+        "t": "azure",
+        "p": "e",
+        "t2": "purpure",
+        "t3": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "round"
+  },
+  "pole": [
+    480,
+    197
+  ],
+  "urban": 340.58599999999996,
+  "rural": 3916.1541365385056,
+  "burgs": 74,
+  "area": 74717,
+  "cells": 629,
+  "neighbors": [
+    8,
+    14,
+    6,
+    9,
+    16
+  ],
+  "campaigns": [
+    {
+      "name": "Irazian War",
+      "start": 15,
+      "end": 24
+    },
+    {
+      "name": "Siyafar Campaign",
+      "start": 149,
+      "end": 161
+    },
+    {
+      "name": "Sigdak War",
+      "start": 317,
+      "end": 318
+    },
+    {
+      "name": "Fnijilese War",
+      "start": 349,
+      "end": 354
+    },
+    {
+      "name": "Cailinhian Campaign",
+      "start": 368,
+      "end": 373
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "x",
+    "Friendly",
+    "Suzerain",
+    "Unknown",
+    "Suzerain",
+    "Suzerain",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Suzerain",
+    "Neutral",
+    "Suzerain",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Ally"
+  ],
+  "form": "Monarchy",
+  "formName": "Caliphate",
+  "fullName": "Agriman Caliphate",
+  "provinces": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    113,
+    114
+  ],
+  "alert": 0.16,
+  "military": [
+    {
+      "i": 0,
+      "a": 1176,
+      "cell": 2408,
+      "x": 472.2,
+      "y": 338.6,
+      "bx": 472.2,
+      "by": 338.6,
+      "u": {
+        "archers": 424,
+        "cavalry": 517,
+        "infantry": 235
+      },
+      "n": 0,
+      "name": "1st (Demzuradir) Regiment",
+      "state": 4,
+      "icon": "🐴"
+    },
+    {
+      "i": 1,
+      "a": 1119,
+      "cell": 207,
+      "x": 514.88,
+      "y": 95.48,
+      "bx": 514.88,
+      "by": 95.48,
+      "u": {
+        "archers": 513,
+        "cavalry": 133,
+        "infantry": 473
+      },
+      "n": 0,
+      "name": "2nd (Irhermzu) Regiment",
+      "state": 4,
+      "icon": "🏹"
+    },
+    {
+      "i": 2,
+      "a": 930,
+      "cell": 275,
+      "x": 355.9,
+      "y": 107.15,
+      "bx": 355.9,
+      "by": 107.15,
+      "u": {
+        "archers": 372,
+        "cavalry": 234,
+        "infantry": 324
+      },
+      "n": 0,
+      "name": "3rd (Melmas) Regiment",
+      "state": 4,
+      "icon": "🏹"
+    }
+  ]
+}
