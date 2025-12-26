@@ -30,7 +30,21 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Fjordhammer",
+    "prominent_families": [
+      "Bergblade",
+      "the Swift",
+      "Nilasastad",
+      "the Swift",
+      "Steinhammer"
+    ],
+    "founder": {
+      "first_name": "Jurgen",
+      "family_name": "Waldblade",
+      "full_name": "Jurgen Waldblade",
+      "gender": "male"
+    }
   },
   {
     "cell": 3382,
@@ -69,7 +83,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Verelakigard",
+    "prominent_families": [
+      "Verelakiberg",
+      "Verelakiheim",
+      "Verelakigard",
+      "Ragnarson",
+      "Verelakigard"
+    ],
+    "founder": {
+      "first_name": "Werner",
+      "family_name": "von Verelaki",
+      "full_name": "Werner von Verelaki",
+      "gender": "male"
+    }
   },
   {
     "cell": 3517,
@@ -107,7 +135,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Stout",
+    "prominent_families": [
+      "the Swift",
+      "Adlerblade",
+      "the Brave",
+      "Narviheim"
+    ],
+    "founder": {
+      "first_name": "Jorunn",
+      "family_name": "Osthammer",
+      "full_name": "Jorunn Osthammer",
+      "gender": "female"
+    }
   },
   {
     "cell": 3241,
@@ -141,7 +182,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "von Afiasekka",
+    "prominent_families": [
+      "Afiasekkaheim",
+      "Afiasekkastad",
+      "Afiasekkastad",
+      "Afiasekkastad",
+      "Afiasekkastad"
+    ],
+    "founder": {
+      "first_name": "Ylva",
+      "family_name": "von Afiasekka",
+      "full_name": "Ylva von Afiasekka",
+      "gender": "female"
+    }
   },
   {
     "cell": 4205,
@@ -173,7 +228,21 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Eskinenkaaheim",
+    "prominent_families": [
+      "Adlerhammer",
+      "von Eskinenkaa",
+      "Sudhammer",
+      "Eskinenkaagard",
+      "the Swift"
+    ],
+    "founder": {
+      "first_name": "Astrid",
+      "family_name": "the Proud",
+      "full_name": "Astrid the Proud",
+      "gender": "female"
+    }
   },
   {
     "cell": 3963,
@@ -205,7 +274,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Hinkylaheim",
+    "prominent_families": [
+      "Hinkylaheim",
+      "the Bold",
+      "Baldricson",
+      "Sudblade",
+      "Waldblade"
+    ],
+    "founder": {
+      "first_name": "Vera",
+      "family_name": "Verasen",
+      "full_name": "Vera Verasen",
+      "gender": "female"
+    }
   },
   {
     "cell": 3737,
@@ -233,7 +316,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 1,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Eriksen",
+    "prominent_families": [
+      "Kotesimakistad",
+      "Berghammer",
+      "Hakonson",
+      "Kotesimakiberg"
+    ],
+    "founder": {
+      "first_name": "Conrad",
+      "family_name": "Kotesimakistad",
+      "full_name": "Conrad Kotesimakistad",
+      "gender": "male"
+    }
   },
   {
     "cell": 3847,
@@ -264,7 +360,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Wernersen",
+    "prominent_families": [
+      "Keljankigard",
+      "Wernerson",
+      "Keljankiberg",
+      "Hofblade",
+      "Keljankiheim"
+    ],
+    "founder": {
+      "first_name": "Gunther",
+      "family_name": "Guntherson",
+      "full_name": "Gunther Guntherson",
+      "gender": "male"
+    }
   },
   {
     "cell": 3379,
@@ -296,7 +406,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Aakimaastad",
+    "prominent_families": [
+      "Aakimaagard",
+      "Sudhammer",
+      "Hakonson",
+      "Dietrichsen"
+    ],
+    "founder": {
+      "first_name": "Maren",
+      "family_name": "von Aakimaa",
+      "full_name": "Maren von Aakimaa",
+      "gender": "female"
+    }
   },
   {
     "cell": 3514,
@@ -324,7 +447,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Conradson",
+    "prominent_families": [
+      "Wulfson",
+      "the Stout",
+      "Maraiberg",
+      "Maraiheim"
+    ],
+    "founder": {
+      "first_name": "Alaric",
+      "family_name": "the Wise",
+      "full_name": "Alaric the Wise",
+      "gender": "male"
+    }
   },
   {
     "cell": 3627,
@@ -356,7 +492,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Obnaskiberg",
+    "prominent_families": [
+      "Obnaskiberg",
+      "Gunnarson",
+      "Bergblade"
+    ],
+    "founder": {
+      "first_name": "Vidar",
+      "family_name": "the Swift",
+      "full_name": "Vidar the Swift",
+      "gender": "male"
+    }
   },
   {
     "cell": 4203,
@@ -393,7 +541,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Aremistad",
+    "prominent_families": [
+      "Aremistad",
+      "Magnusson",
+      "Aremiberg",
+      "Westblade"
+    ],
+    "founder": {
+      "first_name": "Erik",
+      "family_name": "Erikson",
+      "full_name": "Erik Erikson",
+      "gender": "male"
+    }
   },
   {
     "cell": 4827,
@@ -423,7 +584,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Adlerblade",
+    "prominent_families": [
+      "Ulrichsen",
+      "Einarson",
+      "Lahjaraiheim",
+      "the Brave",
+      "Lahjaraistad"
+    ],
+    "founder": {
+      "first_name": "Ylva",
+      "family_name": "Wolfhammer",
+      "full_name": "Ylva Wolfhammer",
+      "gender": "female"
+    }
   },
   {
     "cell": 4701,
@@ -455,7 +630,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Hindistad",
+    "prominent_families": [
+      "Hindiheim",
+      "the Strong",
+      "Steinhammer",
+      "Hindigard"
+    ],
+    "founder": {
+      "first_name": "Ingvar",
+      "family_name": "Ingvarson",
+      "full_name": "Ingvar Ingvarson",
+      "gender": "male"
+    }
   },
   {
     "cell": 3966,
@@ -494,7 +682,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Torviberg",
+    "prominent_families": [
+      "Torviheim",
+      "Gunnarson",
+      "von Torvi"
+    ],
+    "founder": {
+      "first_name": "Astrid",
+      "family_name": "Astridsen",
+      "full_name": "Astrid Astridsen",
+      "gender": "female"
+    }
   },
   {
     "cell": 4336,
@@ -525,7 +725,20 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "von Raulajarve",
+    "prominent_families": [
+      "the Brave",
+      "von Raulajarve",
+      "Odinsen",
+      "Raulajarveheim"
+    ],
+    "founder": {
+      "first_name": "Ursula",
+      "family_name": "Raulajarvegard",
+      "full_name": "Ursula Raulajarvegard",
+      "gender": "female"
+    }
   },
   {
     "cell": 3624,
@@ -557,6 +770,19 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Nordhammer",
+    "prominent_families": [
+      "Varattijargard",
+      "Ostblade",
+      "Varattijarheim",
+      "Steinhammer"
+    ],
+    "founder": {
+      "first_name": "Thorin",
+      "family_name": "the Brave",
+      "full_name": "Thorin the Brave",
+      "gender": "male"
+    }
   }
 ]

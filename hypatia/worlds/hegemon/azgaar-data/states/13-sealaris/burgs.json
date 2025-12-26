@@ -30,7 +30,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Eisenhammer",
+    "prominent_families": [
+      "the Stout",
+      "Grantfordstad",
+      "Grantfordberg",
+      "Grantfordstad"
+    ],
+    "founder": {
+      "first_name": "Solveig",
+      "family_name": "the Strong",
+      "full_name": "Solveig the Strong",
+      "gender": "female"
+    }
   },
   {
     "cell": 4726,
@@ -62,7 +75,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Jurgenson",
+    "prominent_families": [
+      "the Swift",
+      "Baltashethegard",
+      "Gunnarson",
+      "Steinhammer",
+      "Baltashethestad"
+    ],
+    "founder": {
+      "first_name": "Baldric",
+      "family_name": "von Baltashethe",
+      "full_name": "Baldric von Baltashethe",
+      "gender": "male"
+    }
   },
   {
     "cell": 6239,
@@ -95,7 +122,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Thorinsen",
+    "prominent_families": [
+      "Silberblade",
+      "Magnusson",
+      "Asingstonheim"
+    ],
+    "founder": {
+      "first_name": "Liv",
+      "family_name": "Adlerblade",
+      "full_name": "Liv Adlerblade",
+      "gender": "female"
+    }
   },
   {
     "cell": 5529,
@@ -128,6 +167,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Chipsealisgard",
+    "prominent_families": [
+      "Gunnarsen",
+      "Steinhammer",
+      "the Bold",
+      "the Bold"
+    ],
+    "founder": {
+      "first_name": "Freya",
+      "family_name": "Chipsealisheim",
+      "full_name": "Freya Chipsealisheim",
+      "gender": "female"
+    }
   }
 ]

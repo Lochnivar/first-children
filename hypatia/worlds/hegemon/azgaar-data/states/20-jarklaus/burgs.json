@@ -31,7 +31,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Bogaberheim",
+    "prominent_families": [
+      "Hofhammer",
+      "Bogaberberg",
+      "von Bogaber",
+      "Vidarson"
+    ],
+    "founder": {
+      "first_name": "Vidar",
+      "family_name": "Bogaberberg",
+      "full_name": "Vidar Bogaberberg",
+      "gender": "male"
+    }
   },
   {
     "cell": 5069,
@@ -66,7 +79,21 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Stout",
+    "prominent_families": [
+      "von Morgen",
+      "Morgenstad",
+      "Morgenberg",
+      "Morgengard",
+      "the Brave"
+    ],
+    "founder": {
+      "first_name": "Astrid",
+      "family_name": "Morgenstad",
+      "full_name": "Astrid Morgenstad",
+      "gender": "female"
+    }
   },
   {
     "cell": 4545,
@@ -106,7 +133,20 @@
     "plaza": 0,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Vopnafjorgard",
+    "prominent_families": [
+      "Vopnafjorheim",
+      "Vopnafjorgard",
+      "von Vopnafjor",
+      "Vopnafjorheim"
+    ],
+    "founder": {
+      "first_name": "Ingrid",
+      "family_name": "Vopnafjorgard",
+      "full_name": "Ingrid Vopnafjorgard",
+      "gender": "female"
+    }
   },
   {
     "cell": 4929,
@@ -137,7 +177,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Siegfriedsen",
+    "prominent_families": [
+      "Igekurdurstad",
+      "Ragnarsen",
+      "Igekurdurstad",
+      "Odinson"
+    ],
+    "founder": {
+      "first_name": "Maren",
+      "family_name": "Igekurdurgard",
+      "full_name": "Maren Igekurdurgard",
+      "gender": "female"
+    }
   },
   {
     "cell": 4798,
@@ -175,7 +228,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Skjervosengard",
+    "prominent_families": [
+      "the Swift",
+      "the Brave",
+      "Friedrichsen",
+      "Skjervosenstad",
+      "von Skjervosen"
+    ],
+    "founder": {
+      "first_name": "Kirsten",
+      "family_name": "Skjervosenheim",
+      "full_name": "Kirsten Skjervosenheim",
+      "gender": "female"
+    }
   },
   {
     "cell": 4425,
@@ -213,7 +280,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Torvaldson",
+    "prominent_families": [
+      "Bosreydaheim",
+      "Bosreydastad",
+      "Bosreydagard"
+    ],
+    "founder": {
+      "first_name": "Liv",
+      "family_name": "Livson",
+      "full_name": "Liv Livson",
+      "gender": "female"
+    }
   },
   {
     "cell": 4550,
@@ -244,7 +323,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Dondyrkaberg",
+    "prominent_families": [
+      "the Strong",
+      "the Proud",
+      "Steinblade"
+    ],
+    "founder": {
+      "first_name": "Ivar",
+      "family_name": "Wolfhammer",
+      "full_name": "Ivar Wolfhammer",
+      "gender": "male"
+    }
   },
   {
     "cell": 4803,
@@ -282,7 +373,20 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Strong",
+    "prominent_families": [
+      "von Lonsbotn",
+      "Lonsbotnberg",
+      "Lonsbotnheim",
+      "Lonsbotnheim"
+    ],
+    "founder": {
+      "first_name": "Birgit",
+      "family_name": "Lonsbotnheim",
+      "full_name": "Birgit Lonsbotnheim",
+      "gender": "female"
+    }
   },
   {
     "cell": 4936,
@@ -312,7 +416,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Fallsovastad",
+    "prominent_families": [
+      "Ivarsen",
+      "Steinhammer",
+      "Fallsovaheim",
+      "Fallsovagard"
+    ],
+    "founder": {
+      "first_name": "Ingvar",
+      "family_name": "Fallsovaheim",
+      "full_name": "Ingvar Fallsovaheim",
+      "gender": "male"
+    }
   },
   {
     "cell": 4542,
@@ -345,7 +462,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Waldhammer",
+    "prominent_families": [
+      "von Snubakuda",
+      "von Snubakuda",
+      "Snubakudagard",
+      "Fjordblade"
+    ],
+    "founder": {
+      "first_name": "Rolf",
+      "family_name": "Snubakudaheim",
+      "full_name": "Rolf Snubakudaheim",
+      "gender": "male"
+    }
   },
   {
     "cell": 4801,
@@ -378,7 +508,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Silberblade",
+    "prominent_families": [
+      "Steinhammer",
+      "von Olendever",
+      "Olendeverstad",
+      "Olendevergard"
+    ],
+    "founder": {
+      "first_name": "Conrad",
+      "family_name": "Olendeverstad",
+      "full_name": "Conrad Olendeverstad",
+      "gender": "male"
+    }
   },
   {
     "cell": 4549,
@@ -409,7 +552,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Seeblade",
+    "prominent_families": [
+      "Adlerhammer",
+      "Fenikalenstad",
+      "Vidarson"
+    ],
+    "founder": {
+      "first_name": "Freya",
+      "family_name": "Fenikalengard",
+      "full_name": "Freya Fenikalengard",
+      "gender": "female"
+    }
   },
   {
     "cell": 4162,
@@ -447,7 +602,19 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Odinsen",
+    "prominent_families": [
+      "Qoshavnstad",
+      "Friedrichsen",
+      "Qoshavnstad"
+    ],
+    "founder": {
+      "first_name": "Kirsten",
+      "family_name": "the Proud",
+      "full_name": "Kirsten the Proud",
+      "gender": "female"
+    }
   },
   {
     "cell": 4806,
@@ -478,7 +645,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Bold",
+    "prominent_families": [
+      "von Hina",
+      "von Hina",
+      "Hinaberg",
+      "the Bold"
+    ],
+    "founder": {
+      "first_name": "Thora",
+      "family_name": "the Brave",
+      "full_name": "Thora the Brave",
+      "gender": "female"
+    }
   },
   {
     "cell": 5071,
@@ -509,6 +689,18 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "von Hogurnoy",
+    "prominent_families": [
+      "Silberhammer",
+      "Hofhammer",
+      "Hogurnoystad"
+    ],
+    "founder": {
+      "first_name": "Vidar",
+      "family_name": "Eisenhammer",
+      "full_name": "Vidar Eisenhammer",
+      "gender": "male"
+    }
   }
 ]

@@ -35,7 +35,21 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Wolfblade",
+    "prominent_families": [
+      "Djugardigard",
+      "von Djugardi",
+      "Djugardiberg",
+      "Djugardiheim",
+      "Djugardiberg"
+    ],
+    "founder": {
+      "first_name": "Ragnar",
+      "family_name": "Djugardiberg",
+      "full_name": "Ragnar Djugardiberg",
+      "gender": "male"
+    }
   },
   {
     "cell": 4529,
@@ -73,7 +87,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Eriksen",
+    "prominent_families": [
+      "Westblade",
+      "Klakkjahgard",
+      "Klakkjahstad",
+      "Steinblade"
+    ],
+    "founder": {
+      "first_name": "Marta",
+      "family_name": "Martason",
+      "full_name": "Marta Martason",
+      "gender": "female"
+    }
   },
   {
     "cell": 5050,
@@ -111,7 +138,19 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Skonviberg",
+    "prominent_families": [
+      "Magnusson",
+      "Baldricsen",
+      "Skonviberg"
+    ],
+    "founder": {
+      "first_name": "Liv",
+      "family_name": "Fjordhammer",
+      "full_name": "Liv Fjordhammer",
+      "gender": "female"
+    }
   },
   {
     "cell": 4913,
@@ -149,7 +188,19 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Goldhammer",
+    "prominent_families": [
+      "Nordhammer",
+      "Dietrichsen",
+      "Conradsen"
+    ],
+    "founder": {
+      "first_name": "Sigrid",
+      "family_name": "Grytnesstad",
+      "full_name": "Sigrid Grytnesstad",
+      "gender": "female"
+    }
   },
   {
     "cell": 5320,
@@ -203,7 +254,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Slevelsvikgard",
+    "prominent_families": [
+      "Slevelsvikberg",
+      "Goldblade",
+      "Slevelsvikberg"
+    ],
+    "founder": {
+      "first_name": "Vidar",
+      "family_name": "Slevelsvikgard",
+      "full_name": "Vidar Slevelsvikgard",
+      "gender": "male"
+    }
   },
   {
     "cell": 4653,
@@ -241,6 +304,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Waldhammer",
+    "prominent_families": [
+      "the Stout",
+      "Morvitesetstad",
+      "Nordhammer",
+      "Odinsen"
+    ],
+    "founder": {
+      "first_name": "Ulrich",
+      "family_name": "Ulrichson",
+      "full_name": "Ulrich Ulrichson",
+      "gender": "male"
+    }
   }
 ]

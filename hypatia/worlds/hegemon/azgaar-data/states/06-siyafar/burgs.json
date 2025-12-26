@@ -32,7 +32,19 @@
     "plaza": 0,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Salgard",
+    "prominent_families": [
+      "Salberg",
+      "Steinblade",
+      "Salstad"
+    ],
+    "founder": {
+      "first_name": "Ragnar",
+      "family_name": "Waldhammer",
+      "full_name": "Ragnar Waldhammer",
+      "gender": "male"
+    }
   },
   {
     "cell": 3218,
@@ -63,7 +75,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Sibiyalgaberg",
+    "prominent_families": [
+      "Goldblade",
+      "the Swift",
+      "Westhammer"
+    ],
+    "founder": {
+      "first_name": "Maren",
+      "family_name": "Sudhammer",
+      "full_name": "Maren Sudhammer",
+      "gender": "female"
+    }
   },
   {
     "cell": 3353,
@@ -93,7 +117,21 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Diyaiykahheim",
+    "prominent_families": [
+      "Gunnarson",
+      "Odinsen",
+      "Gunthersen",
+      "Erikson",
+      "Diyaiykahheim"
+    ],
+    "founder": {
+      "first_name": "Liv",
+      "family_name": "Diyaiykahheim",
+      "full_name": "Liv Diyaiykahheim",
+      "gender": "female"
+    }
   },
   {
     "cell": 3489,
@@ -125,7 +163,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Syrvaheim",
+    "prominent_families": [
+      "Syrvagard",
+      "Thorinsen",
+      "Syrvastad"
+    ],
+    "founder": {
+      "first_name": "Nora",
+      "family_name": "the Brave",
+      "full_name": "Nora the Brave",
+      "gender": "female"
+    }
   },
   {
     "cell": 4169,
@@ -156,7 +206,21 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Algaheelgard",
+    "prominent_families": [
+      "Algaheelstad",
+      "Algaheelheim",
+      "Algaheelstad",
+      "Goldblade",
+      "Jurgensen"
+    ],
+    "founder": {
+      "first_name": "Gunther",
+      "family_name": "Algaheelstad",
+      "full_name": "Gunther Algaheelstad",
+      "gender": "male"
+    }
   },
   {
     "cell": 3833,
@@ -196,7 +260,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Nordhammer",
+    "prominent_families": [
+      "the Strong",
+      "Tottiberg",
+      "Berghammer"
+    ],
+    "founder": {
+      "first_name": "Ragnar",
+      "family_name": "von Totti",
+      "full_name": "Ragnar von Totti",
+      "gender": "male"
+    }
   },
   {
     "cell": 3064,
@@ -234,7 +310,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Sudayrahgard",
+    "prominent_families": [
+      "Sudayrahheim",
+      "the Wise",
+      "Wernersen",
+      "Sudayrahgard"
+    ],
+    "founder": {
+      "first_name": "Baldric",
+      "family_name": "Goldhammer",
+      "full_name": "Baldric Goldhammer",
+      "gender": "male"
+    }
   },
   {
     "cell": 3717,
@@ -265,7 +354,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Brave",
+    "prominent_families": [
+      "Rurentajaraberg",
+      "Sudhammer",
+      "Silberblade",
+      "Rurentajarastad",
+      "Torvaldson"
+    ],
+    "founder": {
+      "first_name": "Wendy",
+      "family_name": "von Rurentajara",
+      "full_name": "Wendy von Rurentajara",
+      "gender": "female"
+    }
   },
   {
     "cell": 2538,
@@ -309,7 +412,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Bold",
+    "prominent_families": [
+      "the Brave",
+      "Siegfriedson",
+      "Bisqahgard"
+    ],
+    "founder": {
+      "first_name": "Conrad",
+      "family_name": "Bisqahberg",
+      "full_name": "Conrad Bisqahberg",
+      "gender": "male"
+    }
   },
   {
     "cell": 4433,
@@ -349,7 +464,20 @@
     "plaza": 0,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Viohmaberg",
+    "prominent_families": [
+      "Viohmagard",
+      "Viohmaheim",
+      "Gunnarson",
+      "Steinhammer"
+    ],
+    "founder": {
+      "first_name": "Marta",
+      "family_name": "Osthammer",
+      "full_name": "Marta Osthammer",
+      "gender": "female"
+    }
   },
   {
     "cell": 4167,
@@ -384,7 +512,21 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Swift",
+    "prominent_families": [
+      "Salahamgard",
+      "Gunnarsen",
+      "Steinblade",
+      "Fjordhammer",
+      "Salahamgard"
+    ],
+    "founder": {
+      "first_name": "Liv",
+      "family_name": "Livsen",
+      "full_name": "Liv Livsen",
+      "gender": "female"
+    }
   },
   {
     "cell": 2673,
@@ -420,7 +562,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Quladheim",
+    "prominent_families": [
+      "Wolfblade",
+      "Wulfsen",
+      "Quladstad",
+      "Quladheim"
+    ],
+    "founder": {
+      "first_name": "Sigrid",
+      "family_name": "Quladstad",
+      "full_name": "Sigrid Quladstad",
+      "gender": "female"
+    }
   },
   {
     "cell": 3827,
@@ -460,7 +615,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Alsafatheim",
+    "prominent_families": [
+      "Sudblade",
+      "Alsafatgard",
+      "Eisenhammer"
+    ],
+    "founder": {
+      "first_name": "Gunther",
+      "family_name": "Sudblade",
+      "full_name": "Gunther Sudblade",
+      "gender": "male"
+    }
   },
   {
     "cell": 3069,
@@ -492,7 +659,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Haqmiahheim",
+    "prominent_families": [
+      "Aethelsen",
+      "Adlerhammer",
+      "von Haqmiah"
+    ],
+    "founder": {
+      "first_name": "Gunther",
+      "family_name": "Guntherson",
+      "full_name": "Gunther Guntherson",
+      "gender": "male"
+    }
   },
   {
     "cell": 3589,
@@ -529,7 +708,21 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Alkhastad",
+    "prominent_families": [
+      "Ostblade",
+      "Alkhaheim",
+      "von Alkha",
+      "Alkhaberg",
+      "Alkhaberg"
+    ],
+    "founder": {
+      "first_name": "Sigrid",
+      "family_name": "Alkhagard",
+      "full_name": "Sigrid Alkhagard",
+      "gender": "female"
+    }
   },
   {
     "cell": 2805,
@@ -569,7 +762,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Albirkhanberg",
+    "prominent_families": [
+      "von Albirkhan",
+      "Karlson",
+      "Thorinsen"
+    ],
+    "founder": {
+      "first_name": "Nora",
+      "family_name": "Goldblade",
+      "full_name": "Nora Goldblade",
+      "gender": "female"
+    }
   },
   {
     "cell": 3946,
@@ -613,7 +818,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Westhammer",
+    "prominent_families": [
+      "Hofblade",
+      "Kaamaaremiberg",
+      "von Kaamaaremi",
+      "Kaamaaremigard"
+    ],
+    "founder": {
+      "first_name": "Sigrid",
+      "family_name": "the Bold",
+      "full_name": "Sigrid the Bold",
+      "gender": "female"
+    }
   },
   {
     "cell": 3210,
@@ -667,7 +885,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Swift",
+    "prominent_families": [
+      "Shablahragard",
+      "Haraldson",
+      "the Bold"
+    ],
+    "founder": {
+      "first_name": "Olga",
+      "family_name": "Olgason",
+      "full_name": "Olga Olgason",
+      "gender": "female"
+    }
   },
   {
     "cell": 3945,
@@ -704,6 +934,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Lieksylaberg",
+    "prominent_families": [
+      "Lieksylaheim",
+      "Waldblade",
+      "Hofhammer",
+      "Lieksylastad"
+    ],
+    "founder": {
+      "first_name": "Freya",
+      "family_name": "Lieksylagard",
+      "full_name": "Freya Lieksylagard",
+      "gender": "female"
+    }
   }
 ]

@@ -39,7 +39,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Burlowbugard",
+    "prominent_families": [
+      "Burlowbugard",
+      "Burlowbuheim",
+      "Conradsen"
+    ],
+    "founder": {
+      "first_name": "Thorin",
+      "family_name": "Burlowbuheim",
+      "full_name": "Thorin Burlowbuheim",
+      "gender": "male"
+    }
   },
   {
     "cell": 3639,
@@ -83,7 +95,21 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Comneyberg",
+    "prominent_families": [
+      "Adlerhammer",
+      "the Bold",
+      "Wernersen",
+      "von Comney",
+      "Rolfsen"
+    ],
+    "founder": {
+      "first_name": "Aethel",
+      "family_name": "von Comney",
+      "full_name": "Aethel von Comney",
+      "gender": "male"
+    }
   },
   {
     "cell": 3396,
@@ -114,7 +140,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Maldockgard",
+    "prominent_families": [
+      "Maldockgard",
+      "Alaricson",
+      "Eisenhammer",
+      "Maldockgard",
+      "von Maldock"
+    ],
+    "founder": {
+      "first_name": "Wendy",
+      "family_name": "Maldockberg",
+      "full_name": "Wendy Maldockberg",
+      "gender": "female"
+    }
   },
   {
     "cell": 4096,
@@ -147,7 +187,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Southinstad",
+    "prominent_families": [
+      "Ragnarsen",
+      "Thorinson",
+      "Haraldsen",
+      "Southinberg"
+    ],
+    "founder": {
+      "first_name": "Thorin",
+      "family_name": "Southinstad",
+      "full_name": "Thorin Southinstad",
+      "gender": "male"
+    }
   },
   {
     "cell": 4234,
@@ -189,7 +242,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Ulrichsen",
+    "prominent_families": [
+      "von Drolichipo",
+      "Drolichipoheim",
+      "Einarsen",
+      "the Strong"
+    ],
+    "founder": {
+      "first_name": "Karl",
+      "family_name": "the Wise",
+      "full_name": "Karl the Wise",
+      "gender": "male"
+    }
   },
   {
     "cell": 3127,
@@ -227,7 +293,20 @@
     "plaza": 0,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Kricheskgard",
+    "prominent_families": [
+      "Odinson",
+      "Kricheskgard",
+      "Kricheskberg",
+      "Kricheskstad"
+    ],
+    "founder": {
+      "first_name": "Einar",
+      "family_name": "Kricheskgard",
+      "full_name": "Einar Kricheskgard",
+      "gender": "male"
+    }
   },
   {
     "cell": 3638,
@@ -260,7 +339,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Torvaldsen",
+    "prominent_families": [
+      "von Horsfield",
+      "Horsfieldheim",
+      "Horsfieldgard",
+      "Eisenblade"
+    ],
+    "founder": {
+      "first_name": "Werner",
+      "family_name": "Horsfieldheim",
+      "full_name": "Werner Horsfieldheim",
+      "gender": "male"
+    }
   },
   {
     "cell": 2749,
@@ -300,7 +392,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Goldblade",
+    "prominent_families": [
+      "Seeblade",
+      "Beretenetsgard",
+      "Beretenetsheim",
+      "Wernersen"
+    ],
+    "founder": {
+      "first_name": "Ingvar",
+      "family_name": "Beretenetsgard",
+      "full_name": "Ingvar Beretenetsgard",
+      "gender": "male"
+    }
   },
   {
     "cell": 4103,
@@ -333,7 +438,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Aethelson",
+    "prominent_families": [
+      "Cherderestad",
+      "Baldricson",
+      "Cherdereberg",
+      "Cherdereberg"
+    ],
+    "founder": {
+      "first_name": "Gunnar",
+      "family_name": "Cherdereheim",
+      "full_name": "Gunnar Cherdereheim",
+      "gender": "male"
+    }
   },
   {
     "cell": 3387,
@@ -365,7 +483,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Baldricson",
+    "prominent_families": [
+      "Duyhavengard",
+      "von Duyhaven",
+      "Silberhammer"
+    ],
+    "founder": {
+      "first_name": "Werner",
+      "family_name": "Duyhavengard",
+      "full_name": "Werner Duyhavengard",
+      "gender": "male"
+    }
   },
   {
     "cell": 4101,
@@ -398,7 +528,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Benichatinberg",
+    "prominent_families": [
+      "Benichatinheim",
+      "Waldblade",
+      "Benichatinberg",
+      "Thorinson"
+    ],
+    "founder": {
+      "first_name": "Karl",
+      "family_name": "von Benichatin",
+      "full_name": "Karl von Benichatin",
+      "gender": "male"
+    }
   },
   {
     "cell": 3868,
@@ -429,7 +572,19 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Garachenigard",
+    "prominent_families": [
+      "Fjordblade",
+      "Hofblade",
+      "Gunnarson"
+    ],
+    "founder": {
+      "first_name": "Ivar",
+      "family_name": "von Garacheni",
+      "full_name": "Ivar von Garacheni",
+      "gender": "male"
+    }
   },
   {
     "cell": 3266,
@@ -460,7 +615,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Leifsen",
+    "prominent_families": [
+      "Besecheberg",
+      "the Stout",
+      "Ivarson"
+    ],
+    "founder": {
+      "first_name": "Greta",
+      "family_name": "von Beseche",
+      "full_name": "Greta von Beseche",
+      "gender": "female"
+    }
   },
   {
     "cell": 3871,
@@ -494,7 +661,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Eisenblade",
+    "prominent_families": [
+      "Mglingard",
+      "Seehammer",
+      "Sudhammer"
+    ],
+    "founder": {
+      "first_name": "Dietrich",
+      "family_name": "Dietrichsen",
+      "full_name": "Dietrich Dietrichsen",
+      "gender": "male"
+    }
   },
   {
     "cell": 3869,
@@ -529,7 +708,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "von Migokov",
+    "prominent_families": [
+      "Migokovberg",
+      "Eisenblade",
+      "Migokovstad",
+      "von Migokov",
+      "Ingvarson"
+    ],
+    "founder": {
+      "first_name": "Ursula",
+      "family_name": "Ursulasen",
+      "full_name": "Ursula Ursulasen",
+      "gender": "female"
+    }
   },
   {
     "cell": 2993,
@@ -566,7 +759,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Steinhammer",
+    "prominent_families": [
+      "Chernberg",
+      "Chernstad",
+      "Seeblade",
+      "Chernberg",
+      "Chernberg"
+    ],
+    "founder": {
+      "first_name": "Sigrid",
+      "family_name": "the Strong",
+      "full_name": "Sigrid the Strong",
+      "gender": "female"
+    }
   },
   {
     "cell": 3534,
@@ -597,7 +804,19 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Rorysheim",
+    "prominent_families": [
+      "Karlsen",
+      "Rorysberg",
+      "Rorysheim"
+    ],
+    "founder": {
+      "first_name": "Ragna",
+      "family_name": "Rorysgard",
+      "full_name": "Ragna Rorysgard",
+      "gender": "female"
+    }
   },
   {
     "cell": 2878,
@@ -630,7 +849,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Friedrichson",
+    "prominent_families": [
+      "the Bold",
+      "Torvaldson",
+      "Goldblade",
+      "Osthammer",
+      "von Bevetsk"
+    ],
+    "founder": {
+      "first_name": "Astrid",
+      "family_name": "the Bold",
+      "full_name": "Astrid the Bold",
+      "gender": "female"
+    }
   },
   {
     "cell": 3643,
@@ -659,6 +892,18 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Hofblade",
+    "prominent_families": [
+      "Wolfhammer",
+      "Conradsen",
+      "the Brave"
+    ],
+    "founder": {
+      "first_name": "Dagmar",
+      "family_name": "Metsalichstad",
+      "full_name": "Dagmar Metsalichstad",
+      "gender": "female"
+    }
   }
 ]

@@ -28,7 +28,21 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Totigard",
+    "prominent_families": [
+      "Siegfriedsen",
+      "Totigard",
+      "Gunnarsen",
+      "von Toti",
+      "Totiberg"
+    ],
+    "founder": {
+      "first_name": "Torvald",
+      "family_name": "Torvaldsen",
+      "full_name": "Torvald Torvaldsen",
+      "gender": "male"
+    }
   },
   {
     "cell": 4589,
@@ -55,7 +69,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Lantaheim",
+    "prominent_families": [
+      "Erikson",
+      "the Proud",
+      "Lantaheim",
+      "Lantastad"
+    ],
+    "founder": {
+      "first_name": "Maren",
+      "family_name": "Ostblade",
+      "full_name": "Maren Ostblade",
+      "gender": "female"
+    }
   },
   {
     "cell": 4594,
@@ -90,7 +117,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Kylvastad",
+    "prominent_families": [
+      "Waldhammer",
+      "Fjordhammer",
+      "Fjordblade"
+    ],
+    "founder": {
+      "first_name": "Wendy",
+      "family_name": "the Brave",
+      "full_name": "Wendy the Brave",
+      "gender": "female"
+    }
   },
   {
     "cell": 4343,
@@ -126,7 +165,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "von Kansilama",
+    "prominent_families": [
+      "the Bold",
+      "the Wise",
+      "the Stout"
+    ],
+    "founder": {
+      "first_name": "Jorunn",
+      "family_name": "Kansilamaheim",
+      "full_name": "Jorunn Kansilamaheim",
+      "gender": "female"
+    }
   },
   {
     "cell": 4720,
@@ -158,7 +209,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Fjordhammer",
+    "prominent_families": [
+      "Raajarpiogard",
+      "Raajarpiogard",
+      "the Strong",
+      "Ulrichsen"
+    ],
+    "founder": {
+      "first_name": "Alaric",
+      "family_name": "Waldblade",
+      "full_name": "Alaric Waldblade",
+      "gender": "male"
+    }
   },
   {
     "cell": 4348,
@@ -190,7 +254,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 1,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "von Kaskog",
+    "prominent_families": [
+      "Vidarsen",
+      "the Proud",
+      "Westblade"
+    ],
+    "founder": {
+      "first_name": "Vidar",
+      "family_name": "Vidarsen",
+      "full_name": "Vidar Vidarsen",
+      "gender": "male"
+    }
   },
   {
     "cell": 4839,
@@ -221,7 +297,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Nordhammer",
+    "prominent_families": [
+      "Gunnarsen",
+      "the Wise",
+      "Kelvastad",
+      "the Bold"
+    ],
+    "founder": {
+      "first_name": "Torvald",
+      "family_name": "Kelvaheim",
+      "full_name": "Torvald Kelvaheim",
+      "gender": "male"
+    }
   },
   {
     "cell": 5106,
@@ -261,7 +350,21 @@
     "plaza": 0,
     "walls": 0,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Rajoriheim",
+    "prominent_families": [
+      "Baldricson",
+      "Rajorigard",
+      "Rajoristad",
+      "Einarsen",
+      "the Strong"
+    ],
+    "founder": {
+      "first_name": "Stein",
+      "family_name": "Rajoriberg",
+      "full_name": "Stein Rajoriberg",
+      "gender": "male"
+    }
   },
   {
     "cell": 4836,
@@ -298,7 +401,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Kylaskihistad",
+    "prominent_families": [
+      "Seeblade",
+      "Kylaskihiberg",
+      "Magnusson"
+    ],
+    "founder": {
+      "first_name": "Bjorn",
+      "family_name": "Bjornson",
+      "full_name": "Bjorn Bjornson",
+      "gender": "male"
+    }
   },
   {
     "cell": 4976,
@@ -330,7 +445,20 @@
     "plaza": 0,
     "walls": 1,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Vanjogard",
+    "prominent_families": [
+      "Wolfhammer",
+      "Vanjostad",
+      "von Vanjo",
+      "Haraldson"
+    ],
+    "founder": {
+      "first_name": "Jurgen",
+      "family_name": "Vanjogard",
+      "full_name": "Jurgen Vanjogard",
+      "gender": "male"
+    }
   },
   {
     "cell": 4583,
@@ -370,7 +498,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Fjordblade",
+    "prominent_families": [
+      "the Stout",
+      "Jampuheim",
+      "Friedrichson"
+    ],
+    "founder": {
+      "first_name": "Vera",
+      "family_name": "the Swift",
+      "full_name": "Vera the Swift",
+      "gender": "female"
+    }
   },
   {
     "cell": 4842,
@@ -409,7 +549,20 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Silberblade",
+    "prominent_families": [
+      "the Bold",
+      "Liepolaheim",
+      "Liepolastad",
+      "Liepolaheim"
+    ],
+    "founder": {
+      "first_name": "Aethel",
+      "family_name": "Liepolaheim",
+      "full_name": "Aethel Liepolaheim",
+      "gender": "male"
+    }
   },
   {
     "cell": 4586,
@@ -442,7 +595,21 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Wolfhammer",
+    "prominent_families": [
+      "Yrylanimaagard",
+      "von Yrylanimaa",
+      "Yrylanimaagard",
+      "Karlson",
+      "Yrylanimaaheim"
+    ],
+    "founder": {
+      "first_name": "Solveig",
+      "family_name": "Hofblade",
+      "full_name": "Solveig Hofblade",
+      "gender": "female"
+    }
   },
   {
     "cell": 5237,
@@ -475,6 +642,18 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Porvioigard",
+    "prominent_families": [
+      "Porvioiberg",
+      "Porvioiberg",
+      "Porvioistad"
+    ],
+    "founder": {
+      "first_name": "Karl",
+      "family_name": "Porvioistad",
+      "full_name": "Karl Porvioistad",
+      "gender": "male"
+    }
   }
 ]

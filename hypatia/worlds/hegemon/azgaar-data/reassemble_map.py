@@ -168,9 +168,9 @@ map_content.append(json.dumps(regiments, ensure_ascii=False, separators=(',', ':
 map_content.append(svg_map)
 map_content.append(json.dumps(cells_config, ensure_ascii=False, separators=(',', ':')))
 map_content.append(json.dumps(cells_data, ensure_ascii=False, separators=(',', ':')))
-map_content.append("states=" + json.dumps(states, ensure_ascii=False, separators=(',', ':')))
-map_content.append("cultures=" + json.dumps(cultures, ensure_ascii=False, separators=(',', ':')))
-map_content.append("burgs=" + json.dumps(burgs, ensure_ascii=False, separators=(',', ':')))
+map_content.append(json.dumps(states, ensure_ascii=False, separators=(',', ':')))
+map_content.append(json.dumps(cultures, ensure_ascii=False, separators=(',', ':')))
+map_content.append(json.dumps(burgs, ensure_ascii=False, separators=(',', ':')))
 map_content.append(json.dumps(religions, ensure_ascii=False, separators=(',', ':')))
 
 # Write the assembled map file

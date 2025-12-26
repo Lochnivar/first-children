@@ -28,7 +28,21 @@
     "plaza": 0,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Bergblade",
+    "prominent_families": [
+      "Bjornson",
+      "Ulrichsen",
+      "Dhurstad",
+      "Dhurberg",
+      "Dhurheim"
+    ],
+    "founder": {
+      "first_name": "Karl",
+      "family_name": "Dhurstad",
+      "full_name": "Karl Dhurstad",
+      "gender": "male"
+    }
   },
   {
     "cell": 2950,
@@ -60,7 +74,20 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Sawastad",
+    "prominent_families": [
+      "Sawagard",
+      "Seeblade",
+      "Baldricson",
+      "the Stout"
+    ],
+    "founder": {
+      "first_name": "Aethel",
+      "family_name": "Aethelson",
+      "full_name": "Aethel Aethelson",
+      "gender": "male"
+    }
   },
   {
     "cell": 3079,
@@ -92,7 +119,19 @@
     "plaza": 1,
     "walls": 1,
     "shanty": 1,
-    "temple": 1
+    "temple": 1,
+    "ruling_family": "Steinhammer",
+    "prominent_families": [
+      "von Somepaa",
+      "Rolfson",
+      "Berghammer"
+    ],
+    "founder": {
+      "first_name": "Odin",
+      "family_name": "the Stout",
+      "full_name": "Odin the Stout",
+      "gender": "male"
+    }
   },
   {
     "cell": 2948,
@@ -120,7 +159,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "the Wise",
+    "prominent_families": [
+      "Nordblade",
+      "Eisenhammer",
+      "Nordhammer"
+    ],
+    "founder": {
+      "first_name": "Alaric",
+      "family_name": "Quwaisadiberg",
+      "full_name": "Alaric Quwaisadiberg",
+      "gender": "male"
+    }
   },
   {
     "cell": 2946,
@@ -152,7 +203,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Mushagard",
+    "prominent_families": [
+      "Eisenblade",
+      "Silberblade",
+      "Mushaberg"
+    ],
+    "founder": {
+      "first_name": "Baldric",
+      "family_name": "Mushagard",
+      "full_name": "Baldric Mushagard",
+      "gender": "male"
+    }
   },
   {
     "cell": 2688,
@@ -191,6 +254,19 @@
     "plaza": 1,
     "walls": 0,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Magnussen",
+    "prominent_families": [
+      "Khoudantgard",
+      "von Khoudant",
+      "Sudhammer",
+      "von Khoudant"
+    ],
+    "founder": {
+      "first_name": "Vera",
+      "family_name": "Osthammer",
+      "full_name": "Vera Osthammer",
+      "gender": "female"
+    }
   }
 ]

@@ -29,6 +29,19 @@
     "plaza": 0,
     "walls": 1,
     "shanty": 0,
-    "temple": 0
+    "temple": 0,
+    "ruling_family": "Silberblade",
+    "prominent_families": [
+      "von Cao",
+      "Seehammer",
+      "Karlsen",
+      "Caoheim"
+    ],
+    "founder": {
+      "first_name": "Birgit",
+      "family_name": "Caoheim",
+      "full_name": "Birgit Caoheim",
+      "gender": "female"
+    }
   }
 ]
