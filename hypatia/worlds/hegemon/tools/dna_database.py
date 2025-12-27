@@ -38,10 +38,24 @@ class CharacterDatabase:
                 CREATE TABLE IF NOT EXISTS characters (
                     id INTEGER PRIMARY KEY AUTOINCREMENT,
                     name TEXT NOT NULL,
+                    first_name TEXT,
+                    family_name TEXT,
                     dna_hex TEXT NOT NULL,
                     parent1_id INTEGER,
                     parent2_id INTEGER,
                     birth_year INTEGER,
+                    culture TEXT,
+                    is_noble INTEGER DEFAULT 0,
+                    burg_id INTEGER,
+                    burg_name TEXT,
+                    state_name TEXT,
+                    depc_dominance REAL,
+                    depc_extroversion REAL,
+                    depc_patience REAL,
+                    depc_conformity REAL,
+                    depc_charisma REAL,
+                    developmental_stress REAL,
+                    stress_severity TEXT,
                     notes TEXT,
                     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                     FOREIGN KEY (parent1_id) REFERENCES characters(id),
@@ -56,6 +70,83 @@ class CharacterDatabase:
             cursor.execute("""
                 CREATE INDEX IF NOT EXISTS idx_parent2 ON characters(parent2_id)
             """)
+            cursor.execute("""
+                CREATE INDEX IF NOT EXISTS idx_burg_id ON characters(burg_id)
+            """)
+            cursor.execute("""
+                CREATE INDEX IF NOT EXISTS idx_culture ON characters(culture)
+            """)
+            
+            # Migrate existing tables to add new columns if they don't exist
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN first_name TEXT")
+            except sqlite3.OperationalError:
+                pass  # Column already exists
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN family_name TEXT")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN culture TEXT")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN is_noble INTEGER DEFAULT 0")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN burg_id INTEGER")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN burg_name TEXT")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN state_name TEXT")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN depc_dominance REAL")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN depc_extroversion REAL")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN depc_patience REAL")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN depc_conformity REAL")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN depc_charisma REAL")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN developmental_stress REAL")
+            except sqlite3.OperationalError:
+                pass
+            
+            try:
+                cursor.execute("ALTER TABLE characters ADD COLUMN stress_severity TEXT")
+            except sqlite3.OperationalError:
+                pass
             
             conn.commit()
     
@@ -63,16 +154,36 @@ class CharacterDatabase:
                        parent1_id: Optional[int] = None,
                        parent2_id: Optional[int] = None,
                        birth_year: Optional[int] = None,
+                       first_name: Optional[str] = None,
+                       family_name: Optional[str] = None,
+                       culture: Optional[str] = None,
+                       is_noble: bool = False,
+                       burg_id: Optional[int] = None,
+                       burg_name: Optional[str] = None,
+                       state_name: Optional[str] = None,
+                       depc_profile: Optional[object] = None,
+                       developmental_stress: Optional[float] = None,
+                       stress_severity: Optional[str] = None,
                        notes: Optional[str] = None) -> int:
         """
         Save a character to the database
         
         Args:
-            name: Character name
+            name: Character full name
             dna: DNA instance
             parent1_id: ID of first parent (optional)
             parent2_id: ID of second parent (optional)
             birth_year: Year of birth (optional)
+            first_name: First name (optional)
+            family_name: Family name (optional)
+            culture: Culture name (optional)
+            is_noble: Whether character is nobility (default: False)
+            burg_id: Burg ID (optional)
+            burg_name: Burg name (optional)
+            state_name: State name (optional)
+            depc_profile: DEPCProfile object (optional)
+            developmental_stress: Total developmental stress (optional)
+            stress_severity: Stress severity category (optional)
             notes: Optional notes about the character
             
         Returns:
@@ -80,10 +191,28 @@ class CharacterDatabase:
         """
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
+            
+            # Extract DEPC values if profile provided
+            depc_dominance = depc_profile.dominance if depc_profile else None
+            depc_extroversion = depc_profile.extroversion if depc_profile else None
+            depc_patience = depc_profile.patience if depc_profile else None
+            depc_conformity = depc_profile.conformity if depc_profile else None
+            depc_charisma = depc_profile.charisma if depc_profile else None
+            
             cursor.execute("""
-                INSERT INTO characters (name, dna_hex, parent1_id, parent2_id, birth_year, notes)
-                VALUES (?, ?, ?, ?, ?, ?)
-            """, (name, dna.to_hex(), parent1_id, parent2_id, birth_year, notes))
+                INSERT INTO characters (
+                    name, first_name, family_name, dna_hex, parent1_id, parent2_id, 
+                    birth_year, culture, is_noble, burg_id, burg_name, state_name,
+                    depc_dominance, depc_extroversion, depc_patience, depc_conformity,
+                    depc_charisma, developmental_stress, stress_severity, notes
+                )
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """, (
+                name, first_name, family_name, dna.to_hex(), parent1_id, parent2_id,
+                birth_year, culture, 1 if is_noble else 0, burg_id, burg_name, state_name,
+                depc_dominance, depc_extroversion, depc_patience, depc_conformity,
+                depc_charisma, developmental_stress, stress_severity, notes
+            ))
             conn.commit()
             return cursor.lastrowid
     
