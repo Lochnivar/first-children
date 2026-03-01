@@ -29,6 +29,7 @@ It's all one vast, indifferent quantum sea, and the First Children are the only 
 - Strong emotional or quantum imprint at death can leave a coherent pattern (classic "ghost")
 - Common on worlds with higher mortal quantum access
 - The quantum imprint creates a self-sustaining waveform that retains identity/memory
+- Ghosts degrade over time as the memory chain (identity structure) weakens; traumatic memories persist longest—see [Souls and Identity](souls-and-identity.md) for the full mechanism
 
 ### Rift Spawns
 - Some stable rift outputs on Iolinus manifest as spectral entities

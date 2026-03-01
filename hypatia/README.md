@@ -52,6 +52,7 @@ The hypatia/ directory is organized into categories similar to world-building st
 ### [Metaphysics](metaphysics/)
 - **[Quantum Foundation](metaphysics/quantum-foundation.md)** - Quantum manipulation as universal force
 - **[Coherent Patterns](metaphysics/coherent-patterns.md)** - Ghosts, spirits, and non-corporeal entities (coherent energy patterns)
+- **[Souls and Identity](metaphysics/souls-and-identity.md)** - Souls as self-anchored consciousness, memory as identity structure
 
 ### [Magic Systems](magic-systems/)
 - **[Quantumancy](magic-systems/quantumancy.md)** - Full quantum manipulation (First Children) and fragmented versions (mortals)
@@ -60,6 +61,8 @@ The hypatia/ directory is organized into categories similar to world-building st
 - **[Soul Transfer](mechanics/soul-transfer.md)** - Cross-world soul transportation mechanisms
 - **[World Creation](mechanics/world-creation.md)** - How worlds are created and bound
 - **[Liberation Operations](mechanics/liberation-operations.md)** - Patterns for freeing worlds
+- **[Trials](mechanics/trials.md)** - World-to-dungeon transformation; some worlds have been through this process
+- **LitRPG / theway** - Mechanical implementation for LitRPG-style worlds (stats, levels, gamified quantum manipulation)
 
 ### [Rules](rules/)
 - **[Cosmological Constants](rules/cosmological-constants.md)** - What must remain consistent
@@ -76,7 +79,10 @@ The hypatia/ directory is organized into categories similar to world-building st
 - **[Balance and Imbalance](philosophy/balance_philosophy.md)** - Universal philosophical principle
 
 ### [Races](races/)
-- **[Races of Hypatia](races/README.md)** - Intelligent species available across worlds
+- **[Races of Hypatia](races/README.md)** - Salad bar of species available across worlds (FC Staff, panspermia, core races)
+- **[Genetic Frameworks](races/genetic-frameworks.md)** - Genetic repo; why everything looks familiar; Earth as template repository
+- **[Genus Orcus](races/orcus/genus.md)** - Designed adversary template (Goblins, Orcs, Trolls, Ogres) for trials
+- **[Genus Draconis](races/draconis/genus.md)** - Greater Dragons (Second Children), Lesser Dragons, Kobolds, *Draconis sapiens*; taxonomic dispute
 
 ### [Worlds](worlds/)
 - **[Known Worlds](worlds/README.md)** - Framework-level documentation of known worlds

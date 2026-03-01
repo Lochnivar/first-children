@@ -94,6 +94,11 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Source of the moral framework that First Children may violate
 - Provides the cosmological "why" behind conflicts, but is absent from them
 
+**Creation and Persistence:**
+- The Prime Author can create **permanent waveforms** directly—no anchoring needed
+- Created: First Children, base reality structures, possibly fundamental forces
+- First Children cannot create permanent waveforms; they must anchor patterns in physical matter to persist (see [hypatia/metaphysics/souls-and-identity.md](hypatia/metaphysics/souls-and-identity.md) for the three types of existence)
+
 ---
 
 ## The First Children (Little 'g' Gods)
@@ -111,6 +116,9 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Worlds may be shaped by several siblings in collaboration
 - Worlds may become contested when sibling visions clash
 - Each world can have different rules, physics, and magic systems
+- **First Children cannot create permanent waveforms**—they must anchor patterns in physical matter to persist
+- World creation process: (1) manipulate quantum probabilities, (2) collapse into desired states, (3) anchor those states into physical matter; once anchored, the world persists independently (no ongoing maintenance)
+- Physical matter = First Children's solution to persistence; without anchoring, their manipulations collapse back. "Physical" = quantum waveforms anchored to persist; chemistry, physics, biology = anchored patterns running themselves
 
 **Background Detail:**
 - The "what they really are" is background world-building only
@@ -167,6 +175,42 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 
 ---
 
+## The Second Children (Greater Dragons)
+
+**Note on "Second Children":** The title refers to **creation order**, not rank. First Children were created first; the Prime Author's second creation was the Greater Dragons. Both are siblings to the Prime Author—equals, not subordinates.
+
+### Nature and Origin
+
+**What They Are:**
+- The Prime Author's second creation—direct PA creations like First Children
+- **Permanent physical waveforms**—unlike FC (glorified waveforms requiring anchoring), Greater Dragons have permanent physical bodies that cannot be destroyed
+- Near-FC quantumancy (limited by physicality but otherwise godlike)
+- Ageless, deathless, eternal—can be killed but will resurrect over years
+- Very few exist (dozens to hundreds maximum); each individually named and created by the Prime Author
+
+**Key Distinction:**
+- First Children must anchor patterns in physical matter to persist; without anchoring, their manipulations collapse
+- Greater Dragons have permanent physical waveforms—their bodies *are* the anchor; they persist without constant concentration
+- This observation inspired the First Children's genetic repository approach (anchoring in DNA/matter)—see [hypatia/races/genetic-frameworks.md](hypatia/races/genetic-frameworks.md)
+
+### Capabilities and Creation
+
+- Create **Lesser Dragons** (mortal offspring; major work, years per child)
+- Create **Kobolds** (sapient servants; easier but still costly)
+- Massive quantumancy (local scale), shapeshifting, resurrection
+- Ancient, wise, philosophical—often wiser than FC (limitation teaches; unlimited power prevents growth)
+
+### Relationship to First Children
+
+- **Sibling status**—equals, not subordinates
+- May oppose FC on principle (moral stance, sibling rivalry)
+- Cannot be stopped (permanent waveforms); respect mandatory
+- **Recommendation:** Listen to Greater Dragons; tolerate interference—not worth sibling war
+
+*For full Draconis genus (Greater Dragons, Lesser Dragons, Kobolds), see [hypatia/races/draconis/genus.md](hypatia/races/draconis/genus.md)*
+
+---
+
 ## The Multiverse Structure
 
 ### Multiple Worlds and Realms
@@ -200,6 +244,14 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - A "control" world with no magic and very little hands-on involvement by any First Children
 - Source of "Earth souls" transported to other worlds (like Iolinus)
 - There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
+- Will undergo the Trial (world-to-dungeon transformation) in the book
+- **Template repository:** Living catalog of the Prime Author's genetic frameworks; unusually high biodiversity; FC study non-sapient baselines before deploying sapient variants; humans surrounded by framework cousins (wolves, elephants, foxes, etc.) without knowing it—see [hypatia/races/genetic-frameworks.md](hypatia/races/genetic-frameworks.md)
+
+**Trials:**
+- A Trial is the world-to-dungeon transformation a world undergoes
+- Some worlds have already been through their trial
+- Distinct from "Dungeon" worlds (a world type); Trial is a process/transformation
+- See [hypatia/mechanics/trials.md](hypatia/mechanics/trials.md)
 
 **Potential Other Worlds:**
 - Framework allows for unlimited world-building
@@ -222,6 +274,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - These abilities may be persecuted, accepted, or hidden depending on the world
 - Different worlds may present quantum manipulation as different "magic" systems (spells, rituals, schools, etc.), but they're all ultimately quantum manipulation
 - **Coherent Energy Patterns:** All existence (physical bodies, ghosts, spirits, etc.) are patterns of coherent energy at the quantum layer—ghosts/spirits are looser, non-corporeal patterns (see [hypatia/metaphysics/coherent-patterns.md](hypatia/metaphysics/coherent-patterns.md))
+- **Souls and Identity:** Souls are self-anchored through consciousness; memory is structurally essential to soul persistence (see [hypatia/metaphysics/souls-and-identity.md](hypatia/metaphysics/souls-and-identity.md))
 
 **Core Limitation - The Persistence Problem:**
 - Quantumancy lets First Children collapse quantum probabilities into desired realities (rewriting existence)
@@ -457,6 +510,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Religions and beliefs
 - Geography and physics (within reason)
 - Naming conventions
+- Races (pick from framework salad bar as needed; list is expandable—see [hypatia/races/](hypatia/races/))
 
 **Story-Specific Elements:**
 - Conflict types (liberation, creation, discovery, etc.)
@@ -503,6 +557,12 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - May be called different names
 - Should have rules and limitations
 - May be persecuted, accepted, or hidden
+
+**LitRPG Worlds:**
+- When LitRPG aspects are needed for a world (stats, levels, skills, system interfaces, gamified progression), the mechanical implementation uses **theway**
+- Theway is the framework convention for gamified quantum manipulation in LitRPG-style worlds
+- **Interface:** Stat screens, inventories, and other system UI are rendered through a bio-engineered tumor in the creature's brain—the wetware that lets the creature interact with the system
+- **Storage:** Inventories, storage, and other item-storage oddities are portals to multi- or extra-dimensional spaces; the wetware serves as middleware to access, maintain, and manage that storage
 
 **Character Guidelines:**
 - Mortals are the focus (usually)
@@ -659,14 +719,14 @@ For detailed, expanded documentation on framework elements, see [hypatia/README.
 The hypatia/ directory organizes detailed supplementary documentation by category:
 
 - **[hypatia/cosmology/](hypatia/cosmology/)** - Detailed explanations of Prime Author, First Children, theological structure
-- **[hypatia/metaphysics/](hypatia/metaphysics/)** - Expanded documentation on universal forces, quantum foundation, coherent patterns (ghosts/spirits)
+- **[hypatia/metaphysics/](hypatia/metaphysics/)** - Expanded documentation on universal forces, quantum foundation, coherent patterns (ghosts/spirits), souls and identity
 - **[hypatia/magic-systems/](hypatia/magic-systems/)** - Detailed Quantumancy documentation and powers
-- **[hypatia/mechanics/](hypatia/mechanics/)** - Expanded explanations of soul transfer, world creation, liberation operations
+- **[hypatia/mechanics/](hypatia/mechanics/)** - Expanded explanations of soul transfer, world creation, liberation operations, trials
 - **[hypatia/rules/](hypatia/rules/)** - Detailed cosmological constants documentation
 - **[hypatia/guidelines/](hypatia/guidelines/)** - Expanded expansion guidelines and world creation guidance
 - **[hypatia/narrative/](hypatia/narrative/)** - Detailed story types, character types, themes documentation
 - **[hypatia/philosophy/](hypatia/philosophy/)** - Expanded balance and imbalance principle documentation
-- **[hypatia/races/](hypatia/races/)** - Detailed intelligent species documentation
+- **[hypatia/races/](hypatia/races/)** - Detailed intelligent species documentation, genetic frameworks (template repository)
 - **[hypatia/worlds/](hypatia/worlds/)** - Framework-level documentation of known worlds and their expansions/exceptions
 
 **Note:** These detailed documents provide expanded explanations and cross-references. For the authoritative framework rules, refer to FRAMEWORK.md above.
