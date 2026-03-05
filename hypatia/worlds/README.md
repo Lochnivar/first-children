@@ -67,8 +67,8 @@ World documentation at the framework level shows how each world **expands upon o
 - **Interaction mechanisms:** Soul transfer, quantum resonance, dual victory conditions, meta-game complexity
 
 ### [Mercara's Cross](mercara-cross.md)
-- **Creator:** Mercara (The Station Master) - sole creator
-  - Created as stable transit infrastructure connecting all worlds
+- **Owner:** Mercara (Communications Specialist) - created the world, invited the triad
+  - Virelle (Transit), Nummus (Banking), Legara (Contracts) built their domains by invitation
   - Neutral ground by design—"siblings need somewhere to meet that isn't anyone's territory"
 - **Status:** Infrastructure world - demonstrates solo creation for utility
 - **Defining concept:** Inter-world transit nexus that organically evolved into commercial hub
@@ -80,6 +80,7 @@ World documentation at the framework level shows how each world **expands upon o
 - A "control" world with no magic and very little hands-on involvement by any First Children
 - Source of "Earth souls" transported to other worlds (like Iolinus) for liberation operations
 - There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
+- **Earth crawl / trial:** Earth will undergo world-to-dungeon transformation. Narrative focus: human survival in a drastically changed world—walls, conversions, famine, warlords, re-linking chains, community. FC creators are background cosmology (cameos at most), not central characters.
 
 ## World Documentation
 

@@ -8,6 +8,8 @@
 
 **WARNING: Not for staff deployment. Adversary use only.**
 
+**Note:** Hobgoblins (Homo goblinus) are FC admin staff—NOT Orcus. They share goblinoid aesthetics but are Homo genus, purpose-built for bureaucracy. See [Hobgoblins](../homo/hobgoblins.md).
+
 Genus Orcus is a designed adversary template—created by First Children specifically as monster stock for trials. NOT FC Staff. Orcus species are training opponents, adversary populations, "mob spawns" for trials. They are designed obstacles to be overcome. The fundamental horror: they are created only to be killed. Self-aware enough to know it. Trapped in their role by biological imperative.
 
 ### Base Framework Characteristics

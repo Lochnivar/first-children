@@ -6,18 +6,20 @@
 
 ## Overview
 
-Hypatia has a genetic "repository"—shared templates that explain why everything looks familiar. Why humanoids? Why wolf-like, elephant-like, fox-like? Because all sapient species and their non-sapient cousins derive from the same Prime Author frameworks. The Prime Author's genetic templates express as both animals and sapient species; First Children deploy these universal templates across the multiverse. Everything in Hypatia looks like "humans" or "wolves" or "elephants" because they share the same genetic repo.
+Hypatia has a genetic "repository"—shared templates that explain why everything looks familiar. The First Children are obsessively organized; they created the repo as a communal, open-source location for races so no FC has to invent from scratch. Need a staffer? Fork *Homo sapiens* and modify it, or just use it. All FC borrow from, fork, modify, and contribute back to the same pool. This explains biological consistency across different FC domains—convergent design rather than convergent evolution. Everything in Hypatia looks like "humans" or "wolves" or "elephants" because they share the same genetic repo.
 
 ---
 
 ## The Genetic Repo
 
-**Core concept:** The Prime Author established genetic frameworks—templates that define the physical forms available across Hypatia. These frameworks express as:
+**Origin and purpose:** The First Children are obsessively organized. They created the genetic repository specifically to provide a communal, open-source location for races—so no FC has to invent from scratch. Need a staffer? Fork *Homo sapiens* and modify it, or just use it as-is. Need an adversary? Fork Orcus. The repo exists because FC wanted a shared pool to borrow from, fork, and contribute back to.
+
+**Core concept:** The genetic templates are mostly FC creations—maintained in this communal repository with no governance structure. Truly novel creatures are rare; most lifeforms have repo ancestry if traced far enough. The repo is genuinely open source, sprawling, and occasionally contradictory, with emergent results nobody specifically designed.
 
 **FC Inspiration from Greater Dragons:** First Children cannot create permanent waveforms; they must anchor patterns in physical matter to persist. The Greater Dragons (Second Children) proved that **permanent physicality is possible**—their physical waveforms persist without constant concentration. This observation inspired the genetic repository approach: anchoring patterns in physical matter (DNA, bodies) to achieve persistence. The genetic repo is, in part, FC's answer to the persistence problem—learned from observing their sibling creation.
 - **Non-sapient baselines** (elephants, wolves, tortoises, etc.)
 - **Sapient variants** (Pachi, Dog People, Chelonari, etc.)
-- **FC Staff variants** (Elves, Dwarves, Tinkari—Homo variants purpose-built for specific jobs)
+- **FC Staff variants** (Elves, Hobgoblins, Dwarves, Tinkari, Halflings—Homo variants purpose-built for specific jobs)
 
 All are genetically related within their framework. ~85% DNA similarity between sapient species and their non-sapient framework cousins. "Family resemblance" is literal.
 
@@ -25,14 +27,16 @@ All are genetically related within their framework. ~85% DNA similarity between 
 
 **Adding new races:** Need a new species? Fork the genus that matches your specifications or preferences and "commit" a new species. The repo is expandable.
 
+**The generalist failure pattern:** Generalist variants (e.g., *Camelus sapiens*, *Elephas sapiens*) have been tried across genera. The generalist model tends to fail in trials—specialists (Pachi, Sahirans, etc.) survive; generalists collapse under pressure. That's why most genera have specialists, not generalists. Homo sapiens is the latest generalist attempt; previous sapiens deployments and generalists in other genera have failed. *Manis sapiens* (Quedari) passed via passive avoidance—different outcome; FC deprioritized. (Background cosmology—FC creators are not story characters; narrative focus is human survival in a drastically changed world.)
+
 ---
 
 ## Earth's Special Status
 
-**Earth as template repository:**
-- Living catalog of the Prime Author's base frameworks
-- Unusually high biodiversity
-- First Children study non-sapient baselines before deploying sapient variants
+**Earth as reference and deployment:**
+- Unusually high biodiversity—FC study non-sapient baselines here before deploying sapient variants elsewhere
+- Many of Earth's species are repo templates deployed to this control world; others may have inspired early repo designs
+- First Children study Earth's lifeforms when creating or modifying repository templates
 - Humans surrounded by framework cousins (wolves, elephants, foxes, etc.) without knowing it
 
 **Earth animals = coworkers' cousins:**
@@ -43,18 +47,22 @@ All are genetically related within their framework. ~85% DNA similarity between 
 - Big cats = Panther relatives
 - Camels = Sahiran relatives
 - Llamas = Highwalker relatives
+- Goats = Capra Quantus (Riftkeepers) relatives
+- Pangolins = Quedari relatives
+
+**Earth's Homo culling (background cosmology):** An FC deployed Homo baseline on Earth ~2.5 million years ago and managed evolution. Six variants emerged (erectus, neanderthalensis, denisova, floresiensis, heidelbergensis, naledi, sapiens). Five were allowed to go extinct (evaluated as too specialized—Neanderthals cold-adapted, Denisovans altitude-optimized, erectus cognitively rigid, etc.); sapiens was supported as the "true generalist" variant. Earth's human history = that selection process. "We're not Earth's first humans. We're Earth's selected humans." (Cosmology context only—FC not a story character.)
 
 ---
 
 ## Framework vs. FC Staff vs. Independent
 
-**Prime Author frameworks:** The genetic templates. Available to all.
+**FC genetic repository:** The genetic templates. Mostly FC creations—communal, open source, available to all First Children.
 
 **Designated roles (exceptions):** Only two genera have explicit, assigned roles:
-- **Homo (FC Staff):** Elves, Dwarves, Tinkari, Halflings. First Children created these as purpose-built job models (admin, engineering, operations, logistics). No non-sapient baseline—they're designated staff.
+- **Homo (FC Staff):** Elves, Hobgoblins, Dwarves, Tinkari, Halflings. First Children created these as purpose-built job models (PR/communications, admin, engineering, operations, logistics). Elves = Mercara's contribution to the genetic repo—PR-focused homo staff. Hobgoblins (Homo goblinus) = admin staff. No non-sapient baseline—they're designated staff.
 - **Orcus (adversary):** Goblins, Orcs, Trolls, Ogres. FC-created specifically as trial adversaries—monster stock to be overcome. Designed adversary role. See [Genus Orcus](orcus/genus.md).
 
-**Emergent traits (the norm):** Pachi, Chelonari, Giff, Panthers, Kitsune, Sahirans, Highwalkers. Use the Prime Author's frameworks—deployed by FC or arising on worlds. Not purpose-built; they're instances of PA templates. **No designated roles.** Their traits and temperament lead naturally to certain behaviors—patience tends toward wisdom-sharing, wanderlust tends toward movement and trade, overwhelming force tends toward combat professions. **Not restricted to biomes:** Lama's efficient oxygen usage suits mountains but could suit diving (if they had fins); Camelus water conservation suits desert but could suit long hauls anywhere. Traits make them suited to niches; niches don't define them. Don't interact as equals with FC staff—but don't owe subservience either.
+**Emergent traits (the norm):** Pachi, Chelonari, Giff, Panthers, Kitsune, Sahirans, Highwalkers, Quedari. Use shared repository templates—deployed by FC or arising on worlds. Not purpose-built for specific jobs; they're instances of repo templates. **No designated roles.** Their traits and temperament lead naturally to certain behaviors—patience tends toward wisdom-sharing, wanderlust tends toward movement and trade, overwhelming force tends toward combat professions. Not all races have specific purposes; some simply are (e.g., Quedari). **Not restricted to biomes:** Lama's efficient oxygen usage suits mountains but could suit diving (if they had fins); Camelus water conservation suits desert but could suit long hauls anywhere. Traits make them suited to niches; niches don't define them. Don't interact as equals with FC staff—but don't owe subservience either.
 
 **Draconis genus (taxonomic dispute):** FC taxonomy classifies under one genus: (1) Greater Dragons (PA-created), Lesser Dragons (GD-created), Kobolds (GD-created), and (2) *Draconis sapiens* (FC-created). This is scientifically invalid—no common ancestry, different creators. FC control the taxonomic system; their classification is the institutional reality. Greater Dragons reject it. *Draconis sapiens* are the only actual genus members by FC definition but are the "fake" ones. See [Genus Draconis](draconis/genus.md).
 
@@ -65,7 +73,8 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | Framework | Non-Sapient | Sapient Species | Designated Role / Emergent Tendency | Temperament |
 |-----------|-------------|-----------------|-------------------------------------|-------------|
 | **Homo** | ??? | Humans (sapiens) | Generalist (designated) | Adaptable |
-| **Homo** | — | Elves (sylvanius) | Admin staff (designated) | Formal, detached |
+| **Homo** | — | Elves (sylvanius) | PR/communications staff (designated); Mercara's contribution | Warm, articulate, people-focused |
+| **Homo** | — | Hobgoblins (goblinus) | Admin staff (designated) | Formal, detached, protocol-obsessed |
 | **Homo** | — | Dwarves (thurinis) | Engineering staff (designated) | Gruff, practical |
 | **Homo** | — | Tinkari (technis) | DevOps staff (designated) | Frantic, helpful |
 | **Homo** | — | Halflings (halfinius) | Logistics staff (designated) | Practical, resourceful |
@@ -77,7 +86,9 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | **Vulpes** | Foxes | Kitsune (sapiens) | Tends toward information, trade, opportunism | Clever, amoral |
 | **Camelus** | Camels | Sahirans (aridus) | Water conservation, endurance—suited to desert (not restricted) | Phlegmatic, unbothered |
 | **Lama** | Llamas | Highwalkers (altitude) | Efficient O2, vigilance—suited to high terrain (not restricted) | Anxious, competent |
+| **Manis** | Pangolins | Quedari (sapiens) | No designated role; passed trial via avoidance | Patient, minimal |
 | **Canis** | Wolves/Dogs | Dog People (sapiens) | [TBD] | [TBD] |
+| **Capra** | Goats | Capra Quantus (quantus) | Transit staff at Mercara's Cross (Virelle's creation); bound to Grand Anchor | Stubborn, territorial, quantum-sensitive |
 | **Orcus** | — | Goblins (minor) | Swarm mobs (designated) | Cruel, chaotic |
 | **Orcus** | — | Orcs (sapiens) | Standard combat (designated) | Brutal, organized |
 | **Orcus** | — | Trolls (gigantus) | Elite encounters (designated) | Mournful, patient |
@@ -87,6 +98,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 *Latin epithets are taxonomic conventions; exact names may vary by world.*  
 *Homo and Orcus: designated roles (purpose-built). Other genera: emergent tendencies from traits.*  
 *Orcus genus: adversary use only. See [Genus Orcus](orcus/genus.md).*  
+*Hobgoblins (Homo goblinus) are FC admin staff—NOT Orcus. Goblins (Orcus minor) are adversaries. Same aesthetic lineage; different genus and role.*  
 *Draconis genus: NOT FC staff. FC taxonomy includes PA-created dragons (disputed). Only Draconis sapiens are FC-created (spite-built). See [Genus Draconis](draconis/genus.md).*
 
 ---
@@ -102,7 +114,7 @@ Sapient species can instinctively understand some framework cousin behaviors:
 
 ## Species Interactions
 
-**Homo species (Humans/Elves/Dwarves/Tinkari/Halflings):** Same genus = family (cousins). Different models = different jobs. Professional hierarchy (specialists > generalists in their domain). Humans don't initially know they're related.
+**Homo species (Humans/Elves/Hobgoblins/Dwarves/Tinkari/Halflings):** Same genus = family (cousins). Different models = different jobs. Elves = Mercara's contribution to the repo—PR-focused staff. Hobgoblins = admin staff (Homo goblinus; not Orcus adversaries). Professional hierarchy (specialists > generalists in their domain). Humans don't initially know they're related.
 
 **Sahiran + Highwalker handoffs:** Ultimate calm meets ultimate anxiety. Comedy through contrast. Both professionally competent. Mutual respect despite opposite temperaments.
 
@@ -110,7 +122,9 @@ Sapient species can instinctively understand some framework cousin behaviors:
 
 **Chelonari + Everyone:** Patient, wisdom-oriented; tend to help others. Mutual respect with Pachi (both choose meaning). Exhausted by Tinkari (too fast). Gentle with humans (they're traumatized).
 
-**Independent species + FC staff:** Pachi, Chelonari, Aubrei, Giff, etc. use PA templates—not FC-created. Interact with FC staff as equals or clients. Kitsune morally gray (help if paid).
+**Independent species + FC staff:** Pachi, Chelonari, Aubrei, Giff, etc. use shared repository templates—not purpose-built for specific FC jobs. Interact with FC staff as equals or clients. Kitsune morally gray (help if paid).
+
+**Quedari:** No designated role; they exist, survive, trade chitin. Patient contrast to active species. Avoid Capra quantus (too loud). Not all races have specific purposes—some simply are.
 
 **Halflings + Orcus:** Halflings provision Orcus (someone has to). Wary but professional. Track their massive consumption. Full spectrum of FC creation—some to help (Halflings), some to harm (Orcus).
 

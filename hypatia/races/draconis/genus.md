@@ -19,7 +19,7 @@ The **FC taxonomic framework** classifies under "Genus Draconis" both (1) the dr
 ## Origin and Hierarchy
 
 **Power Hierarchy:**
-1. Prime Author (creator, withdrew)
+1. Prime Author (creator; presence is structural—the substrate itself)
 2. First Children (permanent waveforms, unlimited quantumancy)
 3. Greater Dragons / Second Children (permanent physical waveforms, limited quantumancy)
 4. Lesser Dragons (mortal, very limited quantumancy)
@@ -161,7 +161,7 @@ Each is legend, not species. Individually named and created by the Prime Author.
 
 **Note:** *Draconis sapiens* are FC-created but **not** FC staff. The Draconis genus is not a staff genus—classifying it as such would be one insult too far.
 
-**Origin:** First Children creation (Epsilon)  
+**Origin:** First Children creation  
 **Purpose:** Created out of spite—sibling rivalry with Aurelion made flesh  
 **Status:** Legitimate FC repository template; the **only** actual genus member by FC taxonomy
 

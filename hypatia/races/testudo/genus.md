@@ -6,7 +6,7 @@
 
 ## Definition
 
-Genus Testudo is defined by the tortoise-derived genetic template from the Prime Author's repository. All Testudo expressions—sapient and non-sapient—share these core traits:
+Genus Testudo is defined by the tortoise-derived genetic template from the FC genetic repository. All Testudo expressions—sapient and non-sapient—share these core traits:
 
 ### Physical
 - **Shell-backed** — Protective carapace; can retreat into shell

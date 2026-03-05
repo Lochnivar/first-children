@@ -10,10 +10,12 @@ This directory contains framework cosmology documentation - the structure and na
 
 ## Contents
 
-- **[The Prime Author](big-g-god.md)** - The true deity, deistic creator
+- **[Foundational Cosmology](foundational-cosmology.md)** - Concise overview of the core cosmology
+- **[The Prime Author](big-g-god.md)** - The true deity, structural presence (the substrate itself)
 - **[First Speech](first-speech.md)** - Original conceptual framework and terminology from the Prime Author
 - **[Marcionite Theological Inspiration](marcionite-theology.md)** - Theological framework structure
 - **[First Children](first-children.md)** - Little 'g' gods, children of Prime Author
+- **[Legal Systems](legal-systems.md)** - No galactic consensus; species-specific legal codes; decentralized justice
 
 ---
 

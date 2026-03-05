@@ -78,7 +78,7 @@ See [Quantumancy](../magic-systems/quantumancy.md) for detailed breakdown.
 - **Relationships vary** - First Children can be allies, enemies, indifferent, or have complex relationships
 
 ### Limitations
-- Bound by **physical laws** established by the Prime Author before withdrawal (fundamental laws of reality, immutable constants)
+- Bound by **physical laws** established by the Prime Author (fundamental laws of reality, immutable constants)
 - Bound by **moralistic rules** (First Children constructs)—First Children are responsible for violations and enforcement
 - Cannot violate physical laws (these are immutable)
 - May violate moralistic rules, but face peer judgment and enforcement attempts
@@ -147,7 +147,7 @@ See [World Creation](../mechanics/world-creation.md) for details.
 - Bound by **physical laws** (from Prime Author) and **moralistic rules** (First Children constructs)
 - Physical laws cannot be violated (they are immutable constants of existence)
 - May respect or violate First Children moralistic rules, facing peer judgment and enforcement
-- Prime Author is deistic and non-intervening (withdrew permanently and will not return)
+- Prime Author's presence is structural—embedded in the substrate (not an active character)
 
 ## Story Roles
 

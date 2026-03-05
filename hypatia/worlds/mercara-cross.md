@@ -6,23 +6,23 @@
 
 ## Overview
 
-Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where portals between all other worlds naturally converge. Created as stable transit infrastructure by the First Child Mercara, it has organically evolved into a bustling commercial hub. The Grand Anchor provides the quantum stability necessary for safe soul transfers between worlds.
+Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where portals between all other worlds naturally converge. Mercara created it as a neutral meeting place and invited the triad (Virelle, Nummus, Legara) to build their infrastructure. Virelle built the transit systems including the Grand Anchor; it has organically evolved into a bustling commercial hub.
 
 **Core Identity:** Grand Central Station that incidentally spawned Grand Central Market
 
 ## Framework Elements Demonstrated
 
-### Solo World Creation
-- **Creator:** Mercara (The Station Master) - sole creator
-- **Original Intent:** Created stable rift nexus to connect worlds—neutral ground by design
-- **Philosophy:** "Siblings need somewhere to meet that isn't anyone's territory"
+### World Creation & Ownership
+- **Owner:** Mercara (Communications Specialist) - created the world, invited the triad
+- **Original Intent:** Created neutral meeting place for FC—"Siblings need somewhere to meet that isn't anyone's territory"
+- **The Triad:** Virelle (transit), Nummus (banking), Legara (contracts) built their domains by invitation
 - **Evolution:** Commerce emerged organically around transit infrastructure
 
-### Infrastructure Creation
-- **The Grand Anchor:** Massive quantum stabilization construct enabling safe soul transfers
-- **Portal Platforms:** Organized transit gates connecting to all worlds
-- **The Ledger:** Quantum database tracking transits for safety and contract enforcement
-- **Riftkeepers:** Specialized coherent entities created for maintenance
+### Infrastructure Creation (Four FC)
+- **Mercara:** World foundation, public spaces, Announcement Spires, Elves (PR-focused homo; her genetic repo contribution)
+- **Virelle:** Grand Anchor, portal platforms, transit systems, Capra Quantus/Riftkeepers (transit specialists)
+- **Nummus:** Banking vaults, quantum ledger, financial systems, Canis cayminus (banking staff)
+- **Legara:** Contract Halls, legal frameworks, arbitration, Kitsune (legal staff)
 
 ### Soul Transfer Hub
 - **Transit Nexus:** Central hub for all inter-world soul transfers
@@ -33,8 +33,8 @@ Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where por
 ### Neutral Ground
 - **First Children Meetings:** FC conduct negotiations on neutral territory
 - **No Territorial Claims:** Mercara maintains true neutrality
-- **Peer Relations:** Respected for providing essential infrastructure
-- **Commerce Tolerance:** Accepts market growth as long as it doesn't interfere with transit
+- **Peer Relations:** Respected for providing essential meeting space and coordination
+- **Commerce Tolerance:** Accepts market growth as long as it doesn't interfere with connection
 
 ## World-Specific Expansions
 
@@ -65,12 +65,12 @@ Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where por
 - Auction houses and professional mercenaries
 - Gray areas and black market exist
 
-**Riftkeepers:**
-- Created by Mercara specifically for maintenance role
-- Specialized coherent entities (like advanced stable rift spawns)
-- Bound to Grand Anchor (cannot leave)
-- Focus on safety, not law enforcement
-- Respected rather than resented
+**Riftkeepers (Capra Quantus):**
+- Created by Virelle for transit maintenance (goat-derived; Anchor Goats)
+- Quantum-sensitive horns; detect problems before instruments
+- Psychologically bound to Grand Anchor (cannot leave)
+- Staccato speech; scream at emergencies and dragons
+- Focus on safety, not law enforcement; respected rather than resented
 
 ## Themes
 
@@ -110,8 +110,9 @@ Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where por
 **Established Elements:**
 - Core function as transit hub
 - Market growth organic and logical
-- Mercara's role as station master
-- Riftkeepers as maintenance staff
+- Mercara's role as owner and coordinator
+- Four FC structure (Mercara + Virelle, Nummus, Legara)
+- Riftkeepers as Virelle's transit staff
 - Hero trading integrated naturally
 - Geographic structure supports stories
 

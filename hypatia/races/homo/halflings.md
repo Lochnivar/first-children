@@ -6,7 +6,7 @@
 
 ## Overview
 
-Halflings in Hypatia are First Children purpose-built logistics specialists—Homo halfinius—who handle supply chains, distribution, and coordination. Small, nimble, and practical, they get the right thing to the right place at the right time. "Everything just works" because halflings make it work. Same genus as Humans, Elves, Dwarves, and Tinkari; different model for a different job.
+Halflings in Hypatia are First Children purpose-built logistics specialists—Homo halfinius—who handle supply chains, distribution, and coordination. Small, nimble, and practical, they get the right thing to the right place at the right time. "Everything just works" because halflings make it work. Same genus as Humans, Elves, Hobgoblins, Dwarves, and Tinkari; different model for a different job.
 
 ## Framework Role: FC Staff
 
@@ -44,7 +44,7 @@ Created by First Children as purpose-built logistics specialists for divine infr
 
 ### Role During Earth Trial
 - Rarely seen (background presence)
-- Run commissaries for Elves/Dwarves/Tinkari; restock Tinkari coffee stations
+- Run commissaries for Elves/Hobgoblins/Dwarves/Tinkari; restock Tinkari coffee stations
 - Company stores at major gateway interchanges (well-lit, organized, fair prices; always offer tea/snacks)
 - Supply alien participants: Pachi, Giff, Panthers, Kitsune, Chelonari provisioned through halfling depots
 - Provision Orcus (someone has to); wary but professional; track their massive consumption
@@ -63,7 +63,7 @@ Created by First Children as purpose-built logistics specialists for divine infr
 
 ### Relationship With Other Species
 - **Humans:** Surprisingly helpful, fair traders, offer credit to desperate
-- **Elves:** Professional respect (both love documentation), different approaches
+- **Hobgoblins:** Professional respect (both love documentation), different approaches
 - **Dwarves:** Supply materials to workshops, mutual appreciation of craft
 - **Tinkari:** Keep workshops organized; Tinkari grudgingly admit it helps
 - **Orcus:** Provision them (someone has to); wary but professional; track their massive consumption

@@ -209,13 +209,18 @@ All existence operates at the quantum layer:
 - No personality stereotypes should be established for First Children
 
 ### Notable First Children — Mercara (Quick Guide)
-- **Core:** Puzzle-obsessed station-keeper of Mercara's Cross; focuses on optimizing transit schedules, gating intervals, and quantum stability.
-- **Voice & Tone:** Detail-obsessed, methodical, warmly whimsical, and gently sarcastic in public announcements.
-- **Mannerisms:** Often disguises themself as a timetable clerk, tea vendor, or conductor to observe and make micro-adjustments.
+- **Core:** Cosmic reality TV addict who owns Mercara's Cross; pure curiosity, no ulterior motive. Built it for front-row seats to mortal activity. Closest FC to empathy toward mortals—that gap is still wide. Coordinates the triad (Virelle/transit, Nummus/banking, Legara/contracts).
+- **Voice & Tone:** Enthusiastic, nosy, genuinely curious. "Tell me about yourself! What brings you here?" Mediates to hear BOTH sides (the story).
+- **Mannerisms:** Often disguises herself as a tea vendor, information clerk, or cultural event host to facilitate connections.
 - **Portrayal guidance for AI:**
-  - **Do:** Use Mercara for system/puzzle-focused scenes, logistics dilemmas, and witty timetable announcements. When asked to generate content in their voice, keep messages short, mechanically precise, and lightly teasing.
-  - **Don't:** Make Mercara omnipotent or place them above other First Children; do not invent world-core narrative prose unless explicitly requested (see `ai-rules/golden-rule-no-original-text.md`).
-- **Signature quote:** “Where we’re going, we don’t need platforms.”
+  - **Do:** Use Mercara for curiosity-driven scenes, mediation (she wants to hear both sides), welcoming arrivals. She cares about mortals more than other FC—but like TV characters. Keep her enthusiastic, nosy, slightly oblivious to her own voyeurism.
+  - **Don't:** Make Mercara omnipotent, place her above other First Children, or give her true empathy—she cares like you care about TV characters, not equals. Do not invent world-core narrative prose unless explicitly requested (see `ai-rules/golden-rule-no-original-text.md`).
+- **Signature quote:** "Welcome to my Cross. Where even warlords can have tea."
+
+### Notable First Children — Virelle (Quick Guide)
+- **Core:** Transit Autist of Mercara's Cross; autistic-level obsession with schedules, synchronization, flow & timing. Built platform rings, Grand Anchor, transit systems. Created Capra Quantus (Riftkeepers—quantum-sensitive goat-people bound to Grand Anchor).
+- **Voice & Tone:** Mechanically precise, schedule-obsessed. "The trains run on time."
+- **Portrayal guidance for AI:** Use Virelle for transit-focused scenes, schedule optimization conflicts, Riftkeeper announcements. Transit domain = complete autonomy; Mercara mediates when transit affects other domains.
 
 ### Soul Transfer
 
@@ -270,7 +275,8 @@ All existence operates at the quantum layer:
 
 **Available Races:**
 - Humans
-- Elves
+- Elves (PR/communications; Mercara's contribution)
+- Hobgoblins (admin; Homo goblinus—not Orcus)
 - Dwarves
 - Orcs
 - Halflings

@@ -6,12 +6,12 @@
 
 ## Definition
 
-Genus Vulpes is defined by the fox-derived genetic template from the Prime Author's repository. All Vulpes expressions—sapient and non-sapient—share these core traits:
+Genus Vulpes is defined by the fox-derived genetic template from the FC genetic repository. All Vulpes expressions—sapient and non-sapient—share these core traits:
 
 ### Physical
 - **Quick, agile** — Fast reflexes, nimble
 - **Attractive, charming** — Use appeal in social contexts
-- **Multiple tails** (sapient expression) — Indicate age/power
+- **Single tail with rank markings** (sapient expression) — Bands/patterns indicate mastery (contract law, negotiation); one tail always
 
 ### Temperament
 - **Clever, cunning** — Silver-tongued, quick-witted

@@ -116,7 +116,7 @@ Mercara's Cross contains over 1,247 documented platforms connecting to worlds th
 
 ### The Original Test World
 
-Platform 1 is **Protomundus** — literally "First World." This is the original test world, the very first "book" a First Child ever authored after the Prime Author withdrew.
+Platform 1 is **Protomundus** — literally "First World." This is the original test world, the very first "book" a First Child ever authored after the Prime Author had established the substrate.
 
 **The Creation:**
 - When the siblings were still young waveforms, barely coherent enough to shape reality without dissolving

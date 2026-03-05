@@ -2,46 +2,46 @@
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Races README](../README.md), [../../FRAMEWORK.md](../../FRAMEWORK.md)
+**Related:** [Races README](../README.md), [Genetic Frameworks](../genetic-frameworks.md), [../../FRAMEWORK.md](../../FRAMEWORK.md)
 
 ## Overview
 
-Elves in Hypatia are First Children purpose-built administrators—record-keepers, diplomats, and protocol specialists who serve the divine bureaucracy. Long-lived with perfect memory, they represent the "banality of evil" in their clinical detachment from mortal suffering. They are proud of serving gods and condescending to mortals.
+Elves in Hypatia are First Children purpose-built PR and communications specialists—Mercara's contribution to the genetic repository. Long-lived, articulate, and people-focused, they handle public relations, messaging, announcements, and coordination across FC infrastructure. Same genus as Humans, Hobgoblins, Dwarves, Tinkari, and Halflings; different model for a different job.
 
 ## Framework Role: FC Staff
 
 ### Origin
-Created by First Children as purpose-built administrators for divine bureaucracy.
+Created by Mercara as her contribution to the FC genetic repo. PR-focused homo staff available to all First Children—though Mercara employs them most extensively at her Cross.
 
 ### Role
-- Record-keepers for First Children
-- Diplomats between First Children
-- Messengers across worlds
-- Protocol specialists
-- Archivists of FC activities
+- Public relations, messaging, announcements
+- Communications coordination across FC infrastructure
+- Greeting arrivals, information desks, cultural events
+- Helping people navigate systems (and reporting back to Mercara when she employs them—she wants to know the stories)
 
 ### Physical Traits
 - Long-lived (centuries) for continuity
-- Perfect memory (accurate records)
-- Beautiful/graceful (represent FC well)
+- Beautiful/graceful (represent FC well; approachable presence)
+- Voice-optimized (articulate, clear, multilingual capacity)
 - Low reproduction rate (stability over growth)
 
 ### Personality
-- Precise, formal, protocol-obsessed
-- Proud of serving gods
-- Condescending to mortals
-- Excellent at bureaucracy
-- Emotionally distant (professional detachment)
-- Zero empathy for suffering (not their job)
+- Warm, articulate, people-focused
+- Genuinely interested in others (or excellent at performing it)
+- Diplomatic; skilled at de-escalation and mediation
+- Information-gathering by nature (helpful + observant)
 
 ### Story Function
-- Bureaucratic horror ("Fill out form 27-B for death processing")
-- Information source (they KNOW things)
-- Frustration (can't appeal to their empathy)
-- "Banality of evil" theme
+- Welcoming presence at hubs and waystations
+- Information source (they know the systems)
+- When employed by Mercara: "viewing crew" function—help people, report stories. Not spies; she just wants to know.
 
 ### Example Character
-Celtharin, Chief Records Administrator—847 years old. Documents events with clinical detachment. "Your death will be noted with appropriate detail. Please state your name for the record."
+Aelindra, Integration Desk—342 years old. Greets arrivals with genuine curiosity. "Welcome! What brings you here? Tell me everything—I'm fascinated."
+
+### Usage
+- **Mercara's Cross:** Primary staff for public spaces, Announcement Spires, information desks. Mercara's use: they help people and tell her what happened.
+- **Elsewhere:** Any FC can use Elves for PR, communications, or coordination roles. Mercara contributed the template; the repo is open.
 
 ## Universal Characteristics
 
@@ -49,17 +49,18 @@ Celtharin, Chief Records Administrator—847 years old. Documents events with cl
 - **Lifespan:** Very long-lived (hundreds to thousands of years, varies by world)
 - **Size:** Typically tall and slender
 - **Appearance:** Often described as graceful, ethereal, or otherworldly
-- **Memory:** Perfect or near-perfect (framework: accurate records)
+- **Memory:** Good retention (useful for continuity in communications roles)
 
-### Cognitive Abilities
-- **Intelligence:** Often associated with wisdom and learning
-- **Perspective:** Different sense of time due to longevity
-- **Patience:** Often patient due to long-term perspective
+### Framework Alignment
+- Homo genus (FC staff)
+- Designated role: PR/communications
+- Mercara's contribution to genetic repo
+- Available to all FC; most associated with Mercara's Cross
 
 ## Variations Across Worlds
 
 Worlds may present elves differently:
-- **FC Staff (primary):** Administrators serving First Children
+- **FC Staff (primary):** PR and communications specialists serving First Children
 - **Traditional:** Connection to nature, magic, or long-standing traditions
 - **Cultural:** Forest elves, high elves, dark elves, sea elves—different expressions based on world
 
@@ -67,5 +68,5 @@ Individual worlds can include, exclude, or modify this framework characterizatio
 
 ---
 
-*For races overview, see [../README.md](../README.md)*  
-*For framework overview, see [../../FRAMEWORK.md](../../FRAMEWORK.md)*
+*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*  
+*For Mercara's Cross, see [../../worlds/mercara-cross/creator-mercara.md](../../worlds/mercara-cross/creator-mercara.md)*

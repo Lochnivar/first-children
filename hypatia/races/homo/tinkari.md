@@ -6,7 +6,7 @@
 
 ## Overview
 
-Tinkari are First Children purpose-built for operations—Quantum DevOps. Where Dwarves build and Elves record, Tinkari keep things running. They monitor anchor networks, patch quantum instabilities, maintain transit systems, and program the crawl. Same role everywhere: production support. Mercara's Cross trains, Earth's transformation, theway systems, rift mitigation—if it runs, they run it.
+Tinkari are First Children purpose-built for operations—Quantum DevOps. Where Dwarves build and Hobgoblins record, Tinkari keep things running. They monitor anchor networks, patch quantum instabilities, maintain transit systems, and program the crawl. Same role everywhere: production support. Mercara's Cross trains, Earth's transformation, theway systems, rift mitigation—if it runs, they run it.
 
 ## Framework Role: FC Staff
 
@@ -41,7 +41,7 @@ Created by First Children as purpose-built operators for divine infrastructure.
 - War stories about the time the crawl almost inverted
 - Highly caffeinated—or is it that coffee is highly gnomed up? (Tinkari have made caffeine their sacrament; their brews are legendary, their tolerance higher)
 - Respect Dwarves (they built it) but don't understand why they won't just hotfix
-- Get along with Elves (they document; Tinkari need the runbooks)
+- Get along with Hobgoblins (they document; Tinkari need the runbooks)
 
 ### Story Function
 - Operational exposition (how things actually run vs. how they're supposed to)
@@ -68,17 +68,17 @@ Brixi Quickpatch, Crawl Operations—89 years old. Perpetually has one earpiece 
 ### Cognitive Abilities
 - **Pattern recognition:** Spot degradation before it cascades
 - **Improvisation:** Fix things with what's available
-- **Multitasking:** Monitor six systems while explaining the problem to an Elf
+- **Multitasking:** Monitor six systems while explaining the problem to a Hobgoblin
 
 ## Variations Across Worlds
 
 - Operational scope varies (trains vs. crawl vs. anchors)
-- Relationship to Dwarves and Elves may differ by FC
+- Relationship to Dwarves and Hobgoblins may differ by FC
 - Some Tinkari specialize (transit vs. quantum vs. theway); others are generalists
 
 ---
 
-*For FC Staff contrast, see [Dwarves](dwarves.md) and [Elves](elves.md)*  
+*For FC Staff contrast, see [Dwarves](dwarves.md) and [Hobgoblins](hobgoblins.md)*  
 *For trials/crawl context, see [../../mechanics/trials.md](../../mechanics/trials.md)*  
 *For races overview, see [../README.md](../README.md)*  
 *For framework overview, see [../../FRAMEWORK.md](../../FRAMEWORK.md)*

@@ -35,14 +35,14 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 **Note for Stories:** Details about what First Children "really are" are out of scope—they are simply gods with godly powers.
 
 ### The True God: Prime Author (Big 'G' God)
-- The **deistic** creator of the universe—a "watchmaker" who created, wound up, and withdrew forever
-- Not actively involved in world events
-- Created all First Children (many siblings—the exact number is intentionally left as a gray area), then withdrew. Not all First Children create worlds—some may never create worlds.
+- The creator of the universe—presence is **structural**, embedded in the substrate itself (the concert hall, not a performer within it)
+- Not an active character in world events—structural rather than interventionist
+- Created all First Children (many siblings—the exact number is intentionally left as a gray area). Not all First Children create worlds—some may never create worlds.
 - First Children refer to the Prime Author as "The Author" in their cosmology
 - Different worlds/mortals may have different conceptions, or none at all (e.g., Iolinus mortals have no concept of Prime Author)
 - Source of the physical laws (fundamental laws of reality)
 - Does not establish moralistic rules—these are First Children constructs
-- Not a character in stories—distant and uninvolved
+- Not a character in stories—structural presence, not personal
 
 ### The Liberator: Compassionate First Children
 - **First Children** (little 'g' gods) - children of Big 'G' God
@@ -62,7 +62,7 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 ## Theological Structure
 
 ### The Hierarchy
-1. **Big 'G' God** - The true, perfect god (deistic, uninvolved)
+1. **Big 'G' God** - The true, perfect god (structural presence—the substrate itself)
 2. **First Children** (little 'g' gods) - Children of the Big 'G' God
    - Liberators - Agents working to free worlds
    - Creators - The Demiurge, creators of worlds (some cruel)

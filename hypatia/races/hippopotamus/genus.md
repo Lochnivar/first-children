@@ -6,7 +6,7 @@
 
 ## Definition
 
-Genus Hippopotamus is defined by the hippo-derived genetic template from the Prime Author's repository. All Hippopotamus expressions—sapient and non-sapient—share these core traits:
+Genus Hippopotamus is defined by the hippo-derived genetic template from the FC genetic repository. All Hippopotamus expressions—sapient and non-sapient—share these core traits:
 
 ### Physical
 - **Massive, tank-like build** — 400+ pounds, thick hides

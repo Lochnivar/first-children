@@ -62,7 +62,7 @@ This document tracks how Iolinus conforms to the Hypatia framework. Iolinus is a
 ## Framework Rules Compliance
 
 ### Cosmological Constants
-- ✅ Prime Author (Big 'G' God) exists (deistic, non-intervening, withdrew forever) - Source of prohibitions
+- ✅ Prime Author (Big 'G' God) exists (structural presence—embedded in the substrate) - Source of prohibitions
 - ✅ Iolinus mortals are unaware of Prime Author - they believe Malachor is the only god (Malachor actively encourages this—demonstrates First Children controlling mortal awareness)
 - ✅ First Children have Quantumancy - Nala and Zeta both possess it
 - ✅ Mortals have fragmented quantum abilities - Five separate abilities on Iolinus

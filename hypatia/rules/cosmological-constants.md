@@ -14,11 +14,11 @@ These are the cosmological constants that must remain consistent across all worl
 
 ### The Prime Author
 - Prime Author (also called "Big 'G' God" in older terminology) is the true creator
-- Created reality and a cohort of First Children (many siblings—the exact number is intentionally left as a gray area), then withdrew permanently and will not return. Not all First Children create worlds—some may never create worlds.
-- Established **physical laws** (fundamental laws of reality) before withdrawal
-- Not actively involved in world events—withdrew permanently after creation and will not return
+- Created reality, established the quantum substrate, and anchored foundational coherence permanently. Big G is the only entity capable of creating truly permanent coherence
+- Created a cohort of First Children (many siblings—the exact number is intentionally left as a gray area). Not all First Children create worlds—some may never create worlds
+- Established **physical laws** (fundamental laws of reality)
+- **Presence is structural**—distributed and embedded in the substrate itself. Best understood as the concert hall rather than a performer within it. The continued existence and coherent operation of the universe is proof of sustained presence. "Present" vs. "absent" is a category error—beings looking for a person when the presence has become structural
 - Does not enforce moralistic rules—these are First Children constructs
-- **Withdrawal is permanent and final**—the Prime Author has left the library (Hypatia) forever
 
 ### First Children
 - First Children have Quantumancy (full quantum manipulation)

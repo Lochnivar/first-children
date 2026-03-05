@@ -6,7 +6,7 @@
 
 ## Definition
 
-Genus Lama is defined by the llama-derived genetic template from the Prime Author's repository. All Lama expressions—sapient and non-sapient—share these core traits:
+Genus Lama is defined by the llama-derived genetic template from the FC genetic repository. All Lama expressions—sapient and non-sapient—share these core traits:
 
 ### Physical
 - **Efficient oxygen usage** — Large lungs, extract more from thin air; could suit diving (if they had fins), high altitude, cold

@@ -6,7 +6,7 @@
 
 ## Definition
 
-Genus Elephas is defined by the elephant-derived genetic template from the Prime Author's repository. All Elephas expressions—sapient and non-sapient—share these core traits:
+Genus Elephas is defined by the elephant-derived genetic template from the FC genetic repository. All Elephas expressions—sapient and non-sapient—share these core traits:
 
 ### Physical
 - **Large, strong build** — Massive frame, tank-like

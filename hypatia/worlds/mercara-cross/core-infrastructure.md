@@ -17,7 +17,7 @@ Mercara's Cross is built around the Grand Anchor—a massive quantum stabilizati
 - Crystalline structure visible from anywhere in the world
 - Stabilizes all rift connections simultaneously
 - Most sophisticated anchor network in Hypatia
-- Administered by Riftkeepers (Mercara's maintenance staff)
+- Administered by Riftkeepers (Capra Quantus—Virelle's goat-derived transit specialists)
 
 **Framework Alignment:**
 - Anchors are stable constructs (framework concept)

@@ -6,7 +6,7 @@
 
 ## Definition
 
-Genus Panthera is defined by the big-cat-derived genetic template from the Prime Author's repository. All Panthera expressions—sapient and non-sapient—share these core traits:
+Genus Panthera is defined by the big-cat-derived genetic template from the FC genetic repository. All Panthera expressions—sapient and non-sapient—share these core traits:
 
 ### Physical
 - **Predator template** — Sleek, agile, deadly

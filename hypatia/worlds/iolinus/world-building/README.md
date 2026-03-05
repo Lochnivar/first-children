@@ -8,7 +8,7 @@ Complete index of all world-building elements organized by category.
 ## Cosmology & Theology
 
 ### Framework Elements
-- [The Big 'G' God](../../../../cosmology/big-g-god.md) - True deity, deistic watchmaker (Framework element)
+- [The Big 'G' God](../../../../cosmology/big-g-god.md) - True deity, structural presence (Framework element)
 - [Marcionite Theological Inspiration](../../../../cosmology/marcionite-theology.md) - Foundation: Demiurge vs. True God cosmology (Framework element)
 
 ### Iolinus-Specific

@@ -6,7 +6,11 @@
 
 ## Overview
 
-Humans (Homo sapiens) are the baseline intelligent species in Hypatia—the generalist staff of the Homo genus. Adaptable, present on many worlds, and the template from which Earth souls are drawn for transfer operations. Same genus as Elves, Dwarves, Tinkari, and Halflings; the generalist model rather than purpose-built specialists.
+Humans (Homo sapiens) are the baseline intelligent species in Hypatia—the generalist staff of the Homo genus. Adaptable, present on many worlds, and the template from which Earth souls are drawn for transfer operations. Same genus as Elves, Hobgoblins, Dwarves, Tinkari, and Halflings; the generalist model rather than purpose-built specialists.
+
+**The generalist controversy:** Generalists tend to fail in trials—across genera, not just Homo. Camelus sapiens, Elephas sapiens, etc. may have been tried; specialists (Sahirans, Pachi) survive. Homo sapiens is the latest generalist attempt; previous sapiens deployments (Terra Prime, New Terra, Humanity's Hope) and generalists in other genera have failed.
+
+**Narrative focus:** The story is about humans surviving in a drastically changed world—walls, conversions, famine, warlords, re-linking chains, community. FC creators are background cosmology, not characters (cameos at most).
 
 ## Framework Role
 
@@ -15,6 +19,12 @@ Humans (Homo sapiens) are the baseline intelligent species in Hypatia—the gene
 - Baseline for comparison with other Homo variants
 - Source of "Earth souls" for transfer to other worlds
 - Non-sapient baseline: unknown or extinct (other Homo species)
+
+### Earth's Homo Culling (background cosmology)
+- An FC deployed Homo on Earth ~2.5 million years ago; managed evolution
+- Six variants emerged; five allowed to go extinct (too specialized)
+- Sapiens supported as "true generalists"
+- "We're not Earth's first humans. We're Earth's selected humans."
 
 ## Universal Characteristics
 

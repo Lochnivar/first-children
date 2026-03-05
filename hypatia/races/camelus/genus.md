@@ -6,7 +6,7 @@
 
 ## Definition
 
-Genus Camelus is defined by the camel-derived genetic template from the Prime Author's repository. All Camelus expressions—sapient and non-sapient—share these core traits:
+Genus Camelus is defined by the camel-derived genetic template from the FC genetic repository. All Camelus expressions—sapient and non-sapient—share these core traits:
 
 ### Physical
 - **Water conservation** — Humped backs (water/fat storage), can go days without; efficient use

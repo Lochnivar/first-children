@@ -44,7 +44,7 @@ All individual stories and worlds must conform to the framework rules, but they 
 The hypatia/ directory is organized into categories similar to world-building structures:
 
 ### [Cosmology](cosmology/)
-- **[The Prime Author](cosmology/big-g-god.md)** - The true deity, deistic creator
+- **[The Prime Author](cosmology/big-g-god.md)** - The true deity, structural presence (the substrate itself)
 - **[First Speech](cosmology/first-speech.md)** - Original conceptual framework and terminology from the Prime Author
 - **[Marcionite Theological Inspiration](cosmology/marcionite-theology.md)** - Theological framework structure
 - **[First Children](cosmology/first-children.md)** - Little 'g' gods, children of Prime Author
@@ -93,7 +93,7 @@ The hypatia/ directory is organized into categories similar to world-building st
 The Hypatia framework establishes:
 
 ### Core Cosmological Structure
-- **Big 'G' God** - The deistic creator who established the laws
+- **Big 'G' God** - The creator whose presence is structural (the substrate itself); established the laws
 - **First Children** - Ancient immortal beings with Quantumancy
 - **Multiple Worlds** - Worlds created by First Children
 - **Universal Forces** - Quantumancy, soul transfer, life force binding
