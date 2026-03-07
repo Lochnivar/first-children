@@ -62,9 +62,7 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 
 ### Infrastructure-Bound (Mercara's Cross)
 - **[Capra Quantus (Riftkeepers)](capra/quantus.md)** - Virelle's transit staff; goat-derived; quantum-sensitive; bound to Grand Anchor; see [Mercara's Cross Riftkeepers](../worlds/mercara-cross/riftkeepers.md)
-
-### To Be Defined
-- **Dog People (Canis)** - [TBD]
+- **[Cayminus (Coyote Folk)](canis/cayminus.md)** - Nummus's banking staff; coyote-derived; contractual, opportunistic; banking vaults, quantum ledger
 
 ## Designated Roles vs. Emergent Tendencies
 
