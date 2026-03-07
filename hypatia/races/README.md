@@ -44,6 +44,8 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Highwalkers](lama/highwalkers.md)** - Llama people; efficient O2, vigilance—suited to high terrain (not restricted)
 - **[Quedari](manis/quedari.md)** - Pangolin people; passed trial via passive avoidance; no designated role—they simply are
 - **[Ursine Marshals](ursus/marshals.md)** - Bear people; emergent law enforcement (marshals, rangers); no designated role—traits suit the work
+- **[Iridari (Pristails)](ratufa/iridari.md)** - Giant squirrel people; color-changing emotional tails; rooftop broadcasters, information sharers; no designated role—traits suit the work
+- **[Corvani (Blackwings)](corvus/morticus.md)** - Crow people; hyper-literal, death-framed; emergent healers and chain-menders; no designated role—traits suit the work
 
 ### Core Races
 - **[Orcs](orcus/orcs.md)** - Orcus sapiens; trial adversary (standard combat)
@@ -73,6 +75,8 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 **Emergent tendencies (all other genera):** Traits lead to behaviors; no assigned roles.
 - Pachi, Chelonari: Tend toward wisdom-sharing, contemplation, helping
 - Ursine: Tend toward law enforcement (marshals, rangers)—solitary, territorial, independent traits suit the work
+- Iridari: Tend toward broadcasting, information-sharing—social, observational, validation-seeking traits suit the work
+- Corvani: Tend toward healing, chain-mending—hyper-literal, death-framed, pattern-recognition traits suit the work
 - Aubrei: Naval Testudo; more aggressive; same core traits as Chelonari
 - Giff, Panthers, Kitsune: Tend toward combat, precision, or trade (economy triangle)
 - Sahirans, Highwalkers: Traits suit desert/mountain (efficient O2, water conservation, endurance)—not biome-locked

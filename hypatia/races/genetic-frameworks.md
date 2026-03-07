@@ -49,6 +49,8 @@ All are genetically related within their framework. ~85% DNA similarity between 
 - Llamas = Highwalker relatives
 - Goats = Capra Quantus (Riftkeepers) relatives
 - Pangolins = Quedari relatives
+- Squirrels = Iridari (Pristails) relatives
+- Crows = Corvani (Blackwings) relatives
 
 **Earth's Homo culling (background cosmology):** An FC deployed Homo baseline on Earth ~2.5 million years ago and managed evolution. Six variants emerged (erectus, neanderthalensis, denisova, floresiensis, heidelbergensis, naledi, sapiens). Five were allowed to go extinct (evaluated as too specialized—Neanderthals cold-adapted, Denisovans altitude-optimized, erectus cognitively rigid, etc.); sapiens was supported as the "true generalist" variant. Earth's human history = that selection process. "We're not Earth's first humans. We're Earth's selected humans." (Cosmology context only—FC not a story character.)
 
@@ -87,6 +89,8 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | **Camelus** | Camels | Sahirans (aridus) | Water conservation, endurance—suited to desert (not restricted) | Phlegmatic, unbothered |
 | **Lama** | Llamas | Highwalkers (altitude) | Efficient O2, vigilance—suited to high terrain (not restricted) | Anxious, competent |
 | **Manis** | Pangolins | Quedari (sapiens) | No designated role; passed trial via avoidance | Patient, minimal |
+| **Ratufa** | Squirrels | Iridari (iridescens) | Tends toward broadcasting, information-sharing | Social, observational, validation-seeking |
+| **Corvus** | Crows | Corvani (morticus) | Tends toward healing, chain-mending | Hyper-literal, death-framed, pattern-obsessed |
 | **Canis** | Wolves/Dogs | Dog People (sapiens) | [TBD] | [TBD] |
 | **Capra** | Goats | Capra Quantus (quantus) | Transit staff at Mercara's Cross (Virelle's creation); bound to Grand Anchor | Stubborn, territorial, quantum-sensitive |
 | **Orcus** | — | Goblins (minor) | Swarm mobs (designated) | Cruel, chaotic |
