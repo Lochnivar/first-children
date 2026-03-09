@@ -2,7 +2,7 @@
 
 **Purpose:** Comprehensive overview of the Hypatia over-universe framework for AI assistants  
 **Scope:** Framework-only - universal elements that apply across all worlds  
-**Last Updated:** December 2024
+**Last Updated:** March 2025
 
 ---
 
@@ -222,6 +222,11 @@ All existence operates at the quantum layer:
 - **Voice & Tone:** Mechanically precise, schedule-obsessed. "The trains run on time."
 - **Portrayal guidance for AI:** Use Virelle for transit-focused scenes, schedule optimization conflicts, Riftkeeper announcements. Transit domain = complete autonomy; Mercara mediates when transit affects other domains.
 
+### Notable First Children — The Triad (Mercara's Cross)
+- **Nummus:** Banking domain; created/selected Canis cayminus (Coyote folk) as banking staff. Obsession: finance, ledgers, numerical perfection. Complete autonomy over banking ops.
+- **Legara:** Contracts domain; Kitsune as legal staff (recruited). Obsession: binding precision, perfect language. Contract Halls, arbitration.
+- **Mercara** coordinates the triad; each has complete autonomy in their domain.
+
 ### Soul Transfer
 
 **Mechanism:**
@@ -247,6 +252,38 @@ All existence operates at the quantum layer:
 - Allows for standalone or interconnected narratives
 - Focus on character-driven plots
 
+### Trials
+
+**Definition:** A Trial is the world-to-dungeon transformation that a world undergoes. Some worlds have completed their trial; others (like Earth) have not yet undergone it. Distinct from "Dungeon" worlds (e.g., Delverium)—a Trial is a *process* or *transformation*, not a world type.
+
+**Narrative focus:** The story is about **humans surviving in a drastically changed world**—adaptation, community, re-linking chains, holding median camps, dealing with walls and conversions and warlords. FC creators are background cosmology (cameos at most), not central characters.
+
+**Generalist failure (background cosmology):** Generalist variants typically fail under trial pressure. Specialists (Pachi, Sahirans, etc.) survive; generalists (Camelus sapiens, Elephas sapiens, previous Homo sapiens deployments) tend to collapse. Earth's crawl is high-stakes for sapiens—but the narrative focus is human survival, not FC vindication.
+
+### Earth Trial Structure
+
+**Timing:** Walls appear during the **Year of Preparation**—one year before the trial begins. Not human built; how they arrive is unknown.
+
+**Basic structure:** Roads create corridors with walls on either side. Spaces between corridors are rooms. Rooms are defined organically by corridor walls—county lines are irrelevant. Major arterial roadways (Interstates, US Highways, State Highways, or international equivalent) qualify as corridor material. Rails do not; they are cut but can be torn up and rerouted.
+
+**Plazas (gaps):** Where qualifying highways intersect, walls have gaps (~half-kilometer radius). Overpasses/underpasses preserved at major intersections. Bridges over waterways preserved.
+
+**Wall extent:** Physical barriers. Extend underground (severing sewers, power, data lines) and high enough to block aircraft and balloons.
+
+**Waterways:** Rivers pass through tunnels in walls where bisected; remain navigable; serve as escape valves, not primary corridors.
+
+**Result:** Urban areas shredded into multi-room networks; small towns bisected; rural areas have large open rooms; parallel highways create stranded strips. Regional map awareness = critical survival skill.
+
+### Legal Systems
+
+**No galactic consensus.** No unified legal code, no United Species Council, no Galactic Court. FC are immature, scattered, mostly absent—they don't coordinate grand governance. The multiverse is a loose collection of worlds, each with its own survivors, rules, and scars.
+
+**Why:** FC immaturity; Mercara's Cross is the one exception (neutral meeting place, not a capital); isolation by design; from Earth's POV—sudden intrusion of strangers with conflicting rules, no overarching authority.
+
+**In practice:** Each species brings its own legal code. Patchwork of overlapping jurisdictions, voluntary agreements, raw power dynamics. Species codes: Pachi (restitution-based), Chelonari (chain coherence), Cayminus (contractual), Kitsune (word-bound), Capra (territorial), Orcus (might-makes-right), Humans (fragmented—warlord zones, median camps, survival rules).
+
+**On Earth:** Human zones (pre-crawl law); alien districts (species law); wilderness (Rangers—"don't be a problem"); gray areas (whoever has guns or best deal). **Ursine Marshals & Rangers:** Contracted to enforce local law in alien districts; self-appointed in wilderness; impartial, effective; "We need order. We don't care if it's pretty."
+
 ---
 
 ## Universal Philosophy
@@ -268,23 +305,56 @@ All existence operates at the quantum layer:
 
 ## Universal Races
 
-**Framework Provides:**
-- Universal intelligent species that can exist across different worlds
-- Each race has core characteristics that remain consistent
-- World-specific cultural variations are allowed
+**Framework Provides:** Salad bar of species—worlds choose which to include. **Genetic repo** explains why everything looks familiar (shared FC templates). **Designated vs. emergent:** Only Homo (staff) and Orcus (adversaries) have designated roles; all others have emergent tendencies from traits.
 
-**Available Races:**
-- Humans
-- Elves (PR/communications; Mercara's contribution)
-- Hobgoblins (admin; Homo goblinus—not Orcus)
-- Dwarves
-- Orcs
-- Halflings
-- Kitsune
-- Giff
-- (Others as needed)
+### FC Staff (Homo—Purpose-Built)
+- **Humans** — Generalist staff, baseline
+- **Elves** — PR/communications; Mercara's contribution to genetic repo
+- **Hobgoblins** — Admin, record-keepers (Homo goblinus—NOT Orcus)
+- **Dwarves** — Technical/engineering
+- **Tinkari** — Operations, Quantum DevOps
+- **Halflings** — Logistics, supply chains
+
+### Panspermia (No Designated Roles—Traits Lead to Emergent Behaviors)
+- **Pachi** — Elephant people; movement, trade, contemplation
+- **Chelonari** — Tortoise people; helping others with wisdom
+- **Aubrei** — Naval tortoise; more aggressive
+- **Giff** — Hippo people; strength-based professions
+- **Panthers** — Feline people; precision work, solitude
+- **Kitsune** — Fox people; information, trade, opportunism
+- **Sahirans** — Camel people; desert-suited (not restricted)
+- **Highwalkers** — Llama people; high terrain (not restricted)
+- **Quedari** — Pangolin people; passed trial via avoidance; no role—they simply are
+- **Ursine Marshals** — Bear people; emergent law enforcement (marshals, rangers)
+- **Iridari (Pristails)** — Giant squirrel people; color-changing emotional tails; rooftop broadcasters
+- **Corvani (Blackwings)** — Crow people; hyper-literal, death-framed; emergent healers, chain-menders
+
+### Adversaries (Orcus—Trial Use Only)
+- **Goblins** — Swarm mobs
+- **Orcs** — Standard combat
+- **Trolls** — Elite encounters
+- **Ogres** — Tank/siege
+
+### Infrastructure-Bound (Mercara's Cross)
+- **Capra Quantus (Riftkeepers)** — Virelle's transit staff; goat-derived; bound to Grand Anchor
+- **Cayminus (Coyote Folk)** — Nummus's banking staff; contractual, opportunistic
+
+### Other
+- **Genus Draconis** — Taxonomic dispute; Greater Dragons (PA), Lesser Dragons, Kobolds, *Draconis sapiens* (FC-created)
 
 **Documentation:** See `hypatia/races/` for detailed race documentation.
+
+---
+
+## Known Worlds (Quick Reference)
+
+**Mercara's Cross:** Liminal nexus where portals converge. Mercara (owner) + Virelle (transit) + Nummus (banking) + Legara (contracts). Grand Anchor stabilizes rifts. Key platforms: 7 (Delverium), 12 (Hegemon), **934 (Earth)**, 1237 (Iolinus—SEALED).
+
+**Earth:** Will undergo trial (world-to-dungeon transformation). Narrative focus: human survival in drastically changed world. Manchester (Platform 934 terminus) = ground zero for integration. Prep Year → walls → corridors/rooms. Refugees arrive via Platform 934; species bring own legal codes; no galactic authority.
+
+**Iolinus:** Malachor's creation; sealed (Platform 1237 blocked). Liberation operations; Nala working to free mortals.
+
+**Documentation:** See `hypatia/worlds/` for full world documentation.
 
 ---
 
@@ -426,6 +496,15 @@ Individual world documentation contains world-specific details that are either:
    - Quantum ability fragmentation is world-specific
    - Cultural interpretations vary widely
 
+7. **Don't assume galactic government or unified law**
+   - No United Species Council, no Galactic Court
+   - Each species has its own legal code; incompatible
+   - Mercara's Cross is the one regulated hub—and even there, enforcement is patchwork
+
+8. **Don't confuse Trial with Dungeon world**
+   - Trial = transformation process (world undergoes it)
+   - Dungeon world = world type (e.g., Delverium) with gamified mechanics
+
 ---
 
 ## Framework Documentation Structure
@@ -435,16 +514,16 @@ Individual world documentation contains world-specific details that are either:
 - `hypatia/README.md` - Framework documentation overview
 
 **Detailed Documentation:**
-- `hypatia/cosmology/` - Prime Author, First Children, First Speech, theological structure
+- `hypatia/cosmology/` - Prime Author, First Children, First Speech, theological structure, **legal systems**
 - `hypatia/metaphysics/` - Quantum foundation, coherent patterns, universal forces
 - `hypatia/magic-systems/` - Quantumancy and powers
-- `hypatia/mechanics/` - Soul transfer, world creation, liberation operations
+- `hypatia/mechanics/` - Soul transfer, world creation, liberation operations, **trials**, **Earth trial structure**
 - `hypatia/rules/` - Cosmological constants, what must remain consistent
 - `hypatia/guidelines/` - Expansion guidelines, how to create new worlds
 - `hypatia/narrative/` - Story types, character types, themes
 - `hypatia/philosophy/` - Balance and imbalance principle
-- `hypatia/races/` - Intelligent species available across worlds
-- `hypatia/worlds/` - Framework-level documentation of known worlds
+- `hypatia/races/` - Intelligent species available across worlds (genetic repo, genus structure)
+- `hypatia/worlds/` - Framework-level documentation of known worlds (Iolinus, Mercara's Cross, Earth, etc.)
 
 ---
 
@@ -464,6 +543,9 @@ Individual world documentation contains world-specific details that are either:
 - **Mortal Awareness:** Varies by world (open, closed, or actively encouraged creator-as-only-god belief)
 - **Soul Transfer:** Requires mechanisms (greyrose or equivalent)
 - **Liberation Operations:** Complex, morally grey, often hidden
+- **Trials:** World-to-dungeon transformation; Earth undergoes this; Year of Preparation; walls/corridors/rooms/plazas
+- **No galactic consensus:** FC immature; each species has own legal code; Ursine marshals bridge jurisdictions
+- **Races:** Salad bar; genetic repo; designated (Homo, Orcus) vs. emergent (all others)
 
 ---
 
