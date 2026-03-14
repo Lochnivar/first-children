@@ -16,6 +16,9 @@ Cayminus (*Canis cayminus*) are coyote-based anthropomorphic people. Common name
 - Punishment: Debt slavery until repaid (with interest)
 - "You entered the agreement. You pay the price. Simple."
 
+### Truism
+*"Sound books, steady hands, and a great deal of patience."*
+
 ## Role at Mercara's Cross
 
 - Banking operations (Nummus's domain)
@@ -27,6 +30,10 @@ Cayminus (*Canis cayminus*) are coyote-based anthropomorphic people. Common name
 
 - **Capra (Riftkeepers):** Uncomfortable—goat musk
 - **Kitsune:** Legara's legal staff; complementary roles (banking + contracts)
+
+## Author Notes (Feel)
+
+**Nummus context:** Nummus is the most "Trump-like" FC—chaotic, provocative, likely to offend. A Cayminus job is half banker, half apologizing to the people Nummus pissed off. Sound books, steady hands, patience with the ledgers *and* patience with the political fallout.
 
 ---
 

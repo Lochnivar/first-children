@@ -11,18 +11,18 @@ Genus Camelus is defined by the camel-derived genetic template from the FC genet
 ### Physical
 - **Water conservation** — Humped backs (water/fat storage), can go days without; efficient use
 - **Endurance build** — Built for long hauls, not speed
-- **Heat resistance** — Broad padded feet, closable nostrils (suits desert, not restricted to it)
+- **Broad padded feet, closable nostrils** — Particulate protection
 
 ### Temperament
 - **Phlegmatic** — Nothing bothers them; unflappable calm
-- **Economical** — Minimal energy expenditure; panic = death in desert
+- **Economical** — Minimal energy expenditure; panic wastes resources
 - **Deadpan** — Low emotional display, monotone delivery
 
 ### Framework
 - **Non-sapient baseline:** Camels (Earth template)
-- **Sapient expression:** [Sahirans](sahirans.md) — not restricted to desert; water conservation, endurance, phlegmatic calm make them suited to it (could suit other long-haul, low-resource niches)
+- **Sapient expression:** [Djemari](djemari.md) — water conservation, endurance, phlegmatic calm; long-haul, low-resource efficiency
 
 ---
 
-*For species expressions, see [Sahirans](sahirans.md)*  
+*For species expressions, see [Djemari](djemari.md)*  
 *For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*

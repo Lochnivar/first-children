@@ -26,8 +26,9 @@ World documentation at the framework level shows how each world **expands upon o
 ## Known Worlds
 
 ### [Iolinus](iolinus.md)
-- **Creator:** Malachor (Zeta) - sole creator
-  - Created Iolinus against peer judgment (judged too immature)
+- **Creator:** Malachor (Zeta) - claimed Iolinus as his own
+  - Ripped off a bootleg copy of Earth thousands of years ago—too lazy to do his own work; the bootleg proved he was too immature (what really pissed off the FC)
+  - Almost exclusively human, no Panspermia species
   - Sought permanent dominion (embedded himself via the Godstone—Iolinus-specific artifact)
 - **Liberator:** Nala
   - Took interest in Iolinus after observing Malachor's abuse
@@ -75,12 +76,19 @@ World documentation at the framework level shows how each world **expands upon o
 - **Framework demonstration:** Soul transfer hub, infrastructure creation, neutral ground, commercial evolution
 - **Integration:** Connects all worlds—Platform 7 (Delverium), Platform 12 (Hegemon/Stratara), Platform 934 (Earth)
 
-### Earth
+### [Algernon](algernon.md)
+- **Creator:** Keyes — sole creator/operator
+- **Purpose:** Pure research — can physical beings undergo phase transition to stable waveforms under increasing energetic load?
+- **Defining concept:** Medieval fantasy world built around a single central dungeon; everything orbits it. The dungeon is the experiment's delivery mechanism. LitRPG framing is instrumentation.
+- **Status:** Nobody has ever made it. Charlie (Orcus Sapiens, quota fill, chose human at character gen) might be the first.
+- **Framework demonstration:** FC as experiment operator, soul transfer (quota fills from Earth), phase transition hypothesis, Flowers for Algernon structure (identity under pressure)
+
+### [Earth](earth/)
 - One of the worlds in Hypatia (not external)
 - A "control" world with no magic and very little hands-on involvement by any First Children
 - Source of "Earth souls" transported to other worlds (like Iolinus) for liberation operations
 - There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
-- **Earth crawl / trial:** Earth will undergo world-to-dungeon transformation. Narrative focus: human survival in a drastically changed world—walls, conversions, famine, warlords, re-linking chains, community. FC creators are background cosmology (cameos at most), not central characters.
+- **Earth trial:** Final vetting for Homo sapiens as generalist FC staff. World-to-dungeon transformation—administrative-boundary rooms, limited-access corridors, Gatelocks, integration metric. Independent contractors deploy via Platform 934. Narrative focus: human survival in a drastically changed world. See [Earth Trial Mechanics](earth/trial-mechanics.md) and [Earth AI Refresher](earth/AI-REFRESHER.md).
 
 ## World Documentation
 

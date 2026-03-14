@@ -89,16 +89,16 @@ See [Quantumancy](../magic-systems/quantumancy.md) for detailed breakdown.
 ## Known Examples
 
 ### Nala (Iolinus Example)
-- **Role:** Liberator
-- **Personality:** Compassionate, wise, pragmatic
-- **Mission:** Freeing worlds from cruel creators
+- **Role:** Liberator (benevolence open—may be pissed-off sister running experiment)
+- **Personality:** Pragmatic; compassionate toward mortals not assumed
+- **Mission:** Freeing worlds from cruel creators—or stress-testing how much chaos a closed system can take before it breaks
 - **Limitations:** Freedom of action on created worlds is limited; can only speak directly to souls outside of creator's awareness
 - **Methods:** Hidden operations, careful planning, uses agents with outside perspective
 
 ### Zeta/Malachor (Iolinus Example)
-- **Role:** Creator/Antagonist
-- **Personality:** Immature, spoiled, cruel, but clever
-- **Actions:** Created Iolinus against peer judgment (other First Children judged him too immature), bound life force to creation
+- **Role:** Claimant/Antagonist (didn't create—ripped off a bootleg)
+- **Personality:** Immature, spoiled, cruel, lazy, but clever
+- **Actions:** Ripped off a bootleg copy of Earth thousands of years ago; claimed Iolinus against peer judgment (the bootleg proved he was too immature), bound life force to his bootleg
 - **Methods:** Uses life force binding (Iolinus-specific tool) as hostage mechanism to avoid punishment
 
 ## World Creation

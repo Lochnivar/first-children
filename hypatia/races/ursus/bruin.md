@@ -1,4 +1,4 @@
-# Ursine Marshals & Rangers
+# Bruin (Marshals & Rangers)
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
@@ -6,7 +6,10 @@
 
 ## Overview
 
-Ursine are bear-based anthropomorphic people from the FC genetic repository. Their traits—solitary, territorial, independent, strong—naturally suit law enforcement. No designated role; they became marshals and rangers because it *works*, not because they were designed for it. In a cosmos with no galactic government and no unified law, Ursine marshals are the peak of what's available: professional, impartial, effective.
+Bruin are bear-based anthropomorphic people from the FC genetic repository. Their traits—solitary, territorial, independent, strong—naturally suit law enforcement. No designated role; they became marshals and rangers because it *works*, not because they were designed for it. In a cosmos with no galactic government and no unified law, Bruin marshals are the peak of what's available: professional, impartial, effective.
+
+### Truism
+*"The law walks with me."*
 
 ## Physical Characteristics
 
@@ -33,14 +36,14 @@ Ursine are bear-based anthropomorphic people from the FC genetic repository. The
 
 **Wilderness law enforcement.** Patrol vast territories; no specific laws—just "keep the peace." No formal authority—"I'm ranger because I say I'm ranger. Disagree? Prove it." Cache system: marked locations for supplies, message drops, meeting points. Completely independent.
 
-## Why Settlements Hire Ursine
+## Why Settlements Hire Bruin
 
 - **Impartial** — No local ties, no species bias
 - **Cross-cultural** — Know many species' legal traditions; can create hybrid systems
 - **Effective** — Crime drops 70–90% in contracted territories
 - **Temporary** — Bridge to stability, not permanent solution
 
-**Compared to alternatives:** Militia (untrained), vigilantes (mob rule), nothing (chaos). Ursine marshal: professional, impartial, effective. Expensive but worth it.
+**Compared to alternatives:** Militia (untrained), vigilantes (mob rule), nothing (chaos). Bruin marshal: professional, impartial, effective. Expensive but worth it.
 
 ## Professional Code
 

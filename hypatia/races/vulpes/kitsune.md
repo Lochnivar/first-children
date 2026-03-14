@@ -2,11 +2,11 @@
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Vulpes](genus.md), [Races README](../README.md), [Panthers](../panthera/panthers.md), [Giff](../hippopotamus/giff.md), [../../FRAMEWORK.md](../../../FRAMEWORK.md)
+**Related:** [Genus Vulpes](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Giff](../hippopotamus/giff.md), [../../FRAMEWORK.md](../../../FRAMEWORK.md)
 
 ## Overview
 
-Kitsune are fox-based anthropomorphic people created through FC panspermia. Their traits—clever, cunning, morally flexible—tend toward information, trade, and opportunism. Not a designated role; brokering, deal-making, and finding what others need emerge naturally from who they are. They won't help for free, ever. "Nothing personal, just business." They often form one vertex of the economy triangle with Panthers and Giff. Legara recruits them for contract work at Mercara's Cross.
+Kitsune are fox-based anthropomorphic people created through FC panspermia. Their traits—clever, cunning, morally flexible—tend toward information, trade, and opportunism. Not a designated role; brokering, deal-making, and finding what others need emerge naturally from who they are. They won't help for free, ever. "Nothing personal, just business." They often form one vertex of the economy triangle with Nekari and Giff. Legara recruits them for contract work at Mercara's Cross.
 
 ### Emergent Tendencies
 - Clever, cunning → tends toward information work, finding opportunities
@@ -29,7 +29,7 @@ Kitsune are fox-based anthropomorphic people created through FC panspermia. Thei
 
 ### Common Dynamic
 - **Kitsune:** Brokers/information/goods
-- **Panthers:** Hired for precision/stealth work
+- **Nekari:** Hired for precision/stealth work
 - **Giff:** Hired for muscle/protection
 - Kitsune takes cut, professionals get paid
 
@@ -41,6 +41,9 @@ Kitsune are fox-based anthropomorphic people created through FC panspermia. Thei
 
 ### Example Character
 Yuki, three-tail rank, 87 years old (relatively young), white fur, amber eyes. Charming and dangerous. "Sweetness doesn't buy antibiotics. What DO you have to trade?"
+
+### Truism
+*"Everything has a price, only Kitsune know theirs."*
 
 ---
 
@@ -102,6 +105,6 @@ Yuki, three-tail rank, 87 years old (relatively young), white fur, amber eyes. C
 ---
 
 *For genus definition, see [genus.md](genus.md)*  
-*For economy triangle, see [Panthers](../panthera/panthers.md) and [Giff](../hippopotamus/giff.md)*  
+*For economy triangle, see [Nekari](../felis/nekari.md) and [Giff](../hippopotamus/giff.md)*  
 *For races overview, see [../README.md](../README.md)*  
 *For framework overview, see [../../FRAMEWORK.md](../../../FRAMEWORK.md)*

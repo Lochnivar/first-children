@@ -22,9 +22,9 @@ Genus Ursus is defined by the bear-derived genetic template from the FC genetic 
 
 ### Framework
 - **Repository template** — Unknown/multiple FC; not single project
-- **Sapient expression:** [Ursine Marshals](marshals.md) — emergent law enforcement profession
+- **Sapient expression:** [Bruin](bruin.md) — emergent law enforcement profession
 
 ---
 
-*For species expression, see [Ursine Marshals](marshals.md)*  
+*For species expression, see [Bruin](bruin.md)*  
 *For legal systems context, see [../../cosmology/legal-systems.md](../../cosmology/legal-systems.md)*

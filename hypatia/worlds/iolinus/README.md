@@ -41,6 +41,7 @@ This world is organized into clear categories:
 - **Book 3:** [To be defined]
 
 ### Key Documents
+- **[AI Refresher](AI-REFRESHER.md)** - Quick-reference for AI context (Iolinus-specific)
 - **[Premise, Tone & Perspective](meta/PREMISE_TONE_PERSPECTIVE.md)** - Core series structure and narrative approach
 - **[World-Building Index](world-building/README.md)** - Complete index of all world-building elements
 - **[Character Index](characters/README.md)** - All character profiles

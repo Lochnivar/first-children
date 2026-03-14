@@ -2,11 +2,11 @@
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Hippopotamus](genus.md), [Races README](../README.md), [Panthers](../panthera/panthers.md), [Kitsune](../vulpes/kitsune.md), [../../FRAMEWORK.md](../../../FRAMEWORK.md)
+**Related:** [Genus Hippopotamus](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Kitsune](../vulpes/kitsune.md), [../../FRAMEWORK.md](../../../FRAMEWORK.md)
 
 ## Overview
 
-Giff are hippopotamus-based anthropomorphic people created through FC panspermia. They aren't *designed* to be mercenaries—but their aggressive traits and penchant for weapons make them *ideal* bodyguards and mercenaries. Not a designated role; the work finds them because of who they are. "Point me at the problem." They often form one vertex of the economy triangle with Kitsune and Panthers.
+Giff are hippopotamus-based anthropomorphic people created through FC panspermia. They aren't *designed* to be mercenaries—but their aggressive traits and penchant for weapons make them *ideal* bodyguards and mercenaries. Not a designated role; the work finds them because of who they are. "Point me at the problem." They often form one vertex of the economy triangle with Kitsune and Nekari.
 
 ### Emergent Tendencies
 - Aggressive, overwhelming force, penchant for weapons → ideal for bodyguard and mercenary work
@@ -28,7 +28,7 @@ Giff are hippopotamus-based anthropomorphic people created through FC panspermia
 
 ### Common Dynamic
 - **Kitsune:** Brokers/information/goods
-- **Panthers:** Hired for precision/stealth work
+- **Nekari:** Hired for precision/stealth work
 - **Giff:** Hired for muscle/protection
 - Kitsune takes cut, professionals get paid
 
@@ -66,6 +66,6 @@ Giff are hippopotamus-based anthropomorphic people created through FC panspermia
 ---
 
 *For genus definition, see [genus.md](genus.md)*  
-*For economy triangle, see [Panthers](../panthera/panthers.md) and [Kitsune](../vulpes/kitsune.md)*  
+*For economy triangle, see [Nekari](../felis/nekari.md) and [Kitsune](../vulpes/kitsune.md)*  
 *For races overview, see [../README.md](../README.md)*  
 *For framework overview, see [../../FRAMEWORK.md](../../../FRAMEWORK.md)*

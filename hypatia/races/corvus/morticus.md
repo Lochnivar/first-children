@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Corvus](genus.md), [Races README](../README.md), [Earth Trial Structure](../../mechanics/earth-trial-structure.md)
+**Related:** [Genus Corvus](genus.md), [Races README](../README.md), [Earth Trial Mechanics](../../worlds/earth/trial-mechanics.md)
 
 ## Overview
 
@@ -51,10 +51,10 @@ Not a disorder—species norm. Other species find it strange; corvids find other
 - **Plague/Disease Response:** Spot outbreaks from above; deliver warnings or remedies via dropped packets
 - **Emotional/Social Healing:** Mediators—memory ensures fair retellings of disputes ("I remember what was said. No lies.")
 
-## Trial History & Arrival
+## Trial History & Earth Deployment
 
 - Survived trial by observing, remembering, never being first to act
-- Arrive on Earth during Prep Year via Platform 934 (Manchester) or smaller rifts
+- Deploy to Earth during Prep Year via Platform 934 (Manchester) or smaller rifts as independent contractors (healing, chain-mending, observation)
 - Gravitate to high ground: rooftops, overpasses, water towers, old mill chimneys
 
 ## On Earth (Manchester)
@@ -71,8 +71,9 @@ Not a disorder—species norm. Other species find it strange; corvids find other
 
 ## Story Role
 
-Quiet, reliable healers and chain-menders. Hold the pieces humans can't hold themselves. Contrast with Iridari (validation-seeking, performative) and Ursine (enforcement, decisive). Corvani: observation, memory, truth.
+Quiet, reliable healers and chain-menders. Hold the pieces humans can't hold themselves. Contrast with Iridari (validation-seeking, performative) and Bruin (enforcement, decisive). Corvani: observation, memory, truth.
 
 ---
 
-*For genus definition, see [Genus Corvus](genus.md)*
+*For genus definition, see [Genus Corvus](genus.md)*  
+*For expanded voice/dialogue guidance, see [DIALOGUE_PAGE.md](../../../DIALOGUE_PAGE.md)*

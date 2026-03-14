@@ -6,12 +6,15 @@
 
 ## Overview
 
-Iolinus is a known world (Book) in Hypatia (the Library), created solely by Malachor (Zeta). Nala took an interest in Iolinus after observing Malachor's abuse of his creation, leading to a liberation operation. It serves as a primary example demonstrating framework concepts, particularly solo world creation, liberation operations, and life force binding.
+Iolinus is a known world (Book) in Hypatia (the Library), claimed by Malachor (Zeta)—who ripped off a bootleg copy of Earth thousands of years ago, too lazy to create. Nala took an interest in Iolinus after observing Malachor's abuse of his bootleg, leading to a liberation operation. It serves as a primary example demonstrating framework concepts, particularly prohibited world-claiming (the bootleg proved he was too immature), liberation operations, and life force binding.
 
 ### Unique Characteristics
 
-**Creator:** Malachor (Zeta) - sole creator of Iolinus
-- Created Iolinus against peer judgment (judged too immature)
+**Creator:** Malachor (Zeta) - claimed Iolinus as his own
+- Ripped off a bootleg copy of Earth thousands of years ago—too lazy to do his own work
+- Rearranged continents, reskinned, claimed it; created against peer judgment (judged too immature)
+- The bootleg was proof he wasn't ready—what really pissed off the FC
+- Iolinus is almost exclusively human; no Panspermia species (he didn't create, he plagiarized)
 - Sought permanent dominion (embedded himself as Zeta/Malachor via a unique artifact: the Godstone)
 - Bound his life force to the world (hostage mechanism)
 
@@ -43,7 +46,7 @@ This shows how Iolinus demonstrates **general framework rules**:
 
 ### World Creation (Framework: General Rule)
 - **General Rule:** First Children can create worlds—legality determined by peer judgment. Creating despite negative peer judgment (e.g., judged too immature) is "against prohibition." Life force binding possible.
-- **Iolinus Expansion:** Created solely by Zeta/Malachor (solo creation) against peer judgment (judged too immature), with life force bound (hostage situation). Nala became involved later after observing Malachor's abuse of his creation.
+- **Iolinus Expansion:** Claimed by Zeta/Malachor (bootleg of Earth, thousands of years ago) against peer judgment (judged too immature; the bootleg proved it). Life force bound (hostage situation). Nala became involved later after observing Malachor's abuse of his bootleg.
 
 ### Liberation Operation (Framework: General Pattern)
 - **General Pattern:** Liberation operations free worlds from cruel creators through hidden, gradual operations
@@ -59,14 +62,15 @@ This shows how Iolinus demonstrates **general framework rules**:
 
 ### First Children (Framework: General Concept)
 - **General Concept:** First Children vary in personality, motivation, and methods. They control what mortals know on their creations—some worlds are open about cosmology, some closed, some actively encourage creator-as-only-god belief.
-- **Iolinus Expansion:** Malachor (sole creator, cruel) actively encourages belief that he is the only god—mortals have no concept of Prime Author or other First Children. Nala (liberator who took interest after observing abuse) works in secret. Demonstrates solo creation, liberation operation patterns, and active suppression of cosmological awareness.
+- **Iolinus Expansion:** Malachor (claimed bootleg, cruel) actively encourages belief that he is the only god—mortals have no concept of Prime Author or other First Children. Nala (liberator who took interest after observing abuse) works in secret. Demonstrates prohibited world-claiming, liberation operation patterns, and active suppression of cosmological awareness.
 
 ## World Characteristics
 
 ### Physical
-- Two massive continents straddling equator
+- Two massive continents straddling equator (rearranged from source; Malachor did not build from scratch)
 - Mountain ranges, lush vegetation, large desert
 - Multiple cultures and regions
+- **Population:** Almost exclusively human—bootleg of Earth, no Panspermia species
 
 ### Status
 - Currently in liberation conflict

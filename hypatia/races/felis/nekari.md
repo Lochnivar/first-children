@@ -1,12 +1,14 @@
-# Panthers (Feline Predator People)
+# Nekari (Felis praecisus)
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Panthera](genus.md), [Races README](../README.md), [../../FRAMEWORK.md](../../../FRAMEWORK.md)
+**Related:** [Genus Felis](genus.md), [Felari](felari.md), [Races README](../README.md)
 
 ## Overview
 
-Panthers are feline predator anthropomorphic people created through FC panspermia. Their traits—predator, solitary, patient, professional—tend toward precision work and operating alone. Not a designated role; tracking, retrieval, and precision-focused professions emerge naturally from who they are. They often form one vertex of the economy triangle with Kitsune and Giff.
+Nekari (*Felis praecisus*) are feline predator anthropomorphic people created through FC panspermia. Their traits—predator, solitary, patient, professional—tend toward precision work and operating alone. Not a designated role; tracking, retrieval, and precision-focused professions emerge naturally from who they are. They often form one vertex of the economy triangle with Kitsune and Giff.
+
+**Contrast with Felari cousins:** Nekari pursue perfection of purpose or action. Felari pursue perfection of appearance or manners. Same genus, different orientation: Nekari are about the job; Felari are about the presentation.
 
 ## Universal Characteristics
 
@@ -24,7 +26,7 @@ Panthers are feline predator anthropomorphic people created through FC panspermi
 ### Personality
 - Silent until contract discussed
 - Prideful about skill
-- Reputation is everything
+- Perfection is not vanity, it is duty
 - Expensive but worth it
 - Pure professional (no emotion)
 
@@ -32,7 +34,7 @@ Panthers are feline predator anthropomorphic people created through FC panspermi
 
 ### Common Dynamic
 - **Kitsune:** Brokers/information/goods
-- **Panthers:** Hired for precision/stealth work
+- **Nekari:** Hired for precision/stealth work
 - **Giff:** Hired for muscle/protection
 - Kitsune takes cut, professionals get paid
 

@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Ratufa](genus.md), [Races README](../README.md), [Earth Trial Structure](../../mechanics/earth-trial-structure.md)
+**Related:** [Genus Ratufa](genus.md), [Races README](../README.md), [Earth Trial Mechanics](../../worlds/earth/trial-mechanics.md)
 
 ## Overview
 
@@ -41,7 +41,7 @@ Iridari (*Ratufa iridescens*) are giant squirrel–based anthropomorphic people.
 - Standard entropy trial; passed centuries ago
 - Strategy: Vertical refuge (canopy), social cooperation, speed and stealth
 - FC note: "Adequately mobile. Information-sharing promising. Excessive need for social validation noted but not disqualifying."
-- Post-trial: Scattered across worlds; Earth arrival via Platform 934 (Manchester) during Prep Year
+- Post-trial: Scattered across worlds; Earth deployment via Platform 934 (Manchester) during Prep Year as independent contractors (media, broadcast, information)
 
 ## Roles on Earth (Manchester)
 
@@ -64,4 +64,5 @@ Information infrastructure in broken cities. Early warning, community building, 
 
 ---
 
-*For genus definition, see [Genus Ratufa](genus.md)*
+*For genus definition, see [Genus Ratufa](genus.md)*  
+*For expanded voice/dialogue guidance, see [DIALOGUE_PAGE.md](../../../DIALOGUE_PAGE.md)*

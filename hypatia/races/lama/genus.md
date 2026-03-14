@@ -9,8 +9,8 @@
 Genus Lama is defined by the llama-derived genetic template from the FC genetic repository. All Lama expressions—sapient and non-sapient—share these core traits:
 
 ### Physical
-- **Efficient oxygen usage** — Large lungs, extract more from thin air; could suit diving (if they had fins), high altitude, cold
-- **Sure-footed** — Split hooves, perfect balance for steep terrain
+- **Efficient oxygen usage** — Large lungs, extract more from available air
+- **Sure-footed** — Split hooves, perfect balance
 - **Compact build** — Stockier than camel cousins
 
 ### Temperament
@@ -20,9 +20,9 @@ Genus Lama is defined by the llama-derived genetic template from the FC genetic 
 
 ### Framework
 - **Non-sapient baseline:** Llamas (Earth template)
-- **Sapient expression:** [Highwalkers](highwalkers.md) — not restricted to mountains; efficient O2, vigilance, sure-footedness make them suited to high terrain (could suit other niches with same traits)
+- **Sapient expression:** [Llamari](llamari.md) — efficient O2, vigilance, sure-footedness; transport, logistics, precision work
 
 ---
 
-*For species expressions, see [Highwalkers](highwalkers.md)*  
+*For species expressions, see [Llamari](llamari.md)*  
 *For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*

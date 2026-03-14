@@ -46,7 +46,7 @@ Created by First Children as purpose-built logistics specialists for divine infr
 - Rarely seen (background presence)
 - Run commissaries for Elves/Hobgoblins/Dwarves/Tinkari; restock Tinkari coffee stations
 - Company stores at major gateway interchanges (well-lit, organized, fair prices; always offer tea/snacks)
-- Supply alien participants: Pachi, Giff, Panthers, Kitsune, Chelonari provisioned through halfling depots
+- Supply alien participants: Pachi, Giff, Nekari, Kitsune, Chelonari provisioned through halfling depots
 - Provision Orcus (someone has to); wary but professional; track their massive consumption
 
 ### Human Perception

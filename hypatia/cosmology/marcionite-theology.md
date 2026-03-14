@@ -25,12 +25,14 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 ## Parallel in Framework Structure
 
 ### The Demiurge: Cruel Creator First Children
-- **Little 'g' gods** (First Children of the Prime Author) who created worlds
+- **Little 'g' gods** (First Children of the Prime Author) who created worlds—or, in the most damning case, *didn't*
 - Created worlds **against peer judgment** (judged too immature/not ready by other First Children - imperfect act)
 - **Immature or cruel** - lack compassion and wisdom
 - Hold all life **hostage** by tying their life force to their creation
 - **Cannot be killed** without killing everyone on their world
 - Rule through institutional power and control
+
+**The Bootleg (Iolinus-specific):** The most telling proof of Demiurge imperfection is when the "creator" doesn't create at all. Malachor ripped off a bootleg copy of Earth thousands of years ago—too lazy to do his own work. He grabbed the human development world, rearranged the continents, reskinned it, and claimed it. The other First Children were not merely offended that he created against their judgment; they were infuriated that he couldn't be bothered to create. The bootleg was the sure sign he was too immature. Marcion's Demiurge created an imperfect material world; this one couldn't even do that—he plagiarized. Earth (the source he copied) stands in a special relationship to the Prime Author's creation; the Demiurge stole from the wrong place. Liberation comes partly through Earth souls—agents from the *original* he copied, returning to free the bootleg.
 
 **Note for Stories:** Details about what First Children "really are" are out of scope—they are simply gods with godly powers.
 
@@ -44,12 +46,14 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 - Does not establish moralistic rules—these are First Children constructs
 - Not a character in stories—structural presence, not personal
 
-### The Liberator: Compassionate First Children
+### The Liberator: First Children (Benevolence Open)
 - **First Children** (little 'g' gods) - children of Big 'G' God
-- Fighting to **liberate worlds** from cruel creators
-- Represents intervention to free people from the Demiurge
-- Mission: **free the souls** so they can be saved/evacuated
+- Fighting to **liberate worlds** from cruel creators—or running their own experiments
+- Represents intervention; motivation may vary
+- Mission: **free the souls** so they can be saved/evacuated—or stress-test how much chaos a closed system can take
 - Once souls are free, creator can be **punished without killing everyone**
+
+**Nala (Iolinus):** Benevolence is an open question. She may be the pissed-off FC sister who's angry Malachor ripped off Earth, running her own experiment: how much chaos can a closed system take before it breaks itself. Iolinus = the closed system. The liberation could be the experiment. **The benevolent liberator framing is from the Earthers' perspective:** she presents herself as benevolent to encourage willing Greyrose recruits. The face she shows to get volunteers. See [nala_goddess.md](../worlds/iolinus/world-building/cosmology/nala_goddess.md) Author Notes.
 
 **Note for Stories:** Details about what First Children "really are" are out of scope—they are simply gods with godly powers.
 
@@ -79,6 +83,18 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 - Once souls are **freed and evacuated**, creator can be **punished**
 - The material world (plants, animals) can be rebuilt - it's the **souls** that matter
 
+## The Moloch Correction (Background Canon)
+
+**Status:** Author-level background canon. Not yet reader-facing.
+
+The framework's Demiurge is **Moloch-like** (Malachor), not Yahweh. Marcion and the Gnostics misidentified the cruel creator—they conflated the Demiurge with the God of Israel when the actual figure aligns with Moloch: the Canaanite deity associated with child sacrifice and cultic cruelty, whom the Hebrew scriptures already condemn. The framework does not treat Yahweh as the Demiurge; it treats Moloch as the Demiurge. The historical error was the conflation.
+
+**Malachor/Moloch:** The name Malachor is intentionally Moloch-adjacent. Same entity-type in the framework.
+
+**Impersonation (Background Canon):** Malachor has a history of impersonating other gods to get mortals to do his bidding. "Hi! I'm Yahweh! Trust me because I said I am." He doesn't need to be subtle—he claims divine authority and lets humans carry out conquest, destruction, and cruelty in the name of a god who wasn't there. The biblical record may contain episodes where the "voice" or "presence" attributed to Yahweh was actually Malachor. This is background canon for author use; not yet reader-facing.
+
+**The Overthrow = FC Tired of Griefing:** Marcion's theology frames the overthrow of the Demiurge as divine liberation. The framework's pragmatic reality: the other First Children (including the Earth FC) got tired of Malachor's griefing. Impersonation, bootlegs, hostage-taking, meddling in their domains—he's been a serial griefer for millennia. Nala's liberation operation is the peer group finally doing something about it. The "overthrow of the Demiurge" is the guild booting the griefer. Not cosmic justice; fed-up siblings.
+
 ## Key Differences from Marcion
 
 ### Adaptations for Framework
@@ -98,9 +114,9 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 - Explains the focus on **saving souls** rather than just destroying the creator
 
 ### Iolinus Example
-- **Zeta/Malachor** - The Demiurge (cruel creator)
-- **Nala** - The Liberator
-- **Earth souls** - The transferred agents
+- **Zeta/Malachor** - The Demiurge (cruel creator who didn't create—ripped off a bootleg of Earth thousands of years ago; the bootleg proved he was too immature)
+- **Nala** - The Liberator (benevolence open; may be pissed-off sister running chaos-tolerance experiment on closed system)
+- **Earth souls** - The transferred agents (from the original he copied, returning to free the bootleg—or to be variables in the experiment)
 - Demonstrates the framework pattern
 
 ## Earth and the Marcionite Hint
@@ -111,6 +127,8 @@ There's a hint that Marcion of Sinope's theology might have some validity, parti
 - This suggests that Earth's status in the framework might align with Marcion's conception of a world that exists outside the direct control of the Demiurge (First Children)
 - Earth serves as a source of souls for liberation operations, providing "outside perspective" agents who weren't shaped by First Children influence
 - The hint suggests that Earth might be closer to the Prime Author's original creation, or exist in a state that First Children have not directly shaped
+
+**The Bootleg Reversal:** Malachor copied Earth. Earth souls—agents from the world he ripped off—are now the ones returning to liberate his bootleg. The original sends back its own to free the copy. The theological irony: the Demiurge stole from the world that stands closest to true creation; that world's souls are now the instruments of his undoing.
 
 ## Notes
 

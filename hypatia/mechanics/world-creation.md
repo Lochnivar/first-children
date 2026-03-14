@@ -1,7 +1,7 @@
 # World Creation and Life Force Binding
 
 **Status:** Framework Element - Universal  
-**Source:** Extracted from Iolinus example (Zeta/Malachor creating Iolinus)  
+**Source:** Extracted from Iolinus example (Zeta/Malachor claiming Iolinus via bootleg)  
 **Related:** [First Children](first-children.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
 
 ## Overview
@@ -48,13 +48,14 @@ First Children can create worlds/realms. The legality of world creation is deter
 - Peer judgments and enforcement attempts have consequences, but practical constraints limit effectiveness
 
 ### Iolinus Example
-- Created by Zeta/Malachor against peer judgment (prohibition)
-- Other First Children judged that Zeta/Malachor (before he became Malachor) was **too immature** to create his own world
-- He created Iolinus anyway, despite their judgment
-- Two massive continents straddling the equator
+- Claimed by Zeta/Malachor against peer judgment (prohibition)—he didn't create it
+- Ripped off a bootleg copy of Earth thousands of years ago, too lazy to do his own work
+- The bootleg was proof he was **too immature**—what really pissed off the other First Children
+- He claimed Iolinus anyway, despite their judgment
+- Two massive continents straddling the equator (rearranged from the source)
 - Features: Mountain ranges, lush vegetation, large desert
 - Created when attention of other First Children waned
-- Result: To their shame, they failed to stop him before he created it, despite having judged him unready
+- Result: To their shame, they failed to stop him before he claimed it, despite having judged him unready
 
 ## Life Force Binding (Iolinus-Specific)
 

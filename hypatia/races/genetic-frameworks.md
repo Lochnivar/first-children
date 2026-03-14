@@ -27,7 +27,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 
 **Adding new races:** Need a new species? Fork the genus that matches your specifications or preferences and "commit" a new species. The repo is expandable.
 
-**The generalist failure pattern:** Generalist variants (e.g., *Camelus sapiens*, *Elephas sapiens*) have been tried across genera. The generalist model tends to fail in trials—specialists (Pachi, Sahirans, etc.) survive; generalists collapse under pressure. That's why most genera have specialists, not generalists. Homo sapiens is the latest generalist attempt; previous sapiens deployments and generalists in other genera have failed. *Manis sapiens* (Quedari) passed via passive avoidance—different outcome; FC deprioritized. (Background cosmology—FC creators are not story characters; narrative focus is human survival in a drastically changed world.)
+**The generalist failure pattern:** Generalist variants (e.g., *Camelus sapiens*, *Elephas sapiens*) have been tried across genera. The generalist model tends to fail in trials—specialists (Pachi, Djemari, etc.) survive; generalists collapse under pressure. That's why most genera have specialists, not generalists. Homo sapiens is the latest generalist attempt; previous sapiens deployments and generalists in other genera have failed. *Manis sapiens* (Quedari) passed via passive avoidance—different outcome; FC deprioritized. (Background cosmology—FC creators are not story characters; narrative focus is human survival in a drastically changed world.)
 
 ---
 
@@ -44,14 +44,17 @@ All are genetically related within their framework. ~85% DNA similarity between 
 - Elephants = Pachi relatives
 - Foxes = Kitsune relatives
 - Tortoises = Chelonari, Aubrei relatives
-- Big cats = Panther relatives
-- Camels = Sahiran relatives
-- Llamas = Highwalker relatives
+- Cats = Nekari, Felari relatives
+- Camels = Djemari relatives
+- Llamas = Llamari relatives
 - Goats = Capra Quantus (Riftkeepers) relatives
 - Pangolins = Quedari relatives
 - Squirrels = Iridari (Pristails) relatives
 - Crows = Corvani (Blackwings) relatives
 - Coyotes = Cayminus (Coyote folk) relatives
+- Hyenas = Gnoll relatives
+- Cattle, oxen, bison = Minotaur relatives
+- Otters = Otter-folk relatives
 
 **Earth's Homo culling (background cosmology):** An FC deployed Homo baseline on Earth ~2.5 million years ago and managed evolution. Six variants emerged (erectus, neanderthalensis, denisova, floresiensis, heidelbergensis, naledi, sapiens). Five were allowed to go extinct (evaluated as too specialized—Neanderthals cold-adapted, Denisovans altitude-optimized, erectus cognitively rigid, etc.); sapiens was supported as the "true generalist" variant. Earth's human history = that selection process. "We're not Earth's first humans. We're Earth's selected humans." (Cosmology context only—FC not a story character.)
 
@@ -65,7 +68,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 - **Homo (FC Staff):** Elves, Hobgoblins, Dwarves, Tinkari, Halflings. First Children created these as purpose-built job models (PR/communications, admin, engineering, operations, logistics). Elves = Mercara's contribution to the genetic repo—PR-focused homo staff. Hobgoblins (Homo goblinus) = admin staff. No non-sapient baseline—they're designated staff.
 - **Orcus (adversary):** Goblins, Orcs, Trolls, Ogres. FC-created specifically as trial adversaries—monster stock to be overcome. Designed adversary role. See [Genus Orcus](orcus/genus.md).
 
-**Emergent traits (the norm):** Pachi, Chelonari, Giff, Panthers, Kitsune, Sahirans, Highwalkers, Quedari. Use shared repository templates—deployed by FC or arising on worlds. Not purpose-built for specific jobs; they're instances of repo templates. **No designated roles.** Their traits and temperament lead naturally to certain behaviors—patience tends toward wisdom-sharing, wanderlust tends toward movement and trade, overwhelming force tends toward combat professions. Not all races have specific purposes; some simply are (e.g., Quedari). **Not restricted to biomes:** Lama's efficient oxygen usage suits mountains but could suit diving (if they had fins); Camelus water conservation suits desert but could suit long hauls anywhere. Traits make them suited to niches; niches don't define them. Don't interact as equals with FC staff—but don't owe subservience either.
+**Emergent traits (the norm):** Pachi, Chelonari, Giff, Nekari, Kitsune, Djemari, Llamari, Quedari. Use shared repository templates—deployed by FC or arising on worlds. Not purpose-built for specific jobs; they're instances of repo templates. **No designated roles.** Their traits and temperament lead naturally to certain behaviors—patience tends toward wisdom-sharing, wanderlust tends toward movement and trade, overwhelming force tends toward combat professions. Not all races have specific purposes; some simply are (e.g., Quedari). **Not restricted to biomes:** Lama and Camelus traits (efficient O2, water conservation, endurance) suit various niches. Traits make them suited to roles; roles don't define them. Don't interact as equals with FC staff—but don't owe subservience either.
 
 **Draconis genus (taxonomic dispute):** FC taxonomy classifies under one genus: (1) Greater Dragons (PA-created), Lesser Dragons (GD-created), Kobolds (GD-created), and (2) *Draconis sapiens* (FC-created). This is scientifically invalid—no common ancestry, different creators. FC control the taxonomic system; their classification is the institutional reality. Greater Dragons reject it. *Draconis sapiens* are the only actual genus members by FC definition but are the "fake" ones. See [Genus Draconis](draconis/genus.md).
 
@@ -85,14 +88,18 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | **Testudo** | Tortoises | Chelonari (chelonari) | Tends toward helping others with wisdom | Patient, empathetic |
 | **Testudo** | Tortoises | Aubrei (aubreii) | Naval-themed; more aggressive; same core traits | Patient, assertive |
 | **Hippopotamus** | Hippos | Giff (bellator) | Tends toward strength-based professions | Loud, aggressive |
-| **Panthera** | Big cats | Panthers (sapiens) | Tends toward precision work, solitude | Silent, professional |
+| **Felis** | Cats | Nekari (praecisus) | Perfection of purpose or action; precision work, solitude | Silent, professional |
+| **Felis** | Cats | Felari (elegans) | Perfection of appearance or manners; social grace, presentation | Graceful, presentation-focused |
 | **Vulpes** | Foxes | Kitsune (sapiens) | Tends toward information, trade, opportunism | Clever, amoral |
-| **Camelus** | Camels | Sahirans (aridus) | Water conservation, endurance—suited to desert (not restricted) | Phlegmatic, unbothered |
-| **Lama** | Llamas | Highwalkers (altitude) | Efficient O2, vigilance—suited to high terrain (not restricted) | Anxious, competent |
+| **Camelus** | Camels | Djemari | Water conservation, endurance—long-haul efficiency | Phlegmatic, unbothered |
+| **Lama** | Llamas | Llamari | Efficient O2, vigilance—transport, logistics | Anxious, competent |
 | **Manis** | Pangolins | Quedari (sapiens) | No designated role; passed trial via avoidance | Patient, minimal |
 | **Ratufa** | Squirrels | Iridari (iridescens) | Tends toward broadcasting, information-sharing | Social, observational, validation-seeking |
 | **Corvus** | Crows | Corvani (morticus) | Tends toward healing, chain-mending | Hyper-literal, death-framed, pattern-obsessed |
 | **Canis** | Coyotes | Cayminus (cayminus) | Nummus's banking staff at Mercara's Cross | Contractual, opportunistic |
+| **Canis** | Hyenas | Gnolls (jocularis/festivus) | No designated role; chaos-souls; emergent | Theatrical, communal, warmth until crossed |
+| **Bovinus** | Cattle, oxen, bison | Minotaurs (labyrinthus) | No designated role; path-souls; infrastructure, navigation | Structural, deliberate, impossible to confuse |
+| **Lutrinae** | Otters | Otter-folk (sapiens) | No designated role; facilitators, bridge-builders, grifters | Charm-aware, play-as-bonding; individual variation |
 | **Capra** | Goats | Capra Quantus (quantus) | Transit staff at Mercara's Cross (Virelle's creation); bound to Grand Anchor | Stubborn, territorial, quantum-sensitive |
 | **Orcus** | — | Goblins (minor) | Swarm mobs (designated) | Cruel, chaotic |
 | **Orcus** | — | Orcs (sapiens) | Standard combat (designated) | Brutal, organized |
@@ -121,15 +128,21 @@ Sapient species can instinctively understand some framework cousin behaviors:
 
 **Homo species (Humans/Elves/Hobgoblins/Dwarves/Tinkari/Halflings):** Same genus = family (cousins). Different models = different jobs. Elves = Mercara's contribution to the repo—PR-focused staff. Hobgoblins = admin staff (Homo goblinus; not Orcus adversaries). Professional hierarchy (specialists > generalists in their domain). Humans don't initially know they're related.
 
-**Sahiran + Highwalker handoffs:** Ultimate calm meets ultimate anxiety. Comedy through contrast. Both professionally competent. Mutual respect despite opposite temperaments.
+**Djemari + Llamari handoffs:** Ultimate calm meets ultimate anxiety. Comedy through contrast. Both professionally competent. Mutual respect despite opposite temperaments.
 
 **Chelonari + Aubrei:** Same genus, cousins. Chelonari patient and wisdom-oriented; Aubrei more aggressive, naval-themed. Shared shell-backed, long-lived baseline; different temperament and culture.
+
+**Nekari + Felari:** Same genus (Felis), cousins. Nekari: perfection of purpose or action. Felari: perfection of appearance or manners. Mutual respect for different crafts; sometimes rivals.
 
 **Chelonari + Everyone:** Patient, wisdom-oriented; tend to help others. Mutual respect with Pachi (both choose meaning). Exhausted by Tinkari (too fast). Gentle with humans (they're traumatized).
 
 **Independent species + FC staff:** Pachi, Chelonari, Aubrei, Giff, etc. use shared repository templates—not purpose-built for specific FC jobs. Interact with FC staff as equals or clients. Kitsune morally gray (help if paid).
 
 **Quedari:** No designated role; they exist, survive, trade chitin. Patient contrast to active species. Avoid Capra quantus (too loud). Not all races have specific purposes—some simply are.
+
+**Gnoll + Minotaur:** Mutual incomprehension, not hostility. Gnolls find Minotaurs boring (straight lines are no fun); Minotaurs find Gnolls exhausting (why make everything a bit?). Both correct.
+
+**Otter-folk:** Individual variation—some facilitators, some grifters, some both. Charm-aware; "check your pockets." Gnolls may see through it; Corvani possibly immune. Kitsune are fellow operators.
 
 **Halflings + Orcus:** Halflings provision Orcus (someone has to). Wary but professional. Track their massive consumption. Full spectrum of FC creation—some to help (Halflings), some to harm (Orcus).
 

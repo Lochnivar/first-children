@@ -72,7 +72,7 @@ Each species/race brings its own legal code—inherited from their homeworld tri
 ### Jurisdiction Patchwork
 - **Human zones:** Try to maintain pre-crawl law (slow, bureaucratic, rights-heavy)
 - **Alien districts:** Enforce their own law (fast, rough, species-specific)
-- **Wilderness:** Rangers (Ursine or similar)—no law, just "don't be a problem"
+- **Wilderness:** Rangers (Bruin or similar)—no law, just "don't be a problem"
 - **Gray areas (medians, gaps):** Whoever has the most guns or the best deal
 
 ### Voluntary Jurisdiction
@@ -80,7 +80,7 @@ Each species/race brings its own legal code—inherited from their homeworld tri
 - Humans who enter an alien district (for trade, safety, medicine) **knowingly accept** alien law
 - No one forces them—but the alternative (starvation, raid, conversion) often leaves little choice
 
-### Ursine Marshals & Rangers
+### Bruin (Marshals & Rangers)
 - **Marshals** in alien districts: Contracted by the community to enforce local law
 - **Rangers** in wilderness: Self-appointed, no contract, just "keep the peace"
 - Both accepted because they're impartial (no local ties) and effective (physically intimidating)

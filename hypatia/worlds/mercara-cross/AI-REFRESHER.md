@@ -72,7 +72,7 @@
 | 1 | **Protomundus** | "Hello World" — first world ever created. Sacred. FC pilgrimage only. Mortals never allowed. |
 | 7 | **Delverium** | Dungeon playground; high adventurer traffic |
 | 12 | **Hegemon** | Conquest game board; restricted diplomatic |
-| 934 | **Earth** | Liberation soul source; mostly inbound; integration desk for confused arrivals |
+| 934 | **Earth** | Liberation soul source; mostly inbound; independent contractors deploy for trial; integration desk for confused arrivals |
 | 1201 | **Stratara** | Twin to Hegemon; experimental ruleset |
 | 1237 | **Iolinus** | **SEALED** — Malachor blockade, peer judgment. No traffic. |
 | 1247 | **Edgeflux** | Current highest stable platform; frontier, experimental |

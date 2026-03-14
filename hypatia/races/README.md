@@ -38,14 +38,18 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Chelonari](testudo/chelonari.md)** - Tortoise people; tends toward helping others with wisdom
 - **[Aubrei](testudo/aubrei.md)** - Naval tortoise people; more aggressive; cousins to Chelonari
 - **[Giff](hippopotamus/giff.md)** - Hippo people; tends toward strength-based professions
-- **[Panthers](panthera/panthers.md)** - Feline predator people; tends toward precision work, solitude
+- **[Nekari](felis/nekari.md)** - Feline predator people; perfection of purpose or action; precision work, solitude
+- **[Felari](felis/felari.md)** - Feline predator people; perfection of appearance or manners; social grace, presentation
 - **[Kitsune](vulpes/kitsune.md)** - Fox people; tends toward information, trade, opportunism
-- **[Sahirans](camelus/sahirans.md)** - Camel people; water conservation, endurance—suited to desert (not restricted)
-- **[Highwalkers](lama/highwalkers.md)** - Llama people; efficient O2, vigilance—suited to high terrain (not restricted)
+- **[Djemari](camelus/djemari.md)** - Camel people; water conservation, endurance—long-haul efficiency
+- **[Llamari](lama/llamari.md)** - Llama people; efficient O2, vigilance—transport, logistics
 - **[Quedari](manis/quedari.md)** - Pangolin people; passed trial via passive avoidance; no designated role—they simply are
-- **[Ursine Marshals](ursus/marshals.md)** - Bear people; emergent law enforcement (marshals, rangers); no designated role—traits suit the work
+- **[Bruin](ursus/bruin.md)** - Bear people; emergent law enforcement (marshals, rangers); no designated role—traits suit the work
 - **[Iridari (Pristails)](ratufa/iridari.md)** - Giant squirrel people; color-changing emotional tails; rooftop broadcasters, information sharers; no designated role—traits suit the work
 - **[Corvani (Blackwings)](corvus/morticus.md)** - Crow people; hyper-literal, death-framed; emergent healers and chain-menders; no designated role—traits suit the work
+- **[Gnolls](canis/gnoll.md)** - Hyena-derived; chaos-souls; improv troupe social structure; Festivus; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
+- **[Minotaurs](bovinus/minotaur.md)** - Bull-derived; path-souls; infrastructure, navigation; no designated role—emergent. *Draft. Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
+- **[Otter-folk](lutrinae/otter-folk.md)** - Otter-derived; charm-aware; facilitators, bridge-builders, grifters; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 
 ### Core Races
 - **[Orcs](orcus/orcs.md)** - Orcus sapiens; trial adversary (standard combat)
@@ -72,13 +76,17 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 
 **Emergent tendencies (all other genera):** Traits lead to behaviors; no assigned roles.
 - Pachi, Chelonari: Tend toward wisdom-sharing, contemplation, helping
-- Ursine: Tend toward law enforcement (marshals, rangers)—solitary, territorial, independent traits suit the work
+- Bruin: Tend toward law enforcement (marshals, rangers)—solitary, territorial, independent traits suit the work
 - Iridari: Tend toward broadcasting, information-sharing—social, observational, validation-seeking traits suit the work
 - Corvani: Tend toward healing, chain-mending—hyper-literal, death-framed, pattern-recognition traits suit the work
 - Aubrei: Naval Testudo; more aggressive; same core traits as Chelonari
-- Giff, Panthers, Kitsune: Tend toward combat, precision, or trade (economy triangle)
-- Sahirans, Highwalkers: Traits suit desert/mountain (efficient O2, water conservation, endurance)—not biome-locked
+- Giff, Nekari, Kitsune: Tend toward combat, precision, or trade (economy triangle)
+- Nekari: Perfection of purpose or action. Felari: Perfection of appearance or manners. Cousins (Felis).
+- Djemari, Llamari: Traits (efficient O2, water conservation, endurance) suit transport and logistics
 - Quedari: No designated role; passed trial via avoidance; patient, minimal engagement. Not all races have purposes—some simply are.
+- Gnolls: Chaos-souls; theatrical, communal; Festivus; warmth until crossed. No designated role.
+- Minotaurs: Path-souls; structural, deliberate; infrastructure and navigation. No designated role. Mutual incomprehension with Gnolls.
+- Otter-folk: Charm-aware; play-as-bonding; facilitators, bridge-builders, grifters. No designated role. Individual variation—some con artists. "Check your pockets."
 
 **PA creation / Draconis:** Greater Dragons (Second Children), Lesser Dragons, Kobolds; *Draconis sapiens* (FC-created, spite-built—NOT staff); taxonomic dispute
 
@@ -96,6 +104,12 @@ See **[Genetic Frameworks](genetic-frameworks.md)** for:
 - Earth as template repository
 - Framework vs. FC Staff vs. Independent species
 - Species interactions and taxonomy
+
+## Voice & Dialogue Reference
+
+For expanded species voice guidance (speech patterns, tonal references, flavor quotes, author notes), see **[DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)**. Covers: Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Minotaur (draft), Otter-folk.
+
+For species truisms (validation check: does the scene fit?), see **[meta/SPECIES_TRUISMS.md](../../meta/SPECIES_TRUISMS.md)**.
 
 ## Guidelines
 

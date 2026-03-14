@@ -36,7 +36,7 @@ Quedari are pangolin-based anthropomorphic people created through FC panspermia.
 - Chitin trade (shed scales → armor, shields, containers)
 
 ### Earth Integration
-- ~200–300 on Earth (Platform 934 arrivals)
+- ~200–300 on Earth (Platform 934 deployment as independent contractors)
 - Burrow District, Manchester; rural New Hampshire
 - Quiet locations; avoid cities; "sufficient" income, then stop
 
@@ -56,4 +56,5 @@ Quedari are pangolin-based anthropomorphic people created through FC panspermia.
 ---
 
 *For genus definition, see [Genus Manis](genus.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*  
+*For expanded voice/dialogue guidance, see [DIALOGUE_PAGE.md](../../../DIALOGUE_PAGE.md)*

@@ -104,7 +104,7 @@ Mercara's Cross contains over 1,247 documented platforms connecting to worlds th
 | 1223 | Silvershadow | Reflective metal dust in atmosphere creates mirror-sky phenomena | Active |
 | 1224 | Aetherdrift | Weightless void-cities drifting through colorful nebulae | Active |
 | 1230 | Runecleft | Canyon lands carved by ancient exploding runes | Active |
-| 1237 | **Iolinus** | Classic high-fantasy world with deep lore and tyrannical creator | **CLOSED - Creator blockade (Malachor refuses transit)** |
+| 1237 | **Iolinus** | Bootleg of Earth (Malachor ripped it off thousands of years ago); tyrannical claimant | **CLOSED - Creator blockade (Malachor refuses transit)** |
 | 1241 | Voidwhisper | Silent world of floating monasteries studying the quantum sea | Active (meditative) |
 | 1243 | Flameweft | Volcanic archipelago with fire-weaving dragonkin | Active |
 | 1245 | Chronoshift | Time-dilated islands where centuries pass in days | Active (heavily regulated) |
@@ -193,6 +193,8 @@ Platform 1 is **Protomundus** — literally "First World." This is the original 
 
 **Status:** One of the newest additions before the seal
 
+**World Origin:** Bootleg of Earth. Malachor ripped it off thousands of years ago—too lazy to create. The bootleg proved he was too immature; what really pissed off the FC. Earth souls (from the original) return to free the copy.
+
 **The Seal:**
 - Shadow-wall is absolute
 - Even First Children honor the peer judgment and do not use (or cross) the portal
@@ -213,7 +215,7 @@ Platform 1 is **Protomundus** — literally "First World." This is the original 
 - Older and more established traffic than Iolinus
 - Still "new" compared to the ancient low numbers
 - Primary liberation source
-- Mostly inbound traffic (Earth souls arriving for liberation operations)
+- Mostly inbound traffic (Earth souls for liberation operations; independent contractors deploying to Earth trial)
 - Dedicated integration desk for confused new arrivals
 
 **Framework Alignment:**
@@ -271,7 +273,7 @@ Platform 1 is **Protomundus** — literally "First World." This is the original 
 **Platform 12 (Hegemon):** Conquest game board, diplomatic restrictions  
 **Platform 934 (Earth):** Liberation soul source, limited mortal awareness  
 **Platform 1201 (Stratara):** Twin to Hegemon, experimental ruleset  
-**Platform 1237 (Iolinus):** Closed by Malachor, liberation target, dark platform
+**Platform 1237 (Iolinus):** Bootleg of Earth; closed by Malachor; liberation target; Earth souls from original returning to free the copy
 
 ### Cross Operations
 
@@ -309,7 +311,7 @@ Platform maintenance difficulty varies:
 
 ### Recent Connections
 - **935:** Recent connection with heavy merchant traffic
-- **936:** High refugee inflow world
+- **936:** High inbound traffic world
 - **1237:** Iolinus (newest before seal)
 - **1247:** Current highest stable platform
 
@@ -323,7 +325,7 @@ This directory can be expanded with:
 - Traffic statistics and popular routes
 - Merchant guild specializations by platform cluster
 - Cultural exchange programs
-- Refugee movements between worlds
+- Contractor and soul movements between worlds
 - Liberation operation staging areas
 - Black market portal networks
 
