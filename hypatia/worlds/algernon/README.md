@@ -17,13 +17,14 @@ Algernon is a Mystara-ish medieval fantasy world built entirely around a single 
 - **Quantum Foundation:** Phase transition (physical → waveform) via TheWay Strain mechanic
 - **Soul Transfer:** Quota fills, black market souls from other Hypatia worlds (Earth)
 - **Orcus Sapiens:** Pre-trial conversion to human baseline; Charlie's origin
+- **Waveform Persistence:** Mira as distributed interface-resident fragment from a near-threshold run
 
 ## Project Structure
 
 This world is organized into clear categories:
 
 - **[books/](books/README.md)** — Book-level documentation and organization
-- **[characters/](characters/README.md)** — Character profiles (Charlie, Keyes, participant ecosystem)
+- **[characters/](characters/README.md)** — Character profiles (Charlie, Keyes, Mira, participant ecosystem)
 - **[world-building/](world-building/README.md)** — The dungeon, TheWay mechanics, participant ecosystem
 - **[locations/](locations/README.md)** — World geography, dungeon levels, settlements
 - **[plots/](plots/README.md)** — Story arcs, scenes, plot threads
@@ -37,7 +38,7 @@ This world is organized into clear categories:
 ### Key Documents
 - **[Story Summary](../../../DIALOGUE_PAGE.md)** — Source material (Algernon section)
 - **[World-Building Index](world-building/README.md)** — Dungeon, TheWay, participant ecosystem
-- **[Character Index](characters/README.md)** — Charlie, Keyes, supporting cast
+- **[Character Index](characters/README.md)** — Charlie, Keyes, Mira, supporting cast
 
 ## Core Concepts
 
@@ -45,8 +46,9 @@ This world is organized into clear categories:
 - **The Dungeon:** Delivery mechanism; each level loads more energetic density
 - **TheWay Mechanics:** Strain, power progression — instrumentation for the experiment
 - **TheWay Interface:** Console-debugging aesthetic (log lines, data dumps, internal IDs) — not polished game UI. Wetware (Pineal + Amygdala). Some learn player-based mod overlay. See [world-building/theway-interface.md](world-building/theway-interface.md)
-- **Charlie:** Orcus Sapiens, quota fill, chose human at character gen, no genre savviness
+- **Charlie:** Orcus Sapiens, quota fill, chose human at character gen, level-5 start, no genre savviness
 - **Keyes:** FC as level-up voice; roots for Charlie; the enhancement (identity) may not survive the process
+- **Mira:** Near-threshold survivor as interface fragment; empirical challenge to ascension optimism
 
 ## Emotional Core
 

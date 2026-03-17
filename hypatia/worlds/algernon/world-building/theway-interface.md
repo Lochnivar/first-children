@@ -18,6 +18,7 @@ The interface is **raw instrumentation**, not polished game menus. Participants 
 - Log lines, data dumps, internal IDs, technical readouts
 - Birth race, quantum profile, Strain values — surfaced as debug output
 - Keyes speaks through the level-up voice (generic, procedural in early levels)
+- Participant UUIDs include unresolved glyph segments in human-readable render paths (translation limit, not corruption)
 
 **Storage:**
 - Inventories and storage are portals to extra-dimensional spaces
@@ -28,6 +29,24 @@ The interface is **raw instrumentation**, not polished game menus. Participants 
 ## Player-Based Mod Overlay
 
 Some participants eventually learn to layer a more polished UI over the raw output. A learned skill or acquired overlay — not the default. Charlie may discover this.
+
+Typical progression path observed in crawler behavior:
+- Raw debug output and high verbosity by default
+- Minimal mode after overload events
+- Cosmetic skins from marketplace overlays
+- Tactical overlays and user-optimized hybrids
+
+## Natural Language and Verbosity Control
+
+- Verbosity can be reduced from debug to minimal during active runs
+- Keyes can inject direct non-procedural responses through the same channel
+- Natural language interaction emerges before participants understand who is answering
+
+## Commercial Overlay Layer
+
+- GatePass ad inventory can appear as non-skippable wetware overlays
+- Help responses around experiment purpose, ascension outcome, and origin data are redacted at participant level
+- Marketplace skin economy exists above the instrumentation layer and can carry persistent modules (including companion behavior)
 
 ---
 

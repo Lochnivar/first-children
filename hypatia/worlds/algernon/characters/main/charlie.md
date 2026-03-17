@@ -10,6 +10,7 @@
 - **Origin:** Earth — pulled as quota fill
 - **Occupation (Pre-Dungeon):** Lumberjack
 - **Genre Savviness:** None. Has never played DnD. Approaches dungeon from first principles.
+- **Starting Level:** 5 (optional adult/background start rule applied)
 
 ## Personality
 - Holds onto what he knows is real
@@ -24,6 +25,13 @@
 - Pineal and Amygdala begin connecting for wetware interface
 - Screen reads birth race: Orcus Sapiens
 - He keeps human. Walks in as Charlie. Just Charlie.
+- System starts him at level 5 before he is oriented
+
+## Race Mechanics
+- **Birth Race:** Persistent Orcus Sapiens identity remains visible in system records
+- **Active Skin:** Human layer selected at character generation
+- **Behavior Under Load:** As Strain rises, human skin integrity degrades while underlying Orcus template adapts
+- **Practical Effect:** Charlie survives loads that should kill standard participants and does not initially understand why
 
 ## The Central Choice
 Charlie wants to hold onto the one thing he knows is real. Keyes wants to know if a genuinely lived human experience changes the phase transition. For now those are the same choice.

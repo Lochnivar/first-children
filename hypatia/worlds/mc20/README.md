@@ -8,11 +8,13 @@
 
 MC20 is a multiworld race threading through 20 planets of the Hypatia multiverse via Mercara's Cross portal infrastructure. Equal parts Iditarod, Monaco Grand Prix, scavenger hunt, and Amazing Race. The race is simultaneously a sporting event, an FC favor-trading mechanism, and twenty simultaneous experiments in mortal capability.
 
-**Source:** [DIALOGUE_PAGE.md](../../../DIALOGUE_PAGE.md) — complete working summary (ephemeral)
+**Working Source:** [WORKING_COPY.md](WORKING_COPY.md) — active MC20 long-form working copy
+**Original Source:** [DIALOGUE_PAGE.md](../../../DIALOGUE_PAGE.md) — legacy full discussion source
 
 ## Contents
 
 - **[RACE_RULES_QA.md](RACE_RULES_QA.md)** — Race rules QA for review and development
+- **[WORKING_COPY.md](WORKING_COPY.md)** — Full imported MC20 long-form working draft
 - **[../../meta/MC20_WORLD_SKELETONS_QA.md](../../meta/MC20_WORLD_SKELETONS_QA.md)** — All 20 worlds summary
 
 ## Framework Elements
@@ -23,4 +25,4 @@ MC20 is a multiworld race threading through 20 planets of the Hypatia multiverse
 
 ---
 
-*For full race structure, rules, and world details, see [DIALOGUE_PAGE.md](../../../DIALOGUE_PAGE.md)*
+*For active MC20 development, use [WORKING_COPY.md](WORKING_COPY.md).*

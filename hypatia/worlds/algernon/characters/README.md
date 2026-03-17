@@ -5,6 +5,7 @@ All character profiles organized by role.
 ## Main Characters
 - [Charlie](main/charlie.md) — Orcus Sapiens, quota fill, chose human at character gen; protagonist
 - [Keyes](main/keyes.md) — First Child running the experiment; present as level-up voice
+- [Mira (Kitsune)](main/mira.md) — Persistent waveform fragment riding interface skins; empirical counterpoint on ascension risk
 
 ## Supporting Characters
 - [To be developed] — Serious contenders, bounty hunters, warlords, other participants

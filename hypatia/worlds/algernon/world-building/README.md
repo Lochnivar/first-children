@@ -25,6 +25,7 @@ Complete index of all world-building elements organized by category.
 
 ## Cosmology
 - **Keyes** — FC running experiment; present as level-up voice
+- **Mira (Kitsune)** — interface-resident waveform fragment; empirical ascension counterpoint
 - **Prime Author** — Generates stable existence effortlessly; Keyes's irritation source
 - **Algernon (the name)** — Tuesday afternoon decision by bored immortal; inhabitants have elaborate mythologies about what it means
 
@@ -32,5 +33,5 @@ Complete index of all world-building elements organized by category.
 - [World-Building Template](template.md) — Template for new entries (to be created if needed)
 
 ## Related Documentation
-- [Character Index](../characters/README.md) — Charlie, Keyes, participant types
+- [Character Index](../characters/README.md) — Charlie, Keyes, Mira, participant types
 - [Framework: Algernon](../../algernon.md) — Framework-level summary

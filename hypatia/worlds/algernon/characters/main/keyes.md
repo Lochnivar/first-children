@@ -27,6 +27,12 @@
 - **The Question:** Does a genuinely lived human experience change the phase transition?
 - **Flowers for Algernon parallel:** Keyes genuinely roots for Charlie; faces the same devastating question — does the enhancement hold, or does it collapse before completing the transition?
 
+## Relationship With Mira
+- Official status: deletable anomaly tracked by Tinkari cleanup protocols
+- Practical status: preserved as high-value experimental data
+- Current behavior: Keyes is quietly reducing enforcement pressure where Mira intersects Charlie's run
+- Interpretive value: Mira is the strongest empirical challenge to Keyes's optimistic coherence hypothesis
+
 ## Voice
 - Early levels: generic, procedural, unremarkable
 - With Charlie (deeper levels): more present, invested, almost nervous

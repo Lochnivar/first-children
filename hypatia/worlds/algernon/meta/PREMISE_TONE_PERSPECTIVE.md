@@ -16,9 +16,10 @@ An Orcus Sapiens who lived a complete human life — and chose to stay human at 
 ## Perspective
 
 - **Primary POV:** Charlie (third-person limited)
-- **Aside POVs:** Keyes (level-up voice; becomes more present as Charlie progresses)
+- **Aside POVs:** Keyes (level-up voice; becomes more present as Charlie progresses), Mira (interface-resident waveform fragment)
 - **Charlie:** No genre savviness; first principles; holds onto what he knows is real
 - **Keyes:** Generic → present → invested → almost nervous as Charlie pushes deeper
+- **Mira:** Empirical skeptic on ascension coherence; running survival math while choosing to stay
 
 ## Open Question
 
