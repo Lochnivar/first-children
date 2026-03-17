@@ -90,6 +90,14 @@ World documentation at the framework level shows how each world **expands upon o
 - There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
 - **Earth trial:** Final vetting for Homo sapiens as generalist FC staff. World-to-dungeon transformation—administrative-boundary rooms, limited-access corridors, Gatelocks, integration metric. Independent contractors deploy via Platform 934. Narrative focus: human survival in a drastically changed world. See [Earth Trial Mechanics](earth/trial-mechanics.md) and [Earth AI Refresher](earth/AI-REFRESHER.md).
 
+### [MC20](mc20/) — Mercara's Cross 20
+- **Concept:** World-spanning race across 20 planets via Mercara's Cross infrastructure
+- **Architects:** Echad (meta-architect, favor economy), Virelle (Gatelock, scheduling)
+- **Status:** Story framework in development. Race rules and world skeletons captured for review.
+- **Defining concept:** Iditarod + Monaco + Amazing Race + scavenger hunt. Sporting event, FC favor mechanism, twenty experiments in one.
+- **Framework demonstration:** FC-to-FC transactions through mortal instruments, Gatelock infrastructure, multi-world experiments
+- **Documentation:** [mc20/README.md](mc20/README.md), [mc20/RACE_RULES_QA.md](mc20/RACE_RULES_QA.md), [../../meta/MC20_WORLD_SKELETONS_QA.md](../../meta/MC20_WORLD_SKELETONS_QA.md)
+
 ## World Documentation
 
 Each world entry includes:

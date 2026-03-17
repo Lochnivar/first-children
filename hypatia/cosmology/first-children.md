@@ -187,5 +187,6 @@ First Children can play various roles in stories:
 ---
 
 *For framework overview, see [../FRAMEWORK.md](../../FRAMEWORK.md)*  
+*For FC naming convention and name pool, see [FC Name Reference](fc-name-reference.md)*  
 *For Iolinus examples, see [worlds/iolinus/world-building/cosmology/](../worlds/iolinus/world-building/cosmology/)*
 

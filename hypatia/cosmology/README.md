@@ -15,6 +15,7 @@ This directory contains framework cosmology documentation - the structure and na
 - **[First Speech](first-speech.md)** - Original conceptual framework and terminology from the Prime Author
 - **[Marcionite Theological Inspiration](marcionite-theology.md)** - Theological framework structure
 - **[First Children](first-children.md)** - Little 'g' gods, children of Prime Author
+- **[FC Name Reference](fc-name-reference.md)** - Canonical naming pool and suggested name clusters
 - **[Legal Systems](legal-systems.md)** - No galactic consensus; species-specific legal codes; decentralized justice
 
 ---

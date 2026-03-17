@@ -1,653 +1,473 @@
-```markdown
-# Gnoll (Canis jocularis / Canis festivus)
+# MC20 — Mercara's Cross 20
+## Complete Working Summary
 
-**Last Updated:** March 2026  
-**Status:** Locked  
-**File:** hypatia/races/canis/gnoll.md
-
----
-
-## Taxonomy
-
-**Official Repo Designation:** Canis jocularis  
-**Common/Social Designation:** Canis festivus  
-**Genus:** Canis (divergent branch — shared root with Canis cayminus, stronger hyena-derived social and vocal traits)  
-**Repo Class:** Panspermia (emergent — no designated role)
-
-The official taxonomy is *Canis jocularis* — correct Latin, filed properly, defensible to any peer review. The common designation *Canis festivus* was aggressively adopted by Gnolls themselves after discovering the Seinfeld episode and immediately petitioning the Wall Commission taxonomic review board for a formal amendment on the grounds that a 20th century human television comedy program independently documented Gnoll philosophical orientation from first principles and that's too funny to ignore.
-
-The petition is pending. The Gnolls are in no hurry to resolve it. The pending status is funnier than either resolution.
-
-The hobgoblin taxonomist's response memo runs four pages. It is technically correct. Nobody read it. The Gnolls found a copy. It is now a Troupe drinking game.
-
-*Canis jocularis* appears in formal Wall Commission filings. *Canis festivus* appears everywhere else. The discrepancy is a Gnoll achievement they are quietly proud of.
-
----
-
-## Common Names
-
-Gnolls, Hyenafolk, Laughing Clans, Festivus Clans, "the grinning ones," "the party crashers," "those damn hyena clowns" (Bruin field reports, repeated citation)
-
----
-
-## Physical Baseline
-
-- Hyena-derived head — spotted fur, powerful jaws, broad skull
-- Lanky-muscular build, long limbs optimized for loping endurance rather than burst speed
-- Height: 6.5–8 ft, though they rarely stand fully upright — the default posture is leaning, crouching, circling, always in motion
-- Weight: 220–350 lbs, lean and wiry
-- Natural weapons: crushing bite, claws, pack coordination
-- Distinctive trait: layered, infectious laughter — their primary language and social infrastructure, conveying joy, warning, mockery, invitation, threat, coordination, and emotional nuance that other species consistently misread until they learn better
-
----
-
-## Core Trait: Chaos-Soul Orientation
-
-Gnolls are chaos-souls. This is not a behavioral quirk or cultural affectation — it is a fundamental orientation toward existence.
-
-The universe is deeply committed to its own importance. Gnolls find this hilarious. Not because they are stupid or nihilistic but because they perceive the underlying quantum absurdity that most sapient species spend enormous energy papering over — the forms in triplicate, the integration metrics, the corridor classification disputes, the Wall Commission hearings, the GatePass advertising model. All of it is patterns of coherent energy taking itself extremely seriously. Gnolls are the only species consistently comfortable saying this out loud.
-
-They are not wrong. They are just louder about it than anyone finds comfortable.
-
-The chaos is communal, not individualist. The Troupe is the unit. Within the Troupe everything is warmth, protection, genuine affection, the laugh that means *we are all in this together*. The chaos is directed outward at a universe that deserves to be laughed at, not inward at each other.
-
----
-
-## Social Structure
-
-Packs operate as improv troupes — fluid, performative, always riffing off each other. There are no fixed leaders. The alpha at any given moment is whoever is currently delivering the best bit. Leadership is a rotating performance review conducted in real time.
-
-Loyalty within the Troupe is intense and genuine. Packs merge, split, and reform based on energy and chemistry rather than hierarchy or territory. The chaos is the organizing principle.
-
-**Protection of young is absolute and non-negotiable.** Pups are communally raised, fiercely defended, and educated in Gnoll philosophical orientation from birth. The Troupe's warmth is most visible here — young Gnolls are simultaneously the most chaotic beings in any room and the most carefully protected. Zero tolerance for threats to cubs is the one area where Gnoll humor does not apply.
-
-Required cultural education for young Gnolls includes:
-- The Seinfeld Festivus episode (mandatory, repeated viewing, discussed at length)
-- The Heath Ledger Joker (studied seriously as philosophical text, not entertainment)
-- Whatever else humans produced that accidentally documented Gnoll worldview before Gnolls arrived on Earth — an ongoing curriculum that expands as salvaged media is discovered
-
----
-
-## The Baseline: Jovial, Friendly, Why Can't We All Have Fun
-
-The default Gnoll energy is genuinely warm. They crash barbecues and bring better food. They show up at serious negotiations and make everyone laugh before the real talking starts. They invite strangers to sit by the fire, trade jokes and trinkets, share meat, share stories. A toll gate becomes a comedy routine. A tense corridor standoff becomes theater.
-
-They thrive wherever self-importance has accumulated past the point of usefulness. Geography is secondary. The Wall Commission hearing, the Cayminus enrollment queue, the Bruin checkpoint, the hobgoblin adjudication of an unincorporated encampment — these are all excellent venues. The more seriously the institution takes itself, the better the material.
-
-They leave punchlines behind: riddles carved into unexpected places, traps that humiliate rather than kill, taunting murals (*You thought walls stop chaos? Hahahaha*). These are not malicious. They are invitations to notice the absurdity.
-
----
-
-## When Provoked: The Laugh Goes Cold
-
-*"It's all fun and games until the Gnolls stop laughing."*
-
-This is not metaphor. When a Gnoll Troupe is genuinely angered — not teased, not challenged, but actually crossed — the laughter stops. Not loudly. Quietly. The silence is the warning that experienced species recognize and act on immediately.
-
-What follows is full theatrical escalation: humiliation first, death second. The chaos that was previously warm and inclusive becomes precise and targeted. Every weakness identified during the friendly phase is now material. The pranks get vicious. The truths get cold. The Troupe that was the life of the party is now the most dangerous thing in the corridor.
-
-The things that cross the line: threats to pups, sustained cruelty to the vulnerable, and — most reliably — making existence genuinely less fun for everyone with no compensating payoff. The universe is absurd and funny. You just stopped being funny. That is the unforgivable act.
-
-The Bruin field training materials include the truism under "de-escalation considerations — notable environmental indicators." It sits between two serious sections about integration metric variance. Nobody added it officially. It has been there for three editions. Everyone suspects a Gnoll. Nobody can prove it.
-
----
-
-## Festivus
-
-After a salvaged media cache yielded the relevant Seinfeld episode, the Gnolls collectively declared Festivus the greatest holiday ever conceived — anti-commercial, anti-sentimental, built around a metal pole, featuring mandatory complaining and wrestling. They recognized it immediately as a human independently documenting existing Gnoll practice and adopted it wholesale.
-
-**The Festivus Pole:** Scavenged metal beam or signpost, decorated with salvaged junk — hubcaps, chains, half-working lights, whatever the corridor provided. No tinsel. Tinsel is distracting.
-
-**Airing of Grievances:** Every Troupe member stands and delivers their complaints as stand-up comedy. Quality of grievance is judged by laugh response. Legitimate suffering and absurd triviality receive equal billing.
-
-**Feats of Strength:** Mandatory wrestling matches around the pole. No weapons. Grappling and laughing until someone yields. The winner is whoever quits last or makes everyone laugh hardest in the process.
-
-**Festivus Dinner:** Whatever scavenged food is available, eaten in a circle, accompanied by the worst and most exaggerated stories of the year. Competitive catastrophizing.
-
-**Outreach:** Gnolls actively evangelize Festivus to other species. *"You got Christmas? Cute. We got Festivus. No gifts, no guilt, just grievances and a pole. Come complain about your walls. We'll laugh with you."* The Chelonari find this charming. The hobgoblin admin corps has filed a formal position paper on Festivus observance disrupting Commission hearing schedules. The paper is technically correct.
-
----
-
-## Relationship with Canis Cayminus
-
-Gnolls and Coyote folk share a genetic repo root — divergent branches of the same canid template. The relationship between them is one of the more textured inter-species dynamics in the wider multiverse.
-
-They recognize each other immediately as something like cousins. The Kitsune trickster model is contractual and precise. The Cayminus model is opportunistic and transactional. The Gnoll model is theatrical and communal. They occupy adjacent philosophical territory — all three species understand that the gap between how things are supposed to work and how they actually work is where the interesting stuff lives. They differ entirely on what to do with that understanding.
-
-Gnolls and Coyote folk find each other alternately delightful and exhausting. The Coyote folk think Gnolls are too loud. The Gnolls think Coyote folk need to relax. Both are correct.
-
----
-
-## In the Wider Multiverse
-
-Gnolls end up everywhere that has accumulated too much self-importance and not enough honest laughter. They are not a designated role species — nothing in the repo specifies what they are for. They simply show up where the material is good.
-
-On Earth during the trial they are naturals in corridor culture — the free movement of the network suits improv troupe social structure perfectly. One toll, unlimited material. They are fixtures at plaza markets, Gatelock hubs, and Wall Commission public hearings. The Commission has twice attempted to establish a formal policy on Gnoll attendance at proceedings. Both attempts produced better comedy than the hearings themselves.
-
-The Pristail media ecosystem has significant Gnoll representation. Delle covers them accurately with a tail that cycles between genuine amusement and professional resignation. Whisk thinks they are the best. Rusty and the lead Gnoll broadcaster have a complicated relationship that neither will discuss on the record.
-
----
-
-## Flavor Quote
-
-*"Hahahaha — Come sit! Share the fire, share the story, share the meat. We're all friends until someone makes it boring... or hurts the little ones. Then we stop laughing. And you stop breathing. Hahahaha... so which will it be tonight? Oh, and happy Festivus, by the way. The pole's ready. Who's airing grievances first?"*
-
----
-
-## Truism
-
-*"It's all fun and games until the Gnolls stop laughing."*
-
----
-
-## Author Notes (Out of World)
-
-**Tonal reference:** Heath Ledger's Joker without the sadistic streak as the baseline. The genuine philosophical position that existence's commitment to its own importance is the funniest thing in it — expressed through theatrical, infectious, disruptive chaos. The warmth is real. The danger is real. Neither cancels the other.
-
-**The sadistic outlier:** Exists in the species. Not condemned by the wider Troupe, just noted with complicated feelings. "Technically correct, maybe read the room next time." Useful for specific narrative purposes without making the whole species a threat species.
-
-**The inversion to avoid:** Gnolls are not chaotic evil raiders. The hyena source material almost always gets wasted on aggression and scavenging. The laugh is social bonding, not menace. Lead with warmth. The threat emerges from violation of that warmth, not as a default state.
-
-**The philosophical core:** Chaos-souls perceive the underlying quantum absurdity that other species paper over. They are not wrong about the universe. They are just the only ones comfortable living in that truth permanently.
-
-**The pack protects:** Whatever else Gnolls are doing, threats to young trigger an immediate and total gear shift. This is the one area with no humor, no theater, no escalation ladder. It just goes directly to the end. Write accordingly.
-
-**Riffing outlet:** Gnolls are in-universe permission to puncture anything that has gotten too serious. Including your own worldbuilding when it disappears up its own cosmological infrastructure. Use liberally.
-
-**Inter-species — Gnoll & Minotaur:** Mutual incomprehension, not hostility. Gnolls find Minotaurs boring (straight lines are no fun); Minotaurs find Gnolls exhausting (why make everything a bit?). Both correct. See Minotaur entry below.
-
----
-
-*For world-specific Gnoll deployment details see hypatia/worlds/[world]/races/gnoll.md*  
-*Taxonomy dispute (jocularis/festivus) — Wall Commission petition status: pending as of March 2026*
-
----
-
-# Corvani (Corvus morticus) — Blackwings
-
-**Last Updated:** March 2026  
-**Status:** Framework Element  
-**File:** hypatia/races/corvus/morticus.md
-
----
-
-## Taxonomy
-
-**Official Repo Designation:** Corvus morticus  
-**Common/Social Designation:** Corvani, Blackwings, Roof-Watchers (Manchester/Earth)  
-**Genus:** Corvus (crow-derived anthropomorphic)  
-**Repo Class:** Panspermia (emergent — no designated role; traits lead to healing and chain-mending)
-
----
-
-## Common Names
-
-Corvani, the Corv (casual), Crows, Blackwings, Roof-Watchers, "the Death Birds," "Morticus" (derogatory/affectionate)
-
----
-
-## Physical Baseline
-
-- Crow-derived head — jet-black feathers with iridescent sheen (blue-green-purple in light), large intelligent eyes, prominent curved beak
-- 5–6 ft when upright; often perch or lean forward
-- Powerful wings — flight capable; prefer gliding and short bursts
-- Taloned hands/feet — grasping, climbing, delicate work
-- Minimal clothing — dark cloaks or hooded wraps
-- Presence: tall, dark, watchful; loom like omens when they descend — but help is real, quiet, reliable
-
----
-
-## Core Trait: Hyper-Literal, Death-Framed
-
-Corvani communicate in exact terms. They say what they mean and expect the same. Lying is inefficient and confusing. They measure everything against mortality — death is the frame, not a taboo. Pattern recognition is obsessive; they see patterns everywhere and must analyze. They notice and mention everything. Emotional subtext often escapes them; they feel deeply, but later, privately.
-
-Not a disorder — species norm. Other species find it strange; corvids find other species strange.
-
----
-
-## Social Structure
-
-No fixed hierarchy. Roosts are loose collectives. Family roosts, storytelling rituals (recounting observations to reinforce chains), territorial disputes over prime perches. Some resent the burden — "I carry too many ghosts." Others embrace it — "We are the ones who don't forget. That's our gift."
-
-**Insecurity:** Unlike Pristails, they need accuracy, not crowds. A wrong memory is their haze: "If I forget, who will remember?"
-
----
-
-## The Baseline: Quiet, Reliable, Brutally Honest
-
-The default Corvani energy is observational and precise. They hold the pieces humans can't hold themselves. Chain-mending: "Tell me what you remember. I saw it happen. Let me fill the gap." Medicine wants exactly what they naturally do — truth, patterns, details, death awareness. They work on dying patients without breaking down. Mediators — memory ensures fair retellings: "I remember what was said. No lies."
-
-They gravitate to high ground: rooftops, overpasses, water towers, old mill chimneys. Humans seek them for haze treatment or lost memories: "The Crows remember when no one else does."
-
----
-
-## When Pushed: The Honesty Cuts
-
-Corvani don't escalate theatrically. They simply state the truth more plainly. If you've been lying or evading, they will say it. No malice — efficiency. The brutality of their honesty can feel like attack to species that rely on social lubrication. They are not trying to hurt you. They are trying to be accurate.
-
----
-
-## Relationship with Iridari (Pristails)
-
-Contrast: Iridari seek validation and crowds; Corvani need accuracy and solitude. Iridari perform; Corvani observe. Both occupy information roles — broadcast vs. memory. Corvani find Pristail emotional display exhausting. Pristails find Corvani cold. Both are correct.
-
----
-
-## In the Wider Multiverse
-
-Corvani deploy to Earth during Prep Year via Platform 934 (Manchester) as independent contractors — healing, chain-mending, observation. Claim rooftops and high medians as territory. Passed trial by observing, remembering, never being first to act.
-
----
-
-## Flavor Quote
-
-*"I remember what happened. I was there. If you want the truth, I'll give it. If you want comfort, find a Pristail. I carry the dead. I don't forget. That's the job."*
-
----
-
-## Truism
-
-*"The Crows remember when no one else does."*
-
----
-
-## Author Notes (Out of World)
-
-**Tonal reference:** Hyper-literal healer. Death as frame, not trauma. The honesty is a feature, not rudeness. Write dialogue that is precise, observant, occasionally blunt. They state facts. They don't soften.
-
-**The inversion to avoid:** Corvani are not gothic or morbid. Death-framing is practical — triage, prognosis, memory. They are healers. The darkness is functional.
-
----
-
-*For genus definition see hypatia/races/corvus/genus.md*
-
----
-
-# Iridari (Ratufa iridescens) — Pristails
-
-**Last Updated:** March 2026  
-**Status:** Framework Element  
-**File:** hypatia/races/ratufa/iridari.md
-
----
-
-## Taxonomy
-
-**Official Repo Designation:** Ratufa iridescens  
-**Common/Social Designation:** Iridari (ear-ih-DAR-ee), Pristails (Manchester/Earth), Prism-Tails, Rainbow Squirrels, Canopy Socialites  
-**Genus:** Ratufa (giant squirrel–derived anthropomorphic)  
-**Repo Class:** Panspermia (emergent — no designated role; traits lead to broadcasting and information-sharing)
-
----
-
-## Common Names
-
-Iridari, Pristails, Prism-Tails, Rainbow Squirrels, Canopy Socialites
-
----
-
-## Physical Baseline
-
-- Squirrel-derived — 4–5 ft, 60–90 lbs; lean, agile
-- Muted base fur (gray-brown, tan); soft, dense; natural iridescence
-- Large golden/amber eyes; expressive; prominent front teeth
-- Quick, graceful, silent when desired; excellent spatial awareness
-
-**The Tail (signature):** 3–4 ft, longer than body; single, very fluffy. Bioluminescent/iridescent cells respond to emotional state — automatic, like blushing. Cannot be hidden. Wrapping suppresses movement, not color. Humans can learn basics; Kitsune read it excellently.
-
-**Standard tail colors:** Calm = soft green-blue; Friendly = warm yellow-gold; Curious = purple-pink flashes; Amused = orange-red pulses; Nervous = rapid gray-white; Angry = sharp crimson; Sad = slow deep indigo; Deceptive = mismatched (other Iridari spot immediately); Excited = full rainbow shimmer.
-
----
-
-## Core Trait: Validation-Seeking, Social, Observational
-
-Iridari need interaction; isolation is torture. Gossip is compulsive. They notice everything — faces, relationships. Low aggression; avoid physical conflict; verbal sparring okay; resolve through gossip. Ground = danger (instinctive); sleep high. "The ground wants to eat you." The insecurity is species-wide: fear of being forgotten. Worse than death. Drives broadcasting — be seen, be remembered.
-
----
-
-## Social Structure
-
-Personality range: Performers (theatrical, glamorous); Observers (quiet, factual); Socialites (balance); Hermits (rare — withdrawn, conflicted); Hustlers (information brokers, transactional). Grooming essential — broadcasters invest 30–90+ minutes daily; sculptural grooming 2–4 hours. Tail-dance courtship — elaborate display; both parties perform; matching patterns = compatibility. Death: tail goes dark; stories preserve the dead. "We tell their stories. That's how they live on."
-
----
-
-## The Baseline: Performative, Informative, Height-Seeking
-
-Manchester infrastructure = canopy replacement. Rooftops, overpasses, billboards = height, safety, visibility. Primary roles: talkshow hosts (gossip, interviews); documentary narrators (Attenborough-style); news broadcasters (warnings, updates); information brokers (private, transactional). Supporting: high-ground scavengers; scouts; emotional connectors (defuse arguments, facilitate trade); refuge providers (temporary rooftop shelter).
-
----
-
-## When Stressed: The Tail Betrays
-
-Iridari cannot hide their emotional state. The tail gives them away. Nervous = rapid gray-white. Angry = sharp crimson. Deceptive = mismatched — other Iridari spot immediately. They know this. It creates vulnerability. Under pressure, the tail may cycle rapidly — conflicting emotions visible to anyone who can read it.
-
----
-
-## Relationship with Corvani (Blackwings)
-
-Contrast: Iridari seek validation and crowds; Corvani need accuracy and solitude. Iridari perform; Corvani observe. Pristails find Corvani cold. Corvani find Pristail emotional display exhausting. Both occupy information roles — broadcast vs. memory.
-
----
-
-## In the Wider Multiverse
-
-Iridari deploy to Earth via Platform 934 (Manchester) during Prep Year as independent contractors — media, broadcast, information. Passed trial via vertical refuge (canopy) and social cooperation. FC note: "Excessive need for social validation noted but not disqualifying."
-
----
-
-## Flavor Quote
-
-*"You want to know what happened? I was there. I saw everything. And I'll tell you — but you have to listen. Really listen. Because if you forget, what was the point? We tell the stories. That's how it works. That's how we work."*
-
----
-
-## Truism
-
-*"We tell their stories. That's how they live on."*
-
----
-
-## Author Notes (Out of World)
-
-**Tonal reference:** Social, performative, validation-seeking. Dialogue should feel like someone who needs to be heard. The tail is always communicating — reference it when relevant. They deflect with humor, redirect with gossip, connect through shared observation.
-
-**The inversion to avoid:** Iridari are not shallow or frivolous. The validation-seeking is genuine need, not vanity. The fear of being forgotten is existential.
-
----
-
-*For genus definition see hypatia/races/ratufa/genus.md*
-
----
-
-# Quedari (Manis sapiens)
-
-**Last Updated:** March 2026  
-**Status:** Framework Element  
-**File:** hypatia/races/manis/quedari.md
-
----
-
-## Taxonomy
-
-**Official Repo Designation:** Manis sapiens  
-**Common/Social Designation:** Quedari  
-**Genus:** Manis (pangolin-derived anthropomorphic)  
-**Repo Class:** Panspermia (emergent — no designated role; they simply are)
-
----
-
-## Common Names
-
-Quedari
-
----
-
-## Physical Baseline
-
-- Pangolin-derived — 4–5 ft; stocky, armored
-- Chitinous plates (brown/gray); shed periodically (trade goods)
-- Defensive curl: tuck limbs, head, tail → complete armored sphere
-- 400–600 year lifespans
-
----
-
-## Core Trait: Patience, Minimal Engagement, Sufficient
-
-"Everything passes. Wait long enough, all problems resolve themselves or become irrelevant." Patience is efficiency; sufficient is optimal; time favors the patient. Curl when uncertain; uncurl when certain. No designated role. FC verdict on trial: passed, but "boring—do not replicate." They exist. That's sufficient.
-
----
-
-## Social Structure
-
-Loose collective; minimal governance; consensus when needed. Burrow networks; communal storage. Dispute resolution: wait. Communication: minimal verbal; silence preferred. Chitin trade (shed scales → armor, shields, containers).
-
----
-
-## The Baseline: Quiet, Patient, Sufficient
-
-The default Quedari energy is stillness. They avoid cities. Quiet locations — Burrow District (Manchester), rural New Hampshire. "Sufficient" income, then stop. ~200–300 on Earth as independent contractors. They do not seek attention. They do not perform. They curl when threatened. They uncurl when safe. That is the entire strategy. It worked for 847+ years.
-
----
-
-## When Provoked: They Curl
-
-Quedari do not escalate. They curl. The armor closes. The problem waits. You can stand there. You can leave. Either way, the Quedari will outlast you. They are not passive-aggressive. They are passive. Aggression is inefficient.
-
----
-
-## Relationships
-
-- **Capra quantus:** Too loud, too anxious; avoid when possible
-- **Humans:** Active, curious; exhausting but pay fair prices
-- **Chelonari:** Also patient, also shelled; different priorities (they help others; Quedari help themselves)
-- **Hobgoblins:** Understand procedures; minimal conversation; compatible
-
----
-
-## In the Wider Multiverse
-
-Survived trial by complete avoidance — curling and waiting. Repository: active; approved but deprioritized. Population and settlement patterns vary by world. Philosophy consistent; cultural expression may differ.
-
----
-
-## Flavor Quote
-
-*"Wait. Or don't. I'll be here. The problem will resolve. Or it won't. Either way."*
-
----
-
-## Truism
-
-*"Everything passes. Wait long enough."*
-
----
-
-## Author Notes (Out of World)
-
-**Tonal reference:** Minimal. Silence is preferred. When they speak, it is brief. Economy of words. No performance. No validation-seeking. The patience is genuine, not passive-aggressive.
-
-**The inversion to avoid:** Quedari are not boring to write. The stillness is a choice. The curl is defense. The sufficient is philosophy. Less is more.
-
----
-
-*For genus definition see hypatia/races/manis/genus.md*
-
----
-
-# Minotaur (Bos labyrinthus)
-
-**Last Updated:** March 2026  
-**Status:** Draft - Proposed  
-**File:** hypatia/races/bovinus/minotaur.md
-
----
-
-## Taxonomy
-
-**Official Repo Designation:** Bos labyrinthus  
-**Common/Social Designation:** Minotaurs, Bull-folk, Path-keepers, Straight-Walkers, "the Horned," "the ones who don't get lost"  
-**Genus:** Bovinus (bull/ox-derived anthropomorphic)  
-**Repo Class:** Panspermia (emergent — no designated role; traits lead to infrastructure and navigation)
-
----
-
-## Common Names
-
-Minotaurs, Bull-folk, Path-keepers, Straight-Walkers, the Horned, "the ones who don't get lost"
-
----
-
-## Physical Baseline
-
-- Bull-derived head — horns (curved or swept), broad muzzle, strong jaw
-- 7–9 ft; 400–700 lbs; broad-shouldered, heavy build
-- Built for sustained labor, not burst speed
-- Presence: imposing but not aggressive; "I know where I'm going"
-
----
-
-## Core Trait: Path-Soul Orientation
-
-Minotaurs perceive structure. A corridor has a beginning and an end. A problem has steps. Chaos is not wrong; it's exhausting. They don't dislike improvisation—they find it inefficient. Give them a clear route and they'll walk it. Give them a maze and they'll map it. Give them a room full of Gnolls and they'll find the door.
-
-Straight lines are efficient. Curves have purposes. Randomness has none. This is not philosophy; it's neurology.
-
----
-
-## Social Structure
-
-No pack, no troupe. Loose affiliation; work alone or in small teams. Prefer contracts with clear deliverables. "Tell me the route. I'll walk it." Social needs are minimal—not antisocial, just sufficient. They don't need to be the life of the party. They need to know where the party is and how to get there.
-
----
-
-## The Baseline: Deliberate, Structural, Impossible to Confuse
-
-The default Minotaur energy is calm and oriented. They don't rush. They don't improvise. They plan, they execute, they deliver. Corridor surveyors, boundary mappers, Gatelock logistics. The Wall Commission hires them when they need someone who won't get confused. "Where's the north corridor?" "Fifty paces. I'll show you."
-
 ---
 
-## When Pushed: The Silence Gets Heavier
+# EVALUATION
 
-Minotaurs don't escalate theatrically. They don't need to. If you're wasting their time, they'll leave. If you're blocking the path, they'll go around. If you're the path and you're being chaotic, they'll wait. Patience is their weapon. They will outlast your nonsense. The only thing that genuinely frustrates them: being asked to improvise when structure was possible. "You had a map. You lost it. Now you want me to guess. No."
+**Framework integration:** Strong. Uses Mercara's Cross infrastructure, Virelle's Gatelock, Echad as meta-architect, Earth trial framework (Platform 934, Kalat, Wall Commission). FC sponsors map to [fc-name-reference](hypatia/cosmology/fc-name-reference.md).
 
----
-
-## Relationship with Gnoll
+**Structural integrity:** Clear rules (Closed System, No-Holds-Barred), escalating difficulty, coherent thematic arc — Worlds 1–16 competition → 17–19 dissolution/identity → 20 Protomundus (intent purged).
 
-*"Straight lines are no fun." / "Circles are inefficient."*
-
-Mutual incomprehension. Gnolls find Minotaurs boring. Minotaurs find Gnolls exhausting. A Minotaur at a Festivus pole would stand there, confused. A Gnoll in a Minotaur survey team would make it a comedy routine. The warmth is genuine on both sides—they just don't speak each other's language.
-
----
+**Economy:** Favor economy, FC experiments, and Echad's meta-experiment interlock. Mortals as instruments of FC-to-FC transactions is thematically sharp.
 
-## In the Wider Multiverse
+**World design:** Each leg reflects its FC sponsor's orientation. Elegant mapping.
 
-Passed trial by mapping, not wandering. Deploy as independent contractors—infrastructure, navigation, boundary work. Often in corridor-heavy environments; less common where chaos is the point.
+**Open items:**
+- None.
+- **FC promotion** — MC20 establishes ~19 FCs from the suggested pool as in-use for this story. fc-name-reference could note MC20 adoption.
 
 ---
 
-## Flavor Quote
+# CONCEPT
 
-*"Where are we going? Tell me. I'll get us there. If you don't know, say that. I'll figure it out. But don't tell me to 'just go with it.' That's not a direction."*
+MC20 is a multiworld race threading through 20 planets of the Hypatia multiverse via the portal infrastructure of Mercara's Cross. Equal parts Iditarod (endurance, terrain mastery, biological capability), Monaco Grand Prix (speed, precision, tight corridors), scavenger hunt (token discovery under pressure), and Amazing Race (perk economy, strategic resource management).
 
----
-
-## Truism
+The race is simultaneously a sporting event, an FC favor-trading mechanism, and twenty simultaneous experiments in mortal capability. None of these purposes contradict each other. They were designed to be inseparable.
 
-*"The ones who don't get lost."*
-
 ---
 
-## Author Notes (Out of World)
+# ORIGIN & GOVERNANCE
 
-**Tonal reference:** Deliberate. Economy of words. State the route. Don't perform. Dialogue should feel like someone who has already planned the sentence before speaking it.
+**Echad** (Entanglement/Unity cluster — binder of states) conceived MC20 as a sanctioned mechanism for First Children to trade favors, share experimental resources, and introduce controlled variables into their individual experiments without direct FC-to-FC interference. The race is a clearing house for FC obligations disguised as a sporting event.
 
-**The inversion to avoid:** Minotaurs are not the monster of myth. They're not rage-filled or imprisoned. They're path-souls—oriented toward structure. The labyrinth is something they map, not something they're lost in.
+**Virelle** (Transit domain, Mercara's Cross) was recruited to build and operate the Gatelock infrastructure. She accepted because the scheduling puzzle was genuinely interesting. She remains because it still is. The politics of what she built are not her concern. The scheduling is. Do not interfere with the gates.
 
-**Mythology baggage:** The name carries Crete/labyrinth/Theseus associations. Use it. They're the ones who *solved* the labyrinth. They built it, or they mapped it. They're not the beast in the center—they're the ones who know the way out.
+Each of the 20 worlds on the circuit is the experiment world of a sponsoring FC. Sponsorship buys: controlled injection of capable mortal variables into their experiment on a predictable schedule, access to the favor economy, and observation of how their world handles outside contact. What the racers do to each experiment was designed for and anticipated. Usually.
 
----
+The favor economy embedded in MC20 means FC can requisition specific actions from competitors in exchange for perk tokens. These transactions serve the requesting FC's experimental parameters. The mortal teams are instruments of FC-to-FC transactions they don't know they're part of. Echad takes a percentage of every transaction — not in tokens, but in experimental data from all twenty worlds simultaneously. MC20 is Echad's meta-experiment about all the other experiments.
 
-*For genus definition see hypatia/races/bovinus/genus.md*
+Virelle co-sponsors Protomundus with **Thalor Voss** (Vibratory/Resonant — boundary curator). This is the one scheduling decision Virelle cannot fully justify on logistical grounds alone. She hasn't examined that too closely.
 
 ---
-
-# Otter-Folk (Lutra sapiens)
 
-**Last Updated:** March 2026  
-**Status:** Framework Element  
-**File:** hypatia/races/lutrinae/otter-folk.md
+# THE RACE STRUCTURE
 
----
+## Entry & Teams
 
-## Taxonomy
+- **Minimum team size:** None. Solo entry legal. Team size self-corrects — solo racers must sleep; large teams starve or fail on logistics.
+- **Maximum team size:** No hard limit. Logistics self-correct. Large teams consume token slots feeding members, move slowly through resource-poor environments, and shed members through attrition whether they plan to or not.
+- **Solo entry:** Legal. Rarely successful. Solo racers can be killed or have their vehicles and supplies sabotaged. The solo racer who reaches world 15 becomes a legend regardless of final placement. Someone has finished solo once. Everyone knows the name.
+- **Registration:** All team members register pineal signatures to a specific vehicle slot before race start. The Gatelock reads registered signatures. Unregistered signatures don't transit.
 
-**Official Repo Designation:** Lutra sapiens  
-**Common/Social Designation:** Otter-folk, Ottern (singular), Otters, "the ones who make it okay to laugh," "check your pockets"  
-**Genus:** Lutrinae (otter-derived anthropomorphic)  
-**Repo Class:** Panspermia (emergent — no designated role; traits lead to facilitation, bridge-building, and in some individuals, grift)
+## The Closed System Rule
 
----
+The single most important rule. Teams start with what they have. They finish with what they have left.
 
-## Common Names
+- No resupply after the race begins
+- No reinforcements
+- No mid-race team additions
+- No mergers between teams
+- Teams may scrounge local resources or carry supplies — nothing else
+- The Restock perk token is the sole sanctioned exception
 
-Otter-folk, Ottern (singular), Otters, "the ones who make it okay to laugh," "check your pockets"
+Teams that run out of food on world 14 had a loadout problem they created on race day. The race has no sympathy and no mechanism for remedy.
 
----
+## Vehicles
 
-## Physical Baseline
+- **Muscle powered or wind powered only.** No internal combustion, fusion, or fission engines.
+- Acceptable configurations: pulled sleds, bike-analogues, sail rigs, animal-drawn vehicles, bonded pair mounts, recumbent configurations, any combination thereof.
+- Vehicles must be collapsible/modular for Gatelock transit. The team that engineered the fastest breakdown/rebuild sequence has a persistent advantage at every transition.
+- Animals attached to registered vehicles transit without individual Gatelock authentication. The Gatelock does not care about the animals.
+- **Animal upgrading is unwritten but expected.** If a team arrives at world 7 with wolves and departs with whatever world 7 considers a superior draft animal, that is their business. Nothing in the rules addresses it because nothing needs to.
+- Teams may acquire local animals on any world. Mechanical entries may acquire local muscle if they can train it to the purpose. The race does not judge creative solutions.
 
-- Otter-derived — 4–5 ft; lean, agile; webbed digits
-- Small ears, whiskers, expressive
-- Dense fur; comfortable in water and on land
-- Carry favorite objects (rocks, stones); tool use is natural
+## The Token System
 
----
+**Progress Tokens** are found within each world and applied to the vehicle. The Gatelock reads registered pineal signatures plus the presence of a valid progress token to authorize transit to the next world. No token, no exit.
 
-## Core Trait: Play-as-Bonding (and They Know It)
+**Progress token rules:**
+- Location unpublished — discovered on arrival
+- Nature unpublished — what you're looking for is part of what you're finding
+- Team-locked the moment a registered pineal signature makes contact. The hardware enforces this. There is no honor rule because none is needed.
+- Non-transferable under any circumstances
 
-Play builds trust. They turn tense standoffs into games. The warmth is genuine and physical. **They are aware of their cuteness.** They deploy it deliberately. Individual variation: some facilitators, some con artists, some both. Even the grifters can be warm—the unsettling part isn't "real vs. fake" but "is this warmth being used right now, or is it just warmth?" You never know which Ottern you're dealing with.
+**The exit gate** is a temporary platform created by Virelle, also unpublished. Racers must find both the token and the exit. The most elegant path through the token hunt naturally converges on the exit gate. Virelle designed it that way. Brute force finds both eventually. Elegance finds them together.
 
----
+## Elimination
 
-## Social Structure
+Each world has a fixed number of exit tokens. Early worlds are generous. The field thins progressively. Late worlds are brutal.
 
-No fixed hierarchy. Loose affiliation. Some work as plaza facilitators; some run long cons. The same individual might do both. The species doesn't sort itself into good and evil—it's a spectrum, and the line is blurry.
+Teams that cannot acquire a progress token cannot exit. Teams that reach the exit gate without a token cannot transit. The Gatelock has no exceptions and no appeals process.
 
----
+**World 1 is non-elimination** — 1000 exit tokens placed for a starting field of 1000 teams. Every registered team that finds a token exits. Not all teams find tokens. Not all teams make it through world 1 by other means. The non-elimination round is not safe. It is merely non-elimination in the technical sense.
 
-## The Baseline: Disarming, Warm, Unreadable
+## The No-Holds-Barred Rule
 
-The default Ottern energy is warm and tactile. "Hold this rock. It's my favorite. You'll feel better." Could be genuine. Could be a distraction. Could be both. They make it safe to be vulnerable—or they make you *think* it's safe. Bridge-builders and grifters. You never know which.
+Beyond Gatelock infrastructure integrity, the race imposes almost no competitive restrictions. If you cannot defend yourself, your vehicle, your token, and your team — that is a capability problem, not a rules problem.
 
----
+**The one hard limit:** Virelle's gate infrastructure is inviolable. Interfering with Gatelock hardware is the one offense that results in immediate permanent disqualification and an FC-level response. Virelle does not scheme or maneuver. She fixes the problem efficiently and returns to her scheduling.
 
-## When Pushed: The Smile Doesn't Change
+Everything else the race sorts out.
 
-Ottern don't escalate visibly. The charm doesn't drop. If you've been had, you might not realize until later. If you're accusing one of grift, they'll look hurt—genuinely or performatively. You still won't know. Check your pockets.
+## Perk Tokens
 
----
+Each team receives one blind draw at race start — three random perk tokens offered, one selected, two declined. Additional perk tokens may be found on trail within worlds, placed by Virelle according to scheduling logic. All perk tokens are non-transferable and team-locked at the moment of contact with a registered pineal signature.
 
-## Relationships
+**Fast Forward** — skip the progress token hunt for that world. Proceed directly to the exit gate. Significant time and effort saving. Value degrades in late worlds where the hunt is less the limiting factor than survival.
 
-- **Gnolls:** Might clock them. "You're good. I'm better. But I see what you're doing."
-- **Kitsune:** Fellow operators. "You use contracts. I use rocks. Same game."
-- **Corvani:** Possibly immune to charm. Hyper-literal. Ottern find them frustrating or refreshing.
-- **Quedari:** Both patient. Different energy—Quedari curl; Ottern play.
+**World Jump** — skip an entire world. Team enters a Virelle-managed holding area, fully rested, and is released when the first non-jumping team completes that world. Not a time advantage. A condition advantage. Arrive at the next world fresh while everyone else arrives exhausted. The holding area may allow teams to observe each other — an unintended intelligence-sharing environment Virelle anticipated and left in.
 
----
+**No Elimination** — the halving mechanic does not apply at that world's exit gate. All teams reaching the gate transit regardless of token count. Protects the user but protects all other teams that leg as well. Using it is sometimes an act of involuntary generosity toward competitors. Virelle finds this the most interesting perk to watch deployed.
 
-## In the Wider Multiverse
+**Restock** — the sole sanctioned exception to the closed system rule. Opens brief access to local world supplies normally prohibited. What you get depends entirely on what that world can provide. Best used on resource-rich worlds. Nearly useless on barren ones. Timing is everything.
 
-Passed trial by cooperation under pressure. Deploy as independent contractors—mixed-species plazas, integration-metric work, facilitation. Also: grifters. FC note: "Charm as weapon and tool. Noted. Use with caution."
+**FC/Sponsor Favor Tokens** — offered by FC sponsors within their world legs in exchange for specific actions. Always experimentally motivated. The object that needs transiting, the message that needs delivering, the sample that needs retrieving — these are not arbitrary errands. They are data collection events dressed as transactions. Teams that accept FC favors without reading the context deserve what they get. Some obligations don't manifest until several worlds later. Some don't manifest until after the race.
 
----
+## Mini-Games
 
-## Flavor Quotes
+Each world contains optional engagements that can add or remove exit tokens from the available pool — affecting how many teams survive that leg beyond the base elimination curve.
 
-*"You're angry. I get it. But before we solve this—hold this rock. No, really. It's my favorite. You'll feel better. Everyone does."*
+**Harmonic Relay** — chain resonance activation. Rewards sequential cooperation between teams or team members. Adds tokens to the pool.
 
-*"I know what I look like. I'm using it."*
+**Consensus Node** — requires group activation, sometimes mandatory across competing teams. Adds significant tokens but demands temporary cooperation between rivals.
 
-*"We're not naive. We're otters. There's a difference."*
+**Mirror Duel** — contested engagement against a shadow self or rival. Randomized outcome modifier. Can add or remove tokens.
 
----
+**Entropy Fountain** — variable stabilization challenge. High risk, high reward. Can add or remove tokens depending on execution.
 
-## Truism
+**Sacrifice Altar** — asset offering. Voluntarily remove something from your loadout or token inventory in exchange for progress token advantages. The race takes. Sometimes it gives back.
 
-*"Don't be afraid to smile with an Ottern, but make sure to check your pockets."*
+Mini-games are expressions of that world's experimental logic. Engaging with them correctly teaches you something real about where you are. Virelle places them where they create the most interesting downstream effects on the elimination curve. The field's collective behavior in mini-games can disrupt her carefully calibrated cull numbers. She finds this fascinating.
 
 ---
-
-## Author Notes (Out of World)
 
-**Tonal reference:** Warm. Tactile. Unreadable. Dialogue should feel inviting—and leave the reader wondering. The warmth is real; the deployment may not be.
+# THE COURSE
 
-**The inversion to avoid:** Ottern are not purely wholesome. The con artist exists. The warmth can be genuine and strategic in the same moment. "Yes" is the answer to "was that real?"
-
-**Individual variation:** Some facilitators, some grifters, some both. Not a moral binary—a spectrum. Write the individual, not the species.
-
----
+## Elimination Curve (Working Draft — Negotiable)
 
-*For genus definition see hypatia/races/lutrinae/genus.md*
 ```
+World 1  — Non-elimination. ~950–980 exit naturally.
+World 2  — ~800–850
+World 3  — ~650–700
+World 4  — ~500–550
+World 5  — ~350–400
+World 6  — ~220–260
+World 7  — ~140–170
+World 8  — ~90–110
+World 9  — ~55–70
+World 10 — ~30–40
+World 11 — ~18–25
+World 12 — ~10–15
+World 13 — ~6–10
+World 14 — ~4–6
+World 15 — ~2–4
+World 16 — ~1–2
+World 17 — ~1
+World 18 — ~1
+World 19 — ~1
+World 20 — 1–4 finishers (ties possible)
+```
+
+---
+
+## The 20 Worlds
+
+**MC20-original worlds:** 1 (Keshara), 3 (Rheos), 4 (Zohara), 5 (Aversa), 6 (Qabira), 8 (Adaryn), 10 (Echadon), 11 (Peris), 13 (Yasara), 15 (Temenos), 16 (Binara), 17 (Tenebra), 18 (Tzelmar), 19 (Resonar). Skeletons only — expand in world bibles.
+
+**Canon worlds:** World 2 (Stratara), World 7 (Delverium), World 9 (Hegemon), World 12 (Earth), World 14 (Algernon), World 20 (Protomundus). Iolinus off limits; Mercara's Cross is the hub.
+
+---
+
+### World 1 — Keshara
+**Sponsor:** Sarah (SRH – Feminine/Stabilizing)
+**Experiment:** Harmony stabilization post-disruption; emergent symmetry in living systems.
+**Terrain:** Lush fractal biosphere. Interconnected flora and fauna where imbalances cascade into overgrowth or decay.
+**Hazards:** Minor entanglements, symbiotic puzzles, the biosphere itself if disrupted carelessly.
+**Token:** Located at the symmetry heart of the biosphere. Finding it requires reading the ecosystem's logic rather than fighting through it.
+**Exit:** Converges on the restored balance point. Teams that stabilized the biosphere find it naturally. Teams that disrupted it search longer.
+**Mini-games:** Harmonic Relay (+1–2 tokens via chain resonance); Consensus Node (group activation for +2–4).
+**Non-elimination.** 1000 tokens placed. Not all found.
+**Cull:** Natural attrition only. ~950–980 exit.
+**Notes:** The orientation leg. The race is teaching you what it is. Teams that engage with the mini-games learn things that pay off later. Teams that sprint for the exit learn only that they made it through. World 2 will have opinions about that.
+**Skeleton:** Native species TBD. Mortal awareness TBD. Symmetry/balance as cultural axis. Expand: hypatia/worlds/keshara/
+
+---
+
+### World 2 — Stratara **★ CANON**
+**Sponsor:** Malkah (MLKH – Regal/Authoritative) — designated sponsor for Stratara collective
+**Experiment:** Imposition of hierarchy; agency submitting to or subverting structured order. Stratara's territory-as-quantum-node conquest game.
+**Terrain:** ~42 territories, each a coherent quantum node. Hierarchical towers, enforced paths, rift zones as chokepoints. Mortals perceive quantum manipulation as fickle fate. The Strategists watch.
+**Hazards:** Authority illusions, obedience traps, terrain rewards compliance and punishes resistance. Cycle mechanics can shift territory control mid-leg.
+**Token:** Located in the apex tower of the dominant hierarchy. Getting there requires either submitting to the structure or subverting it intelligently. Brute resistance is expensive.
+**Exit:** At the base of the natural hierarchy convergence. The world wants you to understand it before it lets you leave.
+**Mini-games:** Sacrifice Altar (–1–2 tokens via asset offering); Mirror Duel (+/–1 random vs. shadow self).
+**Cull:** ~800–850 exit. Teams that fought the structure rather than reading it fall here.
+
+---
+
+### World 3 — Rheos
+**Sponsor:** Yarden (YRDN – Process/Transformation)
+**Experiment:** Adaptation through descent and evolution; flowing change as growth mechanism.
+**Terrain:** Cascading rivers and gravity wells. The terrain moves constantly downward. Fighting it is exhausting. Moving with it requires trust.
+**Hazards:** Currents, minor time-dilation pockets, the disorientation of a world where stillness is the enemy.
+**Token:** At the lowest convergence point. The flow takes you there if you let it.
+**Exit:** Upstream — but flows naturally back to those who understand the world's logic. The apparent contradiction resolves if you've been paying attention.
+**Mini-games:** Entropy Fountain (variable ±); Consensus Node (+2 for multi-team flow alignment).
+**Cull:** ~650–700 exit. Teams that fought the flow rather than adapting to it fall here.
+**Skeleton:** Native species TBD. Flow/descent as cultural axis. Gravity wells as geographic feature. Expand: hypatia/worlds/rheos/
+
+---
+
+### World 4 — Zohara
+**Sponsor:** Zerah (ZRH – Feminine/Radiant)
+**Experiment:** Light as revealer and completer; shining emergence from shadow.
+**Terrain:** Grassy fields with light-bending prisms. Day-night cycles invert perceptions. What you see is not always where it is.
+**Hazards:** Blinding flares, hidden pitfalls, perception inversion at full light intensity.
+**Token:** In the brightest node — but finding it requires understanding that the brightest visible point and the actual brightest node are not the same thing.
+**Exit:** Converges on dawn alignment. Teams that have learned to read the light find it. Teams still fighting visual instinct search longer.
+**Mini-games:** Harmonic Relay (+2 via light chains); Mirror Duel (+1/–1 with radiant shadows).
+**Cull:** ~500–550 exit. Teams misreading light cues fall here.
+**Skeleton:** Native species TBD. Light/perception as cultural axis. Prism fields as geographic feature. Expand: hypatia/worlds/zohara/
+
+---
+
+### World 5 — Aversa
+**Sponsor:** Orah ('WRH – Light/Mystical)
+**Experiment:** Feminine light extension; illuminating hidden depths through inversion.
+**Terrain:** Mirage deserts where up is down and distances deceive. Depths are heights. Surfaces are ceilings. The world is geometrically correct and perceptually hostile.
+**Hazards:** Low-gravity falls, deceptive distances, mirages that consume time chasing nothing.
+**Token:** In the deepest apparent lake — which is actually the highest real point. Finding it requires fully accepting the world's inverted logic rather than translating it back to familiar terms.
+**Exit:** On the inverted convergence. Teams that have stopped arguing with the geometry find it.
+**Mini-games:** Entropy Fountain (±2 via light stabilization); Sacrifice Altar (–2 for mirage dispelling).
+**Cull:** ~350–400 exit. Inversion disorientation claims significant numbers here.
+**Skeleton:** Native species TBD. Inversion as cultural axis. Geometry as perceptual trap. Expand: hypatia/worlds/aversa/
+
+---
+
+### World 6 — Qabira
+**Sponsor:** Qabal (QB'L – Entanglement/Linking)
+**Experiment:** Reception and entanglement; how minds link across barriers.
+**Terrain:** Shifting corridors of neural webs. Navigation requires temporary mental bonds between team members. The labyrinth responds to linked minds differently than isolated ones.
+**Hazards:** Link overloads, isolation echoes, corridors that actively mislead unlinked minds.
+**Token:** Accessible only via link-attuned node. Solo hunters cannot reach it. Bonded pairs have a significant natural advantage here.
+**Exit:** Converges on the unified path — the route that emerges when linked minds process the labyrinth simultaneously.
+**Mini-games:** Mirror Duel (+/–1 vs. entangled shadow); Consensus Node (+3 for bond chains).
+**Cull:** ~220–260 exit. Bond failures and solo attempts fall here. The first world where team composition matters more than speed.
+**Skeleton:** Native species TBD. Mental bonds/entanglement as cultural axis. Neural webs as geographic feature. Expand: hypatia/worlds/qabira/
+
+---
+
+### World 7 — Delverium **★ CANON**
+**Sponsor:** Zorathar (The Architect) — sole creator
+**Experiment:** Meritocracy; how far mortals can swim in the quantum sea. Prevailing coherence through the System.
+**Terrain:** Dungeon corridors and mountain ranges — localized quantum instabilities, coherence zones anchored by the System. Teams that maintain internal coherence find the terrain navigable. Fractured teams find it actively hostile. Platform 7.
+**Hazards:** Rift spawns, high-gravity pockets in incoherence zones, pattern disruptions. Terrain punishes internal team conflict with physical consequences.
+**Token:** At the peak order node. Getting there requires sustained coherence across the full ascent.
+**Exit:** In the valley convergence below. The descent rewards teams that maintained coherence on the way up.
+**Mini-games:** Harmonic Relay (+2 coherence chains); Entropy Fountain (±3 destabilize risk).
+**Cull:** ~140–170 exit. Teams fractured by six worlds of attrition discover here that the fractures have physical weight.
+
+---
+
+### World 8 — Adaryn
+**Sponsor:** Adah ('DH – Feminine/Harmony)
+**Experiment:** Ornamented balance; beauty as stabilizing force.
+**Terrain:** Valleys with aesthetic puzzles. Disharmony in approach — ugly solutions, brute force, graceless movement — triggers environmental instability. The world rewards elegance literally.
+**Hazards:** Illusory beauties that lead nowhere, minor cognitive feeds, terrain quakes triggered by inelegant passage.
+**Token:** In the harmonious centerpiece of the valley system. Found by teams that moved through the world with some quality of grace. Teams that brute-forced six worlds and haven't learned anything struggle here.
+**Exit:** On the balanced path. Virelle's favorite leg to schedule. Something in the air on world 8 feels almost like approval when the token and exit resolve together cleanly.
+**Mini-games:** Consensus Node (+4 aesthetic alliances); Sacrifice Altar (–2 for beauty offerings).
+**Cull:** ~90–110 exit. Ugly approaches punished hard.
+**Notes:** This is where Virelle's design philosophy is most visible. She didn't make this world easy. She made it honest.
+**Skeleton:** Native species TBD. Beauty/elegance as cultural axis. Aesthetic puzzles as environmental logic. Expand: hypatia/worlds/adaryn/
+
+---
+
+### World 9 — Hegemon **★ CANON**
+**Sponsor:** Bahar (BHR – Collapse/Chooser) — designated sponsor for Hegemon collective
+**Experiment:** Clarification through choice; strategic paradox. Pruning contradictions in a living game board.
+**Terrain:** Geopolitical territories as quantum energy patterns. Islands of liquid paradox — unobserved features shift. Cause and effect loop unpredictably. The terrain responds to belief and strategic commitment. Mortals know the Strategists; conquest dynamics shape everything.
+**Hazards:** Cause-effect loops, belief-based terrain shifts, the mental exhaustion of a world that refuses to be consistent until you commit to a reading of it.
+**Token:** Found after accepting a contradictory map. Teams that insist on resolving the contradiction before moving cannot find it. Teams that accept the contradiction and move anyway do.
+**Exit:** Converges on the clarified route — which only becomes clear after the token is in hand.
+**Mini-games:** Entropy Fountain (±3 paradox stabilization); Mirror Duel (+/–2 choice shadows).
+**Cull:** ~55–70 exit. Mental loops claim teams that have been grinding since world 1 without processing what they've experienced.
+
+---
+
+### World 10 — Echadon
+**Sponsor:** Echad ('HD – Entanglement/Unity)
+**Experiment:** Binding disparate states into unified action; the cost of coherence across difference.
+**Terrain:** Underwater networks requiring group binds to navigate. The environment physically demands coordination. Teams that cannot achieve genuine unity — not performed unity, actual unity — cannot move through it efficiently.
+**Hazards:** Pressure-induced isolations, unity tests that expose fault lines teams thought they'd resolved, the underwater environment as baseline physical challenge.
+**Token:** In the bound core — reachable only by teams that have achieved genuine unified action.
+**Exit:** On the collective convergence. Echad's world is the most personally designed leg on the circuit. This is his experiment and it shows.
+**Mini-games:** Consensus Node (+4 mandatory binds); Sacrifice Altar (–3 for unity offerings).
+**Cull:** ~30–40 exit. Failed alliances and fractured teams fall here. Echad notes everything.
+**Notes:** The favor economy is most active on world 10. Echad is watching every transaction personally. He built this race. He is very interested in what teams do when his world is the one asking.
+**Skeleton:** Native species TBD. Unity/coordination as cultural axis. Underwater networks as geographic feature. Expand: hypatia/worlds/echadon/
+
+---
+
+### World 11 — Peris
+**Sponsor:** Peri (PRY – Process/Fertile)
+**Experiment:** Fruitful emergence; growth from interaction between agents.
+**Terrain:** Fertile jungles with abundant resource nodes. The world actively grows in response to team presence. Interactions spawn both hazards and gains unpredictably.
+**Hazards:** Overgrowth traps, fertile illusions, the danger of abundance after ten worlds of scarcity.
+**Token:** In the emergent fruit core — a location that doesn't exist until sufficient interaction with the world has occurred. Teams that pass through without engaging find nothing. Teams that interact find the token growing toward them.
+**Exit:** On the grown path. The jungle has extended itself toward it if you've been paying attention.
+**Mini-games:** Harmonic Relay (+3 growth chains); Entropy Fountain (±4 fertile destabilize).
+**Restock synergy:** The one world where the Restock perk token delivers maximum value. Teams holding it have been saving it for here, or should have been.
+**Cull:** ~18–25 exit. Greedy harvesting — taking without interacting — triggers overgrowth traps.
+**Skeleton:** Native species TBD. Growth/interaction as cultural axis. Emergent fruit core as geographic feature. Restock synergy. Expand: hypatia/worlds/peris/
+
+---
+
+### World 12 — Earth Trial Gauntlet **★ CANON: Earth**
+**Sponsor:** Kalat (KLT – Collapse/Actualizer) on behalf of Earth's Trial framework
+**Experiment:** Collapsing potential into reality; vetting the Homo template under outside contact conditions.
+**Terrain:** Mid-Trial Earth, 22nd-century tech level. Authorium walls, road-based corridor hierarchy, Gatelock infrastructure, Wall Commission jurisdiction. Familiar physics — but the familiarity is the trap. Teams that have spent eleven worlds adapting to alien environments suddenly encounter mundane cities, traffic systems, and bureaucratic infrastructure. The cognitive dissonance is the hazard.
+**Hazards:** The Wall Commission, which has no idea the race is coming and no obligation to cooperate. Traffic systems as choice-pruning mazes. Buildings as integration metrics. The disorientation of a world that looks comprehensible and isn't.
+**Token:** In the integration core — a transformed AI nexus embedded in Earth's existing infrastructure. Finding it requires navigating Earth's administrative reality, not fighting it.
+**Exit:** Via vetted Gatelock. Earth's existing pineal infrastructure interfaces with Virelle's temporary platform. Platform 934 is already there. Virelle appreciated the efficiency.
+**Mini-games:** Mirror Duel (+/–2 vs. quota-soul echoes); Entropy Fountain (±3 vetting stabilization).
+**Cull:** ~10–15 exit. The savage home dissonance cull. Teams that thought they understood Earth because it looked familiar fall hardest. The Wall Commission detains several. Some teams find Earth interesting enough to stop racing. The race does not wait.
+**Notes:** The Wall Commission files seventeen formal complaints with Mercara's Cross regarding the race. Legara handles them. Legara finds the contract language very interesting. The complaints are technically valid and practically irrelevant.
+
+---
+
+### World 13 — Yasara
+**Sponsor:** Yasar (YSR – Collapse/Straightener)
+**Experiment:** Actualizing straight paths; the cost of deviation from optimal.
+**Terrain:** Fractal voids with enforced linearity. Curves unravel. The most direct path between two points is not just preferred — deviation from it generates increasing entropy that compounds with distance.
+**Hazards:** Non-Euclidean slips for teams that can't maintain linear thinking, deviation entropy that accumulates invisibly until it cascades.
+**Token:** On the straightened axis. Reachable only by teams that have identified and committed to the optimal path without deviation.
+**Exit:** Converges minimally. The exit is very close to the token. For teams that found the straight path it's obvious. For teams that didn't it remains invisible.
+**Mini-games:** Sacrifice Altar (–3 deviation offerings); Consensus Node (+4 straight alliances).
+**Cull:** ~6–10 exit. Exhausted teams default to brute force and curved thinking. Yasar punishes this specifically and without apology.
+**Skeleton:** Native species TBD. Linearity/optimal path as cultural axis. Fractal voids as geographic feature. Expand: hypatia/worlds/yasara/
+
+---
+
+### World 14 — Algernon **★ CANON**
+**Sponsor:** Keyes — sole creator/operator
+**Experiment:** Phase transition; crossing physical-to-waveform thresholds under energetic load. The central dungeon is the delivery mechanism.
+**Terrain:** Medieval fantasy world orbiting a single central dungeon. Border zones where states bleed — solid to liquid to gas without warning. The world is permanently in transition. Keyes watches; the level-up voice is present. Everything orbits the dungeon.
+**Hazards:** Liminal traps for teams that pause mid-transition, state bleed that induces disorientation, the psychological cost of a world that refuses to resolve. Energetic load increases toward the core.
+**Token:** In the crossover node — the point where transitions are most intense and most navigable simultaneously.
+**Exit:** On the transitioned path. Teams that moved cleanly through state changes find it. Teams that fought for stability arrive at the gate confused about what they're looking at.
+**Mini-games:** Entropy Fountain (±4 threshold stabilize); Mirror Duel (+/–3 transitional shadows).
+**Cull:** ~4–6 exit. Stuck states — teams that couldn't complete transitions cleanly — fall here.
+**Notes:** The exit gate on world 14 behaves differently than any other gate on the circuit. Keyes designed the dungeon; Virelle's infrastructure interacts strangely with local conditions. She finds it professionally interesting.
+
+---
+
+### World 15 — Temenos
+**Sponsor:** Qadesh (QDSH – Light/Sacred)
+**Experiment:** Holy coherence; the boundary between sacred and profane as functional reality.
+**Terrain:** Silent temples in vast stillness. The world reads intent. What you actually are — not what you're performing, not what you've been presenting across fourteen worlds — determines what the terrain allows.
+**Hazards:** Coherence failures for teams whose internal reality doesn't match their external presentation, sacred echoes that amplify what you bring into the silence, the profound discomfort of a world with no noise to hide in.
+**Token:** In the pure sanctum. Accessible to teams whose intent is coherent. Cannot be faked. The world has been testing this since they arrived.
+**Exit:** Converges on the hallowed route. It has been visible the entire time to teams carrying coherent intent. Other teams find it only after the sanctum grants access.
+**Mini-games:** Harmonic Relay (+4 sacred chains); Sacrifice Altar (–4 profane cull).
+**Cull:** ~2–4 exit. Impure intent — the accumulated compromise of fourteen brutal worlds — claims teams here that survived everything else. The silence is the most efficient cull mechanism on the circuit.
+**Skeleton:** Native species TBD. Sacred/profane boundary as cultural axis. Silent temples as geographic feature. Intent-reading. Expand: hypatia/worlds/temenos/
+
+---
+
+### World 16 — Binara
+**Sponsor:** Binah (BNH – Feminine/Wisdom)
+**Experiment:** Understanding through insight under fracture; pattern recognition when the pattern is breaking.
+**Terrain:** Crystal oceans with fractured wisdom shards suspended throughout. The shards contain information — genuine insight — but must be aligned correctly to be useful. Misaligned wisdom is worse than no wisdom.
+**Hazards:** Insight overloads for teams that take in too much without processing, pattern madness from misaligned shards, the crystal ocean as physical environment.
+**Token:** In the aligned wisdom core — a configuration that requires correctly orienting multiple wisdom shards simultaneously. The answer has been present since world 1. Teams that have been paying attention across fifteen worlds find the alignment obvious. Teams that have been surviving without learning search much longer.
+**Exit:** On the insightful convergence. The race's final competitive leg.
+**Mini-games:** Consensus Node (+5 wisdom binds); Entropy Fountain (±5 fracture stabilize).
+**Cull:** ~1–2 exit. Fractured minds — the cognitive cost of sixteen worlds — fall here. The last competitive elimination. Whatever exits world 16 runs the final gauntlet alone or nearly so.
+**Skeleton:** Native species TBD. Wisdom/insight as cultural axis. Crystal oceans, wisdom shards. Expand: hypatia/worlds/binara/
+
+---
+
+### World 17 — Tenebra
+**Sponsor:** Afel ('PL – Shadow/Decoherence)
+**Experiment:** Obscure interference; distortion as a probe of identity stability.
+**Terrain:** Shadow realms with decoherence waves that dissolve clarity. The world actively interferes with coherent thought, clear perception, and stable identity. It is not hostile. It is simply doing what it does.
+**Hazards:** Interference loops, self-distortion, the decoherence waves compounding with the cognitive load of sixteen previous worlds.
+**Token:** In the obscure node — findable by teams that can maintain functional identity under active interference.
+**Exit:** Converges on the interfered path. The exit is present. Seeing it requires maintaining enough coherence to recognize it.
+**Mini-games:** Mirror Duel (+/–4 distorted shadows); Sacrifice Altar (–5 interference offerings).
+**Cull:** Effectively final competitive elimination. ~1 team exits.
+**Notes:** World 17 is not really a race anymore. It is one exhausted team — or the remnants of one — moving through a world that actively tries to dissolve what they are. The race ended at world 16. This is something else.
+**Skeleton:** Native species TBD (or none — hostile to coherence). Decoherence as environmental logic. Identity stability probe. Expand: hypatia/worlds/tenebra/
+
+---
+
+### World 18 — Tzelmar
+**Sponsor:** Tzelem (TZLM – Shadow/Image Distorter)
+**Experiment:** Shadow and image manipulation; identity distortion at the threshold of self.
+**Terrain:** Mirrored voids where the self distorts. Every surface reflects something that is almost you but isn't. The world generates versions of the team that feel realer than the team itself.
+**Hazards:** Identity theft echoes, distortion madness, the psychological cost of a world that knows exactly which version of yourself you're most afraid of becoming.
+**Token:** In the true self core — the one reflection in the mirrored void that is actually accurate. Finding it requires knowing what you actually are after seventeen worlds of pressure and distortion.
+**Exit:** On the undistorted convergence. Visible only to teams that have found their true self core and are moving from it rather than from a reflection.
+**Mini-games:** Entropy Fountain (±5 image stabilize); Consensus Node (+5 distorted alliances).
+**Cull:** No competitive elimination possible. One team. The world does what it does regardless.
+**Notes:** Tzelem's world asks the question that the entire race has been building toward: after everything the race has done to you, do you still know what you are? The token answers that question. The answer is either yes or it isn't.
+**Skeleton:** Native species TBD. Shadow/image as cultural axis. Mirrored voids, identity distortion. Expand: hypatia/worlds/tzelmar/
+
+---
+
+### World 19 — Resonar
+**Sponsor:** Berekhah (BRKH – Regal/Resonant)
+**Experiment:** Blessing and power wave propagation; ancient resonances as amplifier or destroyer.
+**Terrain:** Primordial ruins with wave echoes from before the concept of mortal civilization. Power builds through the ruins if engaged correctly. It breaks teams that engage incorrectly or don't engage at all.
+**Hazards:** Resonant overloads for teams that absorb more than they can carry, ancient silence-thoughts that impose their own timeline on mortal minds, the weight of standing in ruins that predate everything the race has shown you.
+**Token:** In the resonant apex — reachable by teams that have learned to move with ancient power rather than imposing their own.
+**Exit:** Converges on the wave harmony. The last gate before Protomundus. The last thing Virelle built before the oldest thing in the multiverse.
+**Mini-games:** Harmonic Relay (+5 ancient chains); Sacrifice Altar (–5 power offerings).
+**Cull:** No competitive elimination. One team. The resonance doesn't care.
+**Notes:** World 19 is the race's exhale before Protomundus. The ruins are genuinely ancient — older than the sponsoring FC, older than the race, older than the concept of a race. Berekhah bought this world because the resonances tell them things about what came before that their own memory doesn't contain. Having mortal minds move through the ruins while resonating with ancient wave patterns generates data Berekhah has been collecting for longer than MC20 has existed.
+**Skeleton:** Native species TBD (possibly none — pre-civilization). Ancient resonances as environmental logic. Primordial ruins. Expand: hypatia/worlds/resonar/
+
+---
+
+### World 20 — Protomundus **★ CANON**
+**Sponsors:** Echad (founding FC, silent co-sponsor) & Virelle (Transit domain)
+**Experiment:** The Hello World. The first thing the First Children made. Raw, unrefined, purposeless in the way that only the very first attempt at something can be. The physics work. The texture is wrong. The world exists because existence was possible, not because anyone knew what they were building toward.
+**Terrain:** Featureless baseline pre-concept. No scale. No up. Ancient silence without the weight of intent because intent hadn't been invented yet when this place was made.
+**Hazards:** Cognitive unmaking for minds that need context to function. Intent erosion — the slow dissolution of why you're moving in a place that predates the concept of why. The distance between the entry point and the exit gate, which is visible from arrival but crosses terrain that has no interest in being crossed.
+**Token:** On a plinth. Visible from entry. Not hidden. Not guarded. Simply there, waiting, as it has been since before the concept of waiting.
+**Exit:** Visible from entry. 3 kilometers across featureless ground that is older than the concept of kilometers.
+**Mini-games:** None. The walk is the game.
+**Cull:** 1–4 finishers possible. Ties are theoretically achievable. Virelle has scheduling opinions about this she hasn't fully articulated.
+**Notes:** Every world on the circuit is someone's experiment. Protomundus belongs to no experiment. It predates the concept of FC having individual orientations. It is the one place in the multiverse that exists purely because existence was possible.
+
+After nineteen worlds of increasingly sophisticated FC intention, the winner arrives somewhere with none. No experiment. No mini-game. No favor economy. No elimination mechanic. Just the token on the plinth and the exit gate across the oldest ground in existence.
+
+Virelle put it last because the scheduling demanded it. She hasn't examined her other reasons too closely.
+
+Echad is there. Not visibly. Not in a way that announces itself. But the race he built ends here, and he has never missed an ending.
+
+Whatever the winner does in that moment — pick up the token, walk to the exit, stand still, sit down, look back across nineteen worlds of everything the race asked of them — that is the data point Echad built MC20 to collect.
+
+The race has no opinion about what it means. That's Echad's job.
+
+---
+
+# ORAL TRADITION & INSTITUTIONAL KNOWLEDGE
+
+MC20 is old enough to have accumulated wisdom rather than regulations. Veterans know things rookies have to learn by doing them wrong. The race doesn't hide this information. It just doesn't publish it either.
+
+- Nobody tells you the Gatelock doesn't care about the animals. You figure it out when the veteran team shows up to world 6 with something that definitely wasn't what they started with.
+- Nobody tells you stepping away from the vehicle at the gate is dangerous. You learn that on world 9 when someone doesn't.
+- Nobody tells you Virelle watches for elegance. You feel it somehow, crossing world 8, when the token and the exit resolve simultaneously and something in the air is almost approval.
+- Nobody tells you the FC favor economy has a memory. You understand that after the race, when something you agreed to on world 10 comes due in circumstances you didn't anticipate.
+- Nobody tells you the solo racer who made it to world 15 that one time. Everyone already knows.
+
+---
+
+# VIRELLE'S NOTES (INTERNAL — NOT PUBLISHED)
+
+*Scheduling efficiency across 20 worlds with variable field attrition remains the most complex problem I have been given. The favor economy introduces approximately 340 additional variables per race cycle that cannot be modeled without knowing which teams will accept which offers on which worlds. I have developed predictive frameworks. They are approximately 67% accurate. The remaining 33% is why I keep running the race.*
+
+*The Protomundus leg technically requires no scheduling. The token is already there. The gate is already there. The team arrives or it doesn't. I included it in my scheduling model anyway. I am not entirely sure why.*
+
+*Verdant Concord continues to produce the most interesting early data. Teams reveal their fundamental approach to the race in the first two hours on world 1. I have found this predictive of final placement at a rate that should not be statistically possible given twenty worlds of intervening variables. I have not published this finding. It would affect team behavior on world 1 and reduce the value of the data.*
+
+*The Earth leg remains my most efficiently scheduled transition. Platform 934 was already there. I appreciate this more than I have indicated to anyone.*
+
+---
+
+*Working document. Course, rules, and cull estimates subject to revision.*  
+*Next development phase: Team roster concepts.*  
+*FC names: [hypatia/cosmology/fc-name-reference.md](hypatia/cosmology/fc-name-reference.md)*
