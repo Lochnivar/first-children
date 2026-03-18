@@ -101,5 +101,5 @@ Hegemon is a proposed world that demonstrates **collaborative world creation** d
 
 ---
 
-*This is a framework-level summary. For detailed world-building, see `hypatia/worlds/hegemon/` (when created).*
+*This is a framework-level summary. For detailed world-building, see `oververse/worlds/hegemon/` (when created).*
 

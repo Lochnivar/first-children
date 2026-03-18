@@ -180,7 +180,7 @@ World 20 — 1–4 finishers (ties possible)
 **Non-elimination.** 1000 tokens placed. Not all found.
 **Cull:** Natural attrition only. ~950–980 exit.
 **Notes:** The orientation leg. The race is teaching you what it is. Teams that engage with the mini-games learn things that pay off later. Teams that sprint for the exit learn only that they made it through. World 2 will have opinions about that.
-**Skeleton:** Native species TBD. Mortal awareness TBD. Symmetry/balance as cultural axis. Expand: hypatia/worlds/keshara/
+**Skeleton:** Native species TBD. Mortal awareness TBD. Symmetry/balance as cultural axis. Expand: oververse/worlds/keshara/
 
 ---
 
@@ -205,7 +205,7 @@ World 20 — 1–4 finishers (ties possible)
 **Exit:** Upstream — but flows naturally back to those who understand the world's logic. The apparent contradiction resolves if you've been paying attention.
 **Mini-games:** Entropy Fountain (variable ±); Consensus Node (+2 for multi-team flow alignment).
 **Cull:** ~650–700 exit. Teams that fought the flow rather than adapting to it fall here.
-**Skeleton:** Native species TBD. Flow/descent as cultural axis. Gravity wells as geographic feature. Expand: hypatia/worlds/rheos/
+**Skeleton:** Native species TBD. Flow/descent as cultural axis. Gravity wells as geographic feature. Expand: oververse/worlds/rheos/
 
 ---
 
@@ -218,7 +218,7 @@ World 20 — 1–4 finishers (ties possible)
 **Exit:** Converges on dawn alignment. Teams that have learned to read the light find it. Teams still fighting visual instinct search longer.
 **Mini-games:** Harmonic Relay (+2 via light chains); Mirror Duel (+1/–1 with radiant shadows).
 **Cull:** ~500–550 exit. Teams misreading light cues fall here.
-**Skeleton:** Native species TBD. Light/perception as cultural axis. Prism fields as geographic feature. Expand: hypatia/worlds/zohara/
+**Skeleton:** Native species TBD. Light/perception as cultural axis. Prism fields as geographic feature. Expand: oververse/worlds/zohara/
 
 ---
 
@@ -231,7 +231,7 @@ World 20 — 1–4 finishers (ties possible)
 **Exit:** On the inverted convergence. Teams that have stopped arguing with the geometry find it.
 **Mini-games:** Entropy Fountain (±2 via light stabilization); Sacrifice Altar (–2 for mirage dispelling).
 **Cull:** ~350–400 exit. Inversion disorientation claims significant numbers here.
-**Skeleton:** Native species TBD. Inversion as cultural axis. Geometry as perceptual trap. Expand: hypatia/worlds/aversa/
+**Skeleton:** Native species TBD. Inversion as cultural axis. Geometry as perceptual trap. Expand: oververse/worlds/aversa/
 
 ---
 
@@ -244,7 +244,7 @@ World 20 — 1–4 finishers (ties possible)
 **Exit:** Converges on the unified path — the route that emerges when linked minds process the labyrinth simultaneously.
 **Mini-games:** Mirror Duel (+/–1 vs. entangled shadow); Consensus Node (+3 for bond chains).
 **Cull:** ~220–260 exit. Bond failures and solo attempts fall here. The first world where team composition matters more than speed.
-**Skeleton:** Native species TBD. Mental bonds/entanglement as cultural axis. Neural webs as geographic feature. Expand: hypatia/worlds/qabira/
+**Skeleton:** Native species TBD. Mental bonds/entanglement as cultural axis. Neural webs as geographic feature. Expand: oververse/worlds/qabira/
 
 ---
 
@@ -270,7 +270,7 @@ World 20 — 1–4 finishers (ties possible)
 **Mini-games:** Consensus Node (+4 aesthetic alliances); Sacrifice Altar (–2 for beauty offerings).
 **Cull:** ~90–110 exit. Ugly approaches punished hard.
 **Notes:** This is where Virelle's design philosophy is most visible. She didn't make this world easy. She made it honest.
-**Skeleton:** Native species TBD. Beauty/elegance as cultural axis. Aesthetic puzzles as environmental logic. Expand: hypatia/worlds/adaryn/
+**Skeleton:** Native species TBD. Beauty/elegance as cultural axis. Aesthetic puzzles as environmental logic. Expand: oververse/worlds/adaryn/
 
 ---
 
@@ -296,7 +296,7 @@ World 20 — 1–4 finishers (ties possible)
 **Mini-games:** Consensus Node (+4 mandatory binds); Sacrifice Altar (–3 for unity offerings).
 **Cull:** ~30–40 exit. Failed alliances and fractured teams fall here. Echad notes everything.
 **Notes:** The favor economy is most active on world 10. Echad is watching every transaction personally. He built this race. He is very interested in what teams do when his world is the one asking.
-**Skeleton:** Native species TBD. Unity/coordination as cultural axis. Underwater networks as geographic feature. Expand: hypatia/worlds/echadon/
+**Skeleton:** Native species TBD. Unity/coordination as cultural axis. Underwater networks as geographic feature. Expand: oververse/worlds/echadon/
 
 ---
 
@@ -310,7 +310,7 @@ World 20 — 1–4 finishers (ties possible)
 **Mini-games:** Harmonic Relay (+3 growth chains); Entropy Fountain (±4 fertile destabilize).
 **Restock synergy:** The one world where the Restock perk token delivers maximum value. Teams holding it have been saving it for here, or should have been.
 **Cull:** ~18–25 exit. Greedy harvesting — taking without interacting — triggers overgrowth traps.
-**Skeleton:** Native species TBD. Growth/interaction as cultural axis. Emergent fruit core as geographic feature. Restock synergy. Expand: hypatia/worlds/peris/
+**Skeleton:** Native species TBD. Growth/interaction as cultural axis. Emergent fruit core as geographic feature. Restock synergy. Expand: oververse/worlds/peris/
 
 ---
 
@@ -336,7 +336,7 @@ World 20 — 1–4 finishers (ties possible)
 **Exit:** Converges minimally. The exit is very close to the token. For teams that found the straight path it's obvious. For teams that didn't it remains invisible.
 **Mini-games:** Sacrifice Altar (–3 deviation offerings); Consensus Node (+4 straight alliances).
 **Cull:** ~6–10 exit. Exhausted teams default to brute force and curved thinking. Yasar punishes this specifically and without apology.
-**Skeleton:** Native species TBD. Linearity/optimal path as cultural axis. Fractal voids as geographic feature. Expand: hypatia/worlds/yasara/
+**Skeleton:** Native species TBD. Linearity/optimal path as cultural axis. Fractal voids as geographic feature. Expand: oververse/worlds/yasara/
 
 ---
 
@@ -362,7 +362,7 @@ World 20 — 1–4 finishers (ties possible)
 **Exit:** Converges on the hallowed route. It has been visible the entire time to teams carrying coherent intent. Other teams find it only after the sanctum grants access.
 **Mini-games:** Harmonic Relay (+4 sacred chains); Sacrifice Altar (–4 profane cull).
 **Cull:** ~2–4 exit. Impure intent — the accumulated compromise of fourteen brutal worlds — claims teams here that survived everything else. The silence is the most efficient cull mechanism on the circuit.
-**Skeleton:** Native species TBD. Sacred/profane boundary as cultural axis. Silent temples as geographic feature. Intent-reading. Expand: hypatia/worlds/temenos/
+**Skeleton:** Native species TBD. Sacred/profane boundary as cultural axis. Silent temples as geographic feature. Intent-reading. Expand: oververse/worlds/temenos/
 
 ---
 
@@ -375,7 +375,7 @@ World 20 — 1–4 finishers (ties possible)
 **Exit:** On the insightful convergence. The race's final competitive leg.
 **Mini-games:** Consensus Node (+5 wisdom binds); Entropy Fountain (±5 fracture stabilize).
 **Cull:** ~1–2 exit. Fractured minds — the cognitive cost of sixteen worlds — fall here. The last competitive elimination. Whatever exits world 16 runs the final gauntlet alone or nearly so.
-**Skeleton:** Native species TBD. Wisdom/insight as cultural axis. Crystal oceans, wisdom shards. Expand: hypatia/worlds/binara/
+**Skeleton:** Native species TBD. Wisdom/insight as cultural axis. Crystal oceans, wisdom shards. Expand: oververse/worlds/binara/
 
 ---
 
@@ -389,7 +389,7 @@ World 20 — 1–4 finishers (ties possible)
 **Mini-games:** Mirror Duel (+/–4 distorted shadows); Sacrifice Altar (–5 interference offerings).
 **Cull:** Effectively final competitive elimination. ~1 team exits.
 **Notes:** World 17 is not really a race anymore. It is one exhausted team — or the remnants of one — moving through a world that actively tries to dissolve what they are. The race ended at world 16. This is something else.
-**Skeleton:** Native species TBD (or none — hostile to coherence). Decoherence as environmental logic. Identity stability probe. Expand: hypatia/worlds/tenebra/
+**Skeleton:** Native species TBD (or none — hostile to coherence). Decoherence as environmental logic. Identity stability probe. Expand: oververse/worlds/tenebra/
 
 ---
 
@@ -403,7 +403,7 @@ World 20 — 1–4 finishers (ties possible)
 **Mini-games:** Entropy Fountain (±5 image stabilize); Consensus Node (+5 distorted alliances).
 **Cull:** No competitive elimination possible. One team. The world does what it does regardless.
 **Notes:** Tzelem's world asks the question that the entire race has been building toward: after everything the race has done to you, do you still know what you are? The token answers that question. The answer is either yes or it isn't.
-**Skeleton:** Native species TBD. Shadow/image as cultural axis. Mirrored voids, identity distortion. Expand: hypatia/worlds/tzelmar/
+**Skeleton:** Native species TBD. Shadow/image as cultural axis. Mirrored voids, identity distortion. Expand: oververse/worlds/tzelmar/
 
 ---
 
@@ -417,7 +417,7 @@ World 20 — 1–4 finishers (ties possible)
 **Mini-games:** Harmonic Relay (+5 ancient chains); Sacrifice Altar (–5 power offerings).
 **Cull:** No competitive elimination. One team. The resonance doesn't care.
 **Notes:** World 19 is the race's exhale before Protomundus. The ruins are genuinely ancient — older than the sponsoring FC, older than the race, older than the concept of a race. Berekhah bought this world because the resonances tell them things about what came before that their own memory doesn't contain. Having mortal minds move through the ruins while resonating with ancient wave patterns generates data Berekhah has been collecting for longer than MC20 has existed.
-**Skeleton:** Native species TBD (possibly none — pre-civilization). Ancient resonances as environmental logic. Primordial ruins. Expand: hypatia/worlds/resonar/
+**Skeleton:** Native species TBD (possibly none — pre-civilization). Ancient resonances as environmental logic. Primordial ruins. Expand: oververse/worlds/resonar/
 
 ---
 

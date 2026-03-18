@@ -2,7 +2,7 @@
 
 **Purpose:** Comprehensive overview of the Greyrose system for AI assistants working on Iolinus  
 **Scope:** Iolinus-specific soul transfer mechanism  
-**Framework Reference:** See [Soul Transfer](../hypatia/mechanics/soul-transfer.md) for universal mechanics  
+**Framework Reference:** See [Soul Transfer](../oververse/mechanics/soul-transfer.md) for universal mechanics  
 **Last Updated:** December 2024
 
 ---
@@ -26,7 +26,7 @@
 
 **Framework Rule:** Soul transfer requires mechanisms (greyrose-equivalent). First Children can transport souls between worlds for strategic purposes (typically liberation operations).
 
-**Iolinus Implementation:** Greyroses are Nala's specific mechanism. Other worlds may use different interfaces (amulets, rituals, portals, etc.). See [hypatia/mechanics/soul-transfer.md](../hypatia/mechanics/soul-transfer.md) for universal details.
+**Iolinus Implementation:** Greyroses are Nala's specific mechanism. Other worlds may use different interfaces (amulets, rituals, portals, etc.). See [oververse/mechanics/soul-transfer.md](../oververse/mechanics/soul-transfer.md) for universal details.
 
 ### Earth as Source World
 
@@ -480,13 +480,13 @@ Think of it as **hardware vs. operating system**:
 ## Key Documents
 
 **Iolinus-Specific:**
-- `hypatia/worlds/iolinus/world-building/organizations/greyroses.md` - Complete Greyrose documentation
-- `hypatia/worlds/iolinus/characters/groups/earth_souls.md` - Earth souls documentation
-- `hypatia/worlds/iolinus/characters/main/gabby_dolivier.md` - Gabby's character profile
+- `oververse/worlds/iolinus/world-building/organizations/greyroses.md` - Complete Greyrose documentation
+- `oververse/worlds/iolinus/characters/groups/earth_souls.md` - Earth souls documentation
+- `oververse/worlds/iolinus/characters/main/gabby_dolivier.md` - Gabby's character profile
 
 **Framework:**
-- `hypatia/mechanics/soul-transfer.md` - Universal soul transfer mechanics
-- `hypatia/mechanics/liberation-operations.md` - Liberation operation patterns
+- `oververse/mechanics/soul-transfer.md` - Universal soul transfer mechanics
+- `oververse/mechanics/liberation-operations.md` - Liberation operation patterns
 - `FRAMEWORK.md` - Primary framework source of truth
 
 ---
@@ -504,5 +504,5 @@ Think of it as **hardware vs. operating system**:
 
 ---
 
-*This briefing focuses on Iolinus-specific Greyrose mechanics. For universal soul transfer framework, see [hypatia/mechanics/soul-transfer.md](../hypatia/mechanics/soul-transfer.md).*
+*This briefing focuses on Iolinus-specific Greyrose mechanics. For universal soul transfer framework, see [oververse/mechanics/soul-transfer.md](../oververse/mechanics/soul-transfer.md).*
 

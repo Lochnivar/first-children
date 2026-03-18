@@ -9,7 +9,7 @@
 
 Greyroses are the Iolinus-specific mechanism for soul transfer. They are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apostasy membership. They are Nala's interface to Earth souls, enable blood purification, and contain a toxin bulb that serves as a suicide mechanism if ruptured. Discovery by the Church is a death sentence.
 
-**Framework Context:** Greyroses are the Iolinus-specific manifestation of soul transfer mechanisms. Other worlds may use different interfaces (amulets, rituals, portals, etc.). See [hypatia/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md) for universal soul transfer details.
+**Framework Context:** Greyroses are the Iolinus-specific manifestation of soul transfer mechanisms. Other worlds may use different interfaces (amulets, rituals, portals, etc.). See [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md) for universal soul transfer details.
 
 ## Physical Description (Iolinus-Specific)
 
@@ -57,7 +57,7 @@ Greyroses are the Iolinus-specific mechanism for soul transfer. They are embedde
 - Connection point for Nala's power/influence
 - Possibly only works on quantum-gifted individuals?
 
-For universal soul transfer details, see [hypatia/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
+For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
 
 ### Blood Purification
 - Purifies blood (specific function unclear)
@@ -141,7 +141,7 @@ For universal soul transfer details, see [hypatia/mechanics/soul-transfer.md](..
 - Laila's body was prepared with greyrose for Gabby's soul
 - Part of the ritual that enables Earth souls to inhabit Iolinus bodies
 
-For universal soul transfer details, see [hypatia/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
+For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
 
 ### Nala's Connection
 - Interface point for Nala's communication/power
@@ -157,4 +157,4 @@ For universal soul transfer details, see [hypatia/mechanics/soul-transfer.md](..
 
 ---
 
-*For universal soul transfer framework, see [hypatia/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md)*
+*For universal soul transfer framework, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md)*

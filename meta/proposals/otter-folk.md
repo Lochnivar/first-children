@@ -1,7 +1,7 @@
 # Proposal: Otter-Folk (Lutra sapiens)
 
 **Status:** Integrated (March 2026)  
-**Canonical:** [hypatia/races/lutrinae/otter-folk.md](../../hypatia/races/lutrinae/otter-folk.md) | [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)
+**Canonical:** [oververse/races/lutrinae/otter-folk.md](../../oververse/races/lutrinae/otter-folk.md) | [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)
 
 ---
 
@@ -58,4 +58,4 @@ Passed by cooperation under pressure—play as stress relief, tool use for survi
 
 ---
 
-*Integrated March 2026. See hypatia/races/lutrinae/ and DIALOGUE_PAGE.md.*
+*Integrated March 2026. See oververse/races/lutrinae/ and DIALOGUE_PAGE.md.*

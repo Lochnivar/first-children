@@ -2,9 +2,13 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../theway"
+		},
+		{
+			"path": "../hypatia"
 		}
 	],
-	"settings": {
-		"gitConfigUser.selectedProfile": "Michael Lockwood"
-	}
+	"settings": {}
 }

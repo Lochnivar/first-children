@@ -9,9 +9,9 @@
 
 Nala is a First Child (little 'g' god) engaged in a war of liberation against her brother Zeta/Malachor, who claimed Iolinus by ripping off a bootleg of Earth against peer judgment.
 
-**Framework Context:** Nala demonstrates the First Child liberator pattern. Her benevolence is an open question (see Author Notes). See [hypatia/cosmology/first-children.md](../../../../cosmology/first-children.md) for universal First Children details and [hypatia/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md) for liberation operation patterns.
+**Framework Context:** Nala demonstrates the First Child liberator pattern. Her benevolence is an open question (see Author Notes). See [oververse/cosmology/first-children.md](../../../../cosmology/first-children.md) for universal First Children details and [oververse/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md) for liberation operation patterns.
 
-**Theological Foundation:** Nala functions as the liberator figure in a Marcionite-inspired cosmology—though her benevolence is an open question. Like Jesus in Marcion's theology (who came from the True God to liberate people from the Demiurge), Nala works to free Iolinus from her brother Zeta/Malachor (the Demiurge). She may be motivated by genuine care for souls, or by sibling rivalry and a chaos-tolerance experiment. See [hypatia/cosmology/marcionite-theology.md](../../../../cosmology/marcionite-theology.md) for the theological framework structure.
+**Theological Foundation:** Nala functions as the liberator figure in a Marcionite-inspired cosmology—though her benevolence is an open question. Like Jesus in Marcion's theology (who came from the True God to liberate people from the Demiurge), Nala works to free Iolinus from her brother Zeta/Malachor (the Demiurge). She may be motivated by genuine care for souls, or by sibling rivalry and a chaos-tolerance experiment. See [oververse/cosmology/marcionite-theology.md](../../../../cosmology/marcionite-theology.md) for the theological framework structure.
 
 ## Iolinus-Specific Details
 
@@ -20,7 +20,7 @@ Nala is a First Child (little 'g' god) engaged in a war of liberation against he
 - **Quantum Powers:** Has full Quantumancy (all five quantum abilities combined)
 - **Limitations on Iolinus:** Her freedom of action on Iolinus is very limited. She can only speak directly to souls outside of Iolinus (outside of Zeta's awareness). Once on Iolinus, she cannot talk directly or directly assist—that would mean coming out too openly, and the number of times she can risk that are very limited.
 
-For universal First Children details, see [hypatia/cosmology/first-children.md](../../../../cosmology/first-children.md).
+For universal First Children details, see [oververse/cosmology/first-children.md](../../../../cosmology/first-children.md).
 
 ### The Conflict with Zeta/Malachor
 Nala is fighting a war of liberation from her brother Zeta (also known as Malachor in the current age), who:
@@ -40,7 +40,7 @@ Nala is fighting a war of liberation from her brother Zeta (also known as Malach
 
 *Or* the liberation is the experiment: how much chaos can a closed system take before it breaks itself. Iolinus = the closed system. Benevolence open (see Author Notes).
 
-For universal liberation operation patterns, see [hypatia/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md).
+For universal liberation operation patterns, see [oververse/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md).
 
 ### Methodology (Iolinus-Specific)
 - **Quiet, hidden effort:** Must grow beneath Zeta's notice until it's strong enough to show
@@ -52,7 +52,7 @@ For universal liberation operation patterns, see [hypatia/mechanics/liberation-o
 - **Laila:** One of Nala's most devout followers who volunteered to sacrifice her body so Gabby could come to Iolinus. Laila's soul was transferred to Nala's keeping (safe from Zeta's reach) before her body became available.
 - **Greyrose Tattoo:** Anyone bearing a greyrose tattoo is dedicated to Nala and can be trusted. They share the mission. Some will share much more in common with Earth souls than they would realize.
 
-For soul transfer mechanisms, see [hypatia/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
+For soul transfer mechanisms, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
 
 ### Relationship with Agents (Iolinus-Specific)
 - Nala values practicality and pragmatism (what she values most about Gabby)
@@ -77,5 +77,5 @@ For soul transfer mechanisms, see [hypatia/mechanics/soul-transfer.md](../../../
 
 ---
 
-*For universal First Children framework, see [hypatia/cosmology/first-children.md](../../../../cosmology/first-children.md)*  
-*For universal liberation patterns, see [hypatia/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md)*
+*For universal First Children framework, see [oververse/cosmology/first-children.md](../../../../cosmology/first-children.md)*  
+*For universal liberation patterns, see [oververse/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md)*

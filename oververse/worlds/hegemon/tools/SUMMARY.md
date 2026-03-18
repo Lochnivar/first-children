@@ -65,7 +65,7 @@
 
 To test the modules:
 ```python
-# From hypatia/worlds/hegemon/ directory:
+# From oververse/worlds/hegemon/ directory:
 from tools.dna_core import DNA, create_child, calculate_genetic_similarity
 from tools.dna_traits import TRAIT_DEFINITIONS
 
@@ -84,7 +84,7 @@ print(f"Similarity: {similarity:.2%}")
 ## Files Structure
 
 ```
-hypatia/worlds/hegemon/tools/
+oververse/worlds/hegemon/tools/
 ├── __init__.py              ✅
 ├── README.md                ✅
 ├── dna_config.py            ✅

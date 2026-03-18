@@ -32,7 +32,7 @@ over-universe-repo/
 │   │   └── REFERENCE.md               # Links to main Iolinus repo, key concepts
 │   └── [future-world]/                # Template for adding new worlds
 │
-├── hypatia/                         # Detailed framework documentation
+├── oververse/                         # Detailed framework documentation
 │   ├── cosmology/                     # Cosmological rules and structure
 │   ├── metaphysics/                   # Universal forces (Quantumancy, etc.)
 │   ├── rules/                         # What must be consistent
@@ -84,7 +84,7 @@ over-universe-repo/
 - How to find specific Iolinus details
 - What's framework vs. what's Iolinus-specific
 
-### hypatia/
+### oververse/
 Detailed breakdown of framework concepts:
 - Cosmology: Big G God, First Children structure
 - Metaphysics: Quantumancy, soul transfer, life force binding
@@ -119,7 +119,7 @@ over-universe-repo/
 │   │   ├── [all current Iolinus structure]
 │   │   └── README.md                  # "Iolinus - Example world"
 │   └── [future-world]/
-├── hypatia/
+├── oververse/
 └── meta/
 ```
 

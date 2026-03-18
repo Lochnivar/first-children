@@ -1,7 +1,7 @@
 # Earth Trial Mechanics
 
 **Platform 934 // Manchester Hub**  
-**Hypatia Framework — hypatia/worlds/earth/trial-mechanics.md — March 2026**
+**Hypatia Framework — oververse/worlds/earth/trial-mechanics.md — March 2026**
 
 ## 1. Purpose & Cosmological Context
 
@@ -296,4 +296,4 @@ The humans just have Tuesday. The KPI leans on them anyway.
 
 ---
 
-*End of document — hypatia/worlds/earth/trial-mechanics.md — March 2026*
+*End of document — oververse/worlds/earth/trial-mechanics.md — March 2026*

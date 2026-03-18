@@ -76,4 +76,4 @@ Algernon is a Mystara-ish medieval fantasy world built entirely around a single 
 
 ---
 
-*This is a framework-level summary. For detailed world-building, see `hypatia/worlds/algernon/`.*
+*This is a framework-level summary. For detailed world-building, see `oververse/worlds/algernon/`.*

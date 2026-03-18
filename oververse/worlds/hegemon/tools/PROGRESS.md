@@ -88,8 +88,8 @@ The user has added a comprehensive design document to `HEGEMON-DIALOG.md` (lines
 
 ## File Locations
 
-- **Original code**: `hypatia/worlds/hegemon/HEGEMON-DIALOG.md` (lines 1-1310)
-- **New design doc**: `hypatia/worlds/hegemon/HEGEMON-DIALOG.md` (lines 1312-1944)
-- **Refactored modules**: `hypatia/worlds/hegemon/tools/`
-- **Analysis**: `hypatia/worlds/hegemon/DNA_SIMULATION_ANALYSIS.md`
+- **Original code**: `oververse/worlds/hegemon/HEGEMON-DIALOG.md` (lines 1-1310)
+- **New design doc**: `oververse/worlds/hegemon/HEGEMON-DIALOG.md` (lines 1312-1944)
+- **Refactored modules**: `oververse/worlds/hegemon/tools/`
+- **Analysis**: `oververse/worlds/hegemon/DNA_SIMULATION_ANALYSIS.md`
 

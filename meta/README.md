@@ -21,6 +21,6 @@ Historical documentation about the repository structure and migration:
 
 ---
 
-*For framework documentation, see [../FRAMEWORK.md](../FRAMEWORK.md) and [../hypatia/](../hypatia/)*
+*For framework documentation, see [../FRAMEWORK.md](../FRAMEWORK.md) and [../oververse/](../oververse/)*
 
 

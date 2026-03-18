@@ -33,7 +33,7 @@ over-universe-repo/
 │   │   └── CONSISTENCY_CHECK.md       # How Iolinus conforms to framework
 │   └── [future-world]/                # Future stories
 │
-├── hypatia/                         # Detailed framework docs
+├── oververse/                         # Detailed framework docs
 │   ├── cosmology.md
 │   ├── metaphysics.md
 │   ├── rules.md                       # What must be consistent
@@ -89,7 +89,7 @@ over-universe-repo/
 1. Create new repo (e.g., `over-universe` or `multiverse`)
 2. Copy OVER_UNIVERSE_FRAMEWORK.md → FRAMEWORK.md (root)
 3. Copy entire Iolinus repo → `worlds/iolinus/`
-4. Create hypatia/ directory with detailed docs
+4. Create oververse/ directory with detailed docs
 5. Create meta/CONSISTENCY_PROCESS.md
 6. Update worlds/iolinus/README.md to state it's subordinate
 7. Create worlds/iolinus/CONSISTENCY_CHECK.md documenting how it conforms
@@ -99,9 +99,9 @@ over-universe-repo/
 ### Option 2: Restructure Current Iolinus Repo
 
 **Steps:**
-1. Create `hypatia/` directory
-2. Move OVER_UNIVERSE_FRAMEWORK.md → `hypatia/FRAMEWORK.md`
-3. Create `hypatia/README.md` stating it's primary source of truth
+1. Create `oververse/` directory
+2. Move OVER_UNIVERSE_FRAMEWORK.md → `oververse/FRAMEWORK.md`
+3. Create `oververse/README.md` stating it's primary source of truth
 4. Wrap existing content in `worlds/iolinus/` structure:
    - Move characters/ → `worlds/iolinus/characters/`
    - Move world-building/ → `worlds/iolinus/world-building/`
@@ -126,13 +126,13 @@ over-universe-repo/
 
 ## Source of Truth
 
-**The framework in `hypatia/FRAMEWORK.md` is the PRIMARY source of truth.**
+**The framework in `oververse/FRAMEWORK.md` is the PRIMARY source of truth.**
 
 All stories in `worlds/` are SUBORDINATE and must conform to framework rules.
 
 ## When Framework Changes
 
-1. Update `hypatia/FRAMEWORK.md`
+1. Update `oververse/FRAMEWORK.md`
 2. Check all worlds in `worlds/` for contradictions
 3. Update any world that contradicts
 4. Document in `meta/CHANGE_LOG.md`:
@@ -185,7 +185,7 @@ All stories in `worlds/` are SUBORDINATE and must conform to framework rules.
 worlds/iolinus/
 ├── README.md                          # "Iolinus: A World in Hypatia"
 │   # States: This world conforms to Hypatia framework
-│   # Links to hypatia/FRAMEWORK.md
+│   # Links to oververse/FRAMEWORK.md
 │
 ├── CONSISTENCY_CHECK.md               # How Iolinus conforms to framework
 │   # - Which framework elements it demonstrates
@@ -215,7 +215,7 @@ worlds/iolinus/
 
 ## Overview
 
-Iolinus is one world/story within the [Over-Universe Framework](../hypatia/FRAMEWORK.md).
+Iolinus is one world/story within the [Over-Universe Framework](../oververse/FRAMEWORK.md).
 This world demonstrates various framework concepts while telling its own story.
 
 ## Framework Elements Demonstrated
@@ -239,7 +239,7 @@ See [CONSISTENCY_CHECK.md](CONSISTENCY_CHECK.md) for detailed conformance docume
 
 ## Framework Reference
 
-Hypatia framework is the source of truth: [Framework Documentation](../hypatia/FRAMEWORK.md)
+Hypatia framework is the source of truth: [Framework Documentation](../oververse/FRAMEWORK.md)
 ```
 
 ---

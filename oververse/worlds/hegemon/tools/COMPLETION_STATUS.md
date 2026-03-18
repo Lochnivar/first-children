@@ -123,7 +123,7 @@ run_all_simulations()
 ## File Structure
 
 ```
-hypatia/worlds/hegemon/tools/
+oververse/worlds/hegemon/tools/
 ├── __init__.py                  ✅
 ├── README.md                    ✅
 ├── dna_config.py                ✅

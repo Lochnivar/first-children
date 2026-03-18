@@ -109,5 +109,5 @@ Delverium is a proposed world that demonstrates **experimental world creation** 
 
 ---
 
-*This is a framework-level summary. For detailed world-building, see `hypatia/worlds/delverium/` (when created).*
+*This is a framework-level summary. For detailed world-building, see `oververse/worlds/delverium/` (when created).*
 

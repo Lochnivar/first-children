@@ -119,7 +119,7 @@ When adding new worlds, remember that worlds may be:
 When adding new worlds:
 1. Create world entry in this directory
 2. Document framework elements demonstrated
-3. Link to full world bible in `hypatia/worlds/[world-name]/`
+3. Link to full world bible in `oververse/worlds/[world-name]/`
 4. Show how world conforms to framework
 5. Note whether it's shaped by one, several, or contested
 

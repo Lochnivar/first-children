@@ -8,11 +8,11 @@
 
 Quantum-adjacent abilities on Iolinus are powers that interact with the quantum nature of reality. Those who possess them are hunted by the Church of Malachor, the Locquodian Order, and superstitious mobs. They are NOT extinct, but aggressively hunted.
 
-**Framework Context:** These are fragmented versions of Quantumancy that manifest in mortals on Iolinus. First Children (like Nala and Zeta) possess full Quantumancy. See [hypatia/magic-systems/quantumancy.md](../../../../magic-systems/quantumancy.md) for universal Quantumancy details.
+**Framework Context:** These are fragmented versions of Quantumancy that manifest in mortals on Iolinus. First Children (like Nala and Zeta) possess full Quantumancy. See [oververse/magic-systems/quantumancy.md](../../../../magic-systems/quantumancy.md) for universal Quantumancy details.
 
 ## The Five Powers on Iolinus
 
-For universal details on each power type, see [hypatia/magic-systems/quantumancy.md](../../../../magic-systems/quantumancy.md).
+For universal details on each power type, see [oververse/magic-systems/quantumancy.md](../../../../magic-systems/quantumancy.md).
 
 ### 1. QUANTUMANCERS (Active/Future)
 - **Function:** Collapse possibilities into reality, manipulate probability
@@ -146,4 +146,4 @@ For universal details on each power type, see [hypatia/magic-systems/quantumancy
 
 ---
 
-*For universal Quantumancy framework, see [hypatia/magic-systems/quantumancy.md](../../../../magic-systems/quantumancy.md)*
+*For universal Quantumancy framework, see [oververse/magic-systems/quantumancy.md](../../../../magic-systems/quantumancy.md)*

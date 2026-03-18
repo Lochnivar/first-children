@@ -84,5 +84,5 @@ Stratara is a proposed world that demonstrates **collaborative world creation** 
 
 ---
 
-*This is a framework-level summary. For detailed world-building, see `hypatia/worlds/stratara/` (when created).*
+*This is a framework-level summary. For detailed world-building, see `oververse/worlds/stratara/` (when created).*
 

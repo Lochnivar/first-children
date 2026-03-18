@@ -18,7 +18,7 @@ The repository has been reorganized from a flat structure to a framework-primary
 over-universe-repo/
 ├── README.md                    # Over-universe overview
 ├── FRAMEWORK.md                 # Primary framework (source of truth)
-├── hypatia/                   # Framework documentation
+├── oververse/                   # Framework documentation
 │   └── README.md
 ├── worlds/                      # All worlds/stories
 │   ├── README.md               # Worlds index
@@ -72,8 +72,8 @@ over-universe-repo/
    - `meta/CONSISTENCY_PROCESS.md` - Process for handling contradictions
    - `meta/CHANGE_LOG.md` - Framework change tracking
 
-5. **hypatia/:**
-   - `hypatia/README.md` - Framework documentation overview
+5. **oververse/:**
+   - `oververse/README.md` - Framework documentation overview
 
 ## Key Principles Established
 

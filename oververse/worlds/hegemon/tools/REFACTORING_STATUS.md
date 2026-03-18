@@ -34,7 +34,7 @@ The original `HEGEMON-DIALOG.md` contains all the code needed. It should be:
 
 ## Quick Reference
 
-**Original Code Location:** `hypatia/worlds/hegemon/HEGEMON-DIALOG.md`  
-**Target Location:** `hypatia/worlds/hegemon/tools/`  
-**Analysis:** `hypatia/worlds/hegemon/DNA_SIMULATION_ANALYSIS.md`
+**Original Code Location:** `oververse/worlds/hegemon/HEGEMON-DIALOG.md`  
+**Target Location:** `oververse/worlds/hegemon/tools/`  
+**Analysis:** `oververse/worlds/hegemon/DNA_SIMULATION_ANALYSIS.md`
 

@@ -30,7 +30,7 @@ All files from the Iolinus project are being provided to you. Your job is to reo
 over-universe-repo/
 ├── README.md                          # Over-universe overview
 ├── FRAMEWORK.md                       # PRIMARY source of truth
-├── hypatia/                         # Detailed framework docs
+├── oververse/                         # Detailed framework docs
 ├── worlds/
 │   ├── README.md                      # Worlds index
 │   └── iolinus/                       # Iolinus story (subordinate)
@@ -48,11 +48,11 @@ over-universe-repo/
 
 ### Step 1: Create Structure
 - Create all directories from `MIGRATION_PACKAGE.md`
-- Set up hypatia/, worlds/iolinus/, meta/
+- Set up oververse/, worlds/iolinus/, meta/
 
 ### Step 2: Move Framework
 - Copy `OVER_UNIVERSE_FRAMEWORK.md` → `FRAMEWORK.md` (root)
-- Extract sections to create `hypatia/` detailed docs
+- Extract sections to create `oververse/` detailed docs
 
 ### Step 3: Move Iolinus
 - Move all Iolinus content to `worlds/iolinus/` per manifest

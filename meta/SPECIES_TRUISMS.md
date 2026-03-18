@@ -23,7 +23,7 @@
 
 ## Proposed Truisms (drafted from species docs)
 
-*Review before canonical. Source: hypatia/races/.*
+*Review before canonical. Source: oververse/races/.*
 
 ### FC Staff (Homo)
 | Species | Proposed Truism | Source / Rationale |
@@ -117,5 +117,5 @@
 
 ---
 
-*For full species documentation, see [hypatia/races/README.md](../hypatia/races/README.md).*  
+*For full species documentation, see [oververse/races/README.md](../oververse/races/README.md).*  
 *For expanded voice/dialogue guidance, see [DIALOGUE_PAGE.md](../DIALOGUE_PAGE.md).*

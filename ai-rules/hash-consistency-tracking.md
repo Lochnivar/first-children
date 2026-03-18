@@ -57,7 +57,7 @@ For this fantasy project, consistency is maintained through:
 1. **Framework Conformance** - See `meta/CONSISTENCY_PROCESS.md`
 2. **Cross-References** - Markdown links between related files
 3. **Index Files** - README.md files track related content
-4. **Consistency Checks** - Manual review using `hypatia/worlds/iolinus/CONSISTENCY_CHECK.md`
+4. **Consistency Checks** - Manual review using `oververse/worlds/iolinus/CONSISTENCY_CHECK.md`
 
 ---
 
@@ -110,7 +110,7 @@ python scripts/consistency-checker.py <file-path>
 2. Check related files for cross-references
 3. Update links in index files (README.md) if needed
 4. Review framework conformance if applicable
-5. Update `hypatia/worlds/iolinus/CONSISTENCY_CHECK.md` if framework-related
+5. Update `oververse/worlds/iolinus/CONSISTENCY_CHECK.md` if framework-related
 
 ---
 
@@ -119,7 +119,7 @@ python scripts/consistency-checker.py <file-path>
 This rule works alongside:
 - **Golden Rule (No Original Text):** Consistency tracking applies to all files
 - **Framework Consistency:** See `meta/CONSISTENCY_PROCESS.md`
-- **World Consistency:** See `hypatia/worlds/iolinus/CONSISTENCY_CHECK.md`
+- **World Consistency:** See `oververse/worlds/iolinus/CONSISTENCY_CHECK.md`
 
 ---
 
@@ -142,7 +142,7 @@ When editing any file:
 - [ ] Update links in index files (README.md) if file moved/renamed
 - [ ] Review framework conformance if applicable
 - [ ] Verify related files are still consistent
-- [ ] Update `hypatia/worlds/iolinus/CONSISTENCY_CHECK.md` if framework-related
+- [ ] Update `oververse/worlds/iolinus/CONSISTENCY_CHECK.md` if framework-related
 
 ---
 

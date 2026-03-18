@@ -8,7 +8,7 @@
 
 Nala has brought a few Earth souls to Iolinus to serve as her agents. There are not many—Nala can't sneak that many past Zeta without being noticed. These souls are placed in bodies that have been prepared for them, marked by the greyrose that makes the soul transfer possible.
 
-**Framework Context:** Earth souls are the Iolinus-specific example of transferred souls used in liberation operations. Other worlds may use different source worlds or different types of agents. See [hypatia/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md) for universal soul transfer details and [hypatia/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md) for liberation operation patterns.
+**Framework Context:** Earth souls are the Iolinus-specific example of transferred souls used in liberation operations. Other worlds may use different source worlds or different types of agents. See [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md) for universal soul transfer details and [oververse/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md) for liberation operation patterns.
 
 ## Known Earth Souls (Iolinus-Specific)
 
@@ -45,7 +45,7 @@ Nala has brought a few Earth souls to Iolinus to serve as her agents. There are 
 - It's described as "the coolest thing ever" and "quite the Vulcan mind meld"
 - Anyone bearing a greyrose tattoo/mark is dedicated to Nala and can be trusted
 
-For universal soul transfer mechanisms, see [hypatia/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
+For universal soul transfer mechanisms, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
 
 ### Advice for New Arrivals
 - Don't dwell on how you used to look back on Earth—that will drive you crazy
@@ -69,5 +69,5 @@ For universal soul transfer mechanisms, see [hypatia/mechanics/soul-transfer.md]
 
 ---
 
-*For universal soul transfer framework, see [hypatia/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md)*  
-*For universal liberation operation patterns, see [hypatia/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md)*
+*For universal soul transfer framework, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md)*  
+*For universal liberation operation patterns, see [oververse/mechanics/liberation-operations.md](../../../../mechanics/liberation-operations.md)*

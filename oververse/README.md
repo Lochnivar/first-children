@@ -41,7 +41,7 @@ All individual stories and worlds must conform to the framework rules, but they 
 
 ## Framework Structure
 
-The hypatia/ directory is organized into categories similar to world-building structures:
+The oververse/ directory is organized into categories similar to world-building structures:
 
 ### [Cosmology](cosmology/)
 - **[The Prime Author](cosmology/big-g-god.md)** - The true deity, structural presence (the substrate itself)

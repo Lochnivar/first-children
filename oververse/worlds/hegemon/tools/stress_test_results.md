@@ -73,7 +73,7 @@ The DNA simulation system successfully handled:
 
 To run the stress test:
 ```bash
-cd hypatia/worlds/hegemon
+cd oververse/worlds/hegemon
 python -m tools.stress_test
 ```
 

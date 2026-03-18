@@ -3,7 +3,7 @@
 **Purpose:** Summary of all MC20 worlds for later in-depth development. Capture on paper to avoid loss.  
 **Source:** DIALOGUE_PAGE.md (MC20)  
 **Status:** Skeletons only — expand in world bibles when ready. Canon worlds may be revised in bigger picture.  
-**Related:** [DIALOGUE_PAGE.md](../DIALOGUE_PAGE.md), [hypatia/worlds/mc20/](../hypatia/worlds/mc20/), [hypatia/worlds/mc20/RACE_RULES_QA.md](../hypatia/worlds/mc20/RACE_RULES_QA.md)
+**Related:** [DIALOGUE_PAGE.md](../DIALOGUE_PAGE.md), [oververse/worlds/mc20/](../oververse/worlds/mc20/), [oververse/worlds/mc20/RACE_RULES_QA.md](../oververse/worlds/mc20/RACE_RULES_QA.md)
 
 **Convention:** Partial answers preceded by `~`
 
@@ -280,8 +280,8 @@ MC20 uses 20 worlds on its circuit. All 20 are listed below. Six are established
 - **Q8:** Do MC20-original worlds get Mercara's Cross platform numbers? Or are they race-access-only (no regular transit)?
 
 ### Integration
-- **Q9:** When to create `hypatia/worlds/[name]/` directories? On first story use, or proactively for all 20?
-- **Q10:** Should MC20 world skeletons live in DIALOGUE_PAGE.md only, or get mirrored to `hypatia/worlds/[name]/README.md`?
+- **Q9:** When to create `oververse/worlds/[name]/` directories? On first story use, or proactively for all 20?
+- **Q10:** Should MC20 world skeletons live in DIALOGUE_PAGE.md only, or get mirrored to `oververse/worlds/[name]/README.md`?
 
 ---
 
@@ -289,26 +289,26 @@ MC20 uses 20 worlds on its circuit. All 20 are listed below. Six are established
 
 | # | World | Expand path | Status |
 |---|-------|-------------|--------|
-| 1 | Keshara | hypatia/worlds/keshara/ | Not created |
-| 2 | Stratara ★ | hypatia/worlds/stratara/ | Framework summary (stratara.md); directory TBD |
-| 3 | Rheos | hypatia/worlds/rheos/ | Not created |
-| 4 | Zohara | hypatia/worlds/zohara/ | Not created |
-| 5 | Aversa | hypatia/worlds/aversa/ | Not created |
-| 6 | Qabira | hypatia/worlds/qabira/ | Not created |
-| 7 | Delverium ★ | hypatia/worlds/delverium/ | Framework summary (delverium.md); directory TBD |
-| 8 | Adaryn | hypatia/worlds/adaryn/ | Not created |
-| 9 | Hegemon ★ | hypatia/worlds/hegemon/ | Exists (hegemon.md + directory) |
-| 10 | Echadon | hypatia/worlds/echadon/ | Not created |
-| 11 | Peris | hypatia/worlds/peris/ | Not created |
-| 12 | Earth ★ | hypatia/worlds/earth/ | Exists |
-| 13 | Yasara | hypatia/worlds/yasara/ | Not created |
-| 14 | Algernon ★ | hypatia/worlds/algernon/ | Exists |
-| 15 | Temenos | hypatia/worlds/temenos/ | Not created |
-| 16 | Binara | hypatia/worlds/binara/ | Not created |
-| 17 | Tenebra | hypatia/worlds/tenebra/ | Not created |
-| 18 | Tzelmar | hypatia/worlds/tzelmar/ | Not created |
-| 19 | Resonar | hypatia/worlds/resonar/ | Not created |
-| 20 | Protomundus ★ | hypatia/worlds/protomundus/ | Not created (MC20-introduced) |
+| 1 | Keshara | oververse/worlds/keshara/ | Not created |
+| 2 | Stratara ★ | oververse/worlds/stratara/ | Framework summary (stratara.md); directory TBD |
+| 3 | Rheos | oververse/worlds/rheos/ | Not created |
+| 4 | Zohara | oververse/worlds/zohara/ | Not created |
+| 5 | Aversa | oververse/worlds/aversa/ | Not created |
+| 6 | Qabira | oververse/worlds/qabira/ | Not created |
+| 7 | Delverium ★ | oververse/worlds/delverium/ | Framework summary (delverium.md); directory TBD |
+| 8 | Adaryn | oververse/worlds/adaryn/ | Not created |
+| 9 | Hegemon ★ | oververse/worlds/hegemon/ | Exists (hegemon.md + directory) |
+| 10 | Echadon | oververse/worlds/echadon/ | Not created |
+| 11 | Peris | oververse/worlds/peris/ | Not created |
+| 12 | Earth ★ | oververse/worlds/earth/ | Exists |
+| 13 | Yasara | oververse/worlds/yasara/ | Not created |
+| 14 | Algernon ★ | oververse/worlds/algernon/ | Exists |
+| 15 | Temenos | oververse/worlds/temenos/ | Not created |
+| 16 | Binara | oververse/worlds/binara/ | Not created |
+| 17 | Tenebra | oververse/worlds/tenebra/ | Not created |
+| 18 | Tzelmar | oververse/worlds/tzelmar/ | Not created |
+| 19 | Resonar | oververse/worlds/resonar/ | Not created |
+| 20 | Protomundus ★ | oververse/worlds/protomundus/ | Not created (MC20-introduced) |
 
 ---
 

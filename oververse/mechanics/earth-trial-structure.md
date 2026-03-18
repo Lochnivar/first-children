@@ -8,7 +8,7 @@
 
 Earth's trial mechanics have been fully documented in the world-specific file. This document is retained as a pointer only.
 
-**Canonical source:** [hypatia/worlds/earth/trial-mechanics.md](../worlds/earth/trial-mechanics.md)
+**Canonical source:** [oververse/worlds/earth/trial-mechanics.md](../worlds/earth/trial-mechanics.md)
 
 The integrated trial mechanics include:
 - KPI framing (Generalist Viability, Colonist Filter)

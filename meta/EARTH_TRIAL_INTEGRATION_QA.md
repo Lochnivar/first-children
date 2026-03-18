@@ -1,19 +1,19 @@
 # Earth Trial Integration — QA Questions
 
 **Purpose:** Questions to resolve before integrating DIALOGUE_PAGE.md (Earth Trial Mechanics) into the canonical Hypatia framework.  
-**Source:** DIALOGUE_PAGE.md → target `hypatia/worlds/earth/trial-mechanics.md`  
+**Source:** DIALOGUE_PAGE.md → target `oververse/worlds/earth/trial-mechanics.md`  
 **Status:** Integration complete — March 2026
 
 ---
 
 ## Canonical Conflicts
 
-### Q1: What happens to the existing `hypatia/mechanics/earth-trial-structure.md`?
+### Q1: What happens to the existing `oververse/mechanics/earth-trial-structure.md`?
 The current canon has rooms defined organically by corridor walls; county lines irrelevant; corridors = Interstates + US Highways + State Highways; plazas = free gaps. The new model inverts this: rooms = administrative boundaries; corridors = limited-access only; Gatelocks = tolled. **Replace entirely, or keep as deprecated/alternative?**
 
 ~ replace completely with the new definition.  We can discuss further if questions remain
 
-### Q2: How does `hypatia/mechanics/trials.md` get updated?
+### Q2: How does `oververse/mechanics/trials.md` get updated?
 Current framing: "world-to-dungeon transformation," "narrative focus: human survival," "generalist failure (background cosmology)." New framing: "final vetting stage for Homo sapiens as generalist infrastructure staff," explicit KPIs, quality assurance. **Adopt new framing as primary; keep old as simplified summary; or reconcile both?**
 
 ~ Adopt new framing (KPIs) as canon.  Each race now has to go through their own trial.  Humanity isn't unique any longer in having their own target.
@@ -100,7 +100,7 @@ Old canon: walls extend underground (sewers, power, data); block aircraft and ba
 ## File Structure & Placement
 
 ### Q15: Where does the integrated trial mechanics live?
-DIALOGUE targets `hypatia/worlds/earth/trial-mechanics.md`. That path does not exist. Current canon: `hypatia/mechanics/earth-trial-structure.md`. **Create `hypatia/worlds/earth/` and put trial-mechanics there? Or keep in `hypatia/mechanics/`? Or split (mechanics = structure, worlds/earth = full Earth trial doc)?**
+DIALOGUE targets `oververse/worlds/earth/trial-mechanics.md`. That path does not exist. Current canon: `oververse/mechanics/earth-trial-structure.md`. **Create `oververse/worlds/earth/` and put trial-mechanics there? Or keep in `oververse/mechanics/`? Or split (mechanics = structure, worlds/earth = full Earth trial doc)?**
 
 ~ Create separate trial-mechanics for Earth.  These mechanics are purely Earth specific, not part of Hypatia in and of itself.
 
@@ -167,14 +167,14 @@ AI_REFRESHER_HYPATIA.md currently has the old Earth trial structure (corridor-ba
 
 | Decision | Resolved |
 |----------|----------|
-| Old earth-trial-structure.md | Replaced with pointer to `hypatia/worlds/earth/trial-mechanics.md` |
+| Old earth-trial-structure.md | Replaced with pointer to `oververse/worlds/earth/trial-mechanics.md` |
 | Trial framing | KPI framing adopted; each race has its own trial |
 | Aliens | Independent contractors with their own priorities |
 | FC presence | Gray = FC physical form; observers can appear (cameos) |
-| File placement | `hypatia/worlds/earth/trial-mechanics.md` (Earth-specific) |
+| File placement | `oververse/worlds/earth/trial-mechanics.md` (Earth-specific) |
 | International scope | Same principles, international equivalents |
 | Conversions | Kept for now; address later |
 
 ---
 
-*Integration complete. DIALOGUE_PAGE cleared. See `hypatia/worlds/earth/trial-mechanics.md` for canonical Earth trial mechanics.*
+*Integration complete. DIALOGUE_PAGE cleared. See `oververse/worlds/earth/trial-mechanics.md` for canonical Earth trial mechanics.*

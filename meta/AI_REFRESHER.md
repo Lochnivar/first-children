@@ -21,7 +21,7 @@
 
 Iolinus exists within the **Hypatia framework**—a multiverse where First Children (glorified waveforms, sentient and godlike) create worlds. The framework establishes universal rules that all worlds must follow, while allowing world-specific expansions and exceptions.
 
-**Key Framework Principle:** The framework (in `FRAMEWORK.md` and `hypatia/`) is the PRIMARY SOURCE OF TRUTH. Iolinus (in `hypatia/worlds/iolinus/`) is SUBORDINATE and must conform to framework rules.
+**Key Framework Principle:** The framework (in `FRAMEWORK.md` and `oververse/`) is the PRIMARY SOURCE OF TRUTH. Iolinus (in `oververse/worlds/iolinus/`) is SUBORDINATE and must conform to framework rules.
 
 ### Key Themes
 - Exile and adaptation (Earth immigrants vs. natives)
@@ -452,7 +452,7 @@ Each major directory has a `README.md` that serves as a comprehensive index:
 5. **Use templates:** Each category has templates for creating new entries
 
 ### Key Framework Concepts to Remember
-- **Framework is PRIMARY:** `FRAMEWORK.md` and `hypatia/` are the source of truth; Iolinus is SUBORDINATE
+- **Framework is PRIMARY:** `FRAMEWORK.md` and `oververse/` are the source of truth; Iolinus is SUBORDINATE
 - **Prime Author:** True creator, withdrew permanently and will not return
 - **First Children:** Glorified waveforms (sentient, godlike energy patterns) that can be reformed (effectively destroyed)
 - **Everything is quantum:** All existence is patterns of coherent energy at the quantum layer
@@ -534,13 +534,13 @@ Each major directory has a `README.md` that serves as a comprehensive index:
 
 ### Framework Documentation
 - `../FRAMEWORK.md` - PRIMARY SOURCE OF TRUTH - Complete framework document
-- `../../hypatia/README.md` - Framework overview and navigation
-- `../../hypatia/cosmology/` - Prime Author, First Children, First Speech
-- `../../hypatia/metaphysics/` - Quantum foundation, coherent patterns
-- `../../hypatia/magic-systems/` - Quantumancy
-- `../../hypatia/mechanics/` - Soul transfer, world creation, liberation operations
-- `../../hypatia/rules/` - Cosmological constants
-- `../../hypatia/guidelines/` - Expansion guidelines
+- `../../oververse/README.md` - Framework overview and navigation
+- `../../oververse/cosmology/` - Prime Author, First Children, First Speech
+- `../../oververse/metaphysics/` - Quantum foundation, coherent patterns
+- `../../oververse/magic-systems/` - Quantumancy
+- `../../oververse/mechanics/` - Soul transfer, world creation, liberation operations
+- `../../oververse/rules/` - Cosmological constants
+- `../../oververse/guidelines/` - Expansion guidelines
 - `../../meta/CONSISTENCY_QA.md` - Resolved consistency questions
 - `../../meta/CONSISTENCY_PROCESS.md` - Consistency process
 

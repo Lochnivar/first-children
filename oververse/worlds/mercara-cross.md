@@ -126,5 +126,5 @@ Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where por
 
 ---
 
-*This is a framework-level summary. For detailed world-building, see `hypatia/worlds/mercara-cross/` (when created).*
+*This is a framework-level summary. For detailed world-building, see `oververse/worlds/mercara-cross/` (when created).*
 

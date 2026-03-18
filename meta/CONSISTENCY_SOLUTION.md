@@ -19,7 +19,7 @@ iolinus/
 ├── README.md                          # Iolinus project overview
 ├── [existing structure]               # All current Iolinus content
 │
-├── hypatia/                         # Over-universe framework
+├── oververse/                         # Over-universe framework
 │   ├── README.md                      # Framework overview
 │   ├── OVER_UNIVERSE_FRAMEWORK.md    # The framework document
 │   ├── cosmology.md                   # Extracted universal rules
@@ -98,7 +98,7 @@ iolinus/
 │   ├── plots/
 │   └── relationships/
 │
-├── hypatia/                         # Over-universe framework
+├── oververse/                         # Over-universe framework
 │   ├── README.md                      # "Universal framework extracted from Iolinus"
 │   ├── cosmology.md                   # Big G God, First Children
 │   ├── metaphysics.md                 # Quantumancy, soul transfer
@@ -122,7 +122,7 @@ iolinus/
 - This is the PRIMARY source of truth
 - Can change freely
 
-**Framework Content (hypatia/):**
+**Framework Content (oververse/):**
 - Extracted universal principles
 - Documents what Iolinus demonstrates
 - Updated when story changes
@@ -138,7 +138,7 @@ iolinus/
 **When Iolinus story changes:**
 1. Update story content in `story/`
 2. Review if change affects universal principles
-3. If yes, update `hypatia/` to reflect new reality
+3. If yes, update `oververse/` to reflect new reality
 4. Update `meta/CONSISTENCY_NOTES.md` if needed
 
 **When considering framework change:**
@@ -154,9 +154,9 @@ iolinus/
 
 ### Step-by-Step
 
-1. **Create `hypatia/` directory** in Iolinus repo
-2. **Move OVER_UNIVERSE_FRAMEWORK.md** to `hypatia/`
-3. **Add hypatia/README.md** that explains:
+1. **Create `oververse/` directory** in Iolinus repo
+2. **Move OVER_UNIVERSE_FRAMEWORK.md** to `oververse/`
+3. **Add oververse/README.md** that explains:
    - This framework is extracted from Iolinus
    - Iolinus is the source of truth
    - Framework documents universal principles
@@ -223,7 +223,7 @@ iolinus/
 
 **Iolinus story details are the primary source of truth.**
 
-The framework in `hypatia/` extracts universal principles from Iolinus.
+The framework in `oververse/` extracts universal principles from Iolinus.
 It documents what exists, not what should exist.
 
 ## Change Process
@@ -254,7 +254,7 @@ When creating new stories:
 
 **Keep everything in the Iolinus repo.**
 
-1. Add `hypatia/` directory with framework documents
+1. Add `oververse/` directory with framework documents
 2. Add `meta/CONSISTENCY_NOTES.md` explaining the relationship
 3. Update root README to mention framework
 4. Treat framework as "extracted from Iolinus" not "applied to Iolinus"
@@ -267,5 +267,5 @@ This gives you:
 - Framework as documentation, not imposition
 - Can still reference framework separately for future stories
 
-**No need for a separate repo** unless you specifically want to publish just the framework separately (which you can still do by copying hypatia/ directory).
+**No need for a separate repo** unless you specifically want to publish just the framework separately (which you can still do by copying oververse/ directory).
 

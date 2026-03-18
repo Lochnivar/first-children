@@ -9,9 +9,9 @@
 
 Zeta (also known as Malachor in the current age) is Nala's brother, a First Child (little 'g' god) who claimed Iolinus as his own against peer judgment. He didn't create it—he ripped off a bootleg copy of Earth thousands of years ago, too lazy to do his own work. The bootleg was proof he was too immature; other First Children judged him unready, but he did it anyway. He has tied his life force to his creation, making him invulnerable and holding all life on Iolinus hostage. The names Zeta and Malachor represent the same entity, with the name progressing through different "ages of man" - Zeta is the earlier name, Malachor is the current name.
 
-**Framework Context:** Zeta/Malachor demonstrates the First Child creator pattern who created against peer judgment (other First Children judged him too immature) and uses life force binding. See [hypatia/cosmology/first-children.md](../../../../cosmology/first-children.md) for universal First Children details and [hypatia/mechanics/world-creation.md](../../../../mechanics/world-creation.md) for world creation and life force binding.
+**Framework Context:** Zeta/Malachor demonstrates the First Child creator pattern who created against peer judgment (other First Children judged him too immature) and uses life force binding. See [oververse/cosmology/first-children.md](../../../../cosmology/first-children.md) for universal First Children details and [oververse/mechanics/world-creation.md](../../../../mechanics/world-creation.md) for world creation and life force binding.
 
-**Theological Foundation:** Zeta/Malachor functions as the "Demiurge" in a Marcionite-inspired cosmology - the lesser, imperfect creator god who didn't create. He ripped off a bootleg; Marcion's Demiurge made an imperfect world; this one plagiarized. In the framework, the "prohibition" is peer judgment from other First Children (not a Prime Author law), though the Marcionite parallel structure remains. See [hypatia/cosmology/marcionite-theology.md](../../../../cosmology/marcionite-theology.md) for the theological framework structure.
+**Theological Foundation:** Zeta/Malachor functions as the "Demiurge" in a Marcionite-inspired cosmology - the lesser, imperfect creator god who didn't create. He ripped off a bootleg; Marcion's Demiurge made an imperfect world; this one plagiarized. In the framework, the "prohibition" is peer judgment from other First Children (not a Prime Author law), though the Marcionite parallel structure remains. See [oververse/cosmology/marcionite-theology.md](../../../../cosmology/marcionite-theology.md) for the theological framework structure.
 
 ## Iolinus-Specific Details
 
@@ -21,7 +21,7 @@ Zeta (also known as Malachor in the current age) is Nala's brother, a First Chil
 - **Personality:** Immature, spoiled brat; lacks compassion and wisdom to treat his creation properly; lacks the desire to gain that wisdom
 - **Cleverness:** Despite his faults, he is very clever
 
-For universal First Children details, see [hypatia/cosmology/first-children.md](../../../../cosmology/first-children.md).
+For universal First Children details, see [oververse/cosmology/first-children.md](../../../../cosmology/first-children.md).
 
 ### The Creation of Iolinus (Iolinus-Specific)
 - **Against Peer Judgment:** Other First Children judged that Zeta/Malachor (before he became Malachor) was too immature to create his own world. He claimed Iolinus anyway—by ripping off a bootleg—against their judgment.
@@ -30,7 +30,7 @@ For universal First Children details, see [hypatia/cosmology/first-children.md](
 
 **Population and World Origin:** Malachor did not create Iolinus—he ripped off a bootleg copy of Earth. Too lazy to do his own work, he grabbed the human development world thousands of years ago, rearranged the continents to his liking, added his own layer (Godstone, Shattering, life-force binding), and reskinned it as his own. Same species, same template, different geography and metaphysics. He did not invite Panspermia contractors or seed other species. Iolinus is almost exclusively human because it was never meant to be a multi-species world—it is a bootleg of a single-species development environment. **This is what really pissed off the other First Children:** not just that he created against their judgment, but that he couldn't be bothered to create at all. The bootleg was proof he was too immature—a sure sign he wasn't ready to do his own work.
 
-For universal world creation details, see [hypatia/mechanics/world-creation.md](../../../../mechanics/world-creation.md).
+For universal world creation details, see [oververse/mechanics/world-creation.md](../../../../mechanics/world-creation.md).
 
 ### The Hostage Situation (Iolinus-Specific)
 - **Life Force Binding:** Zeta tied his life force to his creation
@@ -38,7 +38,7 @@ For universal world creation details, see [hypatia/mechanics/world-creation.md](
 - **Hostages:** Millions of sentient, intelligent beings are held hostage
 - **Awareness:** He is aware of direct challenges—if he feels threatened, he'll abandon his playground and all those people will die
 
-For universal life force binding details, see [hypatia/mechanics/world-creation.md](../../../../mechanics/world-creation.md).
+For universal life force binding details, see [oververse/mechanics/world-creation.md](../../../../mechanics/world-creation.md).
 
 ### The World of Iolinus (Iolinus-Specific)
 - **Description:** Two massive continents straddling the equator (rearranged from the source; Malachor did not build from scratch)
@@ -69,5 +69,5 @@ For universal life force binding details, see [hypatia/mechanics/world-creation.
 
 ---
 
-*For universal First Children framework, see [hypatia/cosmology/first-children.md](../../../../cosmology/first-children.md)*  
-*For universal world creation and binding, see [hypatia/mechanics/world-creation.md](../../../../mechanics/world-creation.md)*
+*For universal First Children framework, see [oververse/cosmology/first-children.md](../../../../cosmology/first-children.md)*  
+*For universal world creation and binding, see [oververse/mechanics/world-creation.md](../../../../mechanics/world-creation.md)*

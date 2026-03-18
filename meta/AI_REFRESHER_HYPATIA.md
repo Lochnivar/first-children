@@ -14,8 +14,8 @@
 
 **Document Hierarchy:**
 1. `FRAMEWORK.md` (Root) = PRIMARY SOURCE OF TRUTH
-2. `hypatia/` (Directory) = Detailed supplementary documentation
-3. `hypatia/worlds/[world]/` = World-specific exceptions/expansions
+2. `oververse/` (Directory) = Detailed supplementary documentation
+3. `oververse/worlds/[world]/` = World-specific exceptions/expansions
 
 ---
 
@@ -262,7 +262,7 @@ All existence operates at the quantum layer:
 
 **Generalist failure (background cosmology):** Generalist variants typically fail under trial pressure. Specialists (Pachi, Djemari, etc.) survive; generalists (Camelus sapiens, Elephas sapiens, previous Homo sapiens deployments) tend to collapse. Earth's crawl is high-stakes for sapiens—but the narrative focus is human survival, not FC vindication.
 
-**Earth trial:** World-specific mechanics (administrative-boundary rooms, limited-access corridors, Gatelocks, integration metric, independent contractors). See **`hypatia/worlds/earth/AI-REFRESHER.md`** and **`hypatia/worlds/earth/trial-mechanics.md`** for full documentation.
+**Earth trial:** World-specific mechanics (administrative-boundary rooms, limited-access corridors, Gatelocks, integration metric, independent contractors). See **`oververse/worlds/earth/AI-REFRESHER.md`** and **`oververse/worlds/earth/trial-mechanics.md`** for full documentation.
 
 ### Legal Systems
 
@@ -333,7 +333,7 @@ All existence operates at the quantum layer:
 ### Other
 - **Genus Draconis** — Taxonomic dispute; Greater Dragons (PA), Lesser Dragons, Kobolds, *Draconis sapiens* (FC-created)
 
-**Documentation:** See `hypatia/races/` for detailed race documentation.
+**Documentation:** See `oververse/races/` for detailed race documentation.
 
 **Voice & Dialogue Reference:** When writing species dialogue, character voice, or inter-species interaction, use `DIALOGUE_PAGE.md` (repo root). It contains expanded voice guidance, tonal references, flavor quotes, and author notes for: Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Minotaur (draft), Otter-folk. Reference it for species-specific speech patterns, what to avoid, and emotional baselines.
 
@@ -345,21 +345,21 @@ All existence operates at the quantum layer:
 
 **Mercara's Cross:** Liminal nexus where portals converge. Mercara (owner) + Virelle (transit) + Nummus (banking) + Legara (contracts). Grand Anchor stabilizes rifts. Key platforms: 7 (Delverium), 12 (Hegemon), **934 (Earth)**, 1237 (Iolinus—SEALED).
 
-**Earth:** Will undergo trial (world-to-dungeon transformation). Narrative focus: human survival in drastically changed world. Manchester (Platform 934 terminus) = ground zero. Prep Year → walls → Gatelocks → integration metric. Independent contractors deploy via Platform 934; species bring own legal codes; no galactic authority. See `hypatia/worlds/earth/` for Earth-specific mechanics.
+**Earth:** Will undergo trial (world-to-dungeon transformation). Narrative focus: human survival in drastically changed world. Manchester (Platform 934 terminus) = ground zero. Prep Year → walls → Gatelocks → integration metric. Independent contractors deploy via Platform 934; species bring own legal codes; no galactic authority. See `oververse/worlds/earth/` for Earth-specific mechanics.
 
-**Iolinus:** Malachor's bootleg; sealed (Platform 1237 blocked). Ripped off Earth thousands of years ago—too lazy to create; the bootleg proved he was too immature. Almost exclusively human; no Panspermia species. Liberation operations; Nala working to free mortals; Earth souls from the original returning to free the copy. See `hypatia/worlds/iolinus/AI-REFRESHER.md` for Iolinus-specific details.
+**Iolinus:** Malachor's bootleg; sealed (Platform 1237 blocked). Ripped off Earth thousands of years ago—too lazy to create; the bootleg proved he was too immature. Almost exclusively human; no Panspermia species. Liberation operations; Nala working to free mortals; Earth souls from the original returning to free the copy. See `oververse/worlds/iolinus/AI-REFRESHER.md` for Iolinus-specific details.
 
-**Background Canon (Author-Only — Not Yet Reader-Facing):** Malachor = Moloch-adjacent. Framework Demiurge is Moloch-like, not Yahweh; Marcion/Gnostics misidentified. Malachor has impersonated other gods (including Yahweh) to get mortals to do his bidding. The "overthrow of the Demiurge" = other FC tired of his griefing; Nala's liberation = guild booting the griefer. **Nala's benevolence open:** She may be the pissed-off sister running a chaos-tolerance experiment on Iolinus (the closed system). The benevolent framing is from Earthers' perspective—she presents as benevolent to encourage willing Greyrose recruits. See `hypatia/cosmology/marcionite-theology.md` (Moloch Correction).
+**Background Canon (Author-Only — Not Yet Reader-Facing):** Malachor = Moloch-adjacent. Framework Demiurge is Moloch-like, not Yahweh; Marcion/Gnostics misidentified. Malachor has impersonated other gods (including Yahweh) to get mortals to do his bidding. The "overthrow of the Demiurge" = other FC tired of his griefing; Nala's liberation = guild booting the griefer. **Nala's benevolence open:** She may be the pissed-off sister running a chaos-tolerance experiment on Iolinus (the closed system). The benevolent framing is from Earthers' perspective—she presents as benevolent to encourage willing Greyrose recruits. See `oververse/cosmology/marcionite-theology.md` (Moloch Correction).
 
-**Algernon:** Keyes's experiment world. Central dungeon as phase-transition delivery mechanism. LitRPG framing via TheWay. See `hypatia/worlds/algernon/` and `DIALOGUE_PAGE.md`.
+**Algernon:** Keyes's experiment world. Central dungeon as phase-transition delivery mechanism. LitRPG framing via TheWay. See `oververse/worlds/algernon/` and `DIALOGUE_PAGE.md`.
 
-**Documentation:** See `hypatia/worlds/` for full world documentation.
+**Documentation:** See `oververse/worlds/` for full world documentation.
 
 ### LitRPG / TheWay Interface (Algernon and LitRPG Worlds)
 
 **Framework convention (FRAMEWORK.md):** When LitRPG aspects are needed, mechanical implementation uses **theway**. Stat screens, inventories, system UI rendered through bio-engineered wetware in the creature's brain. Storage = portals to extra-dimensional spaces; wetware = middleware.
 
-**Algernon-specific:** Interface is **console-debugging, not game UI**. Participants see raw instrumentation: log lines, data dumps, internal IDs, technical readouts. Birth race, quantum profile, Strain values surfaced as debug output. Wetware (Pineal + Amygdala); splitting headache on first connection. Keyes = level-up voice. Some participants learn to layer a **player-based mod overlay** for a more polished view. See `hypatia/worlds/algernon/world-building/theway-interface.md`.
+**Algernon-specific:** Interface is **console-debugging, not game UI**. Participants see raw instrumentation: log lines, data dumps, internal IDs, technical readouts. Birth race, quantum profile, Strain values surfaced as debug output. Wetware (Pineal + Amygdala); splitting headache on first connection. Keyes = level-up voice. Some participants learn to layer a **player-based mod overlay** for a more polished view. See `oververse/worlds/algernon/world-building/theway-interface.md`.
 
 ---
 
@@ -427,14 +427,14 @@ All existence operates at the quantum layer:
    - Contains all essential framework information in one place
    - **Purpose:** To be the definitive reference—anyone reading this should understand the complete framework
 
-2. **`hypatia/` (Directory) = DETAILED SUPPLEMENTARY DOCUMENTATION**
+2. **`oververse/` (Directory) = DETAILED SUPPLEMENTARY DOCUMENTATION**
    - Detailed, expanded explanations of framework elements
    - Cross-referenced navigation and organized categorization by topic
    - Provides depth and context beyond what is presented in `FRAMEWORK.md`
    - **Purpose:** To serve as a detailed reference, cross-reference hub, and organized categorization for specific topics
    - **Relationship to `FRAMEWORK.md`:** These files expand upon but **never contradict** `FRAMEWORK.md`
 
-3. **`hypatia/worlds/[world]/` (Directory) = WORLD-SPECIFIC EXCEPTIONS/EXPANSIONS**
+3. **`oververse/worlds/[world]/` (Directory) = WORLD-SPECIFIC EXCEPTIONS/EXPANSIONS**
    - Documentation for individual worlds
    - Details world-specific elements that either **expand** upon or provide **exceptions** to the universal framework rules
    - Each world's documentation must conform to the framework but can add unique, world-specific depth
@@ -442,10 +442,10 @@ All existence operates at the quantum layer:
 
 ### Key Principles of Information Flow
 
-- **Framework Rules:** Defined authoritatively in `FRAMEWORK.md` (primary), then detailed and expanded upon in `hypatia/` files (supplementary)
-- **World Details:** World-specific expansions or exceptions are documented within `hypatia/worlds/[world]/` (subordinate)
-- **Updates:** Any changes to core framework rules must first be made in `FRAMEWORK.md`, and then reflected in relevant `hypatia/` files
-- **No Duplicate Authoritative Statements:** Only `FRAMEWORK.md` states universal rules authoritatively. `hypatia/` files elaborate, and world files demonstrate application or exceptions
+- **Framework Rules:** Defined authoritatively in `FRAMEWORK.md` (primary), then detailed and expanded upon in `oververse/` files (supplementary)
+- **World Details:** World-specific expansions or exceptions are documented within `oververse/worlds/[world]/` (subordinate)
+- **Updates:** Any changes to core framework rules must first be made in `FRAMEWORK.md`, and then reflected in relevant `oververse/` files
+- **No Duplicate Authoritative Statements:** Only `FRAMEWORK.md` states universal rules authoritatively. `oververse/` files elaborate, and world files demonstrate application or exceptions
 
 ---
 
@@ -516,19 +516,19 @@ Individual world documentation contains world-specific details that are either:
 
 **Core Documents:**
 - `FRAMEWORK.md` - Primary source of truth (root)
-- `hypatia/README.md` - Framework documentation overview
+- `oververse/README.md` - Framework documentation overview
 
 **Detailed Documentation:**
-- `hypatia/cosmology/` - Prime Author, First Children, First Speech, theological structure, **legal systems**
-- `hypatia/metaphysics/` - Quantum foundation, coherent patterns, universal forces
-- `hypatia/magic-systems/` - Quantumancy and powers
-- `hypatia/mechanics/` - Soul transfer, world creation, liberation operations, **trials**
-- `hypatia/rules/` - Cosmological constants, what must remain consistent
-- `hypatia/guidelines/` - Expansion guidelines, how to create new worlds
-- `hypatia/narrative/` - Story types, character types, themes
-- `hypatia/philosophy/` - Balance and imbalance principle
-- `hypatia/races/` - Intelligent species available across worlds (genetic repo, genus structure)
-- `hypatia/worlds/` - Framework-level documentation of known worlds (Iolinus, Mercara's Cross, Earth, etc.)
+- `oververse/cosmology/` - Prime Author, First Children, First Speech, theological structure, **legal systems**
+- `oververse/metaphysics/` - Quantum foundation, coherent patterns, universal forces
+- `oververse/magic-systems/` - Quantumancy and powers
+- `oververse/mechanics/` - Soul transfer, world creation, liberation operations, **trials**
+- `oververse/rules/` - Cosmological constants, what must remain consistent
+- `oververse/guidelines/` - Expansion guidelines, how to create new worlds
+- `oververse/narrative/` - Story types, character types, themes
+- `oververse/philosophy/` - Balance and imbalance principle
+- `oververse/races/` - Intelligent species available across worlds (genetic repo, genus structure)
+- `oververse/worlds/` - Framework-level documentation of known worlds (Iolinus, Mercara's Cross, Earth, etc.)
 - `DIALOGUE_PAGE.md` (root) - Species voice and dialogue reference for writing; expanded guidance for Gnoll, Corvani, Iridari, Quedari, Minotaur, Otter-folk
 - `meta/SPECIES_TRUISMS.md` - Species truisms as validation check; does the scene fit?
 
@@ -536,7 +536,7 @@ Individual world documentation contains world-specific details that are either:
 
 ## Key Framework Concepts Summary
 
-- **Framework is PRIMARY:** `FRAMEWORK.md` and `hypatia/` are the source of truth; worlds are SUBORDINATE
+- **Framework is PRIMARY:** `FRAMEWORK.md` and `oververse/` are the source of truth; worlds are SUBORDINATE
 - **Prime Author:** True creator, withdrew permanently and will not return
 - **First Children:** Glorified waveforms (sentient, godlike energy patterns) that can be reformed (effectively destroyed)
 - **Everything is quantum:** All existence is patterns of coherent energy at the quantum layer
@@ -550,11 +550,11 @@ Individual world documentation contains world-specific details that are either:
 - **Mortal Awareness:** Varies by world (open, closed, or actively encouraged creator-as-only-god belief)
 - **Soul Transfer:** Requires mechanisms (greyrose or equivalent)
 - **Liberation Operations:** Complex, morally grey, often hidden
-- **Trials:** Final vetting per species; world-to-dungeon transformation; KPI framing; Earth-specific mechanics in `hypatia/worlds/earth/`
+- **Trials:** Final vetting per species; world-to-dungeon transformation; KPI framing; Earth-specific mechanics in `oververse/worlds/earth/`
 - **No galactic consensus:** FC immature; each species has own legal code; Bruin marshals bridge jurisdictions
 - **Races:** Salad bar; genetic repo; designated (Homo, Orcus) vs. emergent (all others)
 
 ---
 
-*This refresher focuses exclusively on the Hypatia framework. For world-specific details: Iolinus → `hypatia/worlds/iolinus/AI-REFRESHER.md`; Earth → `hypatia/worlds/earth/AI-REFRESHER.md`; Mercara's Cross → `hypatia/worlds/mercara-cross/AI-REFRESHER.md`.*
+*This refresher focuses exclusively on the Hypatia framework. For world-specific details: Iolinus → `oververse/worlds/iolinus/AI-REFRESHER.md`; Earth → `oververse/worlds/earth/AI-REFRESHER.md`; Mercara's Cross → `oververse/worlds/mercara-cross/AI-REFRESHER.md`.*
 

@@ -16,14 +16,14 @@ Hypatia is the over-universe (the Library) that contains multiple worlds (Books)
 ## Structure (Single Point of Truth Hierarchy)
 
 1. **[FRAMEWORK.md](FRAMEWORK.md)** - **PRIMARY SOURCE OF TRUTH** - Complete, comprehensive framework (universal rules and cosmology)
-2. **[hypatia/](hypatia/)** - **DETAILED SUPPLEMENTARY DOCUMENTATION** - Expanded explanations, cross-references, organized by category (includes worlds in `hypatia/worlds/`)
-3. **[worlds/](worlds/)** - **INDEX** - Quick reference to all worlds (full world bibles are in `hypatia/worlds/`)
+2. **[oververse/](oververse/)** - **DETAILED SUPPLEMENTARY DOCUMENTATION** - Expanded explanations, cross-references, organized by category (includes worlds in `oververse/worlds/`)
+3. **[worlds/](worlds/)** - **INDEX** - Quick reference to all worlds (full world bibles are in `oververse/worlds/`)
 4. **[meta/](meta/)** - **META-DOCUMENTATION** - Consistency processes, Q&A, change logs
 
 ## Core Principles
 
 1. **Single Point of Truth** - `FRAMEWORK.md` is the authoritative source for all framework rules
-2. **Detailed Documentation** - `hypatia/` provides expanded explanations that never contradict FRAMEWORK.md
+2. **Detailed Documentation** - `oververse/` provides expanded explanations that never contradict FRAMEWORK.md
 3. **World Subordination** - All worlds must conform to framework rules; world docs show exceptions/expansions
 4. **Consistency Process** - Clear process for handling contradictions (see `meta/CONSISTENCY_PROCESS.md`)
 
@@ -31,10 +31,10 @@ Hypatia is the over-universe (the Library) that contains multiple worlds (Books)
 
 ### The Framework
 - [FRAMEWORK.md](FRAMEWORK.md) - Complete framework document
-- [hypatia/README.md](hypatia/README.md) - Framework overview and navigation
+- [oververse/README.md](oververse/README.md) - Framework overview and navigation
 
 ### Worlds
-- [hypatia/worlds/](hypatia/worlds/) - Framework-level world documentation and full world bibles
+- [oververse/worlds/](oververse/worlds/) - Framework-level world documentation and full world bibles
 - [worlds/README.md](worlds/README.md) - Index of all worlds
 
 ### Meta Documentation

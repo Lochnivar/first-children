@@ -51,7 +51,7 @@ The code implements a comprehensive genetic simulation system for fantasy world-
 - Mixed with narrative/documentation content (burg entries)
 - Violates separation of concerns
 
-**Recommendation:** Extract to `tools/dna_simulator.py` or `hypatia/worlds/hegemon/tools/dna_simulator.py`
+**Recommendation:** Extract to `tools/dna_simulator.py` or `oververse/worlds/hegemon/tools/dna_simulator.py`
 
 ### 2. **Genetic Model Limitations**
 
@@ -233,7 +233,7 @@ For `predict_offspring_probabilities()`, this should split probability 50/50 bet
 ## Sample Refactored Structure
 
 ```
-hypatia/worlds/hegemon/
+oververse/worlds/hegemon/
 ├── tools/
 │   ├── __init__.py
 │   ├── dna_simulator.py      # Main simulation code

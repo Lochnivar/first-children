@@ -49,10 +49,10 @@ Rules have been adapted from an alt-history project and tailored to this fantasy
 
 These rules work alongside:
 - `meta/CONSISTENCY_PROCESS.md` - Framework consistency process
-- `hypatia/worlds/iolinus/CONSISTENCY_CHECK.md` - World conformance documentation
+- `oververse/worlds/iolinus/CONSISTENCY_CHECK.md` - World conformance documentation
 - `FRAMEWORK.md` - Primary framework source of truth
 
 ---
 
 *For framework-specific rules, see `meta/CONSISTENCY_PROCESS.md`*  
-*For world-specific guidelines, see `hypatia/worlds/iolinus/meta/`*
+*For world-specific guidelines, see `oververse/worlds/iolinus/meta/`*

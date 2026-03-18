@@ -296,7 +296,7 @@
    - **Purpose:** Be the definitive reference—anyone reading this should understand the complete framework
    - **Status:** Complete, comprehensive, authoritative
 
-2. **hypatia/ = DETAILED DOCUMENTATION (Expansions/References)**
+2. **oververse/ = DETAILED DOCUMENTATION (Expansions/References)**
    - Detailed, expanded explanations of framework elements
    - Cross-referenced navigation and organization
    - Provides depth and context beyond FRAMEWORK.md
@@ -304,7 +304,7 @@
    - **Relationship to FRAMEWORK.md:** Expands upon but never contradicts FRAMEWORK.md
    - **Status:** Supplementary detailed documentation
 
-3. **hypatia/worlds/[world]/ = WORLD-SPECIFIC EXCEPTIONS/EXPANSIONS**
+3. **oververse/worlds/[world]/ = WORLD-SPECIFIC EXCEPTIONS/EXPANSIONS**
    - World-specific details that expand or provide exceptions to framework rules
    - Must conform to framework but can add world-specific depth
    - Documents how the world demonstrates, expands, or provides exceptions to framework rules
@@ -314,26 +314,26 @@
 **Key Principles:**
 
 - **Single Source of Truth:** FRAMEWORK.md is the authoritative reference
-- **No Contradictions:** hypatia/ files expand but never contradict FRAMEWORK.md
+- **No Contradictions:** oververse/ files expand but never contradict FRAMEWORK.md
 - **Clear Hierarchy:** Framework → Detailed Docs → World Docs
 - **World Exceptions/Expansions:** Worlds can expand or provide exceptions (documented) within framework rules
 
 **Information Flow:**
 
-- **Framework Rules:** Defined in FRAMEWORK.md (primary), detailed in hypatia/ (supplementary)
-- **World Details:** Expansions/exceptions documented in hypatia/worlds/[world]/ (subordinate)
-- **Updates:** Changes to framework rules go to FRAMEWORK.md first, then reflected in hypatia/ files
+- **Framework Rules:** Defined in FRAMEWORK.md (primary), detailed in oververse/ (supplementary)
+- **World Details:** Expansions/exceptions documented in oververse/worlds/[world]/ (subordinate)
+- **Updates:** Changes to framework rules go to FRAMEWORK.md first, then reflected in oververse/ files
 
 **Organization Standards:**
 
-- All framework universal elements: FRAMEWORK.md (primary) + hypatia/ (detailed)
-- All world-specific elements: hypatia/worlds/[world]/
-- Cross-references: hypatia/ files link to FRAMEWORK.md as primary source
+- All framework universal elements: FRAMEWORK.md (primary) + oververse/ (detailed)
+- All world-specific elements: oververse/worlds/[world]/
+- Cross-references: oververse/ files link to FRAMEWORK.md as primary source
 - No duplicate authoritative statements: Only FRAMEWORK.md states rules authoritatively
 
 **Resolution:**
 - FRAMEWORK.md = Comprehensive primary source of truth (not just overview)
-- hypatia/ = Detailed supplementary documentation (expansions, cross-references, organization)
+- oververse/ = Detailed supplementary documentation (expansions, cross-references, organization)
 - Worlds = Subordinate exceptions/expansions within framework rules
 - Clear separation: Framework (universal) vs. World (specific exceptions/expansions)
 
@@ -461,7 +461,7 @@
 10. **Q13:** ✅ RESOLVED - All magic is quantum manipulation (magic systems are comprehension tools for mortals)
 11. **Q14:** ✅ RESOLVED - Mortal awareness of Hypatia (First Children control awareness on their creations; varies by world—open, closed, or actively encourages creator-as-only-god like Iolinus)
 12. **Q15:** ✅ RESOLVED - Rules and enforcement (Physical laws from Prime Author; moralistic rules are First Children constructs; First Children responsible for violations and enforcement)
-13. **Q16 & Q17:** ✅ RESOLVED - Single point of truth (FRAMEWORK.md = primary source; hypatia/ = detailed supplementary; worlds = subordinate exceptions/expansions)
+13. **Q16 & Q17:** ✅ RESOLVED - Single point of truth (FRAMEWORK.md = primary source; oververse/ = detailed supplementary; worlds = subordinate exceptions/expansions)
 14. **Q18:** ✅ RESOLVED - Prime Author withdrawal permanence (permanent and final, will not return—has left the library forever)
 15. **Q19:** ✅ RESOLVED - Library metaphor literality (purely conceptual, but the closest that First Children or any mortal mind can approach understanding Hypatia)
 16. **Q20:** ✅ RESOLVED - First Children immortality and destruction (glorified waveforms—can't be truly destroyed but can be reformed, which is basically the same thing)
@@ -516,7 +516,7 @@ Just patterns, coherence, and the fleeting preferences of those who can make the
 
 The cosmology is complete, consistent, and haunting.
 
-**Documentation:** See [hypatia/metaphysics/quantum-foundation.md](../hypatia/metaphysics/quantum-foundation.md) and [hypatia/metaphysics/coherent-patterns.md](../hypatia/metaphysics/coherent-patterns.md) for complete details.
+**Documentation:** See [oververse/metaphysics/quantum-foundation.md](../oververse/metaphysics/quantum-foundation.md) and [oververse/metaphysics/coherent-patterns.md](../oververse/metaphysics/coherent-patterns.md) for complete details.
 
 ---
 
