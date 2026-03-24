@@ -6,29 +6,16 @@
 ## The Godstone (Original)
 
 ### Purpose
-- Created by Malachor as a **quantum anchor**—a stable artifact that holds quantum probability collapses in place
-- Allowed him to affect the world without maintaining constant quantum "focus" (offloading persistence requirement)
+- Created by Malachor to allow direct connection to Iolinus
+- Allowed him to affect the world without maintaining constant quantum "focus"
 - God-King interface and divine anchor point
 - Power amplifier that freed him from concentration requirements
 
 ### Why Malachor Needed It
-- **Core Quantumancy Limitation:** Without an anchor, reality manipulation requires constant, persistent enforcement. Let focus slip, and reality snaps back (rubber band effect).
-- Godstone = anchor that maintains the collapse, freeing Malachor from constant effort
-- Enabled direct rule as God-King without exhausting concentration
-
-### The Godstone as Embodiment of the Bond
-**Dual Purpose:**
-- **Anchor:** Offloaded quantum enforcement of his presence/rule across the entire planet
-- **Life Force Binding Linchpin:** Physical embodiment of his life-force binding to Iolinus
-  - It anchored his God-King dominion (enforcing his ordered reality)
-  - But because it embodied the binding, it also served as the linchpin for the hostage/kill-switch dynamic
-
-**Why This Matters:**
-- When the Godstone was shattered, it didn't just break the anchor
-- It wounded the bond itself, creating:
-  - Rifts (unstable quantum collapses)
-  - Monsters (quantum noise leaking through unstable collapses)
-  - Scattered Godshards (fragments still holding partial anchors)
+- Gods normally must maintain quantum focus (exhausting/limiting)
+- Godstone = automatic connection
+- Free to act without concentration
+- Enabled direct rule as God-King
 
 ### The God-King Era
 - Direct rule through Godstone
@@ -48,10 +35,8 @@
 ### The Seven Godshards
 - Seven pieces of the shattered Godstone
 - Currently scattered (locations unknown)
-- Each fragment still holds a **partial anchor**—maintaining some quantum collapse
-- Each connected to the main rift (the wounded bond)
-- Reuniting them could restore Malachor's full control (re-anchoring the bond)
-- Or, in Nala's plan, safely sever it (disrupting the anchor without triggering total unraveling)
+- Each may retain some power
+- Each may be connected to main rift
 - Central McGuffins of the story
 
 ## Current Status

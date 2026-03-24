@@ -31,3 +31,20 @@ Everyone in the story — Players and Keyes alike — is dying in the dark looki
 - Arc structure to be developed
 - Scene breakdown to be developed
 - Connection to TheWay mechanics, dungeon levels to be developed
+
+## Chapter 1 Scene Notes
+
+**QWESTR:** Introduced during Character Gen as 
+Keyes-recommended party matching system after 15 minutes of "research" into DnD and Pathfinder hint that parties are more survivable. Charlie 
+dismisses it — another app, hard pass. 
+CHEKHOV'S GUN ONLY. Do not develop further in Ch1.
+
+**Kitsune Girlz UI:** *Not* in the mod marketplace—too trackable, dangerous for Mira. Instead: a flier with pull tabs and a quantum QR code. "Pull here for a spicy UI experience." Ephemeral, deniable, harder to trace. Charlie notices it a few chapters later—after character creation, after bumbling in the wilderness "training" area, when he reaches the town that houses the marketplace.
+CHEKHOV'S GUN ONLY. Do not install in Ch1.
+
+**Payoff:** Later chapter when Charlie installs 
+the free skin and gets significantly more than 
+he bargained for. QWESTR becomes Mira's 
+personal entertainment platform. 
+WillNotDieForYou — party member Mira matches 
+without asking.

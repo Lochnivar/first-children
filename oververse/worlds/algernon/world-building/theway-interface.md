@@ -53,3 +53,9 @@ Typical progression path observed in crawler behavior:
 ## Species / Participant Types
 
 New species and participant types use the same interface. The console-debugging aesthetic applies regardless of birth race or origin. Mod overlay availability is participant-learned, not species-gated.
+
+---
+
+## Related: Questing stack names
+
+Canonical distinction between **network (QWAN)**, **product (iQuest)**, and **voice/UI (QWST / First Speech)** — including branded backtick and “phonetic estrangement” intent — is documented in [QWAN, QWST, iQuest, First Speech](qwan-qwst-first-speech.md).

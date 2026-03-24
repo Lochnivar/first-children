@@ -1,9 +1,8 @@
 # Zeta / Malachor: Naming Progression
 
-**Category:** World-Building / Theological Detail (Iolinus-Specific)  
+**Category:** World-Building / Theological Detail  
 **Status:** Canon - Resolved  
-**Related Concepts:** Zeta, Malachor, Church of Malachor, Ages of Man  
-**Framework Reference:** [First Children](../../../../cosmology/first-children.md)
+**Related Concepts:** Zeta, Malachor, Church of Malachor, Ages of Man
 
 ## Overview
 Zeta and Malachor are the same entity - the god who created Iolinus and holds all life hostage. The different names represent the progression through different "ages of man," with the name changing over time as history has progressed.
@@ -12,7 +11,7 @@ Zeta and Malachor are the same entity - the god who created Iolinus and holds al
 
 ### Identity
 - **Zeta** = **Malachor** (same god, different names from different ages)
-- Created Iolinus against peer judgment (other First Children judged him too immature to create)
+- Created Iolinus against explicit prohibition
 - Tied his life force to his creation
 - Holds all life on Iolinus hostage
 - Brother to Nala (goddess of liberation)

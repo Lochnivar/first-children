@@ -6,7 +6,7 @@
 
 ## Definition
 
-Genus Bovinus is defined by the bovine/cattle-derived genetic template from the FC genetic repository. Bull- and ox-derived expressions. No designated role; traits lead to emergent infrastructure, navigation, and structural work.
+Genus Bovinus is defined by the bovine/cattle-derived **non-sapient** genetic template from the FC genetic repository (cattle, oxen, bison). Sapient bull-derived **staff** are not placed here—they are [*Homo bovinus*](../homo/bovinus.md) under Genus Homo (FC purpose-built security and shock troops).
 
 ### Physical
 - **Bovine-derived** — Bull or ox framework; horns, heavy build, powerful
@@ -21,8 +21,8 @@ Genus Bovinus is defined by the bovine/cattle-derived genetic template from the 
 
 ### Framework
 - **Non-sapient baseline:** Cattle, oxen, bison (Earth template)
-- **Sapient expression:** [Minotaurs](minotaur.md) — path-souls; emergent infrastructure and navigation; no designated role
+- **Sapient expression:** None in this genus. Bovine-derived FC staff are *Homo bovinus* — see [Homo bovinus](../homo/bovinus.md).
 
 ---
 
-*For species expression, see [Minotaurs](minotaur.md)*
+*For sapient bovine staff, see [Homo bovinus](../homo/bovinus.md)*

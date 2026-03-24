@@ -26,6 +26,7 @@ Book 1 is named for the moment everything turns on. Not the dungeon, not the asc
 
 ## Key Files
 
+- [`CHARACTER_GEN_MACHINE_DIALOGUE_PLAN.md`](CHARACTER_GEN_MACHINE_DIALOGUE_PLAN.md) — Deferred: HUD blocks for character gen (TheWay-aligned)
 - `../../plots/arcs/book1-orcus-sapiens.md` — Arc documentation
 - `../../characters/main/charlie.md` — Protagonist profile
 - `../../characters/main/keyes.md` — FC presence, level-up voice

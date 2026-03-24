@@ -15,12 +15,10 @@ The Shattering was a catastrophic event where mad Quantumancers attempted to des
 - Absolute power, absolute madness
 
 ### The Godstone
-- Created by Malachor as a **quantum anchor**—offloaded quantum enforcement so he didn't need constant focus
-- **Dual Purpose:**
-  - **Anchor:** Maintained quantum collapse of his God-King dominion across the planet
-  - **Embodiment of the Bond:** Physical manifestation of his life-force binding to Iolinus
-- Because it embodied the binding, shattering it wounded the bond itself (not just broke the anchor)
-- This created the rifts (unstable quantum collapses), monsters (quantum noise leaking through), and scattered Godshards (fragments still holding partial anchors)
+- Created by Malachor to allow direct connection to Iolinus
+- Allowed him to affect the world without maintaining constant quantum "focus"
+- God-King interface and divine anchor point
+- Power amplifier that freed him from concentration requirements
 
 ## Quantumancer Madness
 

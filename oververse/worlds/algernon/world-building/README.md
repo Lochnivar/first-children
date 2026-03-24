@@ -11,6 +11,8 @@ Complete index of all world-building elements organized by category.
 
 ## TheWay Interface
 - [TheWay Interface](theway-interface.md) — How participants see the system: console-debugging aesthetic, wetware (Pineal + Amygdala), player-based mod overlay
+- [First Speech conventions (trials & quest interfaces)](../../../mechanics/first-speech-conventions.md) — Oververse-wide: world tokens, UI tropes, disambiguation from cosmological First Speech
+- [QWAN, QWST, iQuest, First Speech](qwan-qwst-first-speech.md) — Stack terminology: QWAN (network), iQuest (product), QWST / First Speech (voice for iQuest); per-world First Speech tokens (e.g. Algernon `'LGRNN`, Legara `LGRH`, Mercara `MRCRH`) as a universal trope; phonetic design intent (not sacred allegory)
 
 ## Participant Ecosystem
 - **Serious contenders** — Pushing toward invisible finish line

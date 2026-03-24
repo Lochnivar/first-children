@@ -62,6 +62,7 @@ The oververse/ directory is organized into categories similar to world-building 
 - **[World Creation](mechanics/world-creation.md)** - How worlds are created and bound
 - **[Liberation Operations](mechanics/liberation-operations.md)** - Patterns for freeing worlds
 - **[Trials](mechanics/trials.md)** - World-to-dungeon transformation; some worlds have been through this process
+- **[First Speech conventions (trials & quest interfaces)](mechanics/first-speech-conventions.md)** - Universal trope for world tokens and quest-OS naming (distinct from [cosmological First Speech](cosmology/first-speech.md))
 - **LitRPG / theway** - Mechanical implementation for LitRPG-style worlds (stats, levels, gamified quantum manipulation)
 
 ### [Rules](rules/)

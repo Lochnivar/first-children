@@ -53,7 +53,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 - Crows = Corvani (Blackwings) relatives
 - Coyotes = Cayminus (Coyote folk) relatives
 - Hyenas = Gnoll relatives
-- Cattle, oxen, bison = Minotaur relatives
+- Cattle, oxen, bison = Genus Bovinus (non-sapient template); sapient bovine staff are *Homo bovinus*
 - Otters = Otter-folk relatives
 
 **Earth's Homo culling (background cosmology):** An FC deployed Homo baseline on Earth ~2.5 million years ago and managed evolution. Six variants emerged (erectus, neanderthalensis, denisova, floresiensis, heidelbergensis, naledi, sapiens). Five were allowed to go extinct (evaluated as too specialized—Neanderthals cold-adapted, Denisovans altitude-optimized, erectus cognitively rigid, etc.); sapiens was supported as the "true generalist" variant. Earth's human history = that selection process. "We're not Earth's first humans. We're Earth's selected humans." (Cosmology context only—FC not a story character.)
@@ -65,7 +65,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 **FC genetic repository:** The genetic templates. Mostly FC creations—communal, open source, available to all First Children.
 
 **Designated roles (exceptions):** Only two genera have explicit, assigned roles:
-- **Homo (FC Staff):** Elves, Hobgoblins, Dwarves, Tinkari, Halflings. First Children created these as purpose-built job models (PR/communications, admin, engineering, operations, logistics). Elves = Mercara's contribution to the genetic repo—PR-focused homo staff. Hobgoblins (Homo goblinus) = admin staff. No non-sapient baseline—they're designated staff.
+- **Homo (FC Staff):** Humans, Elves, Hobgoblins, Dwarves, Tinkari, Halflings, Homo bovinus. First Children created these as purpose-built job models (generalist, PR/communications, admin, engineering, operations, logistics, security/shock). Elves = Mercara's contribution to the genetic repo—PR-focused homo staff. Hobgoblins (Homo goblinus) = admin staff. Homo bovinus = security, assault, facility guardians, heavy breaching. No non-sapient baseline—they're designated staff.
 - **Orcus (adversary):** Goblins, Orcs, Trolls, Ogres. FC-created specifically as trial adversaries—monster stock to be overcome. Designed adversary role. See [Genus Orcus](orcus/genus.md).
 
 **Emergent traits (the norm):** Pachi, Chelonari, Giff, Nekari, Kitsune, Djemari, Llamari, Quedari. Use shared repository templates—deployed by FC or arising on worlds. Not purpose-built for specific jobs; they're instances of repo templates. **No designated roles.** Their traits and temperament lead naturally to certain behaviors—patience tends toward wisdom-sharing, wanderlust tends toward movement and trade, overwhelming force tends toward combat professions. Not all races have specific purposes; some simply are (e.g., Quedari). **Not restricted to biomes:** Lama and Camelus traits (efficient O2, water conservation, endurance) suit various niches. Traits make them suited to roles; roles don't define them. Don't interact as equals with FC staff—but don't owe subservience either.
@@ -84,6 +84,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | **Homo** | — | Dwarves (thurinis) | Engineering staff (designated) | Gruff, practical |
 | **Homo** | — | Tinkari (technis) | DevOps staff (designated) | Frantic, helpful |
 | **Homo** | — | Halflings (halfinius) | Logistics staff (designated) | Practical, resourceful |
+| **Homo** | — | Homo bovinus (bovinus) | Security / assault / facility guardians / heavy breaching (designated) | Stoic, herd-loyal, formation-first |
 | **Elephas** | Elephants | Pachi (mobile) | Tends toward movement, trade, contemplation | Philosophical, wandering |
 | **Testudo** | Tortoises | Chelonari (chelonari) | Tends toward helping others with wisdom | Patient, empathetic |
 | **Testudo** | Tortoises | Aubrei (aubreii) | Naval-themed; more aggressive; same core traits | Patient, assertive |
@@ -98,7 +99,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | **Corvus** | Crows | Corvani (morticus) | Tends toward healing, chain-mending | Hyper-literal, death-framed, pattern-obsessed |
 | **Canis** | Coyotes | Cayminus (cayminus) | Nummus's banking staff at Mercara's Cross | Contractual, opportunistic |
 | **Canis** | Hyenas | Gnolls (jocularis/festivus) | No designated role; chaos-souls; emergent | Theatrical, communal, warmth until crossed |
-| **Bovinus** | Cattle, oxen, bison | Minotaurs (labyrinthus) | No designated role; path-souls; infrastructure, navigation | Structural, deliberate, impossible to confuse |
+| **Bovinus** | Cattle, oxen, bison | — | Non-sapient template only; sapient bovine staff are *Homo bovinus* (Homo) | — |
 | **Lutrinae** | Otters | Otter-folk (sapiens) | No designated role; facilitators, bridge-builders, grifters | Charm-aware, play-as-bonding; individual variation |
 | **Capra** | Goats | Capra Quantus (quantus) | Transit staff at Mercara's Cross (Virelle's creation); bound to Grand Anchor | Stubborn, territorial, quantum-sensitive |
 | **Orcus** | — | Goblins (minor) | Swarm mobs (designated) | Cruel, chaotic |
@@ -126,7 +127,7 @@ Sapient species can instinctively understand some framework cousin behaviors:
 
 ## Species Interactions
 
-**Homo species (Humans/Elves/Hobgoblins/Dwarves/Tinkari/Halflings):** Same genus = family (cousins). Different models = different jobs. Elves = Mercara's contribution to the repo—PR-focused staff. Hobgoblins = admin staff (Homo goblinus; not Orcus adversaries). Professional hierarchy (specialists > generalists in their domain). Humans don't initially know they're related.
+**Homo species (Humans/Elves/Hobgoblins/Dwarves/Tinkari/Halflings/Homo bovinus):** Same genus = family (cousins). Different models = different jobs. Elves = Mercara's contribution to the repo—PR-focused staff. Hobgoblins = admin staff (Homo goblinus; not Orcus adversaries). Homo bovinus = security and shock troops—overlapping professional respect, different emotional baseline. Professional hierarchy (specialists > generalists in their domain). Humans don't initially know they're related.
 
 **Djemari + Llamari handoffs:** Ultimate calm meets ultimate anxiety. Comedy through contrast. Both professionally competent. Mutual respect despite opposite temperaments.
 
@@ -140,7 +141,7 @@ Sapient species can instinctively understand some framework cousin behaviors:
 
 **Quedari:** No designated role; they exist, survive, trade chitin. Patient contrast to active species. Avoid Capra quantus (too loud). Not all races have specific purposes—some simply are.
 
-**Gnoll + Minotaur:** Mutual incomprehension, not hostility. Gnolls find Minotaurs boring (straight lines are no fun); Minotaurs find Gnolls exhausting (why make everything a bit?). Both correct.
+**Gnoll + Homo bovinus:** Friction, not war. Gnolls read them as stiff and unfunny; Bovinus read Gnolls as chaotic noise. Both can work a line—different definitions of “discipline.”
 
 **Otter-folk:** Individual variation—some facilitators, some grifters, some both. Charm-aware; "check your pockets." Gnolls may see through it; Corvani possibly immune. Kitsune are fellow operators.
 

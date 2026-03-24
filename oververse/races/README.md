@@ -31,6 +31,7 @@ Created by First Children to serve divine bureaucracy and infrastructure:
 - **[Dwarves](homo/dwarves.md)** - Technical/engineering staff, infrastructure
 - **[Tinkari](homo/tinkari.md)** - Operations staff, Quantum DevOps—maintain trains, program the crawl, keep it running
 - **[Halflings](homo/halflings.md)** - Logistics staff, supply chains, distribution, coordination
+- **[Homo bovinus](homo/bovinus.md)** - Security, assault, facility guardians, heavy breaching; bovine-derived FC staff
 
 ### Panspermia Species (FC-Seeded Templates)
 Anthropomorphic species seeded across worlds; developed independently. *No designated roles—traits lead to emergent behaviors.*
@@ -48,7 +49,6 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Iridari (Pristails)](ratufa/iridari.md)** - Giant squirrel people; color-changing emotional tails; rooftop broadcasters, information sharers; no designated role—traits suit the work
 - **[Corvani (Blackwings)](corvus/morticus.md)** - Crow people; hyper-literal, death-framed; emergent healers and chain-menders; no designated role—traits suit the work
 - **[Gnolls](canis/gnoll.md)** - Hyena-derived; chaos-souls; improv troupe social structure; Festivus; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
-- **[Minotaurs](bovinus/minotaur.md)** - Bull-derived; path-souls; infrastructure, navigation; no designated role—emergent. *Draft. Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 - **[Otter-folk](lutrinae/otter-folk.md)** - Otter-derived; charm-aware; facilitators, bridge-builders, grifters; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 
 ### Core Races
@@ -71,7 +71,7 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 ## Designated Roles vs. Emergent Tendencies
 
 **Designated roles (Homo, Orcus only):** Purpose-built for specific functions.
-- **FC Staff:** Elves (PR/communications—Mercara's contribution), Hobgoblins (admin), Dwarves (engineering), Tinkari (operations), Halflings (logistics)
+- **FC Staff:** Elves (PR/communications—Mercara's contribution), Hobgoblins (admin), Dwarves (engineering), Tinkari (operations), Halflings (logistics), Homo bovinus (security, assault, facility guardians, heavy breaching)
 - **Adversaries (trial use):** Orcus genus (Goblins, Orcs, Trolls, Ogres)
 
 **Emergent tendencies (all other genera):** Traits lead to behaviors; no assigned roles.
@@ -85,7 +85,6 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - Djemari, Llamari: Traits (efficient O2, water conservation, endurance) suit transport and logistics
 - Quedari: No designated role; passed trial via avoidance; patient, minimal engagement. Not all races have purposes—some simply are.
 - Gnolls: Chaos-souls; theatrical, communal; Festivus; warmth until crossed. No designated role.
-- Minotaurs: Path-souls; structural, deliberate; infrastructure and navigation. No designated role. Mutual incomprehension with Gnolls.
 - Otter-folk: Charm-aware; play-as-bonding; facilitators, bridge-builders, grifters. No designated role. Individual variation—some con artists. "Check your pockets."
 
 **PA creation / Draconis:** Greater Dragons (Second Children), Lesser Dragons, Kobolds; *Draconis sapiens* (FC-created, spite-built—NOT staff); taxonomic dispute
@@ -107,7 +106,7 @@ See **[Genetic Frameworks](genetic-frameworks.md)** for:
 
 ## Voice & Dialogue Reference
 
-For expanded species voice guidance (speech patterns, tonal references, flavor quotes, author notes), see **[DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)**. Covers: Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Minotaur (draft), Otter-folk.
+For expanded species voice guidance (speech patterns, tonal references, flavor quotes, author notes), see **[DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)**. Covers: Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Otter-folk. *Homo bovinus* species reference: [homo/bovinus.md](homo/bovinus.md).
 
 For species truisms (validation check: does the scene fit?), see **[meta/SPECIES_TRUISMS.md](../../meta/SPECIES_TRUISMS.md)**.
 

@@ -335,9 +335,9 @@ All existence operates at the quantum layer:
 
 **Documentation:** See `oververse/races/` for detailed race documentation.
 
-**Voice & Dialogue Reference:** When writing species dialogue, character voice, or inter-species interaction, use `DIALOGUE_PAGE.md` (repo root). It contains expanded voice guidance, tonal references, flavor quotes, and author notes for: Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Minotaur (draft), Otter-folk. Reference it for species-specific speech patterns, what to avoid, and emotional baselines.
+**Voice & Dialogue Reference:** When writing species dialogue, character voice, or inter-species interaction, use `DIALOGUE_PAGE.md` (repo root). It contains expanded voice guidance, tonal references, flavor quotes, and author notes for: Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Otter-folk. *Homo bovinus* (species reference): `oververse/races/homo/bovinus.md`. Reference these for species-specific speech patterns, what to avoid, and emotional baselines.
 
-**Species Truisms:** Use as a check when writing scenes. After drafting, ask: does what I wrote fit this species' truism? See `meta/SPECIES_TRUISMS.md`. Canonical truisms (Gnoll, Corvani, Iridari, Quedari, Minotaur, Otter-folk) plus proposed truisms for other species.
+**Species Truisms:** Use as a check when writing scenes. After drafting, ask: does what I wrote fit this species' truism? See `meta/SPECIES_TRUISMS.md`. Canonical truisms (Gnoll, Corvani, Iridari, Quedari, Otter-folk) plus proposed truisms for other species (including Homo bovinus).
 
 ---
 
@@ -529,7 +529,7 @@ Individual world documentation contains world-specific details that are either:
 - `oververse/philosophy/` - Balance and imbalance principle
 - `oververse/races/` - Intelligent species available across worlds (genetic repo, genus structure)
 - `oververse/worlds/` - Framework-level documentation of known worlds (Iolinus, Mercara's Cross, Earth, etc.)
-- `DIALOGUE_PAGE.md` (root) - Species voice and dialogue reference for writing; expanded guidance for Gnoll, Corvani, Iridari, Quedari, Minotaur, Otter-folk
+- `DIALOGUE_PAGE.md` (root) - Species voice and dialogue reference for writing; expanded guidance for Gnoll, Corvani, Iridari, Quedari, Otter-folk; *Homo bovinus* in `oververse/races/homo/bovinus.md`
 - `meta/SPECIES_TRUISMS.md` - Species truisms as validation check; does the scene fit?
 
 ---

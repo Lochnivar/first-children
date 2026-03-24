@@ -16,7 +16,6 @@
 | **Corvani (Blackwings)** | *"The Crows remember when no one else does."* |
 | **Iridari (Pristails)** | *"We tell their stories. That's how they live on."* |
 | **Quedari** | *"Everything passes. Wait long enough."* |
-| **Minotaur** | *"The ones who don't get lost."* |
 | **Otter-folk** | *"Don't be afraid to smile with an Ottern, but make sure to check your pockets."* |
 
 ---
@@ -34,6 +33,7 @@
 | **Dwarves** | *"We fix actual bugs, not 'features.'"* | Overview; practical, no-nonsense; from example context |
 | **Tinkari** | *"Ship it, we'll patch."* | Personality: pragmatic over proper; fix it in production |
 | **Halflings** | *"Someone has to provision the Orcus."* | Genetic frameworks; logistics; wary but professional |
+| **Homo bovinus** | *"The line holds."* | Formation-first loyalty; Storm Guard / Horned Wall; [oververse/races/homo/bovinus.md](../oververse/races/homo/bovinus.md) |
 
 ### Panspermia
 | Species | Proposed Truism | Source / Rationale |
@@ -81,6 +81,7 @@
 - **Dwarves:** *"We fix actual bugs, not 'features.'"* (proposed)
 - **Tinkari:** *"Ship it, we'll patch."* (proposed)
 - **Halflings:** *"Someone has to provision the Orcus."* (proposed)
+- **Homo bovinus:** *"The line holds."* (proposed)
 
 ### Panspermia
 - **Pachi:** *"We wander because we are not home yet."* (proposed)
@@ -97,7 +98,6 @@
 - **Iridari (Pristails):** *"We tell their stories. That's how they live on."* (canonical)
 - **Corvani (Blackwings):** *"The Crows remember when no one else does."* (canonical)
 - **Gnoll:** *"It's all fun and games until the Gnolls stop laughing."* (canonical)
-- **Minotaur:** *"The ones who don't get lost."* (canonical)
 - **Otter-folk:** *"Don't be afraid to smile with an Ottern, but make sure to check your pockets."* (canonical)
 
 ### Infrastructure-Bound (Mercara's Cross)

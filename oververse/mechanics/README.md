@@ -14,6 +14,7 @@ This directory contains framework mechanics documentation - how world operations
 - **[World Creation](world-creation.md)** - How worlds are created and bound
 - **[Liberation Operations](liberation-operations.md)** - Patterns for freeing worlds
 - **[Trials](trials.md)** - World-to-dungeon transformation; some worlds have been through this process
+- **[First Speech conventions (trials & quest interfaces)](first-speech-conventions.md)** - Universal naming trope: world tokens (`'LGRNN`, Legara, Mercara, …), product/voice layers, phonetic estrangement; disambiguated from [cosmological First Speech](../cosmology/first-speech.md)
 - **[Earth Trial Structure](earth-trial-structure.md)** - Pointer to [Earth Trial Mechanics](../worlds/earth/trial-mechanics.md) (walls, Gatelocks, integration metric)
 - **LitRPG / theway** - When LitRPG aspects are needed, worlds use theway as the mechanical implementation (see FRAMEWORK.md World-Building Guidelines)
 

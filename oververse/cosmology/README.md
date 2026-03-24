@@ -13,6 +13,7 @@ This directory contains framework cosmology documentation - the structure and na
 - **[Foundational Cosmology](foundational-cosmology.md)** - Concise overview of the core cosmology
 - **[The Prime Author](big-g-god.md)** - The true deity, structural presence (the substrate itself)
 - **[First Speech](first-speech.md)** - Original conceptual framework and terminology from the Prime Author
+- **Related (same phrase, different topic):** [First Speech conventions (trials & quest interfaces)](../mechanics/first-speech-conventions.md) — world tokens, quest-OS naming, trial UI
 - **[Marcionite Theological Inspiration](marcionite-theology.md)** - Theological framework structure
 - **[First Children](first-children.md)** - Little 'g' gods, children of Prime Author
 - **[FC Name Reference](fc-name-reference.md)** - Canonical naming pool and suggested name clusters

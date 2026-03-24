@@ -6,15 +6,11 @@ Complete index of all world-building elements organized by category.
 - [Quantum-Adjacent Abilities](magic-systems/quantum_abilities.md) - Five power system (Quantumancers, Readers, Weavers, Echoes, Nullwraiths)
 
 ## Cosmology & Theology
-
-### Framework Elements
-- [The Big 'G' God](../../../../cosmology/big-g-god.md) - True deity, structural presence (Framework element)
-- [Marcionite Theological Inspiration](../../../../cosmology/marcionite-theology.md) - Foundation: Demiurge vs. True God cosmology (Framework element)
-
-### Iolinus-Specific
+- [The Big 'G' God](cosmology/big_g_god.md) - True deity, deistic watchmaker who created the universe and stepped away
 - [Nala, Goddess of Liberation](cosmology/nala_goddess.md) - Goddess fighting to free Iolinus from her brother Zeta/Malachor
 - [Zeta / Malachor, God of Iolinus](cosmology/zeta_god.md) - Creator of Iolinus who holds all life hostage (same entity, names represent age progression)
 - [Zeta/Malachor Naming](cosmology/zeta_malachor_naming.md) - Explanation of name progression through ages
+- [Marcionite Theological Inspiration](cosmology/marcionite_theology.md) - Foundation: Demiurge vs. True God cosmology (framework/inspiration)
 - [Malachor and the Ebon Throne](cosmology/malachor_faith.md) - The sacred number five, five aspirations, and Knights of the Ebon Throne
 
 ## Organizations & Institutions
@@ -59,7 +55,7 @@ Complete index of all world-building elements organized by category.
 - [Automatic Translation Ability](technology/automatic_translation.md) - Zeta's modification that allows automatic translation between languages
 
 ## Philosophy
-- [Balance and Imbalance](../../../../philosophy/balance_philosophy.md) - The philosophical principle underlying cosmic and narrative structure (Framework element)
+- [Balance and Imbalance](philosophy/balance_philosophy.md) - The philosophical principle underlying cosmic and narrative structure
 
 ## Templates
 - [World-Building Template](template.md) - Template for creating new world-building entries

@@ -4,6 +4,8 @@
 **Category:** Cosmology / Terminology  
 **Related:** [Prime Author](big-g-god.md), [First Children](first-children.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
 
+**See also (different topic, same English phrase):** [First Speech conventions (trials & quest interfaces)](../mechanics/first-speech-conventions.md) — deployment branding, world tokens, and UI naming patterns in instrumented trials; **not** Prime Author theology.
+
 ## Overview
 
 **First Speech** refers to the original language or conceptual framework established by the Prime Author at the beginning of creation. It is the foundational linguistic and conceptual structure from which all existence derives meaning.

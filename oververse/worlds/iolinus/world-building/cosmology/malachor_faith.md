@@ -1,7 +1,6 @@
 # Malachor and the Ebon Throne
 
-**Category:** Religion / Belief System (Iolinus-Specific)  
-**Framework Reference:** [Marcionite Theology](../../../../cosmology/marcionite-theology.md)  
+**Category:** Religion / Belief System  
 **Related Organizations:** Church of Malachor (the priesthood is part of this church), Knights of the Ebon Throne  
 **Related Characters:** Axiarch Solon (Knight of the Ebon Throne)  
 **Related Files:** [Zeta/Malachor Naming](zeta_malachor_naming.md), [Zeta, God of Iolinus](zeta_god.md)

@@ -1,17 +1,13 @@
-# Greyroses (Iolinus-Specific Soul Transfer Interface)
+# Greyroses
 
-**Category:** World-Building / Magic Item / Apostasy Mark (Iolinus-Specific)  
-**Framework Reference:** [Soul Transfer](../../../../mechanics/soul-transfer.md)  
-**Related Concepts:** Nala, Earth Souls, Greyrose Rangers, Quantum Abilities, Suicide Mechanism  
+**Category:** World-Building / Magic Item / Apostasy Mark
+**Related Concepts:** Nala, Earth Souls, Greyrose Rangers, Quantum Abilities, Suicide Mechanism
 **Related Characters:** Loisa Xialing, Elsbeth Thane, Calder Voss, Gabby D'Olivier, Chance Hodgkins (can hijack)
 
 ## Overview
+Greyroses are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apostasy membership. They are Nala's interface to Earth souls, enable blood purification, and contain a toxin bulb that serves as a suicide mechanism if ruptured. Discovery by the Church is a death sentence.
 
-Greyroses are the Iolinus-specific mechanism for soul transfer. They are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apostasy membership. They are Nala's interface to Earth souls, enable blood purification, and contain a toxin bulb that serves as a suicide mechanism if ruptured. Discovery by the Church is a death sentence.
-
-**Framework Context:** Greyroses are the Iolinus-specific manifestation of soul transfer mechanisms. Other worlds may use different interfaces (amulets, rituals, portals, etc.). See [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md) for universal soul transfer details.
-
-## Physical Description (Iolinus-Specific)
+## Physical Description
 
 ### Appearance
 - Actual rose embedded in flesh (not a tattoo or image)
@@ -43,7 +39,7 @@ Greyroses are the Iolinus-specific mechanism for soul transfer. They are embedde
 - Stem flows between the breasts
 - Symbolically and ritually significant
 
-## Function (Iolinus-Specific)
+## Function
 
 ### Mark of Apostasy Membership
 - Visible (or concealable) mark of dedication to Nala
@@ -57,8 +53,6 @@ Greyroses are the Iolinus-specific mechanism for soul transfer. They are embedde
 - Connection point for Nala's power/influence
 - Possibly only works on quantum-gifted individuals?
 
-For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
-
 ### Blood Purification
 - Purifies blood (specific function unclear)
 - May be related to keeping Earth souls healthy in Iolinus bodies
@@ -70,7 +64,7 @@ For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](
 - Operational security: prevents capture/interrogation
 - Ultimate protection against Church discovery
 
-## Who Has Greyroses (Iolinus-Specific)
+## Who Has Greyroses
 
 ### Confirmed Bearers
 - **Loisa Xialing** ✓
@@ -92,7 +86,7 @@ For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](
   - Knows about Loisa's "tattoo" but doesn't understand its significance
   - Not part of Apostasy membership
 
-## Connection to Quantum Abilities (Iolinus-Specific)
+## Connection to Quantum Abilities
 
 ### Possible Requirements
 - Possibly only work on quantum-gifted individuals?
@@ -106,7 +100,7 @@ For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](
 - Needs body to complete the Shattering
 - Operational security concern
 
-## Operational Security (Iolinus-Specific)
+## Operational Security
 
 ### Discovery Risk
 - Death sentence if Church discovers
@@ -120,7 +114,7 @@ For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](
 - Operational placement based on mission requirements
 - Suicide mechanism available if compromised
 
-## Cultural and Ritual Significance (Iolinus-Specific)
+## Cultural and Ritual Significance
 
 ### Maogreki Culture
 - Greyrose Rangers are guardians tied to the greyrose ritual
@@ -134,14 +128,12 @@ For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](
 - Connection to liberation and resistance
 - Sacrificial significance (Laila gave her body for Gabby's greyrose)
 
-## Relationship to Earth Souls (Iolinus-Specific)
+## Relationship to Earth Souls
 
 ### Soul Transfer Mechanism
 - Makes soul transfer possible (Gabby's case)
 - Laila's body was prepared with greyrose for Gabby's soul
 - Part of the ritual that enables Earth souls to inhabit Iolinus bodies
-
-For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md).
 
 ### Nala's Connection
 - Interface point for Nala's communication/power
@@ -155,6 +147,3 @@ For universal soul transfer details, see [oververse/mechanics/soul-transfer.md](
 - Status: Mark of Apostasy membership, not universal to all members
 - Function: Multiple - interface, purification, suicide mechanism, ritual significance
 
----
-
-*For universal soul transfer framework, see [oververse/mechanics/soul-transfer.md](../../../../mechanics/soul-transfer.md)*

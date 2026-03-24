@@ -27,6 +27,7 @@ Genus Homo is defined by the bipedal humanoid genetic template. Unlike other gen
   - [Dwarves](dwarves.md) (thurinis) — Engineering staff
   - [Tinkari](tinkari.md) (technis) — Operations staff
   - [Halflings](halflings.md) (halfinius) — Logistics staff
+  - [Homo bovinus](bovinus.md) (bovinus) — Security / assault / facility guardians; heavy breaching
 
 ---
 

@@ -69,7 +69,7 @@ When First Children manifest physically in Hypatia, they take the form of the Ro
 |------|----------|
 | `trial-mechanics.md` | Full canonical Earth trial mechanics |
 | `AI-REFRESHER.md` | This document |
-| `DIALOGUE_PAGE.md` (repo root) | Species voice/dialogue for writing (Gnoll, Corvani, Iridari, Quedari, Minotaur, Otter-folk) |
+| `DIALOGUE_PAGE.md` (repo root) | Species voice/dialogue for writing (Gnoll, Corvani, Iridari, Quedari, Otter-folk); *Homo bovinus* in `oververse/races/homo/bovinus.md` |
 
 ---
 
