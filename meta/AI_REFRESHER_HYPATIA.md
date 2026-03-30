@@ -335,7 +335,7 @@ All existence operates at the quantum layer:
 
 **Documentation:** See `oververse/races/` for detailed race documentation.
 
-**Voice & Dialogue Reference:** When writing species dialogue, character voice, or inter-species interaction, use `DIALOGUE_PAGE.md` (repo root). It contains expanded voice guidance, tonal references, flavor quotes, and author notes for: Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Otter-folk. *Homo bovinus* (species reference): `oververse/races/homo/bovinus.md`. Reference these for species-specific speech patterns, what to avoid, and emotional baselines.
+**Voice & Dialogue Reference:** When writing species dialogue, character voice, or inter-species interaction, use per-species files under `oververse/races/` (see `oververse/races/README.md`) and `meta/SPECIES_TRUISMS.md`. *Homo bovinus*: `oververse/races/homo/bovinus.md`. `DIALOGUE_PAGE.md` (repo root) is a **redirect stub** only; Algernon cast/trial material lives under `oververse/worlds/algernon/`.
 
 **Species Truisms:** Use as a check when writing scenes. After drafting, ask: does what I wrote fit this species' truism? See `meta/SPECIES_TRUISMS.md`. Canonical truisms (Gnoll, Corvani, Iridari, Quedari, Otter-folk) plus proposed truisms for other species (including Homo bovinus).
 
@@ -351,7 +351,7 @@ All existence operates at the quantum layer:
 
 **Background Canon (Author-Only — Not Yet Reader-Facing):** Malachor = Moloch-adjacent. Framework Demiurge is Moloch-like, not Yahweh; Marcion/Gnostics misidentified. Malachor has impersonated other gods (including Yahweh) to get mortals to do his bidding. The "overthrow of the Demiurge" = other FC tired of his griefing; Nala's liberation = guild booting the griefer. **Nala's benevolence open:** She may be the pissed-off sister running a chaos-tolerance experiment on Iolinus (the closed system). The benevolent framing is from Earthers' perspective—she presents as benevolent to encourage willing Greyrose recruits. See `oververse/cosmology/marcionite-theology.md` (Moloch Correction).
 
-**Algernon:** Keyes's experiment world. Central dungeon as phase-transition delivery mechanism. LitRPG framing via TheWay. See `oververse/worlds/algernon/` and `DIALOGUE_PAGE.md`.
+**Algernon:** Keyes's experiment world. Central dungeon as phase-transition delivery mechanism. LitRPG framing via TheWay. See `oververse/worlds/algernon/`; Team [planet] / 'RTH registry: `oververse/worlds/algernon/world-building/team-planet-trials.md`; Ward's party (Team Earth): `oververse/worlds/algernon/characters/supporting/ward-party-team-earth.md`.
 
 **Documentation:** See `oververse/worlds/` for full world documentation.
 
@@ -529,7 +529,7 @@ Individual world documentation contains world-specific details that are either:
 - `oververse/philosophy/` - Balance and imbalance principle
 - `oververse/races/` - Intelligent species available across worlds (genetic repo, genus structure)
 - `oververse/worlds/` - Framework-level documentation of known worlds (Iolinus, Mercara's Cross, Earth, etc.)
-- `DIALOGUE_PAGE.md` (root) - Species voice and dialogue reference for writing; expanded guidance for Gnoll, Corvani, Iridari, Quedari, Otter-folk; *Homo bovinus* in `oververse/races/homo/bovinus.md`
+- `DIALOGUE_PAGE.md` (root) - Redirect stub; species voice lives in `oververse/races/` + `meta/SPECIES_TRUISMS.md`
 - `meta/SPECIES_TRUISMS.md` - Species truisms as validation check; does the scene fit?
 
 ---

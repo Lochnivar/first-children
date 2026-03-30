@@ -3,7 +3,7 @@
 Story structure documentation including arcs, scenes, threads, and outlines.
 
 ## Story Arcs
-- [Book 1: Orcus Sapiens](arcs/book1-orcus-sapiens.md) — The character generation moment; Charlie walks in as Charlie
+- [Book 1: Orcus Sapiens](arcs/book1-orcus-sapiens.md) — The character generation moment; Charlie walks in as Charlie; Team Earth / Ward's party cross-refs
 
 ## Scenes
 - To be developed in `scenes/`

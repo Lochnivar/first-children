@@ -44,6 +44,16 @@ Charlie wants to hold onto the one thing he knows is real. Keyes wants to know i
 ## The Burn
 The thing the experiment needs to work is the same thing that gets burned away as the energy load increases. Identity. Charlie-ness.
 
+## Algernon experiment stakes (series)
+
+**Starting at level 5:** Optional adult baseline — he never stood at level 1 to **choose** the path; “plain Charlie” was already **sliding** when he arrived. **Forward** vs. **rot** applies; nostalgia for “level 1” is a thought he may not say aloud — **return** is not the third option (see [experiment foundations](../../world-building/experiment-foundations.md)).
+
+**Restlessness and rot:** Leveled life on Algernon carries **ambient restlessness**; stopping is not rest — it is **rot**. His **identity** is the experiment’s hinge: whether **Charlie-ness** survives as what holds coherence together changes.
+
+**Physical distance (series):** As saturation rises, he becomes **less embedded** — heals wrong, survives too much, eventually **uncanny**; distance from everyone who knows him grows **one level at a time** (physics of the run, not only metaphor).
+
+**Series outline:** [series trilogy outline](../../meta/series-trilogy-outline.md).
+
 ## Notes
 - Mirrors Flowers for Algernon — enhancement = identity, not intelligence
 - No genre savviness = approaches dungeon from first principles = possibly why he gets further

@@ -26,6 +26,12 @@ The thing the experiment needs is the thing that gets burned away. Identity. Cha
 
 Everyone in the story — Players and Keyes alike — is dying in the dark looking for a number nobody knows.
 
+## Team Earth & Ward's party
+
+Charlie was quota-routed away from **Team Earth** (Ward's party) into the Orcus Sapiens assessment track; the party's grievance and registry logic are **not** cartoon villainy. See [Team [planet] trials & 'RTH registry](../../world-building/team-planet-trials.md) and [Ward's party (Team Earth)](../../characters/supporting/ward-party-team-earth.md).
+
+**Trilogy / experiment context (Algernon-only):** [experiment foundations](../../world-building/experiment-foundations.md), [series trilogy outline](../../meta/series-trilogy-outline.md).
+
 ## Notes
 
 - Arc structure to be developed

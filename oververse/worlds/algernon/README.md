@@ -36,7 +36,11 @@ This world is organized into clear categories:
 - **Book 1:** [Orcus Sapiens](books/book1/README.md) — The character generation moment; Charlie walks in as Charlie
 
 ### Key Documents
-- **[Story Summary](../../../DIALOGUE_PAGE.md)** — Source material (Algernon section)
+- **[Experiment foundations](world-building/experiment-foundations.md)** — How Keyes’s run works on Algernon (saturation, rot, threshold delivery); **Algernon-only**
+- **[Series trilogy outline](meta/series-trilogy-outline.md)** — Three-book goals, Book 1–3 beats, emotional throughline; planning
+- **[Authorial writing notes](meta/AUTHORIAL_WRITING_NOTES.md)** — Craft reminders only (not in-world canon): cosmological echo, Mira/tag logic, Matrix & Flowers inversions
+- **[Team [planet] trials & registry](world-building/team-planet-trials.md)** — Official cohort designations, 'RTH performance, FC favor-economy rhyme
+- **[Ward's party / Team Earth](characters/supporting/ward-party-team-earth.md)** — Supporting cast bible, Charlie dynamic, Orcus integration notes
 - **[World-Building Index](world-building/README.md)** — Dungeon, TheWay, participant ecosystem
 - **[Character Index](characters/README.md)** — Charlie, Keyes, Mira, supporting cast
 

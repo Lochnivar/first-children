@@ -73,6 +73,8 @@ Algernon is a Mystara-ish medieval fantasy world built entirely around a single 
 - Dungeon as experiment delivery mechanism
 - Orcus Sapiens conversion to human baseline (pre-trial seeding)
 - Level-up voice as FC presence interface
+- **Team [planet]** trial cohorts ('RTH registry), performance-ledgers, and Earth-origin party (Ward's party / Team Earth) — see `oververse/worlds/algernon/world-building/team-planet-trials.md` and `characters/supporting/ward-party-team-earth.md` under `oververse/worlds/algernon/`
+- **Experiment foundations (Algernon-local):** Saturation, rot, threshold delivery, restlessness — how Keyes’s run is *configured* on this world; not claimed as universal Hypatia physics — see `oververse/worlds/algernon/world-building/experiment-foundations.md`
 
 ---
 

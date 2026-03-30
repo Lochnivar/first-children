@@ -14,12 +14,17 @@
 - Genuine scientific investment born entirely from boredom and mild cosmic irritation
 - Watched thousands of participants hit character gen, thousands die before the magic level
 - When Charlie's intake registers: goes very quiet for the first time in a long while
-- Has been waiting for a Charlie who gets far enough that the conversation becomes real
+- Has been waiting for a Charlie who gets far enough that the **system-side** “conversation” becomes real — not a sit-down talk; see [experiment foundations](../../world-building/experiment-foundations.md) and [series trilogy outline](../../meta/series-trilogy-outline.md)
 
 ## The Experiment
-- **Hypothesis:** Take physical beings, saturate with increasing energetic load via TheWay's Strain mechanic; see if physical structure undergoes phase transition (ice to steam) producing stable waveform on the other side
-- **Result so far:** Nobody has ever made it. Every single participant has died before the threshold.
-- **Magic level:** Unknown to everyone including Keyes. Pure research phase.
+- **Hypothesis:** Take physical beings, saturate with increasing energetic load via TheWay's Strain mechanic; see if physical structure undergoes phase transition (ice to steam) producing stable waveform on the other side — whether **physical substrate can bootstrap** what the **Prime Author** does natively (Keyes cannot create FC-like beings; only the Prime Author does, in ways nobody fully understands).
+- **Duration (Algernon configuration):** Keyes has run this experiment **~847,000 years** in-world; nobody has successfully crossed the threshold in the sense the run measures.
+- **Result so far:** Nobody has ever made it. Every single participant has died before the threshold (except Mira’s non-standard exit — see [Mira](mira.md)).
+- **Magic level / threshold:** Unknown to everyone including Keyes. Pure research phase.
+
+**Presence:** Keyes does **not** appear **in person** — FC do not inhabit the physical interaction network here. He is **infrastructure**: level-up voice, system texture, institutional fingerprints. **“Keyes doesn’t do dialogue”** in series planning means **no face-to-face philosophical conversation** with Charlie; stakes still surface through **system channel** and what Charlie infers. The level-up voice **does** become more present and invested as Charlie diverges — that remains the dramatic interface.
+
+**Algernon-only foundations:** [experiment foundations](../../world-building/experiment-foundations.md), [series trilogy outline](../../meta/series-trilogy-outline.md).
 
 ## Character Arc (Keyes)
 - **Beginning:** Generic, procedural, unremarkable
@@ -35,8 +40,7 @@
 
 ## Voice
 - Early levels: generic, procedural, unremarkable
-- With Charlie (deeper levels): more present, invested, almost nervous
-- The conversation becomes real when Charlie gets far enough
+- With Charlie (deeper levels): more present, invested, almost nervous — still **through the level-up / system channel**, not a physical or direct philosophical interview
 
 ## Notes
 - Keyes wants to know if identity survives the process

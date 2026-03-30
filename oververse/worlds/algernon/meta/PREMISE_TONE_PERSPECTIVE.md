@@ -28,4 +28,4 @@ If the phase transition completes and Charlie ascends — is the waveform on the
 ## Notes
 
 - To be developed
-- See DIALOGUE_PAGE for source material
+- See [Algernon README](../README.md), [team-planet-trials](../world-building/team-planet-trials.md), [ward-party-team-earth](../characters/supporting/ward-party-team-earth.md)

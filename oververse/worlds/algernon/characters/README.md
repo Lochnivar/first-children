@@ -8,7 +8,8 @@ All character profiles organized by role.
 - [Mira (Kitsune)](main/mira.md) — Persistent waveform fragment riding interface skins; empirical counterpoint on ascension risk
 
 ## Supporting Characters
-- [To be developed] — Serious contenders, bounty hunters, warlords, other participants
+- [Ward's party (Team Earth)](supporting/ward-party-team-earth.md) — Ward, Penny, Gretchen, Miranda/Randi, Elara, Rowena/Ro, Sascha; proposed Earth cohort on Algernon
+- [To be developed] — Other serious contenders, bounty hunters, warlords, participants not in Team Earth
 
 ## Participant Ecosystem (Groups)
 - **Serious contenders** — Pushing hard toward a finish line nobody can see
