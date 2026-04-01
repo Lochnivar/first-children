@@ -1,13 +1,10 @@
 # DIALOGUE_PAGE (scratch / redirect)
 
-This filename is **scratch space**. Substantive content is migrated into canonical `oververse/` docs.
+This filename is **scratch space** only. **Do not** treat it as canonical story or setting storage.
 
-**Algernon — Orcus Sapiens / trilogy / experiment foundations (March 2026):**
+**Atahom (The Shattered Descent)** — canonical world bible:
 
-- [`oververse/worlds/algernon/world-building/experiment-foundations.md`](oververse/worlds/algernon/world-building/experiment-foundations.md) — How Keyes’s experiment **works on Algernon** (saturation, rot, threshold, restlessness, subroutine, anchoring); **Algernon-only**, not universal Hypatia
-- [`oververse/worlds/algernon/meta/series-trilogy-outline.md`](oververse/worlds/algernon/meta/series-trilogy-outline.md) — Central questions, Book 1–3 beats, emotional throughline
-- [`oververse/worlds/algernon/characters/supporting/ward-party-team-earth.md`](oververse/worlds/algernon/characters/supporting/ward-party-team-earth.md) — Team Earth cast
-- [`oververse/worlds/algernon/meta/AI_REFRESHER.md`](oververse/worlds/algernon/meta/AI_REFRESHER.md) — Long-form planning refresher
-- [`oververse/worlds/algernon/meta/AUTHORIAL_WRITING_NOTES.md`](oververse/worlds/algernon/meta/AUTHORIAL_WRITING_NOTES.md) — Author-only craft reminders (not in-world canon)
+- **[`oververse/worlds/atahom/world-building/README.md`](oververse/worlds/atahom/world-building/README.md)** — index (overview, narrative framing, First Speech lexicon, stacks, calendar, Guild, theology, …)
+- **[`oververse/worlds/atahom.md`](oververse/worlds/atahom.md)** — Hypatia framework entry (`'THM`, links)
 
-**Species voice & dialogue** (Gnoll, Corvani, Iridari, Quedari, Otter-folk, etc.): [`oververse/races/README.md`](oververse/races/README.md), [`meta/SPECIES_TRUISMS.md`](meta/SPECIES_TRUISMS.md).
+Draft fragments, dialogue experiments, and working notes belong here until filed under `oververse/worlds/atahom/` or elsewhere.

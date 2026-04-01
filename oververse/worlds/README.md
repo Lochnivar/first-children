@@ -83,6 +83,12 @@ World documentation at the framework level shows how each world **expands upon o
 - **Status:** Nobody has ever made it. Charlie (Orcus Sapiens, quota fill, chose human at character gen) might be the first.
 - **Framework demonstration:** FC as experiment operator, soul transfer (quota fills from Earth), phase transition hypothesis, Flowers for Algernon structure (identity under pressure)
 
+### [Atahom](atahom.md)
+- **Names:** **Atahom** / **`'THM`** · common **Tahom** / *the world* (*tehom* resonance). Endless vertical realm; Stacks, Collapse, Pulse, Guild.
+- **Not LitRPG / not dungeon-crawler:** [Narrative framing](atahom/world-building/narrative-framing.md) — civilizational fiction, fauna not encounters.
+- **Canon:** [world-building index](atahom/world-building/README.md). [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md) is scratch only.
+- **Framework demonstration:** Setting-scale “book” with instrumented-trial naming via world token; FC creation details TBD for cross-world use.
+
 ### [Earth](earth/)
 - One of the worlds in Hypatia (not external)
 - A "control" world with no magic and very little hands-on involvement by any First Children
