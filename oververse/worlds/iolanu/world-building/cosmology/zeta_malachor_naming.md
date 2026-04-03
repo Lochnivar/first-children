@@ -2,18 +2,19 @@
 
 **Category:** World-Building / Theological Detail  
 **Status:** Canon - Resolved  
-**Related Concepts:** Zeta, Malachor, Church of Malachor, Ages of Man
+**Related Concepts:** Zeta, Malachor, Church of Malachor, Ages of Man  
+**Framework:** [First Speech (cosmology)](../../../../cosmology/first-speech.md) — Malachor’s `!'YLN` tag and the drift to **Iolanu** (author-only cosmology; not necessarily reader-facing).
 
 ## Overview
-Zeta and Malachor are the same entity - the god who created Iolinus and holds all life hostage. The different names represent the progression through different "ages of man," with the name changing over time as history has progressed.
+Zeta and Malachor are the same entity - the god who created Iolanu and holds all life hostage. The different names represent the progression through different "ages of man," with the name changing over time as history has progressed.
 
 ## The Same Entity
 
 ### Identity
 - **Zeta** = **Malachor** (same god, different names from different ages)
-- Created Iolinus against explicit prohibition
+- Created Iolanu against explicit prohibition
 - Tied his life force to his creation
-- Holds all life on Iolinus hostage
+- Holds all life on Iolanu hostage
 - Brother to Nala (goddess of liberation)
 
 ## Name Progression Through Ages
@@ -39,6 +40,7 @@ Zeta and Malachor are the same entity - the god who created Iolinus and holds al
 - Reflects their outsider perspective and modern Earth humor
 
 ## Notes
+- The world’s **sacred name** *Iolanu* is a separate track from Zeta/Malachor the person: it derives from First Speech root **YLN** and Malachor’s graffiti **`!'YLN`** (see [First Speech cosmology — Malachor’s graffiti](../../../../cosmology/first-speech.md#cosmological-footnote-malachors-graffiti)).
 - Both names are valid and refer to the same entity
 - Usage may vary by context, culture, or historical period being referenced
 - The progression of names reflects the progression of history/ages

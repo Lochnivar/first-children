@@ -6,7 +6,7 @@
 
 ## Overview
 
-Delverium has an **open cosmology**—mortals are aware of the creator and understand the System is engineered for their growth. This contrasts with closed cosmology worlds like Iolinus.
+Delverium has an **open cosmology**—mortals are aware of the creator and understand the System is engineered for their growth. This contrasts with closed cosmology worlds like Iolanu.
 
 ## What Mortals Know
 
@@ -20,7 +20,7 @@ Delverium has an **open cosmology**—mortals are aware of the creator and under
 **Framework Alignment:**
 - Open cosmology variant (framework allows)
 - Mortals aware of creator (framework variant)
-- Different from closed cosmology (like Iolinus)
+- Different from closed cosmology (like Iolanu)
 
 ### About the System
 

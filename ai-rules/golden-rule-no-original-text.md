@@ -6,7 +6,7 @@
 
 ## The Rule
 
-1. **AI must NEVER write, create, or generate original story text in `oververse/worlds/iolinus/plots/scenes/` or `oververse/worlds/iolinus/plots/arcs/` without explicit user request.**
+1. **AI must NEVER write, create, or generate original story text in `oververse/worlds/iolanu/plots/scenes/` or `oververse/worlds/iolanu/plots/arcs/` without explicit user request.**
 2. **AI must NEVER edit existing plot/scene files with original prose without user approval.**
 3. **All requested edits, suggestions, or new text must be clearly marked and stored appropriately for user review.**
 4. **The user will review all edits and manually implement them.**
@@ -22,10 +22,10 @@ This rule exists to ensure:
 
 ## What AI CAN Do
 
-- Create and edit world-building documents (`oververse/worlds/iolinus/world-building/`)
-- Create and edit character profiles (`oververse/worlds/iolinus/characters/`)
-- Create and edit plot outlines and structure (`oververse/worlds/iolinus/plots/arcs/`, `oververse/worlds/iolinus/plots/outlines/`)
-- Create scene breakdowns and summaries (`oververse/worlds/iolinus/plots/scenes/`)
+- Create and edit world-building documents (`oververse/worlds/iolanu/world-building/`)
+- Create and edit character profiles (`oververse/worlds/iolanu/characters/`)
+- Create and edit plot outlines and structure (`oververse/worlds/iolanu/plots/arcs/`, `oververse/worlds/iolanu/plots/outlines/`)
+- Create scene breakdowns and summaries (`oververse/worlds/iolanu/plots/scenes/`)
 - Create analysis documents
 - Create templates
 - Suggest plot developments, character arcs, or world-building additions
@@ -34,8 +34,8 @@ This rule exists to ensure:
 
 ## What AI CANNOT Do
 
-- Write original prose/story text in `oververse/worlds/iolinus/plots/scenes/` files (unless explicitly requested)
-- Write original prose/story text in `oververse/worlds/iolinus/plots/arcs/` files (unless explicitly requested)
+- Write original prose/story text in `oververse/worlds/iolanu/plots/scenes/` files (unless explicitly requested)
+- Write original prose/story text in `oververse/worlds/iolanu/plots/arcs/` files (unless explicitly requested)
 - Edit existing scene/arc files to add original prose without explicit user request
 - Create new scene files with full prose drafts without user approval
 - Generate dialogue or descriptions that read as final story text (unless explicitly requested)
@@ -43,10 +43,10 @@ This rule exists to ensure:
 ## Plot Files Structure
 
 This project uses:
-- `oververse/worlds/iolinus/plots/arcs/` - Major story arcs (e.g., book outlines)
-- `oververse/worlds/iolinus/plots/scenes/` - Individual scene breakdowns
-- `oververse/worlds/iolinus/plots/outlines/` - Story outlines
-- `oververse/worlds/iolinus/plots/threads/` - Subplots
+- `oververse/worlds/iolanu/plots/arcs/` - Major story arcs (e.g., book outlines)
+- `oververse/worlds/iolanu/plots/scenes/` - Individual scene breakdowns
+- `oververse/worlds/iolanu/plots/outlines/` - Story outlines
+- `oververse/worlds/iolanu/plots/threads/` - Subplots
 
 These are **planning and reference documents**, not final story text.
 

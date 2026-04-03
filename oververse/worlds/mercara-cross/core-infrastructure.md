@@ -36,7 +36,7 @@ Mercara's Cross is built around the Grand Anchor—a massive quantum stabilizati
 - **Platform 7:** Delverium connections - Constant adventurer flow
 - **Platform 12:** Stratara gates - Restricted diplomatic transits
 - **Platform 934:** Earth connections - Primary liberation source (mostly inbound)
-- **Platform 1237:** Iolinus - **SEALED** (Peer Judgment Seal - Indefinite)
+- **Platform 1237:** Iolanu - **SEALED** (Peer Judgment Seal - Indefinite)
 - **Platform 1247:** Current highest stable platform
 - See [Platform List](platform-list.md) for complete directory (1,247+ documented platforms)
 

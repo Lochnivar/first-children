@@ -1,6 +1,6 @@
 # Reorganization Complete
 
-The Iolinus project has been reorganized into a cleaner, more logical structure.
+The Iolanu project has been reorganized into a cleaner, more logical structure.
 
 ## What Changed
 
@@ -15,7 +15,7 @@ The Iolinus project has been reorganized into a cleaner, more logical structure.
 ### New Structure
 
 ```
-iolinus/
+iolanu/
 ├── README.md                          # Project overview
 ├── archive/                           # Raw files (AI-DUMPs, extraction status)
 ├── characters/                        # Organized by role

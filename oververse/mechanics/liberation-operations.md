@@ -1,7 +1,7 @@
 # Liberation Operations
 
 **Status:** Framework Element - Universal Pattern  
-**Source:** Extracted from Iolinus example (Nala's plan)  
+**Source:** Extracted from Iolanu example (Nala's plan)  
 **Related:** [First Children](../cosmology/first-children.md), [World Creation](world-creation.md), [Soul Transfer](soul-transfer.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
 
 ## Overview
@@ -24,17 +24,17 @@ Liberation operations are complex, hidden missions to free worlds from cruel cre
 4. Creator can then be reformed (punished) without killing all life—reformation is effectively destruction for First Children (glorified waveforms that can be reshaped beyond recognition)
 5. World can be rebuilt or freed
 
-## Iolinus Example: Nala's Plan
+## Iolanu Example: Nala's Plan
 
 ### The Situation
-- Zeta/Malachor created Iolinus against peer judgment (other First Children judged him too immature to create)
-- Bound his life force to Iolinus
+- Zeta/Malachor created Iolanu against peer judgment (other First Children judged him too immature to create)
+- Bound his life force to Iolanu
 - Millions of sentient beings held hostage
 - Cannot be reformed (punished) directly without killing all life—reformation is effectively destruction for First Children (glorified waveforms)
 
 ### The Plan
 1. Break intelligent species from Zeta's grasp
-2. Evacuate them from Iolinus
+2. Evacuate them from Iolanu
 3. Once evacuated, Zeta has no more hostages
 4. Then Zeta can be reformed (punished) without killing all life—reformation is effectively destruction for First Children (glorified waveforms that can be reshaped beyond recognition)
 5. Nala can rebuild world - it's the souls she can't bear to lose
@@ -43,7 +43,7 @@ Liberation operations are complex, hidden missions to free worlds from cruel cre
 - **Quiet, hidden effort:** Must grow beneath Zeta's notice until strong enough
 - **Build momentum:** Until even Zeta can't stop it
 - **Cannot challenge too openly:** If Zeta feels threatened, he'll abandon playground and all will die
-- **Agents:** Needs perspective from transferred souls (Earth souls) to break Iolinus free
+- **Agents:** Needs perspective from transferred souls (Earth souls) to break Iolanu free
 
 ## Key Requirements
 
@@ -68,7 +68,7 @@ Liberation operations are complex, hidden missions to free worlds from cruel cre
 ## Variations Across Worlds
 
 ### Different Liberation Approaches
-- Evacuation (like Iolinus)
+- Evacuation (like Iolanu)
 - Breaking binding without evacuation
 - Gradual cultural shift
 - Direct confrontation once safe
@@ -128,10 +128,10 @@ Liberation operations are complex, hidden missions to free worlds from cruel cre
 
 ## Related Framework Elements
 
-### Protective Mechanisms (Iolinus Example: Life Force Binding)
-- Hostage situations (like life force binding in Iolinus) drive need for liberation
-- Life force binding is Iolinus-specific—other worlds may have different protective mechanisms or none
-- See [world-creation.md](world-creation.md) for Iolinus-specific life force binding details
+### Protective Mechanisms (Iolanu Example: Life Force Binding)
+- Hostage situations (like life force binding in Iolanu) drive need for liberation
+- Life force binding is Iolanu-specific—other worlds may have different protective mechanisms or none
+- See [world-creation.md](world-creation.md) for Iolanu-specific life force binding details
 
 ### Soul Transfer
 - Provides agents for liberation
@@ -143,7 +143,7 @@ Liberation operations are complex, hidden missions to free worlds from cruel cre
 
 ## Notes
 
-- Iolinus demonstrates one liberation operation pattern
+- Iolanu demonstrates one liberation operation pattern
 - Other worlds may have different approaches
 - Framework allows for creative variation
 - Core pattern: free bound life, then act against creator
@@ -154,6 +154,6 @@ Liberation operations are complex, hidden missions to free worlds from cruel cre
 *For world creation details, see [world-creation.md](world-creation.md)*  
 *For soul transfer mechanisms, see [soul-transfer.md](soul-transfer.md)*  
 *For First Children details, see [cosmology/first-children.md](../cosmology/first-children.md)*  
-*For Iolinus-specific details, see [worlds/iolinus/world-building/cosmology/nala_goddess.md](../worlds/iolinus/world-building/cosmology/nala_goddess.md)*  
+*For Iolanu-specific details, see [worlds/iolanu/world-building/cosmology/nala_goddess.md](../worlds/iolanu/world-building/cosmology/nala_goddess.md)*  
 *For framework overview, see [../FRAMEWORK.md](../../FRAMEWORK.md)*
 

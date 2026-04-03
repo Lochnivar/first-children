@@ -5,7 +5,7 @@
 
 ## Overview
 
-The repository has been reorganized from a flat structure to a framework-primary structure, where Hypatia Framework is the primary source of truth and individual worlds (like Iolinus) are subordinate to it.
+The repository has been reorganized from a flat structure to a framework-primary structure, where Hypatia Framework is the primary source of truth and individual worlds (like Iolanu) are subordinate to it.
 
 ## What Changed
 
@@ -22,7 +22,7 @@ over-universe-repo/
 │   └── README.md
 ├── worlds/                      # All worlds/stories
 │   ├── README.md               # Worlds index
-│   └── iolinus/                # Iolinus world
+│   └── iolanu/                # Iolanu world
 │       ├── README.md
 │       ├── CONSISTENCY_CHECK.md
 │       └── [all story content]
@@ -37,15 +37,15 @@ over-universe-repo/
 1. **Framework Files:**
    - `OVER_UNIVERSE_FRAMEWORK.md` → `FRAMEWORK.md` (root)
 
-2. **Story Content → worlds/iolinus/:**
-   - `characters/` → `worlds/iolinus/characters/`
-   - `world-building/` → `worlds/iolinus/world-building/`
-   - `locations/` → `worlds/iolinus/locations/`
-   - `plots/` → `worlds/iolinus/plots/`
-   - `relationships/` → `worlds/iolinus/relationships/`
-   - `timeline/` → `worlds/iolinus/timeline/`
-   - `meta/` → `worlds/iolinus/meta/`
-   - `archive/` → `worlds/iolinus/archive/`
+2. **Story Content → worlds/iolanu/:**
+   - `characters/` → `worlds/iolanu/characters/`
+   - `world-building/` → `worlds/iolanu/world-building/`
+   - `locations/` → `worlds/iolanu/locations/`
+   - `plots/` → `worlds/iolanu/plots/`
+   - `relationships/` → `worlds/iolanu/relationships/`
+   - `timeline/` → `worlds/iolanu/timeline/`
+   - `meta/` → `worlds/iolanu/meta/`
+   - `archive/` → `worlds/iolanu/archive/`
 
 3. **Meta Documentation → meta/:**
    - `MIGRATION_PACKAGE.md` → `meta/`
@@ -64,9 +64,9 @@ over-universe-repo/
 2. **worlds/:**
    - `worlds/README.md` - Index of worlds
 
-3. **worlds/iolinus/:**
-   - `worlds/iolinus/README.md` - Rewritten as subordinate world
-   - `worlds/iolinus/CONSISTENCY_CHECK.md` - Framework conformance documentation
+3. **worlds/iolanu/:**
+   - `worlds/iolanu/README.md` - Rewritten as subordinate world
+   - `worlds/iolanu/CONSISTENCY_CHECK.md` - Framework conformance documentation
 
 4. **meta/:**
    - `meta/CONSISTENCY_PROCESS.md` - Process for handling contradictions
@@ -86,7 +86,7 @@ over-universe-repo/
 
 ✅ All files moved to correct locations  
 ✅ Framework.md is at root  
-✅ Iolinus content is in worlds/iolinus/  
+✅ Iolanu content is in worlds/iolanu/  
 ✅ All new README files created  
 ✅ Consistency documentation created  
 ✅ Structure is clear (framework primary, stories subordinate)  

@@ -77,7 +77,7 @@ First Children possess all quantum abilities combined seamlessly:
 - Anchors aren't foolproof: they can be disrupted, destroyed, or overloaded, causing partial or total reversion
 
 **Types of Anchors Across Worlds:**
-- **Artifacts** (the Godstone is Iolinus's specific implementation—other worlds might have similar concepts but different artifacts)
+- **Artifacts** (the Godstone is Iolanu's specific implementation—other worlds might have similar concepts but different artifacts)
 - **Networks of living souls**
 - **Cosmic lattices**
 - **Nothing at all** (for impermanent changes)
@@ -94,9 +94,9 @@ First Children possess all quantum abilities combined seamlessly:
 
 ## Fragmented Quantumancy: Mortal Powers
 
-Mortals may manifest **fragments** of Quantumancy—typically as separate, limited abilities. The way these abilities are split is **world-specific**. The 5 abilities on Iolinus are Malachor's specific implementation when he brought Quantumancy into Iolinus. Other worlds may have different numbers or types of fragments.
+Mortals may manifest **fragments** of Quantumancy—typically as separate, limited abilities. The way these abilities are split is **world-specific**. The 5 abilities on Iolanu are Malachor's specific implementation when he brought Quantumancy into Iolanu. Other worlds may have different numbers or types of fragments.
 
-### The Five Fragments (Iolinus Example)
+### The Five Fragments (Iolanu Example)
 
 #### 1. Quantumancers (Active/Future)
 - **Function:** Collapse possibilities into reality, manipulate probability
@@ -105,7 +105,7 @@ Mortals may manifest **fragments** of Quantumancy—typically as separate, limit
 - **Cost:** Quantum haze drives them insane (see all possible realities simultaneously)
 - **Limitation:** Can't hide use - reality changes visibly
 - **Rarity:** Extremely rare, functionally extinct on many worlds
-- **Status on Iolinus:** 5-10 alive, hiding in terror, survive by never using power
+- **Status on Iolanu:** 5-10 alive, hiding in terror, survive by never using power
 
 #### 2. Readers (Passive/Present/Truth)
 - **Function:** Read current Prime (reality as it IS)
@@ -113,7 +113,7 @@ Mortals may manifest **fragments** of Quantumancy—typically as separate, limit
 - **Mechanics:** Can't manipulate, just observe
 - **Limitation:** Passive observation only
 - **Rarity:** Rare but concealable
-- **Status on Iolinus:** Hundreds hiding, plausibly deniable
+- **Status on Iolanu:** Hundreds hiding, plausibly deniable
 
 #### 3. Weavers (Passive/Present/Health)
 - **Function:** See quantum connections between people/things, assess health/damage of threads
@@ -121,7 +121,7 @@ Mortals may manifest **fragments** of Quantumancy—typically as separate, limit
 - **Mechanics:** Guide Quantumancers to "healthy" collapses, enable repair of quantum fabric
 - **Limitation:** Can't manipulate alone, need Quantumancer
 - **Rarity:** Rare, concealable if careful
-- **Status on Iolinus:** Dozens (uncertain)
+- **Status on Iolanu:** Dozens (uncertain)
 
 **Key Distinction from Readers:**
 - Reader: "Is this connection TRUE?" (truth/falsehood)
@@ -134,7 +134,7 @@ Mortals may manifest **fragments** of Quantumancy—typically as separate, limit
 - **Mechanics:** NOT changing it, just viewing
 - **Limitation:** Passive viewing only, cannot edit past
 - **Rarity:** Very rare, endangered on many worlds
-- **Status on Iolinus:** Dozens, endangered
+- **Status on Iolanu:** Dozens, endangered
 
 #### 5. Nullwraiths (Outside/Negation)
 - **Function:** Invisible to quantum perception, project field outside quantum
@@ -142,7 +142,7 @@ Mortals may manifest **fragments** of Quantumancy—typically as separate, limit
 - **Mechanics:** Completely passive (most don't know what they are)
 - **Limitation:** Passive only, no active quantum manipulation
 - **Rarity:** Possibly common but unknown (most don't know they have this ability)
-- **Status on Iolinus:** Thousands (unknown to themselves and others)
+- **Status on Iolanu:** Thousands (unknown to themselves and others)
 
 ### Power Combinations
 
@@ -196,7 +196,7 @@ Ghosts/spirits are no more "separate" from quantum manipulation than fire-glyphs
 
 ## World-Specific Variations
 
-### Iolinus
+### Iolanu
 - **Five separate abilities** manifest in mortals (Malachor's specific implementation)
 - All persecuted by Church of Malachor, Locquodian Order, and superstitious mobs
 - Active powers (Quantumancers) functionally extinct
@@ -215,7 +215,7 @@ Ghosts/spirits are no more "separate" from quantum manipulation than fire-glyphs
 
 ### Other Worlds
 - Different worlds may manifest quantum abilities differently
-- **Different numbers of fragments:** Other worlds may have different numbers of fragments (there might be more than 5 total across all worlds, but not on Iolinus)
+- **Different numbers of fragments:** Other worlds may have different numbers of fragments (there might be more than 5 total across all worlds, but not on Iolanu)
 - **Different splits:** The way abilities are split is world-specific—each world creator may impose their own implementation
 - Some worlds may call them different names
 - Persecution levels vary by world (from accepted to hunted)
@@ -274,16 +274,16 @@ Ghosts/spirits are no more "separate" from quantum manipulation than fire-glyphs
 ### What Must Remain Consistent
 - First Children have full Quantumancy (all abilities combined, effectively all abilities at once—not split into fragments)
 - Mortals have fragmented versions (if they manifest at all)
-- The way abilities are split/fragmented is world-specific—imposed by the world creator (e.g., Malachor imposed the 5-split on Iolinus)
-- There might be more than 5 fragment types across all worlds, but the 5 on Iolinus are Iolinus-specific
+- The way abilities are split/fragmented is world-specific—imposed by the world creator (e.g., Malachor imposed the 5-split on Iolanu)
+- There might be more than 5 fragment types across all worlds, but the 5 on Iolanu are Iolanu-specific
 - Quantum abilities relate to reality manipulation at fundamental level
 - Abilities have rules and limitations
 - Mortal abilities are less powerful than First Children's
 - **All magic is quantum manipulation** - There are no non-quantum magic systems in Hypatia
 
 ### What Can Vary
-- How many fragments exist (five is Iolinus-specific—there might be more than 5 across all worlds, but not on Iolinus)
-- How abilities are split (imposed by world creator—Malachor chose 5 for Iolinus)
+- How many fragments exist (five is Iolanu-specific—there might be more than 5 across all worlds, but not on Iolanu)
+- How abilities are split (imposed by world creator—Malachor chose 5 for Iolanu)
 - What each fragment does (details can vary)
 - Naming conventions (quantum-adjacent, magic, etc.)
 - Persecution levels (from accepted to hunted)

@@ -76,7 +76,7 @@ Rowan (rare, soft):
 - A glowing mist-fox leaping from bridge to bridge with someone's soul in its jaws
 
 ### Beauty
-- The single most beautiful place in Iolinus
+- The single most beautiful place in Iolanu
 - No one who sees it ever forgets the name
 
 ## Notes

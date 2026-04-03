@@ -1,4 +1,4 @@
-# Iolinus
+# Iolanu
 
 **Status:** Story/World in Hypatia  
 **Framework Conformance:** Active - See [CONSISTENCY_CHECK.md](CONSISTENCY_CHECK.md)  
@@ -6,17 +6,19 @@
 
 ## Overview
 
-Iolinus is one world/story within the [Hypatia framework](../../FRAMEWORK.md). This world demonstrates various framework concepts while telling its own story about liberation, conflict, and the struggle between First Children.
+Iolanu is one world/story within the [Hypatia framework](../../FRAMEWORK.md). This world demonstrates various framework concepts while telling its own story about liberation, conflict, and the struggle between First Children.
 
-**A comprehensive world-building reference for the Iolinus novel series.**
+In-universe and in First Speech lore, the name **Iolanu** aligns with the **YLN** root (Malachor's `!'YLN` graffiti). Canon: [First Speech (cosmology)](../../cosmology/first-speech.md#cosmological-footnote-malachors-graffiti).
+
+**A comprehensive world-building reference for the Iolanu novel series.**
 
 ## Framework Elements Demonstrated
 
 - **First Children:** Nala (liberator) and Zeta/Malachor (creator/antagonist)
-- **World Creation:** Iolinus created by Zeta/Malachor against peer judgment (other First Children judged him too immature to create)
-- **Life Force Binding:** Zeta bound his life force to Iolinus (hostage mechanism)
+- **World Creation:** Iolanu created by Zeta/Malachor against peer judgment (other First Children judged him too immature to create)
+- **Life Force Binding:** Zeta bound his life force to Iolanu (hostage mechanism)
 - **Soul Transfer:** Earth souls transported via greyrose mechanism
-- **Liberation Operation:** Nala's plan to free Iolinus from Zeta's control
+- **Liberation Operation:** Nala's plan to free Iolanu from Zeta's control
 - **Quantum Abilities:** Five fragments of Quantumancy manifested in mortals
 
 ## Project Structure
@@ -41,7 +43,7 @@ This world is organized into clear categories:
 - **Book 3:** [To be defined]
 
 ### Key Documents
-- **[AI Refresher](AI-REFRESHER.md)** - Quick-reference for AI context (Iolinus-specific)
+- **[AI Refresher](AI-REFRESHER.md)** - Quick-reference for AI context (Iolanu-specific)
 - **[Premise, Tone & Perspective](meta/PREMISE_TONE_PERSPECTIVE.md)** - Core series structure and narrative approach
 - **[World-Building Index](world-building/README.md)** - Complete index of all world-building elements
 - **[Character Index](characters/README.md)** - All character profiles
@@ -51,13 +53,13 @@ This world is organized into clear categories:
 - **Quantum-Adjacent Abilities:** Five power system (Quantumancers, Readers, Weavers, Echoes, Nullwraiths)
 - **The Shattering:** Historical event that shattered the Godstone into seven Godshards
 - **Godshards:** Central plot artifacts - fragments of the shattered Godstone
-- **Nalan Apostasy:** Organization fighting to free Iolinus from Malachor
+- **Nalan Apostasy:** Organization fighting to free Iolanu from Malachor
 - **Church of Malachor:** Dominant religious institution enforcing orthodoxy
 - **Locquodian Order:** Faction preventing political unification
 
 ## How This World Conforms
 
-Iolinus demonstrates the framework's key concepts:
+Iolanu demonstrates the framework's key concepts:
 - Shows First Children in conflict (Nala vs. Zeta/Malachor)
 - Demonstrates prohibited world creation and its consequences
 - Illustrates life force binding as a hostage mechanism

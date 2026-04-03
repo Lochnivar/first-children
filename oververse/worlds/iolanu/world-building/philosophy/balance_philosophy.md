@@ -19,5 +19,5 @@ Yet, balance encourages stagnation, the inability to change, to grow. Imbalance,
 **Only when balance is disrupted does change occur.**
 
 ## Notes
-This philosophical principle underlies the cosmic and narrative structure of Iolinus. Balance maintains order, but imbalance drives change and growth.
+This philosophical principle underlies the cosmic and narrative structure of Iolanu. Balance maintains order, but imbalance drives change and growth.
 

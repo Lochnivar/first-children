@@ -58,16 +58,16 @@ World-specific variations that work **within or modify** general rules:
 1. Who created this world? (First Child or natural? Solo or collaborative?)
 2. If collaborative: How many First Children? What's the ownership/control arrangement? Potential for conflict? (Note: Collaboration is possible but not necessarily common—depends on individual First Children and circumstances, not personality stereotypes)
 3. Was creation made with peer approval, or against peer judgment (judged too immature/not ready)?
-4. Are there protective mechanisms? (hostage situations, binding mechanisms, etc.? Note: Life force binding is Iolinus-specific—other worlds may have different mechanisms or none)
+4. Are there protective mechanisms? (hostage situations, binding mechanisms, etc.? Note: Life force binding is Iolanu-specific—other worlds may have different mechanisms or none)
 5. What is the status of quantum abilities? (accepted, persecuted, hidden?)
 6. Are there transferred souls? (from where, why?)
-7. **What is mortal awareness of the greater cosmology?** (Open about Hypatia/First Children, closed/ignorant, or actively encourages creator-as-only-god belief like Iolinus? First Children control what mortals know on their creations.)
+7. **What is mortal awareness of the greater cosmology?** (Open about Hypatia/First Children, closed/ignorant, or actively encourages creator-as-only-god belief like Iolanu? First Children control what mortals know on their creations.)
 8. What is the primary conflict or story focus?
 9. How does this world relate to others (if at all)?
 
 ### Magic System Guidelines
 - Must relate to quantum manipulation (all magic is quantum manipulation—magic systems are comprehension tools for mortals)
-- Can manifest differently than Iolinus examples
+- Can manifest differently than Iolanu examples
 - May be called different names
 - Should have rules and limitations
 - May be persecuted, accepted, or hidden

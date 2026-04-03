@@ -2,7 +2,7 @@
 
 **Purpose:** Canonical terminology for the questing stack (network → product → voice/UI). Use this to avoid conflating layers in prose, marketing, and cross-repo notes.
 
-**Broader frame:** Universal **First Speech** naming patterns (world tokens, trial branding, phonetic estrangement) are summarized for the whole oververse in [First Speech conventions (trials & quest interfaces)](../../../mechanics/first-speech-conventions.md). This file is the **Algernon / stack** detail.
+**Broader frame:** Universal **First Speech** naming patterns (world tokens, trial branding, phonetic estrangement) are summarized for the whole oververse in [First Speech conventions (trials & quest interfaces)](../../../mechanics/first-speech-conventions.md). **Cosmological** First Speech (glyphs, triconsonantal roots, Prime Author vocabulary, Malachor’s tag): [First Speech (cosmology)](../../../cosmology/first-speech.md). This file is the **Algernon / stack** detail.
 
 **Not sacred subtext:** Naming choices below are **phonetic and structural**, not biblical or theological allegory. See [First Speech (design intent)](#first-speech-design-intent).
 

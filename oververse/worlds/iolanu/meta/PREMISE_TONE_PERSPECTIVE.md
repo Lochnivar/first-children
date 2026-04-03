@@ -18,16 +18,16 @@
 [TO BE DEFINED BY USER]
 
 **Current Understanding (for refinement):**
-A fantasy novel about Earth souls transplanted into Iolinus to help liberate the world from a god who holds all life hostage. The story draws inspiration from Marcionite theology: The Big 'G' God is a deistic "watchmaker" who created the universe and stepped away. Zeta/Malachor (same entity - Zeta is the earlier name, Malachor is the current name, representing progression through "ages of man") is a little 'g' god who made Iolinus against prohibition. He has full Quantumancy (all five quantum abilities combined). The goddess Nala is also a little 'g' god fighting her brother, functioning as the liberator figure. Earth souls like Gabby D'Olivier are agents in this hidden rebellion, working through Nala's Apostasy while navigating identity crises, found family, and the cost of liberation. 
+A fantasy novel about Earth souls transplanted into Iolanu to help liberate the world from a god who holds all life hostage. The story draws inspiration from Marcionite theology: The Big 'G' God is a deistic "watchmaker" who created the universe and stepped away. Zeta/Malachor (same entity - Zeta is the earlier name, Malachor is the current name, representing progression through "ages of man") is a little 'g' god who made Iolanu against prohibition. He has full Quantumancy (all five quantum abilities combined). The goddess Nala is also a little 'g' god fighting her brother, functioning as the liberator figure. Earth souls like Gabby D'Olivier are agents in this hidden rebellion, working through Nala's Apostasy while navigating identity crises, found family, and the cost of liberation. 
 
 **Background Detail (Out of Scope):** The First Children (Nala, Malachor, etc.) are essentially aliens assuming deistic identities—this is background world-building only. The reader doesn't need to dig into the details of what they "really are"—they are simply gods with godly powers for the purposes of the story.
 
 ### Book 1: "The Nalan Apostasy"
-**Premise:** An orientation tour of Iolinus through Gabby's eyes. The novel presents the story as an orientation tour for Gabby so that she can become familiar with the world and the new body she's been dumped into.
+**Premise:** An orientation tour of Iolanu through Gabby's eyes. The novel presents the story as an orientation tour for Gabby so that she can become familiar with the world and the new body she's been dumped into.
 
 **Structure:**
 - **Primary Function:** World-building and orientation through Gabby's perspective
-- **Purpose:** Familiarize Gabby (and the reader) with Iolinus, its cultures, dangers, and the new Maogreki body she inhabits
+- **Purpose:** Familiarize Gabby (and the reader) with Iolanu, its cultures, dangers, and the new Maogreki body she inhabits
 - **Narrative Device:** The tour structure allows natural exposition and world-building
 - **Character Focus:** Gabby's adaptation, learning, and integration into the eight-person party
 - **Tone:** Discovery, disorientation, gradual understanding, found family formation
@@ -52,13 +52,13 @@ A fantasy novel about Earth souls transplanted into Iolinus to help liberate the
 [TO BE DEFINED BY USER]
 
 **Current Understanding (for refinement):**
-Iolinus is a fractured world of city-states, prevented from unifying by monsters and the Locquodian Order. The world was damaged by The Shattering, which broke the Godstone into seven Godshards and created rifts that spawn monsters. Multiple cultures exist (11+ distinct cultures with Earth fusion elements). Low-magic setting with quantum-adjacent abilities that are persecuted. The Church of Malachor enforces orthodoxy and hunts the gifted.
+Iolanu is a fractured world of city-states, prevented from unifying by monsters and the Locquodian Order. The world was damaged by The Shattering, which broke the Godstone into seven Godshards and created rifts that spawn monsters. Multiple cultures exist (11+ distinct cultures with Earth fusion elements). Low-magic setting with quantum-adjacent abilities that are persecuted. The Church of Malachor enforces orthodoxy and hunts the gifted.
 
 ### The Conflict
 [TO BE DEFINED BY USER]
 
 **Current Understanding (for refinement):**
-- **Primary:** Nala vs. Zeta/Malachor (gods fighting over Iolinus)
+- **Primary:** Nala vs. Zeta/Malachor (gods fighting over Iolanu)
 - **Secondary:** Nala's Apostasy vs. Church of Malachor (rebellion vs. orthodoxy)
 - **Internal:** Earth souls navigating identity, belonging, and the ethics of their mission
 - **Personal:** Characters choosing each other over crumbling empires
@@ -67,14 +67,14 @@ Iolinus is a fractured world of city-states, prevented from unifying by monsters
 [TO BE DEFINED BY USER]
 
 **Book 1: "The Nalan Apostasy" - Current Understanding (for refinement):**
-Gabby D'Olivier, a 17-year-old from New Hampshire who died hiking, wakes up in a Maogreki body as a Greyrose Ranger. The first novel is structured as an orientation tour, taking Gabby (and the reader) through Iolinus to familiarize her with:
+Gabby D'Olivier, a 17-year-old from New Hampshire who died hiking, wakes up in a Maogreki body as a Greyrose Ranger. The first novel is structured as an orientation tour, taking Gabby (and the reader) through Iolanu to familiarize her with:
 - The world itself (geography, cultures, cities, dangers)
 - Her new Maogreki body (physical adaptation, body dysphoria, learning to inhabit it)
 - The eight-person party (found family formation, relationships, dynamics)
 - The mission (Nala's Apostasy, operational security, hiding her Earth origin)
 - The stakes (Church of Malachor, monsters, rifts, the liberation effort)
 
-Her journey involves learning to respect the living ink without adopting the culture, finding her place in the found family, and beginning to understand her role in the larger conflict. The tour structure allows natural world-building and character development as she experiences Iolinus for the first time.
+Her journey involves learning to respect the living ink without adopting the culture, finding her place in the found family, and beginning to understand her role in the larger conflict. The tour structure allows natural world-building and character development as she experiences Iolanu for the first time.
 
 ---
 

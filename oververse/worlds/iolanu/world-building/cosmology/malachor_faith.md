@@ -3,7 +3,7 @@
 **Category:** Religion / Belief System  
 **Related Organizations:** Church of Malachor (the priesthood is part of this church), Knights of the Ebon Throne  
 **Related Characters:** Axiarch Solon (Knight of the Ebon Throne)  
-**Related Files:** [Zeta/Malachor Naming](zeta_malachor_naming.md), [Zeta, God of Iolinus](zeta_god.md)
+**Related Files:** [Zeta/Malachor Naming](zeta_malachor_naming.md), [Zeta, God of Iolanu](zeta_god.md)
 
 ## Overview
 Malachor (also known as Zeta in earlier ages) is a god served by the Knights of the Ebon Throne, an order within the priesthood of the Church of Malachor. The faith emphasizes the sacred number five and the five aspirations that guide the faithful. The name "Malachor" is the current age's name for the god; "Zeta" was used in earlier ages, representing the progression through different "ages of man."

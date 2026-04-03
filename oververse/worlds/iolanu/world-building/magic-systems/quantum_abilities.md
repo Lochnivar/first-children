@@ -4,7 +4,7 @@
 **Status:** Five distinct powers, all persecuted
 
 ## Overview
-Quantum-adjacent abilities are powers that interact with the quantum nature of reality on Iolinus. Those who possess them are hunted by the Church of Malachor, the Locquodian Order, and superstitious mobs. They are NOT extinct, but aggressively hunted.
+Quantum-adjacent abilities are powers that interact with the quantum nature of reality on Iolanu. Those who possess them are hunted by the Church of Malachor, the Locquodian Order, and superstitious mobs. They are NOT extinct, but aggressively hunted.
 
 ## The Five Powers
 

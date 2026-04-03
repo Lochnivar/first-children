@@ -165,7 +165,7 @@ World 20 — 1–4 finishers (ties possible)
 
 **MC20-original worlds:** 1 (Keshara), 3 (Rheos), 4 (Zohara), 5 (Aversa), 6 (Qabira), 8 (Adaryn), 10 (Echadon), 11 (Peris), 13 (Yasara), 15 (Temenos), 16 (Binara), 17 (Tenebra), 18 (Tzelmar), 19 (Resonar). Skeletons only — expand in world bibles.
 
-**Canon worlds:** World 2 (Stratara), World 7 (Delverium), World 9 (Hegemon), World 12 (Earth), World 14 (Algernon), World 20 (Protomundus). Iolinus off limits; Mercara's Cross is the hub.
+**Canon worlds:** World 2 (Stratara), World 7 (Delverium), World 9 (Hegemon), World 12 (Earth), World 14 (Algernon), World 20 (Protomundus). Iolanu off limits; Mercara's Cross is the hub.
 
 ---
 

@@ -67,9 +67,9 @@
 - [How they populate worlds]
 - [World elements they provide]
 
-## Iolinus Status
+## Iolanu Status
 
-[Whether this race appears on Iolinus or is available for other worlds]
+[Whether this race appears on Iolanu or is available for other worlds]
 
 ## Notes
 

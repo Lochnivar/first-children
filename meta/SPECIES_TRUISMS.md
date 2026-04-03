@@ -4,7 +4,7 @@
 
 **Use:** After drafting a scene, run the check. Does the Gnoll scene fit "It's all fun and games until the Gnolls stop laughing"? Does the Ottern scene fit "Don't be afraid to smile with an Ottern, but make sure to check your pockets"? If not, something may be off.
 
-**Source:** Canonical truisms from DIALOGUE_PAGE and species docs. Proposed truisms (marked *) are drafted from established traits—review before locking.
+**Source:** Canonical truisms from species docs and historical notes (repo-root `DIALOGUE_PAGE.md` is a **redirect** only). **First Speech linguistics / glyphs / Malachor tag:** [oververse/cosmology/first-speech.md](../oververse/cosmology/first-speech.md). Proposed truisms (marked *) are drafted from established traits—review before locking.
 
 ---
 
@@ -118,4 +118,4 @@
 ---
 
 *For full species documentation, see [oververse/races/README.md](../oververse/races/README.md).*  
-*For expanded voice/dialogue guidance, see [DIALOGUE_PAGE.md](../DIALOGUE_PAGE.md).*
+*For expanded voice/dialogue guidance, see per-species files under `oververse/races/` (repo-root `DIALOGUE_PAGE.md` redirects to canonical paths).*

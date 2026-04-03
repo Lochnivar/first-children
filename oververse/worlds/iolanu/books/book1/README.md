@@ -6,7 +6,7 @@
 
 ## Overview
 
-Book 1 is an orientation tour through Gabby's eyes. The premise is an educational tour for new Earth soul Gabby D'Olivier to familiarize her with Iolinus.
+Book 1 is an orientation tour through Gabby's eyes. The premise is an educational tour for new Earth soul Gabby D'Olivier to familiarize her with Iolanu.
 
 ## Structure
 

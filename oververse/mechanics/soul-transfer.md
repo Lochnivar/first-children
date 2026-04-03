@@ -1,7 +1,7 @@
 # Soul Transfer Mechanisms
 
 **Status:** Framework Element - Universal  
-**Source:** Extracted from Iolinus examples (greyroses, Earth souls)  
+**Source:** Extracted from Iolanu examples (greyroses, Earth souls)  
 **Related:** [First Children](first-children.md), [Liberation Operations](liberation-operations.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
 
 ## Overview
@@ -32,7 +32,7 @@ Soul transfer is the mechanism by which souls can be moved between worlds. First
 - Allows for cross-world characters
 - Brings knowledge and experience from other worlds
 
-## Iolinus Example: Greyroses and Earth Souls
+## Iolanu Example: Greyroses and Earth Souls
 
 ### Greyrose Mechanism
 - Physical interface embedded in flesh (actual rose, not tattoo)
@@ -43,9 +43,9 @@ Soul transfer is the mechanism by which souls can be moved between worlds. First
 - Contains operational security features (suicide mechanism, blood purification)
 
 ### Earth Souls
-- Souls transferred from Earth to Iolinus
+- Souls transferred from Earth to Iolanu
 - Placed in prepared bodies marked by greyrose
-- Provide outside perspective on Iolinus situation
+- Provide outside perspective on Iolanu situation
 - Serve as agents for Nala's liberation mission
 - Must work quietly and hidden
 - Limited numbers - too many would be detected by Zeta
@@ -61,7 +61,7 @@ Soul transfer is the mechanism by which souls can be moved between worlds. First
 ## Variations Across Worlds
 
 ### Different Mechanisms
-- Greyroses are Iolinus-specific
+- Greyroses are Iolanu-specific
 - Other worlds may use different interfaces (amulets, rituals, portals, etc.)
 - Mechanism may be technological, magical, or divine
 - Interface design varies by world and First Child
@@ -76,7 +76,7 @@ Soul transfer is the mechanism by which souls can be moved between worlds. First
 - Framework allows for diverse soul transfer sources—Earth is one example, not the only possibility
 
 ### Different Purposes
-- Liberation missions (like Iolinus)
+- Liberation missions (like Iolanu)
 - Exploratory missions
 - Trade or exchange
 - Punishment or exile
@@ -133,7 +133,7 @@ Soul transfer is the mechanism by which souls can be moved between worlds. First
 
 ## Notes
 
-- Greyroses and Earth souls are Iolinus-specific examples
+- Greyroses and Earth souls are Iolanu-specific examples
 - Other worlds may have completely different mechanisms
 - Framework allows for creative variation
 - Core concept: souls can move between worlds with proper mechanism
@@ -142,6 +142,6 @@ Soul transfer is the mechanism by which souls can be moved between worlds. First
 ---
 
 *For liberation operation patterns, see [liberation-operations.md](liberation-operations.md)*  
-*For Iolinus-specific details, see [worlds/iolinus/world-building/organizations/greyroses.md](../worlds/iolinus/world-building/organizations/greyroses.md) and [worlds/iolinus/characters/groups/earth_souls.md](../worlds/iolinus/characters/groups/earth_souls.md)*  
+*For Iolanu-specific details, see [worlds/iolanu/world-building/organizations/greyroses.md](../worlds/iolanu/world-building/organizations/greyroses.md) and [worlds/iolanu/characters/groups/earth_souls.md](../worlds/iolanu/characters/groups/earth_souls.md)*  
 *For framework overview, see [../FRAMEWORK.md](../../FRAMEWORK.md)*
 

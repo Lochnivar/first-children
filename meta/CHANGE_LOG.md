@@ -33,9 +33,9 @@ Each entry should include:
   - Added First Speech: *hypatia* — simultaneously "library" and "creator"
   - Clarified that First Children are "many siblings"
   - Worlds can be shaped by one sibling, several in collaboration, or contested when visions clash
-  - Iolinus details: Two contending siblings, Godstone/Shattering unique to Iolinus
+  - Iolanu details: Two contending siblings, Godstone/Shattering unique to Iolanu
   - Noted that future worlds may have no Godstone equivalent and different structures
-- **Files Updated:** FRAMEWORK.md, oververse/cosmology/big-g-god.md, oververse/cosmology/first-children.md, oververse/worlds/iolinus.md, oververse/worlds/README.md, README.md
+- **Files Updated:** FRAMEWORK.md, oververse/cosmology/big-g-god.md, oververse/cosmology/first-children.md, oververse/worlds/iolanu.md, oververse/worlds/README.md, README.md
 
 ### Library Metaphor Added to Framework
 - **Date:** December 2024
@@ -52,10 +52,10 @@ Each entry should include:
 - **Impact:** All references to "framework/" updated to "hypatia/", all references to "over-universe" updated to "Hypatia" where appropriate
 - **Files Updated:** All files in repository updated to reflect new naming
 
-### Framework Reorganization: Structured Like Iolinus World-Building
+### Framework Reorganization: Structured Like Iolanu World-Building
 - **Date:** December 2024
-- **Change:** Reorganized framework directory into subdirectories mirroring Iolinus world-building structure
-- **Reason:** Create organized structure like Iolinus with categories (cosmology, magic-systems, mechanics, etc.)
+- **Change:** Reorganized framework directory into subdirectories mirroring Iolanu world-building structure
+- **Reason:** Create organized structure like Iolanu with categories (cosmology, magic-systems, mechanics, etc.)
 - **New Structure:**
   - `oververse/cosmology/` - Big 'G' God, First Children, Marcionite theology
   - `oververse/metaphysics/` - Quantum foundation (universal forces)
@@ -71,7 +71,7 @@ Each entry should include:
   - Extracted narrative framework content (story-types.md, character-types.md, themes.md)
   - Created rules and guidelines documentation
   - Created metaphysics/quantum-foundation.md
-  - Created oververse/worlds/iolinus.md (framework summary)
+  - Created oververse/worlds/iolanu.md (framework summary)
   - Created README.md files for each subdirectory
 - **Files Moved:**
   - Moved cosmology files to `cosmology/`
@@ -79,10 +79,10 @@ Each entry should include:
   - Moved mechanics files to `mechanics/`
 - **Files Updated:**
   - Updated all cross-references in framework files
-  - Updated all links in Iolinus files to point to new structure
+  - Updated all links in Iolanu files to point to new structure
   - Updated oververse/README.md to reflect new structure
   - Updated FRAMEWORK.md to reference new structure
-- **Notes:** Framework now mirrors Iolinus structure with organized subdirectories
+- **Notes:** Framework now mirrors Iolanu structure with organized subdirectories
 
 ### Framework Gaps Analysis: Identified Missing Documentation
 - **Date:** December 2024
@@ -108,7 +108,7 @@ Each entry should include:
 - **Date:** December 2024
 - **Change:** Created oververse/races/ directory with documentation for universal intelligent races
 - **Reason:** Provide common races available across Hypatia for world-building consistency
-- **Worlds Affected:** All worlds (races available as options), Iolinus (currently human-only)
+- **Worlds Affected:** All worlds (races available as options), Iolanu (currently human-only)
 - **Files Created:**
   - `oververse/races/README.md` - Overview of races framework
   - `oververse/races/humans.md` - Human race documentation
@@ -124,11 +124,11 @@ Each entry should include:
 
 ### Philosophy Migration: Balance Philosophy Moved to Framework
 - **Date:** December 2024
-- **Change:** Moved philosophy folder from Iolinus to framework
+- **Change:** Moved philosophy folder from Iolanu to framework
 - **Reason:** Balance and imbalance is a universal philosophical principle applicable across all worlds
-- **Worlds Affected:** Iolinus (philosophy now in framework), future worlds (can reference framework)
+- **Worlds Affected:** Iolanu (philosophy now in framework), future worlds (can reference framework)
 - **Files Moved:**
-  - `worlds/iolinus/world-building/philosophy/` → `oververse/philosophy/`
+  - `worlds/iolanu/world-building/philosophy/` → `oververse/philosophy/`
   - Updated `balance_philosophy.md` to reflect framework status
 - **Files Updated:**
   - Updated `oververse/README.md` to include philosophy section
@@ -137,58 +137,58 @@ Each entry should include:
 
 ### Cosmology Migration: Big 'G' God and Marcionite Theology Moved to Framework
 - **Date:** December 2024
-- **Change:** Moved universal cosmology files from Iolinus to framework
-- **Reason:** Big 'G' God and Marcionite theological structure are universal framework elements, not Iolinus-specific
-- **Worlds Affected:** Iolinus (updated links), future worlds (can reference framework)
+- **Change:** Moved universal cosmology files from Iolanu to framework
+- **Reason:** Big 'G' God and Marcionite theological structure are universal framework elements, not Iolanu-specific
+- **Worlds Affected:** Iolanu (updated links), future worlds (can reference framework)
 - **Files Moved:**
-  - `worlds/iolinus/world-building/cosmology/big_g_god.md` → `oververse/big-g-god.md`
-  - `worlds/iolinus/world-building/cosmology/marcionite_theology.md` → `oververse/marcionite-theology.md`
+  - `worlds/iolanu/world-building/cosmology/big_g_god.md` → `oververse/big-g-god.md`
+  - `worlds/iolanu/world-building/cosmology/marcionite_theology.md` → `oververse/marcionite-theology.md`
 - **Files Updated:**
   - Updated links in `nala_goddess.md` and `zeta_god.md` to reference framework
   - Updated `oververse/README.md` to include cosmology section
-- **Notes:** Universal cosmology now in framework, Iolinus-specific religious details (Malachor faith, naming) remain in Iolinus
+- **Notes:** Universal cosmology now in framework, Iolanu-specific religious details (Malachor faith, naming) remain in Iolanu
 
-### Framework Migration: Universal Elements Moved from Iolinus
+### Framework Migration: Universal Elements Moved from Iolanu
 - **Date:** December 2024
-- **Change:** Moved universal framework elements from Iolinus files to framework, updated Iolinus files to link to framework
-- **Reason:** Establish framework as primary source of truth, Iolinus as subordinate with links
-- **Worlds Affected:** Iolinus (updated to link to framework)
-- **Impact:** Framework now contains universal elements, Iolinus contains only Iolinus-specific details with framework links
+- **Change:** Moved universal framework elements from Iolanu files to framework, updated Iolanu files to link to framework
+- **Reason:** Establish framework as primary source of truth, Iolanu as subordinate with links
+- **Worlds Affected:** Iolanu (updated to link to framework)
+- **Impact:** Framework now contains universal elements, Iolanu contains only Iolanu-specific details with framework links
 - **Files Updated:**
-  - `worlds/iolinus/world-building/cosmology/nala_goddess.md` - Now links to oververse/first-children.md and oververse/liberation-operations.md
-  - `worlds/iolinus/world-building/cosmology/zeta_god.md` - Now links to oververse/first-children.md and oververse/world-creation.md
-  - `worlds/iolinus/world-building/magic-systems/quantum_abilities.md` - Now links to oververse/quantumancy.md
-  - `worlds/iolinus/world-building/organizations/greyroses.md` - Now links to oververse/soul-transfer.md
-  - `worlds/iolinus/characters/groups/earth_souls.md` - Now links to oververse/soul-transfer.md and oververse/liberation-operations.md
-- **Notes:** Iolinus files now contain only Iolinus-specific details, with clear links to universal framework documentation
+  - `worlds/iolanu/world-building/cosmology/nala_goddess.md` - Now links to oververse/first-children.md and oververse/liberation-operations.md
+  - `worlds/iolanu/world-building/cosmology/zeta_god.md` - Now links to oververse/first-children.md and oververse/world-creation.md
+  - `worlds/iolanu/world-building/magic-systems/quantum_abilities.md` - Now links to oververse/quantumancy.md
+  - `worlds/iolanu/world-building/organizations/greyroses.md` - Now links to oververse/soul-transfer.md
+  - `worlds/iolanu/characters/groups/earth_souls.md` - Now links to oververse/soul-transfer.md and oververse/liberation-operations.md
+- **Notes:** Iolanu files now contain only Iolanu-specific details, with clear links to universal framework documentation
 
 ### Framework Extraction and Population
 - **Date:** December 2024
-- **Change:** Extracted over-universe elements from Iolinus and created detailed framework documentation
-- **Reason:** Populate framework with universal elements extracted from Iolinus examples
-- **Worlds Affected:** Iolinus (as source), future worlds (will conform to framework)
-- **Impact:** Framework now has detailed documentation extracted from Iolinus
+- **Change:** Extracted over-universe elements from Iolanu and created detailed framework documentation
+- **Reason:** Populate framework with universal elements extracted from Iolanu examples
+- **Worlds Affected:** Iolanu (as source), future worlds (will conform to framework)
+- **Impact:** Framework now has detailed documentation extracted from Iolanu
 - **Documentation Created:**
   - `oververse/first-children.md` - First Children details extracted from Nala/Zeta examples
   - `oververse/quantumancy.md` - Quantumancy and fragmented abilities details
   - `oververse/soul-transfer.md` - Soul transfer mechanisms (greyroses, Earth souls as examples)
   - `oververse/world-creation.md` - World creation and life force binding details
   - `oververse/liberation-operations.md` - Liberation operation patterns from Nala's plan
-- **Notes:** All documentation extracts universal patterns while noting Iolinus-specific examples
+- **Notes:** All documentation extracts universal patterns while noting Iolanu-specific examples
 
 ### Initial Framework Establishment
 - **Date:** December 2024
-- **Change:** Framework extracted from Iolinus and established as primary source of truth
+- **Change:** Framework extracted from Iolanu and established as primary source of truth
 - **Reason:** Reorganization to framework-primary structure
-- **Worlds Affected:** Iolinus
-- **Impact:** Iolinus now documented as subordinate world
+- **Worlds Affected:** Iolanu
+- **Impact:** Iolanu now documented as subordinate world
 - **Documentation:** Created FRAMEWORK.md, CONSISTENCY_CHECK.md, CONSISTENCY_PROCESS.md
 
 ### Repository Reorganization
 - **Date:** December 2024
 - **Change:** Moved from flat structure to framework-primary structure
 - **Reason:** Clear separation between framework and individual worlds
-- **Worlds Affected:** Iolinus (now located at oververse/worlds/iolinus/)
+- **Worlds Affected:** Iolanu (now located at oververse/worlds/iolanu/)
 - **Impact:** New directory structure, updated paths and references
 - **Documentation:** Migration completed, all files reorganized
 

@@ -1,14 +1,14 @@
-# Iolinus — AI Refresher
+# Iolanu — AI Refresher
 
-**Purpose:** Quick-reference for AI context when working on Iolinus stories, world-building, or character development.  
-**Scope:** Iolinus-specific details only  
+**Purpose:** Quick-reference for AI context when working on Iolanu stories, world-building, or character development.  
+**Scope:** Iolanu-specific details only  
 **Canonical source:** [world-building/](world-building/README.md), [CONSISTENCY_CHECK.md](CONSISTENCY_CHECK.md)
 
 ---
 
 ## One-Line Summary
 
-**Liberation fantasy** — Earth souls transplanted into Iolinus to free the world from Malachor, a god who holds all life hostage. Iolinus is a bootleg of Earth—Malachor ripped it off thousands of years ago, too lazy to create; the bootleg proved he was too immature. Almost exclusively human. Five persecuted quantum powers. Godstone shattered into seven Godshards. Nala's Apostasy vs. Church of Malachor. Grounded tone, found family, morally grey.
+**Liberation fantasy** — Earth souls transplanted into Iolanu to free the world from Malachor, a god who holds all life hostage. Iolanu is a bootleg of Earth—Malachor ripped it off thousands of years ago, too lazy to create; the bootleg proved he was too immature. Almost exclusively human. Five persecuted quantum powers. Godstone shattered into seven Godshards. Nala's Apostasy vs. Church of Malachor. Grounded tone, found family, morally grey.
 
 ---
 
@@ -16,19 +16,19 @@
 
 ### Malachor (Zeta)
 - **Same entity** — Zeta = earlier name, Malachor = current (age progression)
-- **Creator** of Iolinus; created against peer judgment (judged too immature)
+- **Creator** of Iolanu; created against peer judgment (judged too immature)
 - **Personality:** Immature, spoiled brat; clever; lacks compassion, lacks desire to gain wisdom
-- **Life force binding:** Tied to Iolinus. If he dies, all life on Iolinus dies. Hostage mechanism.
+- **Life force binding:** Tied to Iolanu. If he dies, all life on Iolanu dies. Hostage mechanism.
 - **Invulnerability:** Cannot be killed without killing everyone. If threatened, he'll abandon his playground.
 - **Post-Shattering:** Lost direct God-King power; still powerful but constrained; distracted managing rift damage
 
 ### Nala
-- **Liberator** — Malachor's sister, fighting to free Iolinus (benevolence open)
+- **Liberator** — Malachor's sister, fighting to free Iolanu (benevolence open)
 - **Plan:** Break mortals from Malachor's grasp → evacuate → then Malachor can be punished. *Or* the liberation is the experiment.
-- **Limitation:** Can only speak to souls *outside* Iolinus. On Iolinus, cannot talk directly or assist—too risky.
+- **Limitation:** Can only speak to souls *outside* Iolanu. On Iolanu, cannot talk directly or assist—too risky.
 - **Methodology:** Quiet, hidden effort. Build momentum beneath Malachor's notice. Agents = Earth souls.
 - **Moral complexity:** Influenced mad Quantumancers to shatter Godstone—used suffering minds as weapons. Not pristine savior.
-- **Open question:** Pissed-off sister running chaos-tolerance experiment? How much chaos can a closed system take before it breaks? Iolinus = the closed system.
+- **Open question:** Pissed-off sister running chaos-tolerance experiment? How much chaos can a closed system take before it breaks? Iolanu = the closed system.
 - **Benevolent framing:** She presents as benevolent to Earthers she recruits—that's the face she shows to get willing participants. The framing is from the recruits' perspective.
 - **Agents remember:** Greyrose tattoos mark her followers. Most of the conversation with Nala is forgotten (too dangerous).
 
@@ -65,7 +65,7 @@
 
 ## Five Quantum Powers (All Persecuted)
 
-| Power | Function | Visibility | Status on Iolinus |
+| Power | Function | Visibility | Status on Iolanu |
 |-------|----------|------------|-------------------|
 | **Quantumancers** | Collapse possibilities into reality | Can't hide—reality changes visibly | 5–10 alive, hiding in terror; functionally extinct |
 | **Readers** | See truth/falsehood, current Prime | Seem insightful; plausibly deniable | Hundreds hiding |
@@ -106,7 +106,7 @@
 
 - **Physical:** Actual gray rose embedded in flesh (not tattoo). Stem between breasts. Placement varies (chest traditional; belly for operational concealment—e.g., Loisa).
 - **Functions:** Mark of Apostasy membership; Nala's interface to Earth souls; blood purification; suicide mechanism (toxin bulb if ruptured)
-- **Soul transfer:** Earth souls inhabit prepared Iolinus bodies. Laila gave her body for Gabby. Donor letters tradition.
+- **Soul transfer:** Earth souls inhabit prepared Iolanu bodies. Laila gave her body for Gabby. Donor letters tradition.
 - **Threat:** Chance Hodgkins (disembodied Quantumancer) can hijack Greyroses—possess bodies through connection
 
 ---
@@ -178,7 +178,7 @@
 
 **Overthrow = FC tired of griefing:** The "overthrow of the Demiurge" is the other FC (including Earth FC) finally fed up with Malachor's griefing. Nala's liberation = the guild booting the griefer.
 
-**Nala's benevolence open:** She's not necessarily the benevolent liberator. She's the pissed-off FC sister who's angry Malachor ripped off Earth, possibly running her own experiment: how much chaos can a closed system take before it breaks itself. Iolinus = the closed system. **The benevolent framing is from the Earthers' perspective:** she presents herself as benevolent to encourage willing Greyrose recruits. The face she shows to get volunteers. Use as background; reader-facing TBD.
+**Nala's benevolence open:** She's not necessarily the benevolent liberator. She's the pissed-off FC sister who's angry Malachor ripped off Earth, possibly running her own experiment: how much chaos can a closed system take before it breaks itself. Iolanu = the closed system. **The benevolent framing is from the Earthers' perspective:** she presents herself as benevolent to encourage willing Greyrose recruits. The face she shows to get volunteers. Use as background; reader-facing TBD.
 
 ---
 

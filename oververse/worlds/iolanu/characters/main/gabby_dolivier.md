@@ -24,18 +24,18 @@ Originally a 17-year-old foster child from New Hampshire named Boudicca Jane Cal
 ### Death and Rebirth
 Gabby died in a coma after her hiking accident. While dying, she was approached by Nala, a goddess who offered her a choice: die and follow the path her world dictates for souls, or go on an adventure as Nala's agent in a war of liberation. Gabby agreed on the condition that Nala tell her the truth about Laila's body.
 
-Nala revealed that Laila was not a random available body, but a sacrifice. Laila was one of Nala's most devout followers who volunteered to give her body so that Gabby could come to Iolinus. Laila had been dedicated to Nala, and her soul had been transferred to Nala's keeping (safe from Zeta's reach). She grew sick with a high fever that damaged her brain, and her soul left her body, leaving an empty husk.
+Nala revealed that Laila was not a random available body, but a sacrifice. Laila was one of Nala's most devout followers who volunteered to give her body so that Gabby could come to Iolanu. Laila had been dedicated to Nala, and her soul had been transferred to Nala's keeping (safe from Zeta's reach). She grew sick with a high fever that damaged her brain, and her soul left her body, leaving an empty husk.
 
 Gabby's soul was placed in Laila's body, and she will live out the remainder of Laila's life working as Nala's agent to fight Zeta. Once that life ends, Gabby will return to the moment of her death as though she never left.
 
 **Important:** Gabby won't remember much of this conversation—it's too dangerous to let her remember all of what was spoken. However, she will remember that anyone bearing a greyrose tattoo is dedicated to Nala and can be trusted. They share the mission, and some will share much more in common with her than she would realize.
 
 ## Current Vessel
-**Laila:** The Maogreki body that now houses Gabby's soul; cultural and ritual vessel. Laila was one of Nala's most devout followers who volunteered to sacrifice her body so that Gabby could come to Iolinus as Nala's agent. Her soul had been transferred to Nala's keeping (safe from Zeta's reach) before her body became available. Primary locus for conflicts about agency, consent, and ritual claims; her body's history and local ties complicate Gabby's attempts to assert identity. Embodiment of the Greyrose binding; carries Maogreki tattoos and cultural markers that anchor her to community expectations.
+**Laila:** The Maogreki body that now houses Gabby's soul; cultural and ritual vessel. Laila was one of Nala's most devout followers who volunteered to sacrifice her body so that Gabby could come to Iolanu as Nala's agent. Her soul had been transferred to Nala's keeping (safe from Zeta's reach) before her body became available. Primary locus for conflicts about agency, consent, and ritual claims; her body's history and local ties complicate Gabby's attempts to assert identity. Embodiment of the Greyrose binding; carries Maogreki tattoos and cultural markers that anchor her to community expectations.
 
 ## Relationships
-- **Nala:** The goddess who brought Gabby to Iolinus. Nala cannot speak to Gabby directly once she's on Iolinus—that would mean coming out too openly, and the number of times Nala can risk that are very limited. Gabby will be alone in her mission, but never truly alone.
-- **A.J.:** Another Earth soul from Muskogee, Oklahoma, US. One of the few Earth souls Nala has brought to Iolinus. He helped Gabby when she first woke up in Laila's body.
+- **Nala:** The goddess who brought Gabby to Iolanu. Nala cannot speak to Gabby directly once she's on Iolanu—that would mean coming out too openly, and the number of times Nala can risk that are very limited. Gabby will be alone in her mission, but never truly alone.
+- **A.J.:** Another Earth soul from Muskogee, Oklahoma, US. One of the few Earth souls Nala has brought to Iolanu. He helped Gabby when she first woke up in Laila's body.
 - **Daochen:** Mother Superior at the Chapterhouse of Nala in Ibelin. Earth soul from Xian, China. A Christian who doesn't worship Nala but approves of Nala's mission and plans. Serves as a liaison between Nala and the Earth souls she brings here. Her job is to support Earth souls adapting to their new life and mission, coordinate their activities once they're acclimated, and manage the Chapterhouse. She's like "HR and Human Resources, Earthen Resources at least, all rolled up in one." You'd never know she's from China from her host body—she appears to be about 45 Earth years old, with brown hair (generous strands of gray), hazel eyes, and light brown skin from an ages-old tan.
 - **Greyrose Rangers:** Maogreki guardians tied to the greyrose ritual; tasked with protecting sacred sites and executing the community's stewardship of bound souls. Anyone bearing a greyrose tattoo is dedicated to Nala and can be trusted—they share the mission.
 - **Echo Mothers:** Maogreki memory-keepers; custodians of communal history and participants in rites that preserve or trade memory
@@ -52,7 +52,7 @@ Work as Nala's agent in the war of liberation from Zeta; help break the intellig
 - Greyrose Ranger training
 - Connection to Echo Mothers through greyrose ritual
 - Sword training (Laila's body has muscle memory and callouses from hours of training with a blade; knows sword terminology like "fuller" - the groove down the middle of a blade)
-- Automatic translation ability (Zeta's modification to humans on Iolinus - brains automatically translate whatever someone says into native tongue; can be overridden with practice, useful for passing messages)
+- Automatic translation ability (Zeta's modification to humans on Iolanu - brains automatically translate whatever someone says into native tongue; can be overridden with practice, useful for passing messages)
 
 ## Secrets & Hidden Aspects
 Deep imposter syndrome and identity crisis; struggles with agency (whose life and choices are primary—the original soul or the host community's claim). Experiences full body dysphoria—her mind tries to reject her body as a whole. It's odd seeing a stranger's arm move when she commands her own arm to move. She wonders how long it will take for her mind to accept this body.
@@ -74,7 +74,7 @@ Cultural tension: Raised American pragmatic instincts clash with Maogreki sacrif
 - The greyrose is what makes the soul transfer possible—it's "the coolest thing ever" according to A.J.
 - Greyrose tattoo = dedicated to Nala, can be trusted, shares the mission
 - Gabby won't remember most of her conversation with Nala—it's too dangerous
-- Once Gabby's life on Iolinus ends, she will return to the moment of her death as though she never left
+- Once Gabby's life on Iolanu ends, she will return to the moment of her death as though she never left
 - Advice from other Earth souls: Don't dwell on how you used to look back on Earth—that will drive you crazy. Most don't mention it; it doesn't help to remember. But if you need to talk, the other Earth souls will listen—they know what you're going through.
 - Slang for Zeta: "Jet hat" (play on "asshat") and other slang terms used by Earth souls
 - There are only a few Earth souls—Nala can't sneak that many past Zeta without being noticed
@@ -127,15 +127,15 @@ Cultural tension: Raised American pragmatic instincts clash with Maogreki sacrif
 >
 > "Fighting a god?" Gabby wasn't sure she was ready for that.
 >
-> "No, you won't be fighting him. He's currently invulnerable. He can't be killed. Even if I managed to kill him, his death would extinguish all life on Iolinus."
+> "No, you won't be fighting him. He's currently invulnerable. He can't be killed. Even if I managed to kill him, his death would extinguish all life on Iolanu."
 >
-> "Iolinus?"
+> "Iolanu?"
 >
 > "Let me show you".
 >
 > The first images began to fill the void. They weren't made of light. They were thoughts made manifest in Gabby's consciousness. A world appeared, and Gably felt a breath that she couldn't take catch. It was only one side of the planet with two massive continents straddling the equator. There were massive mountain ranges and lush vegetation. There was a desert, a rather large one, but most of what she could see was verdant.
 >
-> "This is my brother's world, Iolinus," Nala said. "There are a few other lands on the far side, but they aren't important now; this is where we are fighting."
+> "This is my brother's world, Iolanu," Nala said. "There are a few other lands on the far side, but they aren't important now; this is where we are fighting."
 >
 > "Why are you fighting?" Gabby felt confused. "This is his world, right?"
 >
@@ -153,7 +153,7 @@ Cultural tension: Raised American pragmatic instincts clash with Maogreki sacrif
 >
 > "We can't punish him yet." Nala corrected her. "I have a plan, but it means we have to break the intelligent species from Zeta's grasp and evacuate them,
 >
-> "And that's where you come in here, Gabby. I need your perspective, and some others if I'm going to break Iolinus free. Once the intelligent species are evacuated, Zeta wont have any more hostages. I can rebuild a world of plants and animals. It's the souls that I cant bare to vanish into oblivion when Zeter elies."
+> "And that's where you come in here, Gabby. I need your perspective, and some others if I'm going to break Iolanu free. Once the intelligent species are evacuated, Zeta wont have any more hostages. I can rebuild a world of plants and animals. It's the souls that I cant bare to vanish into oblivion when Zeter elies."
 >
 > "you've completely lost me," Gabby said.
 >
@@ -185,7 +185,7 @@ Cultural tension: Raised American pragmatic instincts clash with Maogreki sacrif
 >
 > "No, never alone." Nala projected an air of comfort. "You won't remember much of this conversation, Its too danger­ous to let you remember all of what we speak of. But, you will remember that anyone bearinga grey race tattoo are dedicated to me and can be trusted. They share our mission. you'll find some will share much more in common with you than you would realize.
 
-## First Moments on Iolinus
+## First Moments on Iolanu
 
 > She opened her eyes on a strange world. She couldnt explain exactly what was wrong, what was different About this world around her. The ceiling above her caught her attention first. It was an open ceiling, open beams to the slanted roof. Those beams were hewn, not machined. Some realtor would probably advertise this as rustic. She found that she could move her head and she rolled it in the direction of the brightest light, the open, unshuttered window. The sky was a brilliant blue with a few patchy cirrus clouds high in the air.The rest of the room was equally rustic. All of the furniture appeared to be well-made but with that intentionally unfinished book. She decided that she didn't like the look here any more than back on Earth.
 >
@@ -279,7 +279,7 @@ Cultural tension: Raised American pragmatic instincts clash with Maogreki sacrif
 >
 > "what's the mother- ' ?"
 >
-> "She's the head of the order here on Iolinus. I'm responsible for fulfilling Nala's plans here.""Like her high priestess?" Gabby asked. K No," Doochen shook her head," I don't worship Nala."
+> "She's the head of the order here on Iolanu. I'm responsible for fulfilling Nala's plans here.""Like her high priestess?" Gabby asked. K No," Doochen shook her head," I don't worship Nala."
 >
 > She reached into the high neckline of her dress and pulled out a simple silver crucifix on an equally simple silver chain.
 >

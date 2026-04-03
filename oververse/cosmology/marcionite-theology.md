@@ -32,7 +32,7 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 - **Cannot be killed** without killing everyone on their world
 - Rule through institutional power and control
 
-**The Bootleg (Iolinus-specific):** The most telling proof of Demiurge imperfection is when the "creator" doesn't create at all. Malachor ripped off a bootleg copy of Earth thousands of years ago—too lazy to do his own work. He grabbed the human development world, rearranged the continents, reskinned it, and claimed it. The other First Children were not merely offended that he created against their judgment; they were infuriated that he couldn't be bothered to create. The bootleg was the sure sign he was too immature. Marcion's Demiurge created an imperfect material world; this one couldn't even do that—he plagiarized. Earth (the source he copied) stands in a special relationship to the Prime Author's creation; the Demiurge stole from the wrong place. Liberation comes partly through Earth souls—agents from the *original* he copied, returning to free the bootleg.
+**The Bootleg (Iolanu-specific):** The most telling proof of Demiurge imperfection is when the "creator" doesn't create at all. Malachor ripped off a bootleg copy of Earth thousands of years ago—too lazy to do his own work. He grabbed the human development world, rearranged the continents, reskinned it, and claimed it. The other First Children were not merely offended that he created against their judgment; they were infuriated that he couldn't be bothered to create. The bootleg was the sure sign he was too immature. Marcion's Demiurge created an imperfect material world; this one couldn't even do that—he plagiarized. Earth (the source he copied) stands in a special relationship to the Prime Author's creation; the Demiurge stole from the wrong place. Liberation comes partly through Earth souls—agents from the *original* he copied, returning to free the bootleg.
 
 **Note for Stories:** Details about what First Children "really are" are out of scope—they are simply gods with godly powers.
 
@@ -41,7 +41,7 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 - Not an active character in world events—structural rather than interventionist
 - Created all First Children (many siblings—the exact number is intentionally left as a gray area). Not all First Children create worlds—some may never create worlds.
 - First Children refer to the Prime Author as "The Author" in their cosmology
-- Different worlds/mortals may have different conceptions, or none at all (e.g., Iolinus mortals have no concept of Prime Author)
+- Different worlds/mortals may have different conceptions, or none at all (e.g., Iolanu mortals have no concept of Prime Author)
 - Source of the physical laws (fundamental laws of reality)
 - Does not establish moralistic rules—these are First Children constructs
 - Not a character in stories—structural presence, not personal
@@ -53,7 +53,7 @@ The framework draws inspiration from the theology of Marcion of Sinope (2nd cent
 - Mission: **free the souls** so they can be saved/evacuated—or stress-test how much chaos a closed system can take
 - Once souls are free, creator can be **punished without killing everyone**
 
-**Nala (Iolinus):** Benevolence is an open question. She may be the pissed-off FC sister who's angry Malachor ripped off Earth, running her own experiment: how much chaos can a closed system take before it breaks itself. Iolinus = the closed system. The liberation could be the experiment. **The benevolent liberator framing is from the Earthers' perspective:** she presents herself as benevolent to encourage willing Greyrose recruits. The face she shows to get volunteers. See [nala_goddess.md](../worlds/iolinus/world-building/cosmology/nala_goddess.md) Author Notes.
+**Nala (Iolanu):** Benevolence is an open question. She may be the pissed-off FC sister who's angry Malachor ripped off Earth, running her own experiment: how much chaos can a closed system take before it breaks itself. Iolanu = the closed system. The liberation could be the experiment. **The benevolent liberator framing is from the Earthers' perspective:** she presents herself as benevolent to encourage willing Greyrose recruits. The face she shows to get volunteers. See [nala_goddess.md](../worlds/iolanu/world-building/cosmology/nala_goddess.md) Author Notes.
 
 **Note for Stories:** Details about what First Children "really are" are out of scope—they are simply gods with godly powers.
 
@@ -113,7 +113,7 @@ The framework's Demiurge is **Moloch-like** (Malachor), not Yahweh. Marcion and 
 - Explains why liberation must be careful and hidden
 - Explains the focus on **saving souls** rather than just destroying the creator
 
-### Iolinus Example
+### Iolanu Example
 - **Zeta/Malachor** - The Demiurge (cruel creator who didn't create—ripped off a bootleg of Earth thousands of years ago; the bootleg proved he was too immature)
 - **Nala** - The Liberator (benevolence open; may be pissed-off sister running chaos-tolerance experiment on closed system)
 - **Earth souls** - The transferred agents (from the original he copied, returning to free the bootleg—or to be variables in the experiment)
@@ -150,6 +150,7 @@ There's a hint that Marcion of Sinope's theology might have some validity, parti
 
 *For Big 'G' God details, see [big-g-god.md](big-g-god.md)*  
 *For First Children details, see [first-children.md](first-children.md)*  
+*For Malachor’s Hebrew-shaped linguistic shortcut and the `!'YLN` / Iolanu tag (in-universe First Speech), see [first-speech.md](first-speech.md#cosmological-footnote-malachors-graffiti).*  
 *For liberation operations, see [mechanics/liberation-operations.md](../mechanics/liberation-operations.md)*  
 *For framework overview, see [../FRAMEWORK.md](../../FRAMEWORK.md)*
 

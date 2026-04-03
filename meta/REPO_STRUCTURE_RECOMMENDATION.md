@@ -1,14 +1,14 @@
 # Over-Universe Repo Structure Recommendation
 
-## Recommended Approach: Separate Repo with Framework + Iolinus Reference
+## Recommended Approach: Separate Repo with Framework + Iolanu Reference
 
 ### Why Separate?
 
 **Benefits:**
-- **Clean separation:** Framework is universal, Iolinus is one example
+- **Clean separation:** Framework is universal, Iolanu is one example
 - **Scalability:** Easy to add more stories/worlds later
 - **Clarity:** Clear what's framework vs. what's story-specific
-- **Flexibility:** Iolinus repo can continue developing independently
+- **Flexibility:** Iolanu repo can continue developing independently
 - **Clean onboarding:** New AI can focus on framework first, then reference examples
 
 **Drawbacks:**
@@ -26,10 +26,10 @@ over-universe-repo/
 │
 ├── worlds/                            # Individual world/story documentation
 │   ├── README.md                      # Index of all worlds
-│   ├── iolinus/                       # Iolinus as reference/example
+│   ├── iolanu/                       # Iolanu as reference/example
 │   │   ├── README.md                  # Brief overview, link to main repo
 │   │   ├── SUMMARY.md                 # Key elements that demonstrate framework
-│   │   └── REFERENCE.md               # Links to main Iolinus repo, key concepts
+│   │   └── REFERENCE.md               # Links to main Iolanu repo, key concepts
 │   └── [future-world]/                # Template for adding new worlds
 │
 ├── oververse/                         # Detailed framework documentation
@@ -39,7 +39,7 @@ over-universe-repo/
 │   └── guidelines/                    # Expansion guidelines
 │
 ├── examples/                          # Examples demonstrating framework concepts
-│   ├── first-children/                # Examples from Iolinus (Nala, Zeta)
+│   ├── first-children/                # Examples from Iolanu (Nala, Zeta)
 │   ├── world-creation/                # How worlds are created
 │   ├── soul-transfer/                 # Mechanisms and examples
 │   └── liberation-operations/         # Liberation story patterns
@@ -64,25 +64,25 @@ over-universe-repo/
 - Universal rules and structure
 - No story-specific details (except as examples)
 
-### worlds/iolinus/
+### worlds/iolanu/
 **README.md:**
-- Brief overview: "Iolinus is one world in this universe"
-- Link to main Iolinus repo
+- Brief overview: "Iolanu is one world in this universe"
+- Link to main Iolanu repo
 - Key elements that demonstrate the framework
 
 **SUMMARY.md:**
-- Extracted universal elements from Iolinus:
+- Extracted universal elements from Iolanu:
   - Nala (First Child example)
   - Zeta/Malachor (First Child example)
   - Earth soul transfer mechanism
   - Liberation operation structure
-  - Quantum abilities on Iolinus (as one manifestation)
+  - Quantum abilities on Iolanu (as one manifestation)
 - What makes it a good example of the framework
 
 **REFERENCE.md:**
-- Links to main Iolinus repo for detailed world-building
-- How to find specific Iolinus details
-- What's framework vs. what's Iolinus-specific
+- Links to main Iolanu repo for detailed world-building
+- How to find specific Iolanu details
+- What's framework vs. what's Iolanu-specific
 
 ### oververse/
 Detailed breakdown of framework concepts:
@@ -92,9 +92,9 @@ Detailed breakdown of framework concepts:
 - Guidelines: How to expand while maintaining consistency
 
 ### examples/
-Concrete examples from Iolinus showing framework concepts:
+Concrete examples from Iolanu showing framework concepts:
 - First Children examples (Nala, Zeta)
-- World creation example (how Iolinus was created)
+- World creation example (how Iolanu was created)
 - Soul transfer example (Earth souls, greyroses)
 - Liberation operation example (Nala's plan)
 
@@ -115,9 +115,9 @@ over-universe-repo/
 ├── README.md
 ├── FRAMEWORK.md
 ├── worlds/
-│   ├── iolinus/                       # Full Iolinus world bible copied here
-│   │   ├── [all current Iolinus structure]
-│   │   └── README.md                  # "Iolinus - Example world"
+│   ├── iolanu/                       # Full Iolanu world bible copied here
+│   │   ├── [all current Iolanu structure]
+│   │   └── README.md                  # "Iolanu - Example world"
 │   └── [future-world]/
 ├── oververse/
 └── meta/
@@ -125,14 +125,14 @@ over-universe-repo/
 
 **Pros:**
 - Everything in one place
-- Can see how framework applies to Iolinus directly
+- Can see how framework applies to Iolanu directly
 - Single repo to maintain
 
 **Cons:**
-- Lots of Iolinus-specific detail that's not framework-relevant
+- Lots of Iolanu-specific detail that's not framework-relevant
 - Harder to see what's universal vs. specific
 - More clutter when adding new worlds
-- Duplication if Iolinus repo continues to be primary
+- Duplication if Iolanu repo continues to be primary
 
 ---
 
@@ -141,23 +141,23 @@ over-universe-repo/
 **Best of Both Worlds:**
 
 1. **Create new over-universe repo** with clean framework structure
-2. **Copy only selected elements** from Iolinus:
+2. **Copy only selected elements** from Iolanu:
    - Framework-relevant summaries
    - Examples that demonstrate concepts
    - Key character/world elements that show the framework
-3. **Link to main Iolinus repo** for detailed world-building
-4. **Keep Iolinus repo as primary** development location
+3. **Link to main Iolanu repo** for detailed world-building
+4. **Keep Iolanu repo as primary** development location
 
 This way:
 - Framework repo stays clean and focused
-- Iolinus serves as living example
+- Iolanu serves as living example
 - Easy to add more worlds later
 - No duplication of detailed world-building
 - Clear separation of concerns
 
 ---
 
-## What to Copy from Iolinus (If Hybrid)
+## What to Copy from Iolanu (If Hybrid)
 
 ### Essential to Copy:
 - OVER_UNIVERSE_FRAMEWORK.md → FRAMEWORK.md (root)
@@ -186,15 +186,15 @@ This way:
 1. **Create new repo** called something like `over-universe` or `multiverse-framework`
 2. **Set up structure** as outlined above
 3. **Copy framework document** as root FRAMEWORK.md
-4. **Create worlds/iolinus/** with:
+4. **Create worlds/iolanu/** with:
    - README.md (overview + link to main repo)
    - SUMMARY.md (key framework-relevant elements)
-   - REFERENCE.md (how to find Iolinus details)
-5. **Extract examples** from Iolinus into examples/ directory
+   - REFERENCE.md (how to find Iolanu details)
+5. **Extract examples** from Iolanu into examples/ directory
 6. **Create templates** for future worlds
 7. **Document** expansion guidelines and connection strategies
 
-This gives you a clean framework repo that references Iolinus as an example, rather than mixing everything together.
+This gives you a clean framework repo that references Iolanu as an example, rather than mixing everything together.
 
 ---
 
@@ -209,13 +209,13 @@ This gives you a clean framework repo that references Iolinus as an example, rat
 
 **Choose Integrated Repo If:**
 - You want everything in one place
-- Iolinus is the primary/only story for now
+- Iolanu is the primary/only story for now
 - You prefer single source of truth
 - You don't mind mixing framework and story details
 
 **Choose Hybrid If:**
-- You want clean framework but Iolinus as reference
-- You plan multiple stories but want Iolinus easily accessible
+- You want clean framework but Iolanu as reference
+- You plan multiple stories but want Iolanu easily accessible
 - You want to avoid duplication
 - You want both clean structure and easy reference
 
@@ -223,5 +223,5 @@ This gives you a clean framework repo that references Iolinus as an example, rat
 
 **My Recommendation: Hybrid Approach**
 
-Start with a clean framework repo, copy only framework-relevant summaries from Iolinus, and link to the main Iolinus repo for details. This gives you the cleanest structure while keeping Iolinus easily accessible as a living example.
+Start with a clean framework repo, copy only framework-relevant summaries from Iolanu, and link to the main Iolanu repo for details. This gives you the cleanest structure while keeping Iolanu easily accessible as a living example.
 

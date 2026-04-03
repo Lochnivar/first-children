@@ -5,7 +5,9 @@
 **In the First Speech:**  
 *hypatia* — simultaneously "library" and "creator."
 
-**Purpose:** This document establishes the cosmological framework for Hypatia, the over-universe (Library) in which individual stories (like Iolinus) take place. Similar to Brandon Sanderson's Cosmere, Hypatia allows for multiple worlds (Books), stories, and interconnected narratives while maintaining consistent universal rules and metaphysics.
+**First Speech (full cosmology):** Glyphs, triconsonantal roots, notation (`' ! ^ -`), Malachor’s linguistic shortcut and the **Iolanu** / **YLN** tag, and what scholars treat as reliable vs fringe — see [oververse/cosmology/first-speech.md](oververse/cosmology/first-speech.md). (Trial HUD / world-token naming is a related but separate doc: [First Speech conventions](oververse/mechanics/first-speech-conventions.md).)
+
+**Purpose:** This document establishes the cosmological framework for Hypatia, the over-universe (Library) in which individual stories (like Iolanu) take place. Similar to Brandon Sanderson's Cosmere, Hypatia allows for multiple worlds (Books), stories, and interconnected narratives while maintaining consistent universal rules and metaphysics.
 
 **Status:** Framework Document - For Universe Expansion  
 **Over-Universe Name:** Hypatia  
@@ -22,14 +24,14 @@ This is the absolute bedrock of Hypatia's cosmology—beautiful in its simplicit
 - The **Prime Author** created reality and a cohort of **First Children** — many siblings (the exact number is intentionally left as a gray area) — then withdrew forever. Not all First Children create worlds—some may never create worlds.
 - Each First Child *can* author complete worlds from nothing (but not all do—some First Children may never create worlds).
 - Worlds may be shaped by one sibling alone (most common), by several in collaboration (possible but not necessarily common—raises questions of ownership/control, "whose world is it?"—potential fuel for conflicts), or become contested when visions clash.
-- Mortal awareness of the greater reality (hypatia, the First Children, the Prime Author) varies widely by world and by design. First Children ultimately control what happens on their creations—some worlds are open about the cosmology, some are closed, and some (like Iolinus) actively encourage belief that the creator is the only god.
+- Mortal awareness of the greater reality (hypatia, the First Children, the Prime Author) varies widely by world and by design. First Children ultimately control what happens on their creations—some worlds are open about the cosmology, some are closed, and some (like Iolanu) actively encourage belief that the creator is the only god.
 - **Everything—mortal bodies, ghosts, spirits, rift spawns, magic, technology, souls, even the First Children themselves—are patterns of coherent energy at the quantum layer.** The First Children are the only ones who can swim in the quantum sea without drowning (most of the time).
 
 ## Conceptual Foundation: The Library Metaphor
 
 **Note on the Metaphor:** The Library metaphor is **purely conceptual**—it's not a literal description of Hypatia's structure. However, it's the closest that First Children or any mortal mind is going to approach understanding the true nature of Hypatia. It serves as a useful approximation tool for comprehension and communication.
 
-**Terminology Note:** In framework documentation, we refer to **"Prime Author"** (also called "Big 'G' God") as the actual being/concept. **"The Author"** is how First Children conceptualize and refer to this being in their cosmology. Different worlds and mortals may have completely different conceptions of the Prime Author, or none at all—for example, mortals on Iolinus think Malachor (Zeta) is the only god and have no concept of the Prime Author.
+**Terminology Note:** In framework documentation, we refer to **"Prime Author"** (also called "Big 'G' God") as the actual being/concept. **"The Author"** is how First Children conceptualize and refer to this being in their cosmology. Different worlds and mortals may have completely different conceptions of the Prime Author, or none at all—for example, mortals on Iolanu think Malachor (Zeta) is the only god and have no concept of the Prime Author.
 
 **The Author and the Library (Conceptual Framework):**
 - **Prime Author** (Big 'G' God) = The actual being who created everything, then withdrew forever (framework truth)
@@ -38,7 +40,7 @@ This is the absolute bedrock of Hypatia's cosmology—beautiful in its simplicit
 - **Worlds** = Conceptually understood as "Books" within the library, each telling their own story—this is how First Children may think about them, not a literal description
 - **First Children** = The Prime Author's first creations (siblings) who conceptually "inhabit the library" and can "author new books/worlds"—this metaphor helps them organize their understanding
 
-This metaphor provides a useful conceptual framework: The Prime Author created the Library (Hypatia, conceptually) and the First Children (siblings), then withdrew. The First Children refer to the Prime Author as "The Author" in their cosmology. They may think of themselves as inhabiting a library and can conceptually "open, read, and even create new books" (worlds). This mental model helps them understand and work with worlds, even though the metaphor is an approximation, not literal truth. Mortals on different worlds may have their own conceptions of the Prime Author, or (like Iolinus) may be completely unaware and think their local First Child is the only god.
+This metaphor provides a useful conceptual framework: The Prime Author created the Library (Hypatia, conceptually) and the First Children (siblings), then withdrew. The First Children refer to the Prime Author as "The Author" in their cosmology. They may think of themselves as inhabiting a library and can conceptually "open, read, and even create new books" (worlds). This mental model helps them understand and work with worlds, even though the metaphor is an approximation, not literal truth. Mortals on different worlds may have their own conceptions of the Prime Author, or (like Iolanu) may be completely unaware and think their local First Child is the only god.
 
 ---
 
@@ -57,9 +59,9 @@ This framework document and the `oververse/` directory contain the **"all or gen
 Individual world documentation (in `worlds/[world-name]/`) contains world-specific details that are either:
 
 - **Expansions:** Adding more depth and specificity **within** the framework rules
-  - Example: Framework says "mortals may have fragmented quantum abilities" → Iolinus expands this with specific five abilities (imposed by Malachor when he brought Quantumancy into Iolinus) (Quantumancers, Readers, Weavers, Echoes, Nullwraiths) and their detailed rules
-  - Example: Framework establishes soul transfer mechanics → Iolinus expands with greyrose-specific implementation details
-  - Example: Framework provides liberation operation patterns → Iolinus expands with specific characters, plots, and conflicts
+  - Example: Framework says "mortals may have fragmented quantum abilities" → Iolanu expands this with specific five abilities (imposed by Malachor when he brought Quantumancy into Iolanu) (Quantumancers, Readers, Weavers, Echoes, Nullwraiths) and their detailed rules
+  - Example: Framework establishes soul transfer mechanics → Iolanu expands with greyrose-specific implementation details
+  - Example: Framework provides liberation operation patterns → Iolanu expands with specific characters, plots, and conflicts
 
 - **Exceptions:** World-specific variations that work **within or modify** general rules
   - Example: Framework establishes universal principles → World may have unique cultural interpretations of those principles
@@ -124,7 +126,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - The "what they really are" is background world-building only
 - For story purposes, they are simply gods with godly powers
 - Their true nature/origin is out of scope for individual stories
-- The framework allows for many First Children (siblings), not just those encountered in Iolinus
+- The framework allows for many First Children (siblings), not just those encountered in Iolanu
 
 ### Powers: Quantumancy
 
@@ -227,7 +229,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 
 **Known Worlds:**
 
-**Iolinus:**
+**Iolanu:**
 - Created by Zeta/Malachor (a First Child) against explicit prohibition
 - Two massive continents straddling the equator
 - Features: Mountain ranges, lush vegetation, large desert
@@ -235,14 +237,14 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Currently the focus of a liberation conflict
 - Magic system: Quantum-adjacent abilities (fragmented versions of Quantumancy)
 
-**Other Lands on Iolinus:**
+**Other Lands on Iolanu:**
 - Mentioned: "A few other lands on the far side" (not important to current conflict)
-- Suggests Iolinus itself may have multiple regions/cultures
+- Suggests Iolanu itself may have multiple regions/cultures
 
 **Earth:**
 - One of the worlds in Hypatia (not external)
 - A "control" world with no magic and very little hands-on involvement by any First Children
-- Source of "Earth souls" transported to other worlds (like Iolinus)
+- Source of "Earth souls" transported to other worlds (like Iolanu)
 - There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
 - Will undergo the Trial (world-to-dungeon transformation) in the book
 - **Template repository:** Living catalog of the Prime Author's genetic frameworks; unusually high biodiversity; FC study non-sapient baselines before deploying sapient variants; humans surrounded by framework cousins (wolves, elephants, foxes, etc.) without knowing it—see [oververse/races/genetic-frameworks.md](oververse/races/genetic-frameworks.md)
@@ -270,7 +272,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - **All "magic" in Hypatia ultimately boils down to quantum manipulation**
 - **Magic systems are comprehension tools** - "Magic" as mortals understand it are schools/methods that let the mortal mind comprehend something way above their abilities
 - First Children have full access (Quantumancy)
-- Mortals may manifest fragments (the way these are split is world-specific—Iolinus has 5 because Malachor imposed that split when bringing Quantumancy into Iolinus)
+- Mortals may manifest fragments (the way these are split is world-specific—Iolanu has 5 because Malachor imposed that split when bringing Quantumancy into Iolanu)
 - These abilities may be persecuted, accepted, or hidden depending on the world
 - Different worlds may present quantum manipulation as different "magic" systems (spells, rituals, schools, etc.), but they're all ultimately quantum manipulation
 - **Coherent Energy Patterns:** All existence (physical bodies, ghosts, spirits, etc.) are patterns of coherent energy at the quantum layer—ghosts/spirits are looser, non-corporeal patterns (see [oververse/metaphysics/coherent-patterns.md](oververse/metaphysics/coherent-patterns.md))
@@ -310,18 +312,18 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Enables liberation missions
 - Allows for cross-world characters
 
-### Life Force Binding (Iolinus-Specific Example)
+### Life Force Binding (Iolanu-Specific Example)
 
-**Note:** Life force binding is NOT a universal framework element. It is Iolinus-specific—a tool created by Malachor for his situation. Other worlds may have similar mechanisms, but none have been created yet.
+**Note:** Life force binding is NOT a universal framework element. It is Iolanu-specific—a tool created by Malachor for his situation. Other worlds may have similar mechanisms, but none have been created yet.
 
-**The Iolinus Mechanism:**
-- Malachor bound his life force to Iolinus
-- If Malachor dies, all life on Iolinus dies
+**The Iolanu Mechanism:**
+- Malachor bound his life force to Iolanu
+- If Malachor dies, all life on Iolanu dies
 - Creates invulnerability through hostage-taking
 - Prevents direct intervention by other First Children
 - Can only be broken by freeing the souls/life from the binding
 
-**Ethical Implications (Iolinus Example):**
+**Ethical Implications (Iolanu Example):**
 - Used by Malachor to avoid punishment
 - Makes liberation difficult and dangerous
 - Requires careful, hidden operations
@@ -356,9 +358,9 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - **"Legal" creation** = Created with approval/consent of other First Children, or at least not judged as problematic
 - **"Against prohibition"** = Creating despite negative judgment from other First Children (judged as too immature, not ready, etc.)
 
-**Iolinus Example:**
+**Iolanu Example:**
 - Other First Children judged that Zeta/Malachor (before he became Malachor) was too immature to create his own world
-- He created Iolinus anyway, against their judgment—hence "against prohibition"
+- He created Iolanu anyway, against their judgment—hence "against prohibition"
 - The "prohibition" was a First Children moralistic judgment, not a Prime Author law
 
 **Enforcement:**
@@ -391,7 +393,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Focus on freeing worlds from cruel creator gods
 - Hidden operations, careful planning
 - Earth souls as agents with outside perspective
-- Examples: The Iolinus story (Nala vs. Zeta/Malachor)
+- Examples: The Iolanu story (Nala vs. Zeta/Malachor)
 
 **Creation Stories:**
 - First Children creating new worlds
@@ -444,32 +446,32 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 
 ---
 
-## Iolinus as One Story
+## Iolanu as One Story
 
-### How Iolinus Fits
+### How Iolanu Fits
 
-**Iolinus is One Example:**
+**Iolanu is One Example:**
 - One world in a larger multiverse
 - One conflict (Nala vs. Zeta/Malachor)
 - One liberation story among potentially many
 - Demonstrates the framework but doesn't limit it
 
-**What Iolinus Establishes:**
+**What Iolanu Establishes:**
 - The Prime Author exists (created reality and First Children, then withdrew forever)
 - First Children can create worlds against prohibition
-- Life force binding (Iolinus-specific tool created by Malachor)
+- Life force binding (Iolanu-specific tool created by Malachor)
 - Soul transfer is a mechanism
 - Liberation operations are complex and hidden
 - Earth souls can serve as agents
 
-**What Iolinus Doesn't Limit:**
+**What Iolanu Doesn't Limit:**
 - Other First Children with different motivations
 - Other worlds with different rules
 - Other conflicts beyond liberation
 - Other magic systems (quantum abilities may manifest differently)
 - Other soul transfer sources (not just Earth)
 
-### Expanding Beyond Iolinus
+### Expanding Beyond Iolanu
 
 **Questions to Explore:**
 - How many First Children exist?
@@ -490,7 +492,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Prime Author is the true creator (created reality and First Children, then withdrew forever)
 - First Children have Quantumancy (full quantum manipulation)
 - Mortals may have fragmented quantum abilities
-- Life force binding is NOT a universal constant—it is Iolinus-specific (Malachor's tool)
+- Life force binding is NOT a universal constant—it is Iolanu-specific (Malachor's tool)
 - Soul transfer requires mechanisms (greyrose or equivalent)
 - Violations of prohibition have consequences
 
@@ -553,7 +555,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 
 **Magic System Guidelines:**
 - Must relate to quantum manipulation in some way
-- Can manifest differently than Iolinus examples
+- Can manifest differently than Iolanu examples
 - May be called different names
 - Should have rules and limitations
 - May be persecuted, accepted, or hidden
@@ -600,19 +602,19 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 
 ### Potential Stories
 
-**Pre-Iolinus Stories:**
-- The creation of Iolinus (Zeta's violation)
+**Pre-Iolanu Stories:**
+- The creation of Iolanu (Zeta's violation)
 - Other First Children and their worlds
 - The establishment of the prohibition
 - Early conflicts between First Children
 
-**Parallel to Iolinus:**
+**Parallel to Iolanu:**
 - Other liberation operations (different worlds, different First Children)
 - Worlds with different magic systems
 - Worlds where quantum abilities are accepted
 - Stories focused on different character types
 
-**Post-Iolinus Stories:**
+**Post-Iolanu Stories:**
 - What happens to freed souls
 - Consequences of successful liberation
 - Other worlds created by First Children
@@ -632,7 +634,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - May serve as refuges or examples
 
 **Worlds Created Illegally:**
-- Like Iolinus, created against prohibition
+- Like Iolanu, created against prohibition
 - Different hostage situations
 - Different liberation stories
 
@@ -682,15 +684,15 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 
 ---
 
-## References to Iolinus
+## References to Iolanu
 
 **For More Details:**
-- See the Iolinus world bible for specific details about that world
-- Iolinus serves as the primary example of this framework
-- The Iolinus story demonstrates liberation, soul transfer, and First Children conflict
-- Elements established in Iolinus inform but don't limit expansion
+- See the Iolanu world bible for specific details about that world
+- Iolanu serves as the primary example of this framework
+- The Iolanu story demonstrates liberation, soul transfer, and First Children conflict
+- Elements established in Iolanu inform but don't limit expansion
 
-**Key Iolinus Elements:**
+**Key Iolanu Elements:**
 - Nala (First Child, liberator)
 - Zeta/Malachor (First Child, creator, antagonist)
 - Earth souls (transferred agents)

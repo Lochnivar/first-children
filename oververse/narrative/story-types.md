@@ -17,7 +17,7 @@ The framework supports various story types that can be told within Hypatia. Thes
 - Breaking life force bindings safely
 
 ### Examples
-- The Iolinus story (Nala vs. Zeta/Malachor)
+- The Iolanu story (Nala vs. Zeta/Malachor)
 - Other liberation operations on different worlds
 - Variations with different First Children
 
@@ -36,7 +36,7 @@ The framework supports various story types that can be told within Hypatia. Thes
 - Origins and establishment
 
 ### Examples
-- The creation of Iolinus (Zeta's violation)
+- The creation of Iolanu (Zeta's violation)
 - Legal world creation by First Children
 - Origin stories and prequels
 - Early universe stories

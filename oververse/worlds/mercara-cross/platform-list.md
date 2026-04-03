@@ -104,7 +104,7 @@ Mercara's Cross contains over 1,247 documented platforms connecting to worlds th
 | 1223 | Silvershadow | Reflective metal dust in atmosphere creates mirror-sky phenomena | Active |
 | 1224 | Aetherdrift | Weightless void-cities drifting through colorful nebulae | Active |
 | 1230 | Runecleft | Canyon lands carved by ancient exploding runes | Active |
-| 1237 | **Iolinus** | Bootleg of Earth (Malachor ripped it off thousands of years ago); tyrannical claimant | **CLOSED - Creator blockade (Malachor refuses transit)** |
+| 1237 | **Iolanu** | Bootleg of Earth (Malachor ripped it off thousands of years ago); tyrannical claimant | **CLOSED - Creator blockade (Malachor refuses transit)** |
 | 1241 | Voidwhisper | Silent world of floating monasteries studying the quantum sea | Active (meditative) |
 | 1243 | Flameweft | Volcanic archipelago with fire-weaving dragonkin | Active |
 | 1245 | Chronoshift | Time-dilated islands where centuries pass in days | Active (heavily regulated) |
@@ -189,7 +189,7 @@ Platform 1 is **Protomundus** — literally "First World." This is the original 
 - Cross connects to all worlds (world-specific function)
 - Platform 1 is the origin point (framework foundation)
 
-### Platform 1237: Iolinus
+### Platform 1237: Iolanu
 
 **Status:** One of the newest additions before the seal
 
@@ -212,7 +212,7 @@ Platform 1 is **Protomundus** — literally "First World." This is the original 
 **Status:** Comfortably mid-to-late addition
 
 **Characteristics:**
-- Older and more established traffic than Iolinus
+- Older and more established traffic than Iolanu
 - Still "new" compared to the ancient low numbers
 - Primary liberation source
 - Mostly inbound traffic (Earth souls for liberation operations; independent contractors deploying to Earth trial)
@@ -238,7 +238,7 @@ Platform 1 is **Protomundus** — literally "First World." This is the original 
 ### Sealed Platforms
 - Peer judgment seal preventing access
 - No traffic, no First Children use
-- Examples: 1237 (Iolinus)
+- Examples: 1237 (Iolanu)
 
 ### Rare/Ancient Platforms
 - Rarely open, half-mythical
@@ -273,7 +273,7 @@ Platform 1 is **Protomundus** — literally "First World." This is the original 
 **Platform 12 (Hegemon):** Conquest game board, diplomatic restrictions  
 **Platform 934 (Earth):** Liberation soul source, limited mortal awareness  
 **Platform 1201 (Stratara):** Twin to Hegemon, experimental ruleset  
-**Platform 1237 (Iolinus):** Bootleg of Earth; closed by Malachor; liberation target; Earth souls from original returning to free the copy
+**Platform 1237 (Iolanu):** Bootleg of Earth; closed by Malachor; liberation target; Earth souls from original returning to free the copy
 
 ### Cross Operations
 
@@ -312,7 +312,7 @@ Platform maintenance difficulty varies:
 ### Recent Connections
 - **935:** Recent connection with heavy merchant traffic
 - **936:** High inbound traffic world
-- **1237:** Iolinus (newest before seal)
+- **1237:** Iolanu (newest before seal)
 - **1247:** Current highest stable platform
 
 ## Expansion Notes
@@ -339,7 +339,7 @@ This directory can be expanded with:
 - Peer judgment seals exist (framework rule)
 - Scale demonstrates Hypatia's vastness (framework allows)
 - Earth connection documented (framework truth)
-- Iolinus closure demonstrates creator control (framework allows)
+- Iolanu closure demonstrates creator control (framework allows)
 
 **World-Specific Expansions:**
 - Platform numbering system

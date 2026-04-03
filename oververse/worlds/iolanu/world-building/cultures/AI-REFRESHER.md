@@ -1,7 +1,7 @@
-# Iolinus Cultures — AI Refresher
+# Iolanu Cultures — AI Refresher
 
-**Purpose:** Quick-reference for AI context when writing Iolinus characters, scenes, or cultural descriptions.  
-**Scope:** Human cultures of Iolinus only  
+**Purpose:** Quick-reference for AI context when writing Iolanu characters, scenes, or cultural descriptions.  
+**Scope:** Human cultures of Iolanu only  
 **Canonical source:** Individual culture files in this folder; [cultural_identification_cheat_sheet.md](cultural_identification_cheat_sheet.md)
 
 ---

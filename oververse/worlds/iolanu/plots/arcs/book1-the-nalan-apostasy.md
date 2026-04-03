@@ -6,7 +6,7 @@
 **Related Locations:** Ibelin, Doicas, A'Thohalla, Orindibar Desert, Orindibar, Dwarhoffen, Caxias, Kitzigen Falls
 
 ## Overview
-An educational tour for new Earth soul Gabby D'Olivier, designed to show her how Iolinus really works. The tour introduces her to cultures, politics, and dangers while serving as Apostasy recruitment/integration. This is the route for Book 1: "The Nalan Apostasy."
+An educational tour for new Earth soul Gabby D'Olivier, designed to show her how Iolanu really works. The tour introduces her to cultures, politics, and dangers while serving as Apostasy recruitment/integration. This is the route for Book 1: "The Nalan Apostasy."
 
 ## Route (Book 1: "The Nalan Apostasy")
 
@@ -23,8 +23,8 @@ An educational tour for new Earth soul Gabby D'Olivier, designed to show her how
 - **Transport:** Boat (down river)
 - **Destination:** Doicas
 - **Goal/Educational Purpose:** 
-  - Loisa points out the "hordes" (monsters) that roam through the wilds of Iolinus
-  - Demonstrates how these hordes keep Iolinus from becoming a united world (partly)
+  - Loisa points out the "hordes" (monsters) that roam through the wilds of Iolanu
+  - Demonstrates how these hordes keep Iolanu from becoming a united world (partly)
   - Safe observation from the boat in the middle of a wide river - allows Gabby to see the danger without being in immediate peril
   - Introduces the monster threat and its political/social impact
 
@@ -105,13 +105,13 @@ An educational tour for new Earth soul Gabby D'Olivier, designed to show her how
 
 ## Purpose
 - Educational tour for new Earther (Gabby)
-- Show her how Iolinus really works
+- Show her how Iolanu really works
 - Introduction to cultures, politics, dangers
 - Apostasy recruitment/integration
-- Each leg has specific "goals" - educational/pedagogical purposes designed to teach Gabby about different aspects of Iolinus
+- Each leg has specific "goals" - educational/pedagogical purposes designed to teach Gabby about different aspects of Iolanu
 
 ## Educational Goals by Leg
-Each leg of the tour has specific educational purposes designed to introduce Gabby (and the reader) to different aspects of Iolinus safely and systematically.
+Each leg of the tour has specific educational purposes designed to introduce Gabby (and the reader) to different aspects of Iolanu safely and systematically.
 
 ## The Eight-Person Party
 1. **Loisa Xialing** - Primary mentor, strategist, civic face
@@ -131,6 +131,6 @@ Each leg of the tour has specific educational purposes designed to introduce Gab
 ## Notes
 - **Status:** Canon route for Book 1: "The Nalan Apostasy"
 - **Purpose:** Educational and integration-focused orientation tour
-- **Narrative Function:** Allows natural world-building and character development as Gabby experiences Iolinus for the first time
+- **Narrative Function:** Allows natural world-building and character development as Gabby experiences Iolanu for the first time
 - **Many Details:** This overview covers the basic route - many specific events, encounters, cultural introductions, and character moments occur throughout the journey
 

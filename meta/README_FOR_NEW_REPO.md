@@ -4,9 +4,9 @@
 
 You are setting up a new repository that will contain:
 1. **An over-universe framework** (the primary source of truth)
-2. **Iolinus** (a subordinate story/world that demonstrates the framework)
+2. **Iolanu** (a subordinate story/world that demonstrates the framework)
 
-All files from the Iolinus project are being provided to you. Your job is to reorganize them into the framework-primary structure.
+All files from the Iolanu project are being provided to you. Your job is to reorganize them into the framework-primary structure.
 
 ## Your Task
 
@@ -15,12 +15,12 @@ All files from the Iolinus project are being provided to you. Your job is to reo
 3. **Move all files** - Preserve content, reorganize into new locations
 4. **Create new documentation** - Framework READMEs, consistency docs, etc.
 5. **Update all links** - Fix internal references to match new structure
-6. **Document conformance** - Show how Iolinus conforms to framework
+6. **Document conformance** - Show how Iolanu conforms to framework
 
 ## Key Principles
 
 - **Framework is PRIMARY** - `FRAMEWORK.md` is the source of truth
-- **Iolinus is SUBORDINATE** - Must conform to framework rules
+- **Iolanu is SUBORDINATE** - Must conform to framework rules
 - **Preserve everything** - Don't delete content, reorganize it
 - **Process for contradictions** - Framework wins, but can evolve
 
@@ -33,7 +33,7 @@ over-universe-repo/
 ├── oververse/                         # Detailed framework docs
 ├── worlds/
 │   ├── README.md                      # Worlds index
-│   └── iolinus/                       # Iolinus story (subordinate)
+│   └── iolanu/                       # Iolanu story (subordinate)
 └── meta/                              # Meta-documentation
 ```
 
@@ -48,21 +48,21 @@ over-universe-repo/
 
 ### Step 1: Create Structure
 - Create all directories from `MIGRATION_PACKAGE.md`
-- Set up oververse/, worlds/iolinus/, meta/
+- Set up oververse/, worlds/iolanu/, meta/
 
 ### Step 2: Move Framework
 - Copy `OVER_UNIVERSE_FRAMEWORK.md` → `FRAMEWORK.md` (root)
 - Extract sections to create `oververse/` detailed docs
 
-### Step 3: Move Iolinus
-- Move all Iolinus content to `worlds/iolinus/` per manifest
+### Step 3: Move Iolanu
+- Move all Iolanu content to `worlds/iolanu/` per manifest
 - Preserve all directory structure and files
 
 ### Step 4: Create New Docs
 - Root `README.md` - Overview of over-universe
 - `worlds/README.md` - Index of worlds
-- `worlds/iolinus/README.md` - Rewrite as subordinate world (see template in FRAMEWORK_PRIMARY_STRUCTURE.md)
-- `worlds/iolinus/CONSISTENCY_CHECK.md` - Document how Iolinus conforms
+- `worlds/iolanu/README.md` - Rewrite as subordinate world (see template in FRAMEWORK_PRIMARY_STRUCTURE.md)
+- `worlds/iolanu/CONSISTENCY_CHECK.md` - Document how Iolanu conforms
 - `meta/CONSISTENCY_PROCESS.md` - Process for handling contradictions
 - `meta/CHANGE_LOG.md` - Framework change tracking
 
@@ -72,8 +72,8 @@ over-universe-repo/
 - Fix cross-references
 
 ### Step 6: Document Conformance
-- In `worlds/iolinus/CONSISTENCY_CHECK.md`, document:
-  - How Iolinus demonstrates framework elements
+- In `worlds/iolanu/CONSISTENCY_CHECK.md`, document:
+  - How Iolanu demonstrates framework elements
   - Which framework rules it follows
   - Any variations or expansions
   - Framework elements it uses (Nala, Zeta, soul transfer, etc.)
@@ -81,7 +81,7 @@ over-universe-repo/
 ## Important Notes
 
 - **Don't delete anything** - Reorganize, don't remove
-- **Framework is primary** - Iolinus README should state it's subordinate
+- **Framework is primary** - Iolanu README should state it's subordinate
 - **All content preserved** - Just moved to new locations
 - **Links must be updated** - Old relative paths won't work
 - **New structure is clear** - Framework primary, stories subordinate
@@ -90,16 +90,16 @@ over-universe-repo/
 
 As you reorganize, document:
 
-1. How does Iolinus conform to the framework?
-2. Which framework elements does Iolinus demonstrate?
-3. Are there any contradictions? (If so, Iolinus needs to change)
+1. How does Iolanu conform to the framework?
+2. Which framework elements does Iolanu demonstrate?
+3. Are there any contradictions? (If so, Iolanu needs to change)
 4. What new documentation is needed?
 
 ## Success Criteria
 
 - [ ] All files moved to correct locations
 - [ ] Framework.md is at root
-- [ ] Iolinus content is in worlds/iolinus/
+- [ ] Iolanu content is in worlds/iolanu/
 - [ ] All new README files created
 - [ ] Consistency documentation created
 - [ ] All internal links updated

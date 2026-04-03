@@ -18,7 +18,7 @@ Monsters are not natural creatures, but horrors spawned directly from quantum ri
 - Massive, permanent tear in reality
 - Unpredictable edges that "flap around unpredictably"
 - Quantum fluctuations manifest physically from this tear
-- An existential threat to Iolinus
+- An existential threat to Iolanu
 
 ### Effects
 - Unpredictable edges cause quantum fluctuations to manifest physically
@@ -146,7 +146,7 @@ Monsters are not natural creatures, but horrors spawned directly from quantum ri
 ### For Nala's Apostasy
 - Monsters and rifts create chaos and distraction
 - Allows Apostasy to operate beneath notice
-- But also threatens all life on Iolinus
+- But also threatens all life on Iolanu
 - May need Godshards to seal rift (conflict with preventing Malachor's return)
 
 ### For Locquodian Order

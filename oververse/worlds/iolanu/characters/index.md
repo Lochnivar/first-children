@@ -18,12 +18,12 @@
 - [Chance Hodgkins](antagonists/chance_hodgkins.md) - Ancient Quantumancer, disembodied soul, seeks to complete the Shattering
 
 ## Groups
-- [Earth Souls on Iolinus](groups/earth_souls.md) - Earth souls brought by Nala to serve as agents
+- [Earth Souls on Iolanu](groups/earth_souls.md) - Earth souls brought by Nala to serve as agents
 - [Earth Souls List (Provisional)](groups/earth_souls_list.md) - List of 20 Earth souls from AI-DUMP2 discussion (exploratory)
 
 ## Deities / Divine Beings
 - [Nala](../world-building/cosmology/nala_goddess.md) - Goddess of liberation, fighting against her brother Zeta
-- [Zeta](../world-building/cosmology/zeta_god.md) - God of Iolinus, creator of the world who holds all life hostage
+- [Zeta](../world-building/cosmology/zeta_god.md) - God of Iolanu, creator of the world who holds all life hostage
 - [Character Name](template.md) - Brief description
 
 ## Minor Characters

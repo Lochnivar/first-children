@@ -1,8 +1,8 @@
 # Books
 
-**Organization:** Book-level content for the Iolinus novel series.
+**Organization:** Book-level content for the Iolanu novel series.
 
-This directory contains documentation for individual books in the Iolinus series. Each book has its own subdirectory with book-specific content including arcs, outlines, character focuses, and other book-level documentation.
+This directory contains documentation for individual books in the Iolanu series. Each book has its own subdirectory with book-specific content including arcs, outlines, character focuses, and other book-level documentation.
 
 ## Book Structure
 

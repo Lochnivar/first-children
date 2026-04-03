@@ -51,7 +51,7 @@ Potential narrative threads and story hooks for Stratara, demonstrating how the 
 ### Crossover Liberation
 
 **Concept:**
-- Souls from Iolinus (or another world) get pulled in for a liberation operation
+- Souls from Iolanu (or another world) get pulled in for a liberation operation
 - These transferred souls bring foreign quantum interfaces
 - The foreign interfaces glitch the board
 - The game's mechanics break down

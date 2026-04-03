@@ -104,7 +104,7 @@ Mad, driven by nihilistic desire for complete oblivion. Suffers from eternal qua
 - **End:** [TBD - antagonist arc]
 
 ## Motivations
-Complete the Shattering to achieve complete oblivion and escape the eternal quantum haze. End his suffering through universal annihilation (or at least Iolinus and surroundings). Obtain a body to finish the quantum work.
+Complete the Shattering to achieve complete oblivion and escape the eternal quantum haze. End his suffering through universal annihilation (or at least Iolanu and surroundings). Obtain a body to finish the quantum work.
 
 ## Secrets & Hidden Aspects
 The full extent of his power and his ability to hijack Greyroses may not be fully understood by the Apostasy. His connection to the quantum haze means even death offers no escape—his soul is still trapped in the madness.

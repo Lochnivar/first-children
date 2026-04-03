@@ -1,7 +1,7 @@
 # Orindibar Desert
 
 **Type:** Natural Feature / Geographic Region  
-**Region:** Central Iolinus (magnetic desert between A'Thohalla and Orindibar)  
+**Region:** Central Iolanu (magnetic desert between A'Thohalla and Orindibar)  
 **Related Locations:** [Rathen Mountains](rathen_mountains.md), City of Orindibar  
 **Related Cultures:** Orindi (magnet-safe desert ascetics), Rathen (terrace graft-keepers, Orindi-derived)  
 **Significance:** Demonstrates the power and danger of ancient Quantumancers; key location in Book 1 orientation tour

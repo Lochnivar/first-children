@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Prologue"
-world: iolinus
+world: iolanu
 book: the-nalan-apostasy
 order: 0
 ---
@@ -62,15 +62,15 @@ Nala's voice sounded amused with the little joke.
 
 "Fighting a god?" Gabby wasn't sure she was ready for that.
 
-"No, you won't be fighting him. He's currently invulnerable. He can't be killed. Even if I managed to kill him, his death would extinguish all life on Iolinus."
+"No, you won't be fighting him. He's currently invulnerable. He can't be killed. Even if I managed to kill him, his death would extinguish all life on Iolanu."
 
-"Iolinus?"
+"Iolanu?"
 
 "Let me show you."
 
 The first images began to fill the void. They weren't made of light. They were thoughts made manifest in Gabby's consciousness. A world appeared, and Gabby felt a breath that she couldn't take catch. It was only one side of the planet with two massive continents straddling the equator. There were massive mountain ranges and lush vegetation. There was a desert, a rather large one, but most of what she could see was verdant.
 
-"This is my brother's world, Iolinus," Nala said. "There are a few other lands on the far side, but they aren't important now; this is where we are fighting."
+"This is my brother's world, Iolanu," Nala said. "There are a few other lands on the far side, but they aren't important now; this is where we are fighting."
 
 "Why are you fighting?" Gabby felt confused. "This is his world, right?"
 
@@ -82,11 +82,11 @@ The first images began to fill the void. They weren't made of light. They were t
 
 "You're right, I don't understand. Why did you let him go unpunished if he broke your law?"
 
-"Because, for all of Zeta's faults, he is also very clever. We can't take direct action because he tied his life force to his creation. If we punished him as he deserves, remember what I said earlier—his death would mean the death of every hint of life on Iolinus. There are millions of sentient, intelligent beings on that planet, and Zeta knows he is holding them hostage."
+"Because, for all of Zeta's faults, he is also very clever. We can't take direct action because he tied his life force to his creation. If we punished him as he deserves, remember what I said earlier—his death would mean the death of every hint of life on Iolanu. There are millions of sentient, intelligent beings on that planet, and Zeta knows he is holding them hostage."
 
 "So this is pointless?" Gabby said. "I mean, if you can't kill him or punish him, then there is no point fighting him."
 
-"We can't punish him yet," Nala corrected her. "I have a plan, but it means we have to break the intelligent species from Zeta's grasp and evacuate them. And that's where you come in here, Gabby. I need your perspective, and some others, if I'm going to break Iolinus free. Once the intelligent species are evacuated, Zeta won't have any more hostages. I can rebuild a world of plants and animals. It's the souls that I can't bear to vanish into oblivion when Zeta dies."
+"We can't punish him yet," Nala corrected her. "I have a plan, but it means we have to break the intelligent species from Zeta's grasp and evacuate them. And that's where you come in here, Gabby. I need your perspective, and some others, if I'm going to break Iolanu free. Once the intelligent species are evacuated, Zeta won't have any more hostages. I can rebuild a world of plants and animals. It's the souls that I can't bear to vanish into oblivion when Zeta dies."
 
 "You've completely lost me," Gabby said.
 
@@ -106,9 +106,9 @@ Gabby thought a moment.
 
 "That this body that you have ready for me, at this exact time, is a little too convenient. The fact that you can repair the damage from a fever bad enough to kill so that you can transplant me seems odd—that you couldn't simply heal her of that fever before she died. I'm not stupid."
 
-There was a pause as Nala seemed to readjust her mental footing. "No," Nala said finally. "You are certainly not stupid. You are correct, that body was not a random one that just happened to be available when I needed one. Her name was Laila, and she was very special to me. As you guessed, she was a sacrifice to bring you to Iolinus. Laila was one of my most devout, and she volunteered for this."
+There was a pause as Nala seemed to readjust her mental footing. "No," Nala said finally. "You are certainly not stupid. You are correct, that body was not a random one that just happened to be available when I needed one. Her name was Laila, and she was very special to me. As you guessed, she was a sacrifice to bring you to Iolanu. Laila was one of my most devout, and she volunteered for this."
 
-"I also have to warn you that my freedom of action on Iolinus is very limited. I can only speak to you directly here because we aren't on Iolinus and, thus, outside of his awareness. Once you are there, I can't talk with you or directly assist you. That would mean coming out too openly and the number of times I can risk that are very limited."
+"I also have to warn you that my freedom of action on Iolanu is very limited. I can only speak to you directly here because we aren't on Iolanu and, thus, outside of his awareness. Once you are there, I can't talk with you or directly assist you. That would mean coming out too openly and the number of times I can risk that are very limited."
 
 "I understand," Gabby said. "I will be alone?"
 

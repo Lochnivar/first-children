@@ -5,7 +5,7 @@
 **Note:** This information comes from AI-DUMP2 discussion and may be exploratory or subject to change
 
 ## Overview
-A comprehensive cheat sheet for identifying Iolinus cultures, with Earth references, physical traits, clothing cues, narrative identifiers, and recreation seeds. Each entry contains fusion notes or lineage updates to help quickly identify and describe members of each culture.
+A comprehensive cheat sheet for identifying Iolanu cultures, with Earth references, physical traits, clothing cues, narrative identifiers, and recreation seeds. Each entry contains fusion notes or lineage updates to help quickly identify and describe members of each culture.
 
 ## Cultures
 
@@ -125,7 +125,7 @@ A comprehensive cheat sheet for identifying Iolinus cultures, with Earth referen
 ## Usage Notes
 - **Recreation Seeds:** Drop into future chats to recall the full profile
 - **Quick Reference:** Each entry designed for quick identification
-- **Fusion Approach:** Earth reference + Iolinus adaptation
+- **Fusion Approach:** Earth reference + Iolanu adaptation
 
 ## Notes
 - **Status:** This information comes from AI-DUMP2 discussion and may be exploratory

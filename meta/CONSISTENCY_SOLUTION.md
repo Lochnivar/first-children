@@ -3,21 +3,21 @@
 ## The Problem
 
 **Two repos = consistency nightmare:**
-- Changes to framework might contradict Iolinus details
-- Changes to Iolinus might invalidate framework
+- Changes to framework might contradict Iolanu details
+- Changes to Iolanu might invalidate framework
 - Hard to know which is authoritative
 - Risk of contradictions growing over time
 - Difficult to maintain sync
 
-## The Solution: Iolinus Repo as Single Source of Truth
+## The Solution: This repository as single source of truth
 
-### Approach: Framework Lives IN Iolinus Repo
+### Approach: Framework lives in this repo (first-children)
 
-**Structure in Iolinus repo:**
+**Structure:**
 ```
-iolinus/
-├── README.md                          # Iolinus project overview
-├── [existing structure]               # All current Iolinus content
+iolanu/
+├── README.md                          # Iolanu project overview
+├── [existing structure]               # All current Iolanu content
 │
 ├── oververse/                         # Over-universe framework
 │   ├── README.md                      # Framework overview
@@ -33,52 +33,52 @@ iolinus/
 ```
 
 **Benefits:**
-- ✅ Single source of truth (Iolinus repo)
-- ✅ Framework extracted FROM Iolinus (not imposed on it)
-- ✅ Changes in Iolinus automatically inform framework
+- ✅ Single source of truth (this repository)
+- ✅ Framework extracted FROM Iolanu (not imposed on it)
+- ✅ Changes in Iolanu automatically inform framework
 - ✅ No sync issues
-- ✅ Framework documents what Iolinus demonstrates
-- ✅ Can evolve framework as Iolinus develops
+- ✅ Framework documents what Iolanu demonstrates
+- ✅ Can evolve framework as Iolanu develops
 
-### Change Flow: Iolinus → Framework
+### Change Flow: Iolanu → Framework
 
 **Direction of Authority:**
-1. **Iolinus story/details are PRIMARY** (source of truth)
-2. **Framework documents/extracts** universal principles FROM Iolinus
-3. **When Iolinus changes**, framework is updated to reflect it
-4. **Framework doesn't impose** rules on Iolinus - it documents what exists
+1. **Iolanu story/details are PRIMARY** (source of truth)
+2. **Framework documents/extracts** universal principles FROM Iolanu
+3. **When Iolanu changes**, framework is updated to reflect it
+4. **Framework doesn't impose** rules on Iolanu - it documents what exists
 
 **Process:**
-- Change Iolinus → Extract/update framework to match
-- Framework change → Check against Iolinus → If contradiction, Iolinus wins, framework adjusts
+- Change Iolanu → Extract/update framework to match
+- Framework change → Check against Iolanu → If contradiction, Iolanu wins, framework adjusts
 
 ---
 
 ## Alternative: Reverse Extract Approach
 
-### Framework as "Living Document" Derived from Iolinus
+### Framework as "Living Document" Derived from Iolanu
 
 **The framework document should:**
-- Be written as "extracted from Iolinus" not "applied to Iolinus"
-- Explicitly reference Iolinus as the source
-- State: "This framework is derived from Iolinus. Iolinus details take precedence."
-- Be updated when Iolinus changes, not the other way around
+- Be written as "extracted from Iolanu" not "applied to Iolanu"
+- Explicitly reference Iolanu as the source
+- State: "This framework is derived from Iolanu. Iolanu details take precedence."
+- Be updated when Iolanu changes, not the other way around
 
 **In framework document, add:**
 
 ```markdown
 ## Source of Truth
 
-**Iolinus is the primary source of truth for this framework.**
+**Iolanu is the primary source of truth for this framework.**
 
-This framework document extracts universal principles demonstrated in Iolinus. 
-If contradictions arise between this framework and Iolinus details:
+This framework document extracts universal principles demonstrated in Iolanu. 
+If contradictions arise between this framework and Iolanu details:
 
-1. Iolinus details are authoritative
-2. This framework should be updated to match Iolinus
-3. Framework changes that would contradict Iolinus are invalid
+1. Iolanu details are authoritative
+2. This framework should be updated to match Iolanu
+3. Framework changes that would contradict Iolanu are invalid
 
-The framework documents what exists in Iolinus, not what should exist.
+The framework documents what exists in Iolanu, not what should exist.
 ```
 
 ---
@@ -88,10 +88,10 @@ The framework documents what exists in Iolinus, not what should exist.
 ### Recommended Structure
 
 ```
-iolinus/
-├── README.md                          # "Iolinus: A story in Hypatia"
+iolanu/
+├── README.md                          # "Iolanu: A story in Hypatia"
 │
-├── story/                             # Iolinus story-specific content
+├── story/                             # Iolanu story-specific content
 │   ├── characters/
 │   ├── world-building/
 │   ├── locations/
@@ -99,7 +99,7 @@ iolinus/
 │   └── relationships/
 │
 ├── oververse/                         # Over-universe framework
-│   ├── README.md                      # "Universal framework extracted from Iolinus"
+│   ├── README.md                      # "Universal framework extracted from Iolanu"
 │   ├── cosmology.md                   # Big G God, First Children
 │   ├── metaphysics.md                 # Quantumancy, soul transfer
 │   ├── rules.md                       # Consistency rules
@@ -117,14 +117,14 @@ iolinus/
 ### How It Works
 
 **Story Content (story/):**
-- All Iolinus-specific details
+- All Iolanu-specific details
 - Characters, world-building, plots
 - This is the PRIMARY source of truth
 - Can change freely
 
 **Framework Content (oververse/):**
 - Extracted universal principles
-- Documents what Iolinus demonstrates
+- Documents what Iolanu demonstrates
 - Updated when story changes
 - Provides structure for future stories
 
@@ -135,17 +135,17 @@ iolinus/
 
 ### Change Process
 
-**When Iolinus story changes:**
+**When Iolanu story changes:**
 1. Update story content in `story/`
 2. Review if change affects universal principles
 3. If yes, update `oververse/` to reflect new reality
 4. Update `meta/CONSISTENCY_NOTES.md` if needed
 
 **When considering framework change:**
-1. Check if it contradicts Iolinus story
+1. Check if it contradicts Iolanu story
 2. If contradiction, either:
-   - Reject framework change (Iolinus is source of truth)
-   - Or update Iolinus story to match (if intentional expansion)
+   - Reject framework change (Iolanu is source of truth)
+   - Or update Iolanu story to match (if intentional expansion)
 3. Document decision in CONSISTENCY_NOTES.md
 
 ---
@@ -154,11 +154,11 @@ iolinus/
 
 ### Step-by-Step
 
-1. **Create `oververse/` directory** in Iolinus repo
+1. **Create `oververse/` directory** in this repository
 2. **Move OVER_UNIVERSE_FRAMEWORK.md** to `oververse/`
 3. **Add oververse/README.md** that explains:
-   - This framework is extracted from Iolinus
-   - Iolinus is the source of truth
+   - This framework is extracted from Iolanu
+   - Iolanu is the source of truth
    - Framework documents universal principles
 4. **Create meta/CONSISTENCY_NOTES.md** documenting:
    - How framework relates to story
@@ -178,37 +178,37 @@ iolinus/
 **For future stories:**
 - Create new repos that reference framework
 - Or add to this repo under `stories/` directory
-- Framework remains extracted from Iolinus (first example)
+- Framework remains extracted from Iolanu (first example)
 
 ---
 
 ## Example: How Framework Updates Work
 
-### Scenario: You add a new First Child to Iolinus
+### Scenario: You add a new First Child to Iolanu
 
 **Current Situation:**
 - Framework says "First Children can create worlds"
-- You introduce a First Child in Iolinus who has never created a world
+- You introduce a First Child in Iolanu who has never created a world
 
 **Process:**
-1. Add First Child to Iolinus story content
+1. Add First Child to Iolanu story content
 2. Check framework: Does it still accurately describe First Children?
 3. Update framework if needed: "First Children CAN create worlds, but not all do"
-4. Framework now reflects what exists in Iolinus
+4. Framework now reflects what exists in Iolanu
 
 **Result:** No contradiction, framework updated to match story
 
-### Scenario: Framework suggests a rule that contradicts Iolinus
+### Scenario: Framework suggests a rule that contradicts Iolanu
 
 **Current Situation:**
 - Framework says "Soul transfer always requires greyrose"
-- But in Iolinus, you want a different mechanism
+- But in Iolanu, you want a different mechanism
 
 **Process:**
-1. Check contradiction: Does Iolinus need this mechanism?
-2. Iolinus is source of truth
-3. Update framework: "Soul transfer mechanisms vary. In Iolinus, greyrose is used. Other worlds may use different mechanisms."
-4. Framework now allows variation based on Iolinus reality
+1. Check contradiction: Does Iolanu need this mechanism?
+2. Iolanu is source of truth
+3. Update framework: "Soul transfer mechanisms vary. In Iolanu, greyrose is used. Other worlds may use different mechanisms."
+4. Framework now allows variation based on Iolanu reality
 
 **Result:** Framework adapts to story, not vice versa
 
@@ -221,9 +221,9 @@ iolinus/
 
 ## Source of Truth Principle
 
-**Iolinus story details are the primary source of truth.**
+**Iolanu story details are the primary source of truth.**
 
-The framework in `oververse/` extracts universal principles from Iolinus.
+The framework in `oververse/` extracts universal principles from Iolanu.
 It documents what exists, not what should exist.
 
 ## Change Process
@@ -234,10 +234,10 @@ It documents what exists, not what should exist.
 
 ## Known Relationships
 
-- Framework cosmology matches Iolinus cosmology
-- Framework First Children examples are Nala and Zeta from Iolinus
-- Framework soul transfer mechanism based on Iolinus greyroses
-- Framework liberation structure based on Nala's plan in Iolinus
+- Framework cosmology matches Iolanu cosmology
+- Framework First Children examples are Nala and Zeta from Iolanu
+- Framework soul transfer mechanism based on Iolanu greyroses
+- Framework liberation structure based on Nala's plan in Iolanu
 
 ## Future Stories
 
@@ -252,13 +252,13 @@ When creating new stories:
 
 ## Recommendation
 
-**Keep everything in the Iolinus repo.**
+**Keep everything in this repository.**
 
 1. Add `oververse/` directory with framework documents
 2. Add `meta/CONSISTENCY_NOTES.md` explaining the relationship
 3. Update root README to mention framework
-4. Treat framework as "extracted from Iolinus" not "applied to Iolinus"
-5. When changes happen, Iolinus wins, framework adapts
+4. Treat framework as "extracted from Iolanu" not "applied to Iolanu"
+5. When changes happen, Iolanu wins, framework adapts
 
 This gives you:
 - Single source of truth

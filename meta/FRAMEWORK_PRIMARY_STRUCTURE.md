@@ -1,12 +1,12 @@
-# Framework-Primary Structure: Iolinus as Subordinate Story
+# Framework-Primary Structure: Iolanu as Subordinate Story
 
 ## Revised Approach: Over-Universe as Primary
 
-Since Iolinus is a **subordinate book within Hypatia**, the framework is the source of truth, not Iolinus.
+Since Iolanu is a **subordinate book within Hypatia**, the framework is the source of truth, not Iolanu.
 
 ### Core Principle
 
-**Hypatia framework defines the rules. Iolinus must conform to those rules.**
+**Hypatia framework defines the rules. Iolanu must conform to those rules.**
 
 This is like Brandon Sanderson's Cosmere:
 - Cosmere rules are established
@@ -27,10 +27,10 @@ over-universe-repo/
 │
 ├── worlds/                            # All stories/worlds (SUBORDINATE)
 │   ├── README.md                      # Index of all worlds
-│   ├── iolinus/                       # Iolinus story (one example)
-│   │   ├── README.md                  # "Iolinus: A world in Hypatia"
-│   │   ├── [all Iolinus content from current repo]
-│   │   └── CONSISTENCY_CHECK.md       # How Iolinus conforms to framework
+│   ├── iolanu/                       # Iolanu story (one example)
+│   │   ├── README.md                  # "Iolanu: A world in Hypatia"
+│   │   ├── [all Iolanu content from current repo]
+│   │   └── CONSISTENCY_CHECK.md       # How Iolanu conforms to framework
 │   └── [future-world]/                # Future stories
 │
 ├── oververse/                         # Detailed framework docs
@@ -52,7 +52,7 @@ over-universe-repo/
 
 **Direction of Authority:**
 1. **Framework is PRIMARY** (source of truth)
-2. **Stories (including Iolinus) are SUBORDINATE** (must conform)
+2. **Stories (including Iolanu) are SUBORDINATE** (must conform)
 3. **When framework changes**, stories update to match
 4. **When story contradicts**, story changes OR framework expands (if intentional)
 
@@ -81,37 +81,37 @@ over-universe-repo/
 
 ---
 
-## Implementation: Migrate Iolinus to Framework-Primary Structure
+## Implementation: Migrate Iolanu to Framework-Primary Structure
 
-### Option 1: Create New Repo, Copy Iolinus Into It
+### Option 1: Create New Repo, Copy Iolanu Into It
 
 **Steps:**
 1. Create new repo (e.g., `over-universe` or `multiverse`)
 2. Copy OVER_UNIVERSE_FRAMEWORK.md → FRAMEWORK.md (root)
-3. Copy entire Iolinus repo → `worlds/iolinus/`
+3. Copy entire Iolanu repo → `worlds/iolanu/`
 4. Create oververse/ directory with detailed docs
 5. Create meta/CONSISTENCY_PROCESS.md
-6. Update worlds/iolinus/README.md to state it's subordinate
-7. Create worlds/iolinus/CONSISTENCY_CHECK.md documenting how it conforms
+6. Update worlds/iolanu/README.md to state it's subordinate
+7. Create worlds/iolanu/CONSISTENCY_CHECK.md documenting how it conforms
 
-**Result:** Clean structure, framework primary, Iolinus subordinate
+**Result:** Clean structure, framework primary, Iolanu subordinate
 
-### Option 2: Restructure Current Iolinus Repo
+### Option 2: Restructure Current Iolanu Repo
 
 **Steps:**
 1. Create `oververse/` directory
 2. Move OVER_UNIVERSE_FRAMEWORK.md → `oververse/FRAMEWORK.md`
 3. Create `oververse/README.md` stating it's primary source of truth
-4. Wrap existing content in `worlds/iolinus/` structure:
-   - Move characters/ → `worlds/iolinus/characters/`
-   - Move world-building/ → `worlds/iolinus/world-building/`
-   - Move locations/ → `worlds/iolinus/locations/`
-   - Move plots/ → `worlds/iolinus/plots/`
-   - Move relationships/ → `worlds/iolinus/relationships/`
-   - Move timeline/ → `worlds/iolinus/timeline/`
-   - Move meta/ → `worlds/iolinus/meta/`
-5. Create `worlds/iolinus/README.md` stating it's subordinate to framework
-6. Create `worlds/iolinus/CONSISTENCY_CHECK.md`
+4. Wrap existing content in `worlds/iolanu/` structure:
+   - Move characters/ → `worlds/iolanu/characters/`
+   - Move world-building/ → `worlds/iolanu/world-building/`
+   - Move locations/ → `worlds/iolanu/locations/`
+   - Move plots/ → `worlds/iolanu/plots/`
+   - Move relationships/ → `worlds/iolanu/relationships/`
+   - Move timeline/ → `worlds/iolanu/timeline/`
+   - Move meta/ → `worlds/iolanu/meta/`
+5. Create `worlds/iolanu/README.md` stating it's subordinate to framework
+6. Create `worlds/iolanu/CONSISTENCY_CHECK.md`
 7. Create `meta/CONSISTENCY_PROCESS.md` at root
 8. Update root README.md to reflect framework-primary structure
 
@@ -179,35 +179,35 @@ All stories in `worlds/` are SUBORDINATE and must conform to framework rules.
 
 ---
 
-## Worlds/Iolinus Structure
+## Worlds/Iolanu Structure
 
 ```
-worlds/iolinus/
-├── README.md                          # "Iolinus: A World in Hypatia"
+worlds/iolanu/
+├── README.md                          # "Iolanu: A World in Hypatia"
 │   # States: This world conforms to Hypatia framework
 │   # Links to oververse/FRAMEWORK.md
 │
-├── CONSISTENCY_CHECK.md               # How Iolinus conforms to framework
+├── CONSISTENCY_CHECK.md               # How Iolanu conforms to framework
 │   # - Which framework elements it demonstrates
 │   # - How it uses universal rules
 │   # - Any intentional variations or expansions
 │   # - Last consistency audit date
 │
-├── characters/                        # Iolinus characters
-├── world-building/                    # Iolinus world-building (story-specific)
-├── locations/                         # Iolinus locations
-├── plots/                            # Iolinus plots
-├── relationships/                     # Iolinus relationships
-├── timeline/                          # Iolinus timeline
-└── meta/                             # Iolinus meta-docs
+├── characters/                        # Iolanu characters
+├── world-building/                    # Iolanu world-building (story-specific)
+├── locations/                         # Iolanu locations
+├── plots/                            # Iolanu plots
+├── relationships/                     # Iolanu relationships
+├── timeline/                          # Iolanu timeline
+└── meta/                             # Iolanu meta-docs
     ├── PREMISE_TONE_PERSPECTIVE.md
     └── AI_REFRESHER.md
 ```
 
-### Iolinus README Template
+### Iolanu README Template
 
 ```markdown
-# Iolinus
+# Iolanu
 
 **Status:** Story/World in Hypatia  
 **Framework Conformance:** [Status]  
@@ -215,21 +215,21 @@ worlds/iolinus/
 
 ## Overview
 
-Iolinus is one world/story within the [Over-Universe Framework](../oververse/FRAMEWORK.md).
+Iolanu is one world/story within the [Over-Universe Framework](../oververse/FRAMEWORK.md).
 This world demonstrates various framework concepts while telling its own story.
 
 ## Framework Elements Demonstrated
 
 - First Children: Nala and Zeta/Malachor
-- World Creation: Iolinus created against prohibition
+- World Creation: Iolanu created against prohibition
 - Life Force Binding: Zeta bound to his creation
 - Soul Transfer: Earth souls transported via greyrose mechanism
-- Liberation Operation: Nala's plan to free Iolinus
+- Liberation Operation: Nala's plan to free Iolanu
 - Quantum Abilities: Five fragments manifested in mortals
 
 ## How This World Conforms
 
-- [List specific ways Iolinus follows framework rules]
+- [List specific ways Iolanu follows framework rules]
 - [Note any intentional variations]
 - [Reference framework sections]
 
@@ -291,7 +291,7 @@ But the main solution is:
 
 1. Create new `over-universe` repo
 2. Copy framework to root (FRAMEWORK.md)
-3. Copy Iolinus to `worlds/iolinus/`
+3. Copy Iolanu to `worlds/iolanu/`
 4. Set up consistency process documents
 5. Establish clear "framework is primary" principle
 

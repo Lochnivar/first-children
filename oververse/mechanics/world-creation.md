@@ -1,7 +1,7 @@
 # World Creation and Life Force Binding
 
 **Status:** Framework Element - Universal  
-**Source:** Extracted from Iolinus example (Zeta/Malachor claiming Iolinus via bootleg)  
+**Source:** Extracted from Iolanu example (Zeta/Malachor claiming Iolanu via bootleg)  
 **Related:** [First Children](first-children.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
 
 ## Overview
@@ -47,47 +47,47 @@ First Children can create worlds/realms. The legality of world creation is deter
 - **Enforcement** = First Children enforce their own moralistic rules—other First Children may attempt to enforce their judgments, but enforcement is complicated (especially with life force binding)
 - Peer judgments and enforcement attempts have consequences, but practical constraints limit effectiveness
 
-### Iolinus Example
+### Iolanu Example
 - Claimed by Zeta/Malachor against peer judgment (prohibition)—he didn't create it
 - Ripped off a bootleg copy of Earth thousands of years ago, too lazy to do his own work
 - The bootleg was proof he was **too immature**—what really pissed off the other First Children
-- He claimed Iolinus anyway, despite their judgment
+- He claimed Iolanu anyway, despite their judgment
 - Two massive continents straddling the equator (rearranged from the source)
 - Features: Mountain ranges, lush vegetation, large desert
 - Created when attention of other First Children waned
 - Result: To their shame, they failed to stop him before he claimed it, despite having judged him unready
 
-## Life Force Binding (Iolinus-Specific)
+## Life Force Binding (Iolanu-Specific)
 
-**Important Note:** Life force binding is **NOT a universal framework element**. It is **Iolinus-specific**—a tool created by Malachor for his situation. Other worlds may have similar mechanisms, but none have been created yet. This section documents how it works in Iolinus as an example, not as a universal rule.
+**Important Note:** Life force binding is **NOT a universal framework element**. It is **Iolanu-specific**—a tool created by Malachor for his situation. Other worlds may have similar mechanisms, but none have been created yet. This section documents how it works in Iolanu as an example, not as a universal rule.
 
-### The Iolinus Mechanism
-- Malachor bound his life force to Iolinus
-- If Malachor dies, all life on Iolinus dies
+### The Iolanu Mechanism
+- Malachor bound his life force to Iolanu
+- If Malachor dies, all life on Iolanu dies
 - Creates invulnerability through hostage-taking
 - Prevents direct intervention by other First Children
 
-### The Hostage Situation (Iolinus)
-- All life on Iolinus is held hostage
+### The Hostage Situation (Iolanu)
+- All life on Iolanu is held hostage
 - Direct punishment of Malachor would kill all life
 - Malachor knows he is holding hostages
 - Other First Children cannot take direct action without killing millions
 
-### Ethical Implications (Iolinus Example)
+### Ethical Implications (Iolanu Example)
 - Used by Malachor to avoid punishment
 - Makes liberation difficult and dangerous
 - Requires careful, hidden operations
 - Creates moral complexity in conflicts
 
-### Breaking the Binding (Iolinus)
+### Breaking the Binding (Iolanu)
 - Binding can only be broken by freeing the souls/life from the binding
 - Liberation requires evacuating or freeing the bound life
 - Once free, creator can be punished without killing all life
 - Liberation is complex and must be done carefully
 
-### Nala's Liberation Plan (Iolinus)
+### Nala's Liberation Plan (Iolanu)
 1. Break the intelligent species from Malachor's grasp
-2. Evacuate them from Iolinus
+2. Evacuate them from Iolanu
 3. Once evacuated, Malachor will have no more hostages
 4. Then Malachor can be punished without killing all life
 5. Nala can rebuild a world of plants and animals—it's the souls she can't bear to vanish
@@ -95,7 +95,7 @@ First Children can create worlds/realms. The legality of world creation is deter
 ### Framework Implications
 - This demonstrates how a First Child might create a protective mechanism
 - Other worlds may have different protective mechanisms or none at all
-- Life force binding itself is not a universal framework rule—it's Iolinus-specific
+- Life force binding itself is not a universal framework rule—it's Iolanu-specific
 - Similar mechanisms might exist on other worlds, but none have been created yet
 
 ## Variations Across Worlds
@@ -139,7 +139,7 @@ First Children can create worlds/realms. The legality of world creation is deter
 ### What Must Remain Consistent
 - First Children can create worlds
 - Creating against peer judgment (e.g., judged too immature) is "against prohibition"
-- Life force binding is NOT a universal constant—it is Iolinus-specific (Malachor's tool)
+- Life force binding is NOT a universal constant—it is Iolanu-specific (Malachor's tool)
 - Other worlds may have similar protective mechanisms, but none have been created yet
 
 ### What Can Vary
@@ -172,7 +172,7 @@ First Children can create worlds/realms. The legality of world creation is deter
 
 ## Notes
 
-- Iolinus is one example of prohibited creation with binding
+- Iolanu is one example of prohibited creation with binding
 - Other worlds may have different situations
 - Framework allows for variation in methods and details
 - Core concept: creation is possible, binding is possible, liberation is complex
@@ -181,6 +181,6 @@ First Children can create worlds/realms. The legality of world creation is deter
 
 *For First Children details, see [cosmology/first-children.md](../cosmology/first-children.md)*  
 *For liberation operation patterns, see [liberation-operations.md](liberation-operations.md)*  
-*For Iolinus-specific details, see [worlds/iolinus/world-building/cosmology/zeta_god.md](../worlds/iolinus/world-building/cosmology/zeta_god.md)*  
+*For Iolanu-specific details, see [worlds/iolanu/world-building/cosmology/zeta_god.md](../worlds/iolanu/world-building/cosmology/zeta_god.md)*  
 *For framework overview, see [../FRAMEWORK.md](../../FRAMEWORK.md)*
 

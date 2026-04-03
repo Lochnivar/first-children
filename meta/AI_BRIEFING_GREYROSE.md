@@ -1,7 +1,7 @@
-# AI Briefing: The Greyrose (Iolinus-Specific)
+# AI Briefing: The Greyrose (Iolanu-Specific)
 
-**Purpose:** Comprehensive overview of the Greyrose system for AI assistants working on Iolinus  
-**Scope:** Iolinus-specific soul transfer mechanism  
+**Purpose:** Comprehensive overview of the Greyrose system for AI assistants working on Iolanu  
+**Scope:** Iolanu-specific soul transfer mechanism  
 **Framework Reference:** See [Soul Transfer](../oververse/mechanics/soul-transfer.md) for universal mechanics  
 **Last Updated:** December 2024
 
@@ -9,10 +9,10 @@
 
 ## Executive Summary
 
-**Greyroses** are the Iolinus-specific mechanism for soul transfer, created by Nala as her interface to Earth souls and as marks of Apostasy membership. They are actual roses embedded in flesh (NOT tattoos) that enable soul transfer, blood purification, and contain a suicide mechanism. Discovery by the Church of Malachor is a death sentence.
+**Greyroses** are the Iolanu-specific mechanism for soul transfer, created by Nala as her interface to Earth souls and as marks of Apostasy membership. They are actual roses embedded in flesh (NOT tattoos) that enable soul transfer, blood purification, and contain a suicide mechanism. Discovery by the Church of Malachor is a death sentence.
 
 **Key Points:**
-- Iolinus-specific implementation of universal soul transfer mechanics
+- Iolanu-specific implementation of universal soul transfer mechanics
 - Created by Nala after the Shattering to enable liberation operations
 - Two-stage process: native volunteers become 'rosed (cached), then Earth souls transfer in
 - Soul stack architecture: physical layer (hardware) vs. soul layer (operating system)
@@ -26,14 +26,14 @@
 
 **Framework Rule:** Soul transfer requires mechanisms (greyrose-equivalent). First Children can transport souls between worlds for strategic purposes (typically liberation operations).
 
-**Iolinus Implementation:** Greyroses are Nala's specific mechanism. Other worlds may use different interfaces (amulets, rituals, portals, etc.). See [oververse/mechanics/soul-transfer.md](../oververse/mechanics/soul-transfer.md) for universal details.
+**Iolanu Implementation:** Greyroses are Nala's specific mechanism. Other worlds may use different interfaces (amulets, rituals, portals, etc.). See [oververse/mechanics/soul-transfer.md](../oververse/mechanics/soul-transfer.md) for universal details.
 
 ### Earth as Source World
 
 **Earth's Status:** Earth is a world within Hypatia—a "control" world with no magic and minimal First Children involvement. Earth souls weren't shaped by First Children influence, providing valuable "outside perspective" for liberation operations.
 
 **Why Earth Souls:**
-- Outside perspective on Iolinus situation
+- Outside perspective on Iolanu situation
 - Not shaped by Malachor's influence
 - Valuable for liberation missions
 - Limited numbers to avoid detection
@@ -195,7 +195,7 @@ Think of it as **hardware vs. operating system**:
 
 **Purpose:**
 - Purifies blood (specific function unclear)
-- May be related to keeping Earth souls healthy in Iolinus bodies
+- May be related to keeping Earth souls healthy in Iolanu bodies
 - Could be part of the soul transfer mechanism
 - Maintains body compatibility
 
@@ -460,13 +460,13 @@ Think of it as **hardware vs. operating system**:
 
 **Conforms to Framework:**
 - Soul transfer requires mechanisms (framework rule)
-- Greyrose is Iolinus-specific mechanism (framework allows)
+- Greyrose is Iolanu-specific mechanism (framework allows)
 - First Children can enable transfers (framework capability)
 - Limited in scope (framework constraint)
 - Operational security important (framework pattern)
 - Souls retain identity/personality (framework rule)
 
-**Iolinus-Specific Expansions:**
+**Iolanu-Specific Expansions:**
 - Physical rose embedded in flesh
 - Two-stage process (caching then transfer)
 - Soul stack architecture
@@ -479,10 +479,10 @@ Think of it as **hardware vs. operating system**:
 
 ## Key Documents
 
-**Iolinus-Specific:**
-- `oververse/worlds/iolinus/world-building/organizations/greyroses.md` - Complete Greyrose documentation
-- `oververse/worlds/iolinus/characters/groups/earth_souls.md` - Earth souls documentation
-- `oververse/worlds/iolinus/characters/main/gabby_dolivier.md` - Gabby's character profile
+**Iolanu-Specific:**
+- `oververse/worlds/iolanu/world-building/organizations/greyroses.md` - Complete Greyrose documentation
+- `oververse/worlds/iolanu/characters/groups/earth_souls.md` - Earth souls documentation
+- `oververse/worlds/iolanu/characters/main/gabby_dolivier.md` - Gabby's character profile
 
 **Framework:**
 - `oververse/mechanics/soul-transfer.md` - Universal soul transfer mechanics
@@ -504,5 +504,5 @@ Think of it as **hardware vs. operating system**:
 
 ---
 
-*This briefing focuses on Iolinus-specific Greyrose mechanics. For universal soul transfer framework, see [oververse/mechanics/soul-transfer.md](../oververse/mechanics/soul-transfer.md).*
+*This briefing focuses on Iolanu-specific Greyrose mechanics. For universal soul transfer framework, see [oververse/mechanics/soul-transfer.md](../oververse/mechanics/soul-transfer.md).*
 

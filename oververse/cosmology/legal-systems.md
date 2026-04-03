@@ -12,7 +12,7 @@ There is **no galactic consensus**—no unified legal code, no United Species Co
 
 - **FC Immaturity & Absence** — The First Children are powerful but emotionally stunted. They don't form councils or empires; they compete, experiment, and withdraw. A unified galactic government would require maturity they don't have.
 - **The Cross as Exception, Not Rule** — Mercara's Cross is the one deliberate attempt at neutral ground—a meeting place for siblings who otherwise avoid each other. It's not a capital; it's a compromise. Most species never see it or even know it exists.
-- **Isolation by Design** — Many worlds are sealed (like Iolinus), remote, or regressed. Species that survived their own trials are focused on their own survival—not galactic politics.
+- **Isolation by Design** — Many worlds are sealed (like Iolanu), remote, or regressed. Species that survived their own trials are focused on their own survival—not galactic politics.
 - **Human-Centric Perspective** — From Earth's POV, the multiverse is not a connected community. It's a sudden, terrifying intrusion of strangers with their own rules, customs, and justice systems. No overarching authority makes every interaction raw and high-stakes.
 
 ## How Legal Systems Work in Practice

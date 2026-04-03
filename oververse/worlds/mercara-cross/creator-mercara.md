@@ -121,7 +121,7 @@ Mercara (The Cross Owner, The Crossroads Keeper) is the First Child who created 
 - Bound by Prime Author physical laws and quantum uncertainty like all First Children.
 
 **Peer & Platform Relations**
-- Honors peer-judgment seals (for example, Platform 1237 / Iolinus) as part of the larger system.
+- Honors peer-judgment seals (for example, Platform 1237 / Iolanu) as part of the larger system.
 - Siblings find Mercara's coordination endearing, exasperating, or both; most respect the Cross's utility and defer to her stewardship.
 - Not seeking supremacy; retains neutrality and focuses on connection and system integrity.
 

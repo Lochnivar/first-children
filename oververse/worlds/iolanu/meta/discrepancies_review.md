@@ -13,7 +13,7 @@
 - **"Zetahat" / "Jet hat"** - Slang/derogatory terms used by Earth souls
 
 ### Usage Notes:
-- Both names refer to the same god who created Iolinus
+- Both names refer to the same god who created Iolanu
 - The name progression reflects historical/chronological changes
 - Different characters/cultures may use different names depending on context, age, or tradition
 - Earth souls may use "Zeta" or slang terms, while the Church uses "Malachor"
@@ -23,7 +23,7 @@
 ### 1. Theological Framework
 **Established:**
 - Nala is a goddess (little 'g')
-- Zeta/Malachor created Iolinus (same entity, different names from different ages)
+- Zeta/Malachor created Iolanu (same entity, different names from different ages)
 
 **AI-DUMP:**
 - Uses "Malachor" (current age name)
@@ -35,7 +35,7 @@
 
 ### 2. Nala's Involvement in Shattering
 **Established:**
-- Nala fighting to free Iolinus from Zeta
+- Nala fighting to free Iolanu from Zeta
 
 **AI-DUMP:**
 - Nala influenced Quantumancers to destroy Godstone

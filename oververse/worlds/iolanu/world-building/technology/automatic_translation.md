@@ -1,10 +1,10 @@
 # Automatic Translation Ability
 
 **Category:** World-Building / Zeta's Modifications  
-**Related Characters:** All humans on Iolinus
+**Related Characters:** All humans on Iolanu
 
 ## Overview
-Zeta has modified humans on Iolinus with a preset ability to automatically translate whatever someone says into their native tongue. This is one of Zeta's "little modifications" to humans on the world.
+Zeta has modified humans on Iolanu with a preset ability to automatically translate whatever someone says into their native tongue. This is one of Zeta's "little modifications" to humans on the world.
 
 ## How It Works
 - **Automatic:** The brain automatically translates whatever someone says into the listener's native tongue
@@ -19,7 +19,7 @@ Zeta has modified humans on Iolinus with a preset ability to automatically trans
 
 ## Notes
 - This is a modification made by Zeta, not a natural ability
-- It affects all humans on Iolinus
+- It affects all humans on Iolanu
 - It can be consciously overridden with practice
 - Useful for secret communication—if you override the translation, you can speak in a language others won't understand
 

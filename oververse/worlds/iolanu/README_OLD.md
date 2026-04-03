@@ -1,6 +1,6 @@
-# Iolinus World Bible
+# Iolanu World Bible
 
-**A comprehensive world-building reference for the Iolinus novel series.**
+**A comprehensive world-building reference for the Iolanu novel series.**
 
 ## Project Structure
 
@@ -32,7 +32,7 @@ This project is organized into clear categories:
 - **Quantum-Adjacent Abilities:** Five power system (Quantumancers, Readers, Weavers, Echoes, Nullwraiths)
 - **The Shattering:** Historical event that shattered the Godstone into seven Godshards
 - **Godshards:** Central plot artifacts - fragments of the shattered Godstone
-- **Nalan Apostasy:** Organization fighting to free Iolinus from Malachor
+- **Nalan Apostasy:** Organization fighting to free Iolanu from Malachor
 - **Church of Malachor:** Dominant religious institution enforcing orthodoxy
 - **Locquodian Order:** Faction preventing political unification
 

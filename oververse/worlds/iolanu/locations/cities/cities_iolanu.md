@@ -1,4 +1,4 @@
-# Cities of Iolinus
+# Cities of Iolanu
 
 **Status:** World-Building / Locations  
 **Note:** This is a complete list of cities and locations. Previous handwritten OCR'd versions have been corrected with this authoritative list.

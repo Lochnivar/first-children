@@ -1,10 +1,11 @@
-# DIALOGUE_PAGE (scratch / redirect)
+# DIALOGUE_PAGE (redirect)
 
-This filename is **scratch space** only. **Do not** treat it as canonical story or setting storage.
+Draft notes and experiments may still land here during writing sessions.
 
-**Atahom (The Shattered Descent)** — canonical world bible:
+**Canonical First Speech cosmology** (glyphs, roots, Malachor’s tag, scholarly reliability table) lives in:
 
-- **[`oververse/worlds/atahom/world-building/README.md`](oververse/worlds/atahom/world-building/README.md)** — index (overview, narrative framing, First Speech lexicon, stacks, calendar, Guild, theology, …)
-- **[`oververse/worlds/atahom.md`](oververse/worlds/atahom.md)** — Hypatia framework entry (`'THM`, links)
+**[oververse/cosmology/first-speech.md](oververse/cosmology/first-speech.md)**
 
-Draft fragments, dialogue experiments, and working notes belong here until filed under `oververse/worlds/atahom/` or elsewhere.
+Trial-fiction naming (world tokens, quest OS strings) remains distinct: [First Speech conventions (trials & quest interfaces)](oververse/mechanics/first-speech-conventions.md).
+
+Do not treat this file as setting storage unless it explicitly points at or excerpts the canonical doc above.

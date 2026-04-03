@@ -15,7 +15,7 @@ The Locquodian Order is dedicated to preventing any central world empire from ar
 - Absolute power, absolute madness
 
 ### The Shattering
-- Godstone = Malachor's connection to Iolinus
+- Godstone = Malachor's connection to Iolanu
 - Was shattered into seven pieces (seven Godshards)
 - Malachor's direct control broken
 - End of God-King reign
@@ -80,7 +80,7 @@ The Locquodian Order is dedicated to preventing any central world empire from ar
 - What's their exact threshold for "too large"?
 
 ## Notes
-- Critical faction that shapes Iolinus politics
+- Critical faction that shapes Iolanu politics
 - Prevents both Malachor's return to power AND potential resistance unity
 - Creates interesting three-way dynamic (Church, Apostasy, Locquodians)
 - May guard or control Godshards to prevent Godstone reassembly

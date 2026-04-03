@@ -5,7 +5,7 @@
 **Note:** This list comes from AI-DUMP2 discussion and appears to be exploratory. Many details may be provisional or subject to change.
 
 ## Overview
-A list of 20 Earth souls with their origins, host cultures, and low-magic skills. The list emphasizes that all skills are purely human ingenuity, training, or cultural knowledge - no supernatural effects. This appears to be part of a discussion about keeping Iolinus low-magic.
+A list of 20 Earth souls with their origins, host cultures, and low-magic skills. The list emphasizes that all skills are purely human ingenuity, training, or cultural knowledge - no supernatural effects. This appears to be part of a discussion about keeping Iolanu low-magic.
 
 ## The List (Provisional)
 
@@ -78,7 +78,7 @@ A list of 20 Earth souls with their origins, host cultures, and low-magic skills
 ### Low-Magic Approach
 - All skills are pure human ingenuity, training, or cultural knowledge
 - No spells, no spirit-binding, no supernatural effects
-- Iolinus is a generally low-magic world with a few notable exceptions
+- Iolanu is a generally low-magic world with a few notable exceptions
 - Malachor has no answer for them because he never learned how to beat ordinary mortals who are simply better at being human
 
 ### Why Nala Paid the Price

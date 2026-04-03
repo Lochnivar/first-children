@@ -38,7 +38,7 @@ These are the cosmological constants that must remain consistent across all worl
 
 ### Note on Life Force Binding
 - Life force binding is **NOT a universal framework constant**
-- It is **Iolinus-specific**—a tool created by Malachor for his situation
+- It is **Iolanu-specific**—a tool created by Malachor for his situation
 - Other worlds may have similar mechanisms, but none have been created yet
 - This is an example of world-specific elements, not a universal framework rule
 

@@ -1,6 +1,6 @@
 # Timeline Index
 
-Chronological tracking of events in the Iolinus world.
+Chronological tracking of events in the Iolanu world.
 
 ## Templates
 - [Timeline Template](template.md) - Template for documenting chronological events

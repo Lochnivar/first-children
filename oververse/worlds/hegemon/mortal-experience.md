@@ -20,7 +20,7 @@ Mortals on Hegemon live real lives with real stakes while their destinies are sh
 **Framework Alignment:**
 - Open cosmology variant (framework allows)
 - Mortals aware of First Children (framework variant)
-- Different from closed cosmology (like Iolinus)
+- Different from closed cosmology (like Iolanu)
 
 ### Cultural Reactions
 

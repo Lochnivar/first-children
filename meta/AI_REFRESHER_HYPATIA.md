@@ -10,7 +10,7 @@
 
 **Hypatia** is the over-universe framework (conceptually "The Library") containing all worlds (conceptually "Books"). The framework establishes universal cosmological rules, metaphysics, mechanics, and principles that govern all worlds within Hypatia.
 
-**Key Principle:** The framework is the PRIMARY source of truth. Individual worlds (like Iolinus) are SUBORDINATE and must conform to framework rules, though they may expand or provide exceptions for world-specific elements.
+**Key Principle:** The framework is the PRIMARY source of truth. Individual worlds (like Iolanu) are SUBORDINATE and must conform to framework rules, though they may expand or provide exceptions for world-specific elements.
 
 **Document Hierarchy:**
 1. `FRAMEWORK.md` (Root) = PRIMARY SOURCE OF TRUTH
@@ -335,7 +335,7 @@ All existence operates at the quantum layer:
 
 **Documentation:** See `oververse/races/` for detailed race documentation.
 
-**Voice & Dialogue Reference:** When writing species dialogue, character voice, or inter-species interaction, use per-species files under `oververse/races/` (see `oververse/races/README.md`) and `meta/SPECIES_TRUISMS.md`. *Homo bovinus*: `oververse/races/homo/bovinus.md`. `DIALOGUE_PAGE.md` (repo root) is a **redirect stub** only; Algernon cast/trial material lives under `oververse/worlds/algernon/`.
+**Voice & Dialogue Reference:** When writing species dialogue, character voice, or inter-species interaction, use per-species files under `oververse/races/` (see `oververse/races/README.md`) and `meta/SPECIES_TRUISMS.md`. *Homo bovinus*: `oververse/races/homo/bovinus.md`. `DIALOGUE_PAGE.md` (repo root) is a **redirect stub** only; Algernon cast/trial material lives under `oververse/worlds/algernon/`. **First Speech (cosmology — glyphs, YLN/Iolanu):** `oververse/cosmology/first-speech.md`.
 
 **Species Truisms:** Use as a check when writing scenes. After drafting, ask: does what I wrote fit this species' truism? See `meta/SPECIES_TRUISMS.md`. Canonical truisms (Gnoll, Corvani, Iridari, Quedari, Otter-folk) plus proposed truisms for other species (including Homo bovinus).
 
@@ -343,13 +343,13 @@ All existence operates at the quantum layer:
 
 ## Known Worlds (Quick Reference)
 
-**Mercara's Cross:** Liminal nexus where portals converge. Mercara (owner) + Virelle (transit) + Nummus (banking) + Legara (contracts). Grand Anchor stabilizes rifts. Key platforms: 7 (Delverium), 12 (Hegemon), **934 (Earth)**, 1237 (Iolinus—SEALED).
+**Mercara's Cross:** Liminal nexus where portals converge. Mercara (owner) + Virelle (transit) + Nummus (banking) + Legara (contracts). Grand Anchor stabilizes rifts. Key platforms: 7 (Delverium), 12 (Hegemon), **934 (Earth)**, 1237 (Iolanu—SEALED).
 
 **Earth:** Will undergo trial (world-to-dungeon transformation). Narrative focus: human survival in drastically changed world. Manchester (Platform 934 terminus) = ground zero. Prep Year → walls → Gatelocks → integration metric. Independent contractors deploy via Platform 934; species bring own legal codes; no galactic authority. See `oververse/worlds/earth/` for Earth-specific mechanics.
 
-**Iolinus:** Malachor's bootleg; sealed (Platform 1237 blocked). Ripped off Earth thousands of years ago—too lazy to create; the bootleg proved he was too immature. Almost exclusively human; no Panspermia species. Liberation operations; Nala working to free mortals; Earth souls from the original returning to free the copy. See `oververse/worlds/iolinus/AI-REFRESHER.md` for Iolinus-specific details.
+**Iolanu:** Malachor's bootleg; sealed (Platform 1237 blocked). Ripped off Earth thousands of years ago—too lazy to create; the bootleg proved he was too immature. Almost exclusively human; no Panspermia species. Liberation operations; Nala working to free mortals; Earth souls from the original returning to free the copy. See `oververse/worlds/iolanu/AI-REFRESHER.md` for Iolanu-specific details.
 
-**Background Canon (Author-Only — Not Yet Reader-Facing):** Malachor = Moloch-adjacent. Framework Demiurge is Moloch-like, not Yahweh; Marcion/Gnostics misidentified. Malachor has impersonated other gods (including Yahweh) to get mortals to do his bidding. The "overthrow of the Demiurge" = other FC tired of his griefing; Nala's liberation = guild booting the griefer. **Nala's benevolence open:** She may be the pissed-off sister running a chaos-tolerance experiment on Iolinus (the closed system). The benevolent framing is from Earthers' perspective—she presents as benevolent to encourage willing Greyrose recruits. See `oververse/cosmology/marcionite-theology.md` (Moloch Correction).
+**Background Canon (Author-Only — Not Yet Reader-Facing):** Malachor = Moloch-adjacent. Framework Demiurge is Moloch-like, not Yahweh; Marcion/Gnostics misidentified. Malachor has impersonated other gods (including Yahweh) to get mortals to do his bidding. The "overthrow of the Demiurge" = other FC tired of his griefing; Nala's liberation = guild booting the griefer. **Nala's benevolence open:** She may be the pissed-off sister running a chaos-tolerance experiment on Iolanu (the closed system). The benevolent framing is from Earthers' perspective—she presents as benevolent to encourage willing Greyrose recruits. See `oververse/cosmology/marcionite-theology.md` (Moloch Correction).
 
 **Algernon:** Keyes's experiment world. Central dungeon as phase-transition delivery mechanism. LitRPG framing via TheWay. See `oververse/worlds/algernon/`; Team [planet] / 'RTH registry: `oververse/worlds/algernon/world-building/team-planet-trials.md`; Ward's party (Team Earth): `oververse/worlds/algernon/characters/supporting/ward-party-team-earth.md`.
 
@@ -528,7 +528,7 @@ Individual world documentation contains world-specific details that are either:
 - `oververse/narrative/` - Story types, character types, themes
 - `oververse/philosophy/` - Balance and imbalance principle
 - `oververse/races/` - Intelligent species available across worlds (genetic repo, genus structure)
-- `oververse/worlds/` - Framework-level documentation of known worlds (Iolinus, Mercara's Cross, Earth, etc.)
+- `oververse/worlds/` - Framework-level documentation of known worlds (Iolanu, Mercara's Cross, Earth, etc.)
 - `DIALOGUE_PAGE.md` (root) - Redirect stub; species voice lives in `oververse/races/` + `meta/SPECIES_TRUISMS.md`
 - `meta/SPECIES_TRUISMS.md` - Species truisms as validation check; does the scene fit?
 
@@ -556,5 +556,5 @@ Individual world documentation contains world-specific details that are either:
 
 ---
 
-*This refresher focuses exclusively on the Hypatia framework. For world-specific details: Iolinus → `oververse/worlds/iolinus/AI-REFRESHER.md`; Earth → `oververse/worlds/earth/AI-REFRESHER.md`; Mercara's Cross → `oververse/worlds/mercara-cross/AI-REFRESHER.md`.*
+*This refresher focuses exclusively on the Hypatia framework. For world-specific details: Iolanu → `oververse/worlds/iolanu/AI-REFRESHER.md`; Earth → `oververse/worlds/earth/AI-REFRESHER.md`; Mercara's Cross → `oververse/worlds/mercara-cross/AI-REFRESHER.md`.*
 

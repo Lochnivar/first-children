@@ -49,7 +49,7 @@ A historical event that occurred years before Gabby's orientation tour. Loisa's 
 - **Emotional:** No romantic feelings, just absurd situation
 - **Processing:** Handled it in modern/Earther style, processed quickly
 
-### Grayson's Response (Iolinus Traditional)
+### Grayson's Response (Iolanu Traditional)
 - **Cultural significance:** Intimacy = significant to his culture
 - **Processing time:** Took YEARS to process
 - **Emotional impact:** Still embarrassed, reddens automatically
@@ -103,7 +103,7 @@ A historical event that occurred years before Gabby's orientation tour. Loisa's 
 
 ### Character Development
 - Defines Loisa and Grayson's friendship
-- Shows cultural collision (Earther vs. Iolinus traditional)
+- Shows cultural collision (Earther vs. Iolanu traditional)
 - Demonstrates different processing of same event
 - Creates inside joke and bonding mechanism
 - Shows growth and adaptation over time
@@ -116,7 +116,7 @@ A historical event that occurred years before Gabby's orientation tour. Loisa's 
 
 ### Cultural Exploration
 - Explores Llosca modesty standards
-- Contrasts Earther and Iolinus perspectives on intimacy
+- Contrasts Earther and Iolanu perspectives on intimacy
 - Shows how cultures process relationships differently
 - Demonstrates operational adaptation to cultural norms
 

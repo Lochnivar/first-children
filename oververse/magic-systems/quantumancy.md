@@ -1,7 +1,7 @@
 # Quantumancy
 
 **Status:** Framework Element - Universal  
-**Source:** Extracted from Iolinus examples  
+**Source:** Extracted from Iolanu examples  
 **Related:** [First Children](first-children.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
 
 ## Overview
@@ -10,9 +10,9 @@ Quantumancy is the full spectrum of quantum manipulation abilities possessed onl
 
 ## Full Quantumancy (First Children Only)
 
-First Children possess full Quantumancy—effectively all abilities at once, not split into fragments. The split into separate abilities (like the 5 on Iolinus) is an implementation limitation imposed on mortals by world creators, not how First Children experience Quantumancy.
+First Children possess full Quantumancy—effectively all abilities at once, not split into fragments. The split into separate abilities (like the 5 on Iolanu) is an implementation limitation imposed on mortals by world creators, not how First Children experience Quantumancy.
 
-**Note:** The 5 abilities listed below (Quantumancers, Readers, Weavers, Echoes, Nullwraiths) are how they manifest on Iolinus after Malachor's split. First Children have all these capabilities combined seamlessly:
+**Note:** The 5 abilities listed below (Quantumancers, Readers, Weavers, Echoes, Nullwraiths) are how they manifest on Iolanu after Malachor's split. First Children have all these capabilities combined seamlessly:
 
 1. **Quantumancers** - Manipulate quantum reality, collapse possibilities into reality
 2. **Readers** - Read quantum states (truth/current reality)
@@ -55,7 +55,7 @@ First Children possess full Quantumancy—effectively all abilities at once, not
 
 **Scaling Across Worlds:**
 - Different First Children/worlds may use different anchor types:
-  - Artifacts (the Godstone is Iolinus's specific implementation—other worlds might have similar concepts but different artifacts)
+  - Artifacts (the Godstone is Iolanu's specific implementation—other worlds might have similar concepts but different artifacts)
   - Networks of living souls
   - Cosmic lattices
   - Nothing at all (for impermanent changes)
@@ -125,7 +125,7 @@ Mortals may manifest fragments of Quantumancy - typically as separate, limited a
 
 ## World-Specific Manifestations
 
-### Iolinus Example
+### Iolanu Example
 - Five separate abilities manifest in mortals
 - All persecuted by Church and mobs
 - Active powers (Quantumancers) functionally extinct
@@ -134,28 +134,28 @@ Mortals may manifest fragments of Quantumancy - typically as separate, limited a
 
 ### Variations Across Worlds
 - Different worlds may manifest quantum abilities differently
-- **Different numbers of fragments:** Other worlds may have different numbers of fragments (there might be more than 5 total across all worlds, but not on Iolinus)
+- **Different numbers of fragments:** Other worlds may have different numbers of fragments (there might be more than 5 total across all worlds, but not on Iolanu)
 - **Different splits:** The way abilities are split is world-specific—each world creator may impose their own implementation
 - Some worlds may call them different names
 - Persecution levels vary by world (from accepted to hunted)
 - Rules and limitations may differ
 - Some worlds may not have mortal quantum abilities at all
-- **Iolinus is one specific implementation:** The 5 abilities on Iolinus are Malachor's implementation, not a universal standard
+- **Iolanu is one specific implementation:** The 5 abilities on Iolanu are Malachor's implementation, not a universal standard
 
 ## Rules and Guidelines
 
 ### What Must Remain Consistent
 - First Children have full Quantumancy (all abilities combined, effectively all abilities at once—not split into fragments)
 - Mortals have fragmented versions (if they manifest at all)
-- The way abilities are split/fragmented is world-specific—imposed by the world creator (e.g., Malachor imposed the 5-split on Iolinus)
-- There might be more than 5 fragment types across all worlds, but the 5 on Iolinus are Iolinus-specific
+- The way abilities are split/fragmented is world-specific—imposed by the world creator (e.g., Malachor imposed the 5-split on Iolanu)
+- There might be more than 5 fragment types across all worlds, but the 5 on Iolanu are Iolanu-specific
 - Quantum abilities relate to reality manipulation at fundamental level
 - Abilities have rules and limitations
 - Mortal abilities are less powerful than First Children's
 
 ### What Can Vary
-- How many fragments exist (five is Iolinus-specific—there might be more than 5 across all worlds, but not on Iolinus)
-- How abilities are split (imposed by world creator—Malachor chose 5 for Iolinus)
+- How many fragments exist (five is Iolanu-specific—there might be more than 5 across all worlds, but not on Iolanu)
+- How abilities are split (imposed by world creator—Malachor chose 5 for Iolanu)
 - What each fragment does (details can vary)
 - Naming conventions (quantum-adjacent, magic, etc.)
 - Persecution levels (from accepted to hunted)
@@ -181,7 +181,7 @@ Mortals may manifest fragments of Quantumancy - typically as separate, limited a
 ## Notes
 
 - Quantumancy is the universal force, but manifestations vary
-- Iolinus shows one way quantum abilities can manifest
+- Iolanu shows one way quantum abilities can manifest
 - Other worlds may have completely different systems
 - The key is that they all relate to quantum-level reality manipulation
 - Framework allows for creative variation while maintaining core concept
@@ -189,6 +189,6 @@ Mortals may manifest fragments of Quantumancy - typically as separate, limited a
 ---
 
 *For First Children details, see [cosmology/first-children.md](../cosmology/first-children.md)*  
-*For Iolinus-specific quantum abilities, see [worlds/iolinus/world-building/magic-systems/quantum_abilities.md](../worlds/iolinus/world-building/magic-systems/quantum_abilities.md)*  
+*For Iolanu-specific quantum abilities, see [worlds/iolanu/world-building/magic-systems/quantum_abilities.md](../worlds/iolanu/world-building/magic-systems/quantum_abilities.md)*  
 *For framework overview, see [../FRAMEWORK.md](../../FRAMEWORK.md)*
 

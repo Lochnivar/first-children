@@ -19,8 +19,8 @@ Hypatia establishes the universal rules, cosmology, and metaphysics that govern 
 
 **World Details = Expansions or Exceptions**
 - **Expansions:** World-specific details that add more depth and specificity within the framework rules
-  - Example: Framework says "mortals may have fragmented quantum abilities" → Iolinus expands this with specific five abilities
-  - Example: Framework establishes soul transfer mechanics → Iolinus expands with greyrose-specific implementation
+  - Example: Framework says "mortals may have fragmented quantum abilities" → Iolanu expands this with specific five abilities
+  - Example: Framework establishes soul transfer mechanics → Iolanu expands with greyrose-specific implementation
 - **Exceptions:** World-specific variations that work within or modify general rules
   - Example: Framework establishes universal principles → World may have unique cultural interpretations
   - Example: Framework provides patterns → World demonstrates a variation of those patterns
@@ -45,7 +45,7 @@ The oververse/ directory is organized into categories similar to world-building 
 
 ### [Cosmology](cosmology/)
 - **[The Prime Author](cosmology/big-g-god.md)** - The true deity, structural presence (the substrate itself)
-- **[First Speech](cosmology/first-speech.md)** - Original conceptual framework and terminology from the Prime Author
+- **[First Speech (cosmology)](cosmology/first-speech.md)** - Prime Author vocabulary (*hypatia*); FC waveform layer; mortal glyphs (triconsonantal roots, `!'YLN` / Iolanu, scholarly reliability). Distinct from [First Speech conventions (trials)](mechanics/first-speech-conventions.md) (HUD / world tokens).
 - **[Marcionite Theological Inspiration](cosmology/marcionite-theology.md)** - Theological framework structure
 - **[First Children](cosmology/first-children.md)** - Little 'g' gods, children of Prime Author
 
@@ -87,7 +87,7 @@ The oververse/ directory is organized into categories similar to world-building 
 
 ### [Worlds](worlds/)
 - **[Known Worlds](worlds/README.md)** - Framework-level documentation of known worlds
-- **[Iolinus](worlds/iolinus.md)** - Framework summary of Iolinus
+- **[Iolanu](worlds/iolanu.md)** - Framework summary of Iolanu
 
 ## Framework Overview
 
@@ -123,7 +123,7 @@ The Hypatia framework establishes:
 - **Quantumancy** - Full quantum manipulation (First Children only)
 - **Quantum Abilities** - Fragmented versions in mortals (varies by world)
 - **Soul Transfer** - Mechanism for moving souls between worlds
-- **Protective Mechanisms** - Worlds may have protective mechanisms (life force binding is Iolinus-specific)
+- **Protective Mechanisms** - Worlds may have protective mechanisms (life force binding is Iolanu-specific)
 - **Prohibitions** - Laws established by Big 'G' God that First Children may violate
 
 ---

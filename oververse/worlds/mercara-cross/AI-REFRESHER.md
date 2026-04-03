@@ -74,7 +74,7 @@
 | 12 | **Hegemon** | Conquest game board; restricted diplomatic |
 | 934 | **Earth** | Liberation soul source; mostly inbound; independent contractors deploy for trial; integration desk for confused arrivals |
 | 1201 | **Stratara** | Twin to Hegemon; experimental ruleset |
-| 1237 | **Iolinus** | **SEALED** — Malachor blockade, peer judgment. No traffic. |
+| 1237 | **Iolanu** | **SEALED** — Malachor blockade, peer judgment. No traffic. |
 | 1247 | **Edgeflux** | Current highest stable platform; frontier, experimental |
 
 ---
@@ -149,4 +149,4 @@
 - Soul transfer requires mechanisms (Grand Anchor = greyrose-equivalent)
 - FC can create specialized entities (Riftkeepers by Virelle); Elves = Mercara's contribution to genetic repo (PR-focused homo staff)
 - Neutral ground; commerce emerged organically
-- Honors peer judgment seals (Iolinus)
+- Honors peer judgment seals (Iolanu)

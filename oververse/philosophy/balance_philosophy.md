@@ -56,9 +56,9 @@ This principle applies across all worlds and stories:
 - Personal balance (lives, choices, growth)
 - Narrative balance (stability, disruption, resolution)
 
-## Iolinus Example
+## Iolanu Example
 
-On Iolinus, this principle manifests in:
+On Iolanu, this principle manifests in:
 - The balance maintained by Zeta's rule vs. the imbalance of liberation
 - The balance of society vs. the disruption of Earth souls
 - The balance of quantum forces vs. the imbalance of the Shattering

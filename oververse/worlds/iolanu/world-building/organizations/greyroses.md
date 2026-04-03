@@ -55,7 +55,7 @@ Greyroses are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apos
 
 ### Blood Purification
 - Purifies blood (specific function unclear)
-- May be related to keeping Earth souls healthy in Iolinus bodies
+- May be related to keeping Earth souls healthy in Iolanu bodies
 - Could be part of the soul transfer mechanism
 
 ### Suicide Mechanism (Toxin Bulb)
@@ -133,7 +133,7 @@ Greyroses are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apos
 ### Soul Transfer Mechanism
 - Makes soul transfer possible (Gabby's case)
 - Laila's body was prepared with greyrose for Gabby's soul
-- Part of the ritual that enables Earth souls to inhabit Iolinus bodies
+- Part of the ritual that enables Earth souls to inhabit Iolanu bodies
 
 ### Nala's Connection
 - Interface point for Nala's communication/power

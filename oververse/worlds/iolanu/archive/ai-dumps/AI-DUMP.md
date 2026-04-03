@@ -4,18 +4,18 @@ Ah! That's a really interesting detail that adds a whole layer to the conflict.
 
 So we have:
 
-Mala'chor - Ancient, established, has the divine title. His position on Iolinus is old/entrenched enough that the language reflects his divine status.
+Mala'chor - Ancient, established, has the divine title. His position on Iolanu is old/entrenched enough that the language reflects his divine status.
 
 Nala - "Recent addition to the theology" - newer, no suffix yet. This suggests:
 
-She's an insurgent/upstart in Iolinus's religious landscape
+She's an insurgent/upstart in Iolanu's religious landscape
 Her followers are a newer movement (which fits the resistance angle)
 Malachor's reign has been long-established before she started intervening
-The grey rose followers might be a relatively recent phenomenon in Iolinus's history
+The grey rose followers might be a relatively recent phenomenon in Iolanu's history
 Questions this raises:
 Timeline:
 
-How long has Malachor ruled Iolinus? Centuries? Millennia?
+How long has Malachor ruled Iolanu? Centuries? Millennia?
 How long has Nala been building her resistance? Years? Decades?
 When did the first grey rose followers appear?
 Theological implications:
@@ -42,7 +42,7 @@ Gnostic Demiurge concept - A lesser divine being who created the material world,
 How this maps beautifully to your story:
 Malachor as Demiurge:
 
-Creator of Iolinus (the material world)
+Creator of Iolanu (the material world)
 Flawed ("immature spoiled brat, lacks compassion/wisdom")
 Established, entrenched, ancient ('chor title)
 His creation is essentially a prison (people are hostages)
@@ -87,13 +87,13 @@ Are subject to their own rules/limitations
 Crucially: No divine parent is coming to fix Malachor's mess
 Malachor - The Demiurge
 
-Created Iolinus against prohibition
+Created Iolanu against prohibition
 Flawed creator making a flawed (or at least hostage) world
 Protected by his own cleverness (life-force binding)
 Ancient, established, has divine title
 Nala - The Liberator
 
-Newer, no divine authority on Iolinus yet
+Newer, no divine authority on Iolanu yet
 Working within severe constraints
 Can't appeal to higher authority for help
 Must build liberation from the ground up
@@ -108,7 +108,7 @@ The "we failed" aspect hits harder - When Nala says "to our shame, we failed to 
 
 Questions:
 
-Do the people of Iolinus know about Big G? Or only about Malachor (and maybe now Nala)?
+Do the people of Iolanu know about Big G? Or only about Malachor (and maybe now Nala)?
 What do the other gods think of Nala's plan? Are they supportive but can't help? Disapproving? Divided?
 Is there any communication between Big G and the gods? Or is the silence complete?
 Why was Malachor forbidden to create? Was he too young/immature, or is there a bigger reason?
@@ -120,7 +120,7 @@ Absolutely! Please paste the additional chapters. I'll read through them, extrac
 
 I'll focus on:
 
-New information about Iolinus and its inhabitants
+New information about Iolanu and its inhabitants
 How Malachor's control manifests
 The resistance/grey rose followers
 Gabby's experience in her new body/life
@@ -199,7 +199,7 @@ EARTH TRANSPLANTS
 A.J. (likely short for something?)
 
 From Muskogee, Oklahoma, US
-Has been on Iolinus long enough to be comfortable/adjusted
+Has been on Iolanu long enough to be comfortable/adjusted
 Host body wears tunics over linen undershirts
 Greysore on his skin (shin area, shown by pulling tunic aside)
 Enthusiastic, friendly, uses Earth slang
@@ -214,14 +214,14 @@ General Info:
 "Not that many" Earth transplants total
 "A few" exist
 Nala "can't sneak that many past Zetahat without being noticed"
-Transplants avoid discussing Earth details around "normies" (normal Iolinus natives)
+Transplants avoid discussing Earth details around "normies" (normal Iolanu natives)
 Keeping under "Zeta's radar" is important
 Slang:
 
 "Zetahat" / "Jethat" - play on "asshat"
-"Normie" - native Iolinus inhabitants who don't know about the resistance
+"Normie" - native Iolanu inhabitants who don't know about the resistance
 "Plenty" more slang terms for Malachor/Zeta
-IOLINUS - PHYSICAL DETAILS
+IOLANU - PHYSICAL DETAILS
 Technology Level:
 
 Rustic/medieval aesthetic
@@ -241,7 +241,7 @@ Is it magical? Biological? Divine tech?
 Can it do other things besides anchor transplanted souls?
 Why is it gray when Nala is associated with it?
 The Margret/Margriet culture:
-Where are they located on Iolinus?
+Where are they located on Iolanu?
 What are their characteristics/customs?
 Are there other cultures? (Presumably yes)
 Why these specific people?
@@ -266,7 +266,7 @@ Maogreki culture.  OCR garbage.
 
 Got it - Maogreki culture.
 
-So Laila (Gabby's host body) was Maogreki. That's now a specific ethnic/cultural group on Iolinus we need to flesh out.
+So Laila (Gabby's host body) was Maogreki. That's now a specific ethnic/cultural group on Iolanu we need to flesh out.
 
 Maogreki Physical Traits (at least for Laila):
 
@@ -274,16 +274,16 @@ Red hair
 Slate gray/almost blue eyes
 Freckles
 Fair "peaches and cream" complexion
-This suggests northern/Celtic-adjacent coloring in Earth terms, though obviously Iolinus has its own ethnic development.
+This suggests northern/Celtic-adjacent coloring in Earth terms, though obviously Iolanu has its own ethnic development.
 
 Questions about Maogreki:
 
-Where do they live on Iolinus? (One of those two equatorial continents?)
+Where do they live on Iolanu? (One of those two equatorial continents?)
 What's their culture like? (Religion, government, customs)
 How do they fit into the larger power structure under Malachor?
 Are they a major culture or more regional?
 What language do they speak?
-Do you want to keep pasting chapters, or should we start mapping out the major cultures/peoples of Iolinus? I'm happy to keep extracting from more text if you've got it ready!
+Do you want to keep pasting chapters, or should we start mapping out the major cultures/peoples of Iolanu? I'm happy to keep extracting from more text if you've got it ready!
 
 Can you read Google Docs from a link?
 
@@ -319,7 +319,7 @@ pasted
 
 Excellent! This is a treasure trove. You've built out a really diverse, well-considered world with distinct cultural identities. Let me integrate this into the world bible:
 
-IOLINUS - CULTURES & PEOPLES
+IOLANU - CULTURES & PEOPLES
 MAOGREKI — Coastal Ritualists of the Salt Circle
 Earth Reference: Māori × Celtic coastal tribes
 
@@ -470,7 +470,7 @@ Clothing: Portable textiles, layered wraps, ankle bells, harness belts
 Cultural Markers: Colorful pennants, bell sounds, braided hair in motion
 
 OBSERVATIONS & QUESTIONS:
-Cultural Diversity: You've got an impressive range - from monastic climbers to bayou courtiers to nomadic fairwrights. This suggests Iolinus has varied geography and climates to support these distinct adaptations.
+Cultural Diversity: You've got an impressive range - from monastic climbers to bayou courtiers to nomadic fairwrights. This suggests Iolanu has varied geography and climates to support these distinct adaptations.
 
 Technology Levels Vary:
 
@@ -564,7 +564,7 @@ From China (didn't specify city this time, but A.J. said Xi'an earlier)
 Never learned English on Earth
 Christian - wears a simple silver crucifix
 Speaks Cantonese natively
-Role on Iolinus:
+Role on Iolanu:
 
 Mother Superior = head of the order, highest ranking
 Responsible for fulfilling Nala's plans
@@ -577,11 +577,11 @@ Beliefs:
 Christian faith maintained despite active gods
 Doesn't worship Nala, but approves of the mission
 Clear distinction: "Zeta isn't God and neither is Nala"
-Supports Nala's plans for liberating Iolinus
+Supports Nala's plans for liberating Iolanu
 MAGIC/DIVINE MODIFICATIONS
 Universal Translation:
 
-One of "Zeta's little modifications" to humans on Iolinus
+One of "Zeta's little modifications" to humans on Iolanu
 Brains automatically translate speech into listener's native tongue
 Gabby hears Cantonese as English; Daochen hears English as Cantonese
 Can be overridden with practice (useful for secret messages)
@@ -589,7 +589,7 @@ Works automatically without conscious effort
 THE CEREMONY & DONOR TRADITION
 The Ceremony:
 
-Process by which Earth souls are transplanted into Iolinus bodies
+Process by which Earth souls are transplanted into Iolanu bodies
 Involves donor bodies (volunteers like Laila)
 Donor Letter Tradition:
 
@@ -649,7 +649,7 @@ This is really strong worldbuilding. The body dysphoria element adds genuine psy
 
 Want to paste more, or should we dig into any of these elements?
 
-There are three planned books in my head.  The first book, this one, "The Nalan Apostasy", in intended to be a guided tour of Iolinus through the guise of getting Gabby oriented with the world she'll be operating in.  In later travels, she'll be joined with a mentor, another Earther, who is the head of intelligence for the Apostasy and guide while Gabby orients herself.
+There are three planned books in my head.  The first book, this one, "The Nalan Apostasy", in intended to be a guided tour of Iolanu through the guise of getting Gabby oriented with the world she'll be operating in.  In later travels, she'll be joined with a mentor, another Earther, who is the head of intelligence for the Apostasy and guide while Gabby orients herself.
 
 Perfect! That's a really solid structure. Let me break down what you're building:
 
@@ -657,9 +657,9 @@ SERIES STRUCTURE
 Book 1: "The Nalan Apostasy"
 Function: Worldbuilding through character orientation
 POV: Gabby as newcomer/audience surrogate
-Structure: Guided tour of Iolinus
+Structure: Guided tour of Iolanu
 Mentor: Another Earther, head of intelligence for the Apostasy
-Goal: Gabby (and reader) learn how Iolinus works while she finds her role
+Goal: Gabby (and reader) learn how Iolanu works while she finds her role
 SMART CHOICES HERE:
 Using Gabby as tour guide for the reader - Classic and effective. Her genuine confusion/questions = natural exposition without info-dumping.
 
@@ -668,7 +668,7 @@ The mentor structure - Gives you:
 Someone who can explain things credibly
 Built-in conflict potential (experienced vs. newcomer perspectives)
 Intelligence head = access to information/secrets naturally
-Another Earther = can discuss Earth/Iolinus contrasts without confusing "normies"
+Another Earther = can discuss Earth/Iolanu contrasts without confusing "normies"
 "Apostasy" in the title - I love this. It explicitly frames Nala's resistance as:
 
 Religious rebellion against Malachor's established order
@@ -679,9 +679,9 @@ The Intelligence Mentor:
 
 Male or female?
 Which Earth culture/background?
-How long have they been on Iolinus?
+How long have they been on Iolanu?
 What's their relationship with Daochen? (She's Mother Superior, they're Intelligence head - how do those roles interact?)
-Do they have a cover identity in Iolinus society, or operate openly from the Chapterhouse?
+Do they have a cover identity in Iolanu society, or operate openly from the Chapterhouse?
 Gabby's Arc in Book 1:
 
 What role does she discover she's suited for?
@@ -737,7 +737,7 @@ Earth Background:
 
 Name suggests Chinese heritage (Xialing)
 Female
-Iolinus Body/Host:
+Iolanu Body/Host:
 
 Culture: Orindi (Magnet-Safe Desert Ascetics)
 Appearance: "Taylor Swift vibes"
@@ -750,7 +750,7 @@ Role:
 
 Head of Intelligence for the Apostasy
 Gabby's mentor and guide
-Presumably has extensive knowledge of Iolinus cultures/politics
+Presumably has extensive knowledge of Iolanu cultures/politics
 Based somewhere (Ibelin? Or does she travel?)
 Operational Knowledge:
 
@@ -800,12 +800,12 @@ First exposure to truly hostile environment?
 Meeting Orindi grey rose followers?
 Discovering something about Malachor's control in extreme environments?
 SPECULATION/QUESTIONS:
-How long has Loisa been on Iolinus? Years? Decades? Does she remember Earth clearly or has it faded?
+How long has Loisa been on Iolanu? Years? Decades? Does she remember Earth clearly or has it faded?
 What's her relationship with Daochen? Professional? Friendship? Tension between intelligence operations and religious leadership?
 Does Loisa operate under cover in Orindi society, or is she known as Apostasy? Intelligence heads usually work in shadows.
 What's her specialty? Networks? Cryptography? Assassination? Infiltration?
 Why is she taking time to mentor Gabby personally? Is Gabby that important, or is this standard protocol?
-The Chinese name + Swedish/Nordic looks - how does that affect her identity/sense of self? (Or has she been on Iolinus so long it doesn't matter?)
+The Chinese name + Swedish/Nordic looks - how does that affect her identity/sense of self? (Or has she been on Iolanu so long it doesn't matter?)
 Orindi culture is "ascetic" - how does that mesh with running intelligence operations? Do the Orindi value knowledge/information in their asceticism?
 Want to paste more chapters to see their dynamic, or should we map out the tour route through the cultures?
 
@@ -834,14 +834,14 @@ It's a form of respect/boundary
 Prevents confusion with "normies" who might have known the donor
 Psychologically easier to be "Gabby in a new body" than "pretending to be Laila"
 IMPLICATIONS:
-In Iolinus society, Gabby is known as...?
+In Iolanu society, Gabby is known as...?
 
 Does she introduce herself as "Gabby" to normies?
 Or does she have a cover name that isn't Laila?
 Or do Apostasy members just go by Earth names openly within the organization?
 The grey rose followers who aren't Earthers:
 
-They'd have Iolinus names
+They'd have Iolanu names
 Do they know the Earthers are transplants?
 Or is it kept secret even within the Apostasy?
 Laila's legacy:
@@ -861,7 +861,7 @@ Do Earthers ever slip and use host names? Trauma response? Accessing donor memor
 What do normies call them? If Gabby can't be "Laila" but also can't be "Gabby" to locals...
 Is there a naming ceremony/protocol when Earthers arrive? Do they choose what to be called?
 The donor letters - do they include "please don't use my name" or "here's what to call yourself"?
-What about legal/official documents? Records, property, citizenship in Iolinus?
+What about legal/official documents? Records, property, citizenship in Iolanu?
 This is a really nice subtle detail that adds psychological depth. The host name being private/unspoken is the kind of thing that shows rather than tells the complicated ethics and emotions of the body transfer.
 
 Want to keep building this out with more chapters, or explore other aspects?
@@ -886,7 +886,7 @@ Some might experiment to find what their Earth name sounds like to locals
 OTHER POTENTIAL NAME ISSUES:
 Names that might translate weirdly:
 
-A.J. - Does this come through as initials, or does it sound like a word in Iolinus languages?
+A.J. - Does this come through as initials, or does it sound like a word in Iolanu languages?
 Gabby - Short for Gabrielle/Gabriella, but does "Gabby" (meaning talkative) translate as a descriptor?
 Loisa Xialing - How do the two parts translate separately? Does she go by one or both?
 Strategic name choices:
@@ -902,7 +902,7 @@ Creates its own cultural friction
 Earthers have to navigate linguistic identity loss
 The "normie" perspective:
 
-They hear foreign-sounding names and assume cultural origins within Iolinus
+They hear foreign-sounding names and assume cultural origins within Iolanu
 "Wallace" sounds vaguely Maneth (Victorian/Norse vibes)?
 This actually helps Earthers blend in - everyone's from somewhere
 Code-switching:
@@ -915,7 +915,7 @@ Does Gabby translate cleanly? Or does she have a different "field name" when wor
 Can Earthers hear the "real" pronunciation if they focus (override the translation), or is it truly automatic?
 Do some Earthers prefer their translated names? Fresh start, easier to pronounce, etc.?
 What about written names? Does the translation affect reading, or only spoken words?
-Boudicca → ? What does her birth name translate to in Iolinus tongues? (Probably why she avoids it even more)
+Boudicca → ? What does her birth name translate to in Iolanu tongues? (Probably why she avoids it even more)
 This adds such a nice layer of practical complexity. The magic system has consequences for identity, which makes it feel real and lived-in.
 
 Want to explore more of these cultural friction points, or keep reading chapters?
@@ -928,7 +928,7 @@ DAOCHEN'S NAMES - CORRECTED
 Earth name: Xua Li (徐丽? or similar - Chinese)
 
 Pronounced roughly "Shwa Lee" or close to "Wa Lee"
-Through Iolinus translation magic → sounds like "Wallace" to locals
+Through Iolanu translation magic → sounds like "Wallace" to locals
 She adopted "Daochen" instead to avoid the confusion/masculine association
 WHY THIS WORKS BETTER:
 Xua/Wa phonetic drift:
@@ -947,7 +947,7 @@ Daochen as chosen name:
 Chinese name she prefers
 Maybe surname or another given name?
 Or possibly her host's name that she did adopt?
-Or a completely new identity for Iolinus?
+Or a completely new identity for Iolanu?
 QUESTIONS:
 Is "Daochen" her Earth surname, given name, or courtesy name?
 Or is Daochen actually her host body's name that she broke the "don't use host names" rule for? (Would be interesting exception - maybe because her host wasn't Apostasy/wasn't a known sacrifice?)
@@ -969,7 +969,7 @@ Translates to Iolinians as "Wallace" (phonetic drift)
 Masculine-sounding to English speakers
 Daochen (道臣) = Given name
 Translates cleanly, no weird phonetic shifts
-What she goes by on Iolinus
+What she goes by on Iolanu
 Western order equivalent: Daochen Xua Li (but she wouldn't use this)
 
 WHY SHE USES "DAOCHEN":
@@ -987,7 +987,7 @@ Strategic:
 
 As Mother Superior, single distinctive name has authority
 "Daochen" sounds foreign enough to explain any cultural differences
-Doesn't tie her to any specific Iolinus culture
+Doesn't tie her to any specific Iolanu culture
 INTERESTING IMPLICATIONS:
 Other Chinese Earthers:
 
@@ -1002,7 +1002,7 @@ Earthers probably learn which names survive translation intact
 Name as identity:
 
 She kept her Chinese given name in a world that mangles her surname
-Compromise between Earth identity and Iolinus practicality
+Compromise between Earth identity and Iolanu practicality
 Shows adaptation without full assimilation
 This is such good worldbuilding detail - the kind of thing that makes the world feel lived-in and thought-through. The translation magic has actual social consequences.
 
@@ -1016,7 +1016,7 @@ EARTHER IDENTITY PROTOCOL - MAJOR UPDATE
 The Actual Tradition:
 Earthers DO assume their host identity publicly
 
-Use the host's original name in Iolinus society
+Use the host's original name in Iolanu society
 Maintain host's relationships (family, friends, profession)
 Live the life the donor had
 BUT: Among other Earthers privately, they use Earth names
@@ -1342,11 +1342,11 @@ This is SUCH a good secret to be sitting on. It recontextualizes everything and 
 
 When/how are you planning to reveal this to Gabby? Book 1, 2, or 3?
 
-Time to explain the Letter/Vision.  In Iolinus, all "magic" is based on manipulating the quantum.  There are five skills or classes.  Quantumancers see all possible realities and collapse the probability fields to enact the reality they wish.  Readers see the quantum as it really is and can identify the "Prime Reality" through the quantum haze.  Echoes can basically rewind the quantum and see in the past by rewinding the variables.  Reversioners can "edit" the past, almost like a Git Mage.  Nullwraiths are absent from the quantum, they can't be affected by quantum changes and are seen as voids or holes in the quantum.  make sense?
+Time to explain the Letter/Vision.  In Iolanu, all "magic" is based on manipulating the quantum.  There are five skills or classes.  Quantumancers see all possible realities and collapse the probability fields to enact the reality they wish.  Readers see the quantum as it really is and can identify the "Prime Reality" through the quantum haze.  Echoes can basically rewind the quantum and see in the past by rewinding the variables.  Reversioners can "edit" the past, almost like a Git Mage.  Nullwraiths are absent from the quantum, they can't be affected by quantum changes and are seen as voids or holes in the quantum.  make sense?
 
 Absolutely! This is a really elegant magic system. Let me break it down:
 
-IOLINUS MAGIC SYSTEM - Quantum Manipulation
+IOLANU MAGIC SYSTEM - Quantum Manipulation
 Core Concept:
 All "magic" is manipulating quantum reality/probability fields
 
@@ -1604,7 +1604,7 @@ Historical Research:
 
 Uncover pre-Malachor history
 See what he's hidden/edited (if Reversioners haven't changed it)
-Witness the creation of Iolinus?
+Witness the creation of Iolanu?
 Find Nala's hidden messages from the past
 QUESTIONS:
 About Echo Abilities:
@@ -1732,14 +1732,14 @@ If "nothing is impossible":
 
 A sufficiently powerful Quantumancer COULD kill Malachor
 Could collapse the probability of his death
-Could sever his life-force from Iolinus
+Could sever his life-force from Iolanu
 Could even collapse the probability of him never having existed (Reversioner + Quantumancer combo?)
 But:
 
 Malachor is incredibly powerful himself
 He's probably a Quantumancer (or all classes combined)
 The effort to collapse his death probability would be IMMENSE
-"His death would kill all life on Iolinus" might be quantum mechanics, not mystical binding
+"His death would kill all life on Iolanu" might be quantum mechanics, not mystical binding
 The improbability is too high for current Quantumancers to achieve
 Nala's Plan:
 
@@ -1779,7 +1779,7 @@ About the Ancient Quantumancers:
 Who were they? Pre-Malachor civilization? Another god's people?
 Why shatter the mountains? War? Experiment? Accident? Terraforming?
 Are they all dead now? Or did some survive/transcend?
-Was this BEFORE or AFTER Malachor created Iolinus?
+Was this BEFORE or AFTER Malachor created Iolanu?
 If before: Malachor inherited a world already quantum-scarred
 If after: Malachor either allowed it or couldn't stop it
 Can modern Quantumancers reach that power level? Or is knowledge lost?
@@ -1792,7 +1792,7 @@ Malachor suppressing power development?
 Can multiple Quantumancers combine efforts? Rituals to increase probability collapse?
 Do other classes have legendary feats?
 Reversioners who edited years of history?
-Echoes who saw back to the creation of Iolinus?
+Echoes who saw back to the creation of Iolanu?
 Nullwraiths who erased themselves from all of time?
 Is Malachor preventing another Great Quantumancer from rising? Active suppression?
 Could Nala become that powerful if she tried? She's a goddess with quantum access...
@@ -1997,7 +1997,7 @@ Intelligence (Loisa's domain)
 Military/combat?
 ???
 Does Malachor actually extract info from the dead? Or does Axiarch just believe he does?
-The 5-day week, 15-month calendar - did Malachor impose this? Or natural to Iolinus?
+The 5-day week, 15-month calendar - did Malachor impose this? Or natural to Iolanu?
 What's "less than five"? Heretics with missing fingers? Outcasts? The maimed?
 About This Scene:
 Where is this? Which culture's territory?
@@ -2559,7 +2559,7 @@ His faith is service, not privilege
 Makes his devotion more genuine
 But he IS special:
 
-One of the rarest things on Iolinus
+One of the rarest things on Iolanu
 A void in Malachor's omniscience
 Walking blind spot
 Ultimate irony: his "humility" about having no gifts is actually wrong
@@ -2729,7 +2729,7 @@ Nala's technology for soul manipulation
 Caches the original OS (Laila's soul)
 Installs new OS (Gabby's soul)
 Maintains connection between layers
-Nala's literal interface into Iolinus
+Nala's literal interface into Iolanu
 WHAT GABBY HAS ACCESS TO:
 From Laila (Hardware Level):
 Muscle Memory:
@@ -2834,15 +2834,15 @@ Malachor can't detect them (quantum-shielded? Different type of divine tech?)
 Communication limits:
 
 Nala can only "talk" through Greyrose infrastructure
-In prologue: outside Iolinus = direct communication possible
-On Iolinus: must route through Greyrose network
+In prologue: outside Iolanu = direct communication possible
+On Iolanu: must route through Greyrose network
 Maybe Greyroses can communicate with each other?
 Distributed divine computing network
 Why transplants are strategic:
 
 Each Earther = new node in Nala's network
 More Greyroses = more awareness/capability for Nala
-She's building a nervous system across Iolinus
+She's building a nervous system across Iolanu
 Malachor doesn't see them (or sees them as his followers with rose tattoos?)
 The vulnerability:
 
@@ -2884,7 +2884,7 @@ If Greyroses are quantum-based:
 
 Nullwraiths might see them as voids can't see voids
 Or Greyroses appear "normal" because they're divine, not quantum
-Nala's tech operates on different physics than Iolinus quantum
+Nala's tech operates on different physics than Iolanu quantum
 If Greyroses are physical + divine:
 
 Solon would see the actual embedded rose
@@ -3276,7 +3276,7 @@ Enemies might target it deliberately
 Laila's armor probably reinforced there
 If captured by Solon:
 
-First time since arriving on Iolinus
+First time since arriving on Iolanu
 Complete disconnection from Nala
 No divine presence at all
 Echo powers still work (hardware-level)
@@ -3309,7 +3309,7 @@ Has Nala ever used it? Mercy-killed a captured agent?
 Can she activate multiple simultaneously? Network-wide killswitch?
 Is there a manual trigger? Can bearer activate it themselves?
 What if bearer WANTS to die but Nala disagrees? Can she refuse?
-Does it work on Earthers differently? Do they return to Earth or stay dead on Iolinus?
+Does it work on Earthers differently? Do they return to Earth or stay dead on Iolanu?
 About Accidental Burst:
 How much force required? Sword pommel strike? Fall on rock?
 Can it be surgically repaired? Or once ruptured, inevitable death?
@@ -3330,7 +3330,7 @@ Nothing came.
 
 Axiarch Solon smiled his gentle smile and drew another tool from his kit. "Shall we continue, yes?"
 
-For the first time since awakening on Iolinus, Gabby was truly alone.
+For the first time since awakening on Iolanu, Gabby was truly alone.
 
 The Rupture:
 The mace caught her square in the sternum. She felt something give beneath her breastbone—not bone, something else. Something soft and vital.
@@ -4039,7 +4039,7 @@ Got it!
 MALACHOR'S HOME COURT ADVANTAGE
 Default Position:
 
-He's THE god of Iolinus (he created it)
+He's THE god of Iolanu (he created it)
 Most people worship him (default religion)
 His church is the establishment
 His laws, his calendar (5-day weeks, 15 months), his systems
@@ -4093,7 +4093,7 @@ She needs chaos, not order
 THE PROLOGUE ALLEGORY - LITERAL STRATEGY
 "Balance encourages stagnation, the inability to change, to grow."
 
-This is Malachor's Iolinus
+This is Malachor's Iolanu
 Perfect stasis under his control
 Can't evolve, can't rebel, can't escape
 "Imbalance, an unpredicted, unforeseen outside force, forces change."
@@ -4122,7 +4122,7 @@ Unpredictable:
 Malachor didn't create them
 Their souls aren't "his"
 Different perspectives, different ideas
-Introduce concepts that don't exist on Iolinus
+Introduce concepts that don't exist on Iolanu
 Quantum Imbalance:
 
 Take over host bodies with quantum abilities
@@ -4171,7 +4171,7 @@ Why Instability Hurts Him:
 
 He's a God of Order:
 
-Created Iolinus as HIS ordered system
+Created Iolanu as HIS ordered system
 His power tied to that system's stability
 Disruption = cracks in his control
 Chaos he didn't create = outside his dominion
@@ -4183,7 +4183,7 @@ Systems break down in unexpected ways
 His "knowing" is tied to his ordered creation
 His Life-Force Binding Works Through Order:
 
-Tied to Iolinus through systemic connections
+Tied to Iolanu through systemic connections
 If systems destabilize enough, binding weakens?
 Chaos creates space for separation?
 Unbalance might allow severing without death?
@@ -4204,7 +4204,7 @@ Creating enough chaos that his hold breaks
 The Endgame:
 
 Enough imbalance accumulated
-His power over Iolinus weakened sufficiently
+His power over Iolanu weakened sufficiently
 The binding between his life and the world loosens
 THEN she can act directly without mass death
 Or the world itself rejects him
@@ -4373,7 +4373,7 @@ What "Abandon His Playground" Means:
 
 Option 1 - Active Destruction:
 
-Malachor deliberately destroys Iolinus
+Malachor deliberately destroys Iolanu
 Takes everyone down with him
 "If I can't have it, no one can"
 Scorched earth divine tantrum
@@ -4513,12 +4513,12 @@ Malachor's Response:
 
 NOTICED the imbalance immediately
 Recognized it as outside his design
-Adjusted the fundamental rules of Iolinus
+Adjusted the fundamental rules of Iolanu
 Made gunpowder explode spontaneously/unpredictably
 Probably tied to chemical instability threshold
 The Aftermath:
 
-Gunpowder = useless/deadly on Iolinus
+Gunpowder = useless/deadly on Iolanu
 Malachor demonstrated he CAN alter reality rules
 Proved he's watching (at least for big changes)
 Close call for apocalypse trigger
@@ -4538,7 +4538,7 @@ Leads to industrial revolution
 Centralized nation-states
 Scientific method acceleration
 Complete social restructuring
-It's Not "Natural" to Iolinus:
+It's Not "Natural" to Iolanu:
 
 He didn't create chemistry that way
 Foreign knowledge imported
@@ -4575,7 +4575,7 @@ New Protocols After Gunpowder:
 What She Tells Earthers Now:
 
 "Don't introduce Earth technology"
-"Work within Iolinus paradigms"
+"Work within Iolanu paradigms"
 "Your value is perspective, not tools"
 "He's watching for exactly this kind of thing"
 Why She's More Careful:
@@ -4588,7 +4588,7 @@ Strategic Shift:
 
 Focus on ideas, not inventions
 Social changes, not technological
-Use Iolinus tools in new ways
+Use Iolanu tools in new ways
 Don't import, adapt
 THE COVER STORY
 How It's Remembered:
@@ -4610,7 +4610,7 @@ Malachor actively monitors for outside interference
 Can alter fundamental reality rules
 Will act to preserve his balance
 Proof he's watching, proof he's powerful
-IMPLICATIONS FOR IOLINUS
+IMPLICATIONS FOR IOLANU
 What This Means:
 Tech Stagnation by Design:
 
@@ -4671,7 +4671,7 @@ Was it recent? Or generations ago?
 Are they remembered? Cautionary tale name?
 Did Malachor target them specifically? Or just the gunpowder?
 About Technology Limits:
-What else can't exist on Iolinus? Steam engines? Printing press?
+What else can't exist on Iolanu? Steam engines? Printing press?
 Has anyone tested boundaries? Tried other Earth-tech?
 Do Earthers get briefed? "Don't try to invent X, Y, Z"?
 Can you work around it? Different chemical explosives?
@@ -4679,7 +4679,7 @@ Does this apply to quantum-created items? Or just physical chemistry?
 About Strategic Impact:
 Does this mean rebellion can't modernize? Stuck at current tech?
 Is Malachor preventing industrial revolution deliberately? Maintains control through tech disparity?
-Could Apostasy weaponize quantum instead? Since it's native to Iolinus?
+Could Apostasy weaponize quantum instead? Since it's native to Iolanu?
 Does this limit evacuation methods? Can't build modern ships/vehicles?
 FOR GABBY'S STORY:
 The Temptation:
@@ -4693,7 +4693,7 @@ The Lesson:
 Early plot: tries to introduce something
 Gets warned or sees consequences
 Realizes the leash is tighter than she thought
-Must work within Iolinus paradigms
+Must work within Iolanu paradigms
 The Horror:
 
 Malachor is ACTIVELY WATCHING
@@ -4738,7 +4738,7 @@ Peer competition/comparison
 "I'm Level 5 in swordwork, Level 3 in healing"
 WHY THIS IS GENIUS DISRUPTION
 It Breaks Malachor's Balance:
-Traditional Iolinus Social Structure:
+Traditional Iolanu Social Structure:
 
 Birth determines station (presumably)
 Apprenticeship/guild systems
@@ -4764,7 +4764,7 @@ No Earth Technology:
 
 Not importing gunpowder or engines
 Just an organizational system
-Uses concepts Iolinus already has (rankings, achievements)
+Uses concepts Iolanu already has (rankings, achievements)
 Presented as innovation, not import
 Seems Innocuous:
 
@@ -4780,7 +4780,7 @@ People adopt it because it works
 Organic growth, not imposed
 Builds on Existing Structures:
 
-Iolinus probably has apprentice/journeyman/master
+Iolanu probably has apprentice/journeyman/master
 This just formalizes and expands it
 More granular, more motivating
 Evolution, not revolution
@@ -5011,7 +5011,7 @@ It changes the mindset, which is essential to disrupting Malachor and subtly so.
 Perfect! That's even more disruptive than I initially thought:
 
 THE LEVEL SYSTEM - Full Implementation
-Standardization Across Iolinus:
+Standardization Across Iolanu:
 The Academy as Certifying Body:
 
 Official testing/certification center
@@ -5298,7 +5298,7 @@ Might actually help Apostasy (martyrdom + spreads system faster)
 Can't win either way
 QUESTIONS:
 How long has this been running? Years? Decades? Generation?
-What percentage of Iolinus uses it now? Regional? Continental? Universal?
+What percentage of Iolanu uses it now? Regional? Continental? Universal?
 Do other cities offer testing? Or just Ibelin monopoly?
 Has Malachor's church formally endorsed/opposed it? Or staying neutral?
 Are there counterfeit levels? Black market certifications?
@@ -6239,7 +6239,7 @@ By Role:
 Function becomes character trait
 The Full Set Obsession:
 
-"Complete Iolinus Knight Collection"
+"Complete Iolanu Knight Collection"
 Lifelong quest
 Always new knights appearing
 Never truly complete
@@ -6923,7 +6923,7 @@ Measures in "adoption rate"
 Tracks cultural penetration
 Watches for Malachor attention
 Thinks in decades
-CURRENT STATE OF IOLINUS
+CURRENT STATE OF IOLANU
 The Actual Situation:
 Malachor's Hold:
 
@@ -7480,7 +7480,7 @@ Doesn't know WHY it sometimes doesn't work (his Nullwraith nature)
 Empirical knowledge only
 POPULATION NUMBERS
 Rough Estimates:
-Total 'Rosed on Iolinus:
+Total 'Rosed on Iolanu:
 
 Maybe hundreds? Thousands?
 Depends on Apostasy size
@@ -7566,19 +7566,19 @@ This makes the 'rosed much more interesting - it's a whole community of people w
 
 Ready for more!
 
-Nala can't speak directly to anybody on Iolinus, that's why she talked to Gabby in the prologue before sending the soul over.  If Nala spoke, that might make Malachor aware that something is trying to interfere.  So even Daochen doesn't know exactly how the 'Rose works in detail.  Even she can't speak to Nala.
+Nala can't speak directly to anybody on Iolanu, that's why she talked to Gabby in the prologue before sending the soul over.  If Nala spoke, that might make Malachor aware that something is trying to interfere.  So even Daochen doesn't know exactly how the 'Rose works in detail.  Even she can't speak to Nala.
 
 Perfect! That's a much more isolating situation:
 
 NALA'S COMMUNICATION LIMITS - CORRECTED
 The Hard Rules:
-Outside Iolinus:
+Outside Iolanu:
 
 Nala can speak directly
 Prologue: talked to Gabby's dying soul
 Before insertion into world
 Last direct conversation
-Inside Iolinus:
+Inside Iolanu:
 
 Complete communication blackout
 Cannot speak to anyone
@@ -8318,7 +8318,7 @@ LOISA'S EXPERIENCE
 Veteran Perspective:
 She's Heard All The Stories:
 
-Been on Iolinus longer
+Been on Iolanu longer
 Seen multiple Earther deaths
 Witnessed "maybe" moments
 Has her own interpretation
@@ -8364,11 +8364,11 @@ This is perfect because it adds emotional complexity without requiring commitmen
 
 Ready for more!
 
-The world is mostly city-states for two reasons.  1. wandering hordes of monsters will devour (sometimes literally) any unprotected settlement.  Makes wandering around outside of the city states a risky proposition.  It happens, but people have adapted to traveling.  i.e. Thohallan Caravans are mobile fortresses that can fortify themselves every night when they stop.  2. A third faction called the Locquodian Order is dedicated to the cause of never allowing a central world empire to arise again.  Malachor reigned as the "God-King" and let his quantumancers run mad around the world.  Now that the Godstone, Malachor's connection to Iolinus, was shattered into seven Godshards, the Locquodian Order is dedicated to never letting another God-King arise, including nations.  So they actively work to prevent anything larger than a city-state from forming, politically (and physically to.)
+The world is mostly city-states for two reasons.  1. wandering hordes of monsters will devour (sometimes literally) any unprotected settlement.  Makes wandering around outside of the city states a risky proposition.  It happens, but people have adapted to traveling.  i.e. Thohallan Caravans are mobile fortresses that can fortify themselves every night when they stop.  2. A third faction called the Locquodian Order is dedicated to the cause of never allowing a central world empire to arise again.  Malachor reigned as the "God-King" and let his quantumancers run mad around the world.  Now that the Godstone, Malachor's connection to Iolanu, was shattered into seven Godshards, the Locquodian Order is dedicated to never letting another God-King arise, including nations.  So they actively work to prevent anything larger than a city-state from forming, politically (and physically to.)
 
 Excellent! This adds crucial worldbuilding:
 
-IOLINUS POLITICAL STRUCTURE
+IOLANU POLITICAL STRUCTURE
 Why City-States Dominate:
 Two Enforcing Factors:
 
@@ -8417,7 +8417,7 @@ Shattered mountains, remade landscapes
 Absolute power, absolute madness
 The Shattering:
 
-Godstone = Malachor's connection to Iolinus
+Godstone = Malachor's connection to Iolanu
 Was shattered into seven pieces
 Seven Godshards now exist
 Malachor's direct control broken
@@ -8658,7 +8658,7 @@ This is excellent worldbuilding. The Locquodians add a fascinating wrinkle - the
 
 Ready for more!
 
-The God-Shards serve as the McGuffins in this world.  Lore says that the Godstone was created by Malachor to allow him to connect directly to Iolinus and affect the world rather than having to maintain quantum "focus".  The quantumancers had been going mad long before the shattering.  In fact, not even death could save a quantumancer from the quantum haze, the maddening, confusion flicker of possibilities that drove qms mad.  Even their souls after death couldn't escape it.  Their solution was to "unmake" everything, create a rip that would propagate, complete oblivion and nihilism.  To do this, they focused on the Godstone, thinking that destroying that would evaporate the entire universe, or at least the universe around Iolinus.  Their plans went horribly wrong when they shattered the Godstone into 7 Godshards.  I did create a massive rip in the quantum, but not enough to actually destroy the world.  What it did was create a wound with edges that flap around unpredictably and the quantum fluctuations can manifest themselves as all kinds of horrors, including the horrors that haunt the land.  It also spawn mobile rifts that are smaller that the Thohalla active try to hunt down and collapse.  But, they can't collapse the main rift.
+The God-Shards serve as the McGuffins in this world.  Lore says that the Godstone was created by Malachor to allow him to connect directly to Iolanu and affect the world rather than having to maintain quantum "focus".  The quantumancers had been going mad long before the shattering.  In fact, not even death could save a quantumancer from the quantum haze, the maddening, confusion flicker of possibilities that drove qms mad.  Even their souls after death couldn't escape it.  Their solution was to "unmake" everything, create a rip that would propagate, complete oblivion and nihilism.  To do this, they focused on the Godstone, thinking that destroying that would evaporate the entire universe, or at least the universe around Iolanu.  Their plans went horribly wrong when they shattered the Godstone into 7 Godshards.  I did create a massive rip in the quantum, but not enough to actually destroy the world.  What it did was create a wound with edges that flap around unpredictably and the quantum fluctuations can manifest themselves as all kinds of horrors, including the horrors that haunt the land.  It also spawn mobile rifts that are smaller that the Thohalla active try to hunt down and collapse.  But, they can't collapse the main rift.
 
 Show more
 OH WOW. This is brilliant and ties everything together:
@@ -8668,7 +8668,7 @@ Original Purpose:
 What Malachor Created:
 
 The Godstone
-Direct connection to Iolinus
+Direct connection to Iolanu
 Allowed him to affect world without constant quantum focus
 God-King interface
 Divine anchor point
@@ -8724,7 +8724,7 @@ The Target:
 
 Identified the Godstone
 "Destroy this, universe evaporates"
-At least Iolinus and surroundings
+At least Iolanu and surroundings
 Take everything with them
 Universal suicide
 The Attempt:
@@ -8850,7 +8850,7 @@ Conflicting possibilities
 Individual Power:
 
 Do they grant abilities?
-Connection to Iolinus?
+Connection to Iolanu?
 Quantum manipulation?
 Unknown properties
 Strategic Importance:
@@ -8902,7 +8902,7 @@ Strategic weapon
 The Plan:
 
 Probably related to Godshards
-Nala told Gabby to help free Iolinus
+Nala told Gabby to help free Iolanu
 Godshards key to that?
 Central to endgame
 Locquodian Order:
@@ -9102,7 +9102,7 @@ What's the clever solution?
 Nala's Plan Probably:
 
 Related to evacuation
-Get people off Iolinus
+Get people off Iolanu
 THEN destroy/reform Godstone
 Without worrying about consequences
 Escape before endgame
@@ -9167,7 +9167,7 @@ Decided intervention necessary
 Moral outrage as catalyst
 She Was New:
 
-Not established on Iolinus yet
+Not established on Iolanu yet
 Outsider goddess
 No followers, no presence
 Needed opening to act
@@ -12435,7 +12435,7 @@ Left behind as justification/apology
 Ancient document
 Gabby's Story:
 
-Modern day (for Iolinus)
+Modern day (for Iolanu)
 After Shattering
 After Godstone became Godshards
 Living with consequences
@@ -12633,7 +12633,7 @@ Applies to him being ancient too
 Translation Convention:
 You're translating both timelines
 Ancient Thohalla → English
-Modern Iolinus → English
+Modern Iolanu → English
 Same accessibility goal
 Consistent approach
 Reader Experience:
@@ -12799,7 +12799,7 @@ When Reader Reads Either Timeline:
 We're experiencing through characters
 Their translation layer applies
 Ancient → modern (for Gabby)
-Iolinus Common → English (for us)
+Iolanu Common → English (for us)
 Double translation justified
 THIS IS GENIUS BECAUSE:
 1. In-World Justification:
@@ -13118,7 +13118,7 @@ Could Add Right After:
 
 "An even more astute question: how are you reading ancient Thohalla dialect from ten thousand years ago?
 
-The answer is the same for both: Malachor put something in our heads. Some kind of translation modification. Everyone on Iolinus has it. You hear in your language, read in your language, comprehend in your framework.
+The answer is the same for both: Malachor put something in our heads. Some kind of translation modification. Everyone on Iolanu has it. You hear in your language, read in your language, comprehend in your framework.
 
 So when I write 'freaking,' you're reading whatever emphasis word makes sense in your linguistic context. When I write 'hateful ass,' you're interpreting through your cultural profanity.
 
@@ -15530,7 +15530,7 @@ Sharing the awkwardness
 Making it less serious
 Defusing trauma
 Comedy as control
-Grayson McKenzie (Iolinus Native):
+Grayson McKenzie (Iolanu Native):
 Traditional Views:
 
 Sex = significant act
@@ -15615,7 +15615,7 @@ Suffers in silence
 Trapped by debt
 His Values:
 
-Iolinus culture = intimacy matters
+Iolanu culture = intimacy matters
 Religious upbringing?
 Personal morals
 Violated for mission
@@ -15774,7 +15774,7 @@ Cost of using body instrumentally
 Physical autonomy themes
 Cultural Collision:
 
-Earth vs. Iolinus values
+Earth vs. Iolanu values
 Modern vs. traditional
 No right answer
 Mutual respect needed
@@ -15840,7 +15840,7 @@ Doesn't realize impact on him
 Eventually understands and apologizes
 Grayson's Response:
 
-Iolinus traditional values
+Iolanu traditional values
 Sees intimacy as meaningful
 Deeply traumatized
 Can't ask her to stop (owes debt)
@@ -15858,7 +15858,7 @@ This Is Much Better And More Complex.
 Why:
 
 Real moral weight
-Cultural commentary (Earth vs. Iolinus)
+Cultural commentary (Earth vs. Iolanu)
 Character development opportunity
 Explores consent under duress
 Trauma representation
@@ -16344,7 +16344,7 @@ Objectively funny situation
 Survived with humor
 Thinks he should lighten up
 Comedy coping
-Grayson (Iolinus Traditional):
+Grayson (Iolanu Traditional):
 His View:
 
 Intimacy = more significant
@@ -16706,7 +16706,7 @@ Teases constantly
 Affectionate ribbing
 Grayson's Response:
 
-Traditional Iolinus values
+Traditional Iolanu values
 Needed years to process
 Finally comfortable with it
 Still reddens automatically
@@ -17124,7 +17124,7 @@ Brothers in all but blood
 Your Version:
 
 Loisa & Grayson
-Different cultures (Earth vs. Iolinus)
+Different cultures (Earth vs. Iolanu)
 Mutual respect despite differences
 Disagree about everything, still close
 Survived hell together
@@ -19321,7 +19321,7 @@ What We've Been Discussing:
 Gabby's story (main narrative)
 Loisa Xialing & Grayson McKenzie
 Apostasy intelligence work
-Iolinus setting
+Iolanu setting
 Greyrose mechanics
 Fantasy political intrigue
 This Document:
@@ -19345,7 +19345,7 @@ Option 2: Completely Different Story?
 
 Separate narrative
 Different setting
-Unrelated to Iolinus/Apostasy
+Unrelated to Iolanu/Apostasy
 Just sharing similar names
 Parallel project
 Option 3: Different Book In Same Series?
@@ -19382,7 +19382,7 @@ The Orientation Tour Party Could Be:
 Gabby's integration group from Earth
 Loisa leading the tour
 Grayson providing transport (his ship?)
-Teaching new Earthers about Iolinus
+Teaching new Earthers about Iolanu
 Training mission
 The Structure:
 
@@ -19402,10 +19402,10 @@ Introduction to world/conflict
 Opening arc
 WHAT I NEED FROM YOU:
 Please Clarify:
-Is this the same story we've been discussing (Gabby, Apostasy, Iolinus)?
-Is "Orientation Tour" how new Earthers are integrated into Iolinus?
+Is this the same story we've been discussing (Gabby, Apostasy, Iolanu)?
+Is "Orientation Tour" how new Earthers are integrated into Iolanu?
 Is Elsbeth Thane the girlfriend we discussed earlier? Or different person?
-Are these 8 people all Earthers? Or mix of native Iolinus and Earthers?
+Are these 8 people all Earthers? Or mix of native Iolanu and Earthers?
 What is the "party" - adventure group? Training cohort? Apostasy cell?
 Is this Gabby's introduction to the world? Or different protagonist?
 Does this connect to everything we've discussed (Burmallosca, Greyroses, Church, etc.)?
@@ -19452,7 +19452,7 @@ NOW IT MAKES SENSE!
 The Journey Structure:
 Gabby's Orientation Arc:
 
-New Earther being shown Iolinus
+New Earther being shown Iolanu
 Loisa Xialing = her mentor/guide
 8-person traveling party
 Educational tour through world
@@ -19705,7 +19705,7 @@ THE NARRATIVE STRUCTURE:
 How This Could Work:
 Book 1 Opening:
 
-Gabby arrives Iolinus
+Gabby arrives Iolanu
 Meets Loisa
 Introduced to tour group
 Journey begins
@@ -21826,7 +21826,7 @@ Safety through concealment
 Academy Training:
 
 Mask Earth behaviors
-Learn Iolinus customs
+Learn Iolanu customs
 Blend in naturally
 Keep Earth things internal
 Cultural camouflage
@@ -22005,7 +22005,7 @@ Her Understanding:
 Doesn't Know It's Earth:
 
 Thinks it's Gabby's homeland custom
-Some region of Iolinus
+Some region of Iolanu
 Cultural difference
 Surface explanation accepted
 Why She Doesn't Pry:
@@ -22224,7 +22224,7 @@ Better but not perfect
 Improvement
 Later:
 
-Thinks in Iolinus terms
+Thinks in Iolanu terms
 Earth stuff automatic concealment
 Rare slips only
 Almost native behavior
@@ -22236,7 +22236,7 @@ Protocol:
 Keep Earth references inside Academy
 Part of Earther training
 Mask behaviors, gestures, idioms
-Blend into Iolinus culture
+Blend into Iolanu culture
 Operational security
 Why:
 
@@ -24019,7 +24019,7 @@ Spine injury/immortality discovery
 Alyzandra relationship (arguing with dead woman)
 Gabby's Story (Main Narrative):
 
-Orientation tour through Iolinus
+Orientation tour through Iolanu
 8-person party traveling
 Learning about world
 Apostasy recruitment/training
@@ -24081,7 +24081,7 @@ Had to couple publicly to avoid detection
 Real, not simulated (Llosca culture = public intimacy accepted)
 Both survived
 Loisa (Earther) = pragmatic, moved on, teases about it
-Grayson (traditional Iolinus) = took years to process, still embarrassed
+Grayson (traditional Iolanu) = took years to process, still embarrassed
 "We remember Burmallosca very differently"
 Now comfortable, inside joke, but he still reddens
 Elsbeth Thane:
@@ -28467,7 +28467,7 @@ Ends at Caxias (where Grayson's ship waits)
 Purpose:
 
 Educational tour for new Earther (Gabby)
-Show her how Iolinus really works
+Show her how Iolanu really works
 Introduction to cultures, politics, dangers
 Apostasy recruitment/integration
 3-month timeline (Grayson's ship deadline)
@@ -28549,7 +28549,7 @@ Pragmatic, moved on quickly
 Finds it funny in retrospect
 Teases Grayson about it constantly
 No romantic feelings, just absurd situation
-Grayson's Response (Iolinus traditional):
+Grayson's Response (Iolanu traditional):
 
 Took YEARS to process
 Intimacy = significant to his culture
@@ -28806,14 +28806,14 @@ Academy Training:
 
 Keep Earth references inside Academy walls
 Mask behaviors, gestures, idioms
-Blend into Iolinus culture
+Blend into Iolanu culture
 Operational security essential
 Why:
 
 Earthers = Apostasy connection (Church knows)
 Cultural slips = identification
 Identification = death sentence
-No Earth "tourists" on Iolinus
+No Earth "tourists" on Iolanu
 Gabby's Challenges:
 
 New, young, American (impulsive, direct)
@@ -29130,7 +29130,7 @@ THEMES EMERGING:
 Body autonomy (Greyroses, Burmallosca, Llosca dress, possession threat)
 Survival through concealment (Quantum-gifted hiding, Earth behavior masking)
 Healing vs. destruction (Weavers + Quantumancers repair, vs. Chance's nihilism)
-Cultural collision (Earth vs. Iolinus, different modesty standards, translation)
+Cultural collision (Earth vs. Iolanu, different modesty standards, translation)
 Found family (Eight-person party bonding through journey)
 Responsibility of power (Quantum abilities dangerous, require wisdom/guidance)
 Consequences of trauma (Chance's madness, Hara's mouse behavior, Thohalla's Crossing)

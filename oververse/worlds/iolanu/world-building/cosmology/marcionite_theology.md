@@ -21,16 +21,16 @@ The story draws inspiration from the theology of Marcion of Sinope (2nd century 
 - Liberation comes through knowledge/revelation of the true god
 - The creator god is not evil, but imperfect and incomplete
 
-## Parallel in Iolinus
+## Parallel in Iolanu
 
 ### The Demiurge: Zeta/Malachor
-- **Little 'g' god** (first child of Big G God) who created Iolinus
+- **Little 'g' god** (first child of Big G God) who created Iolanu
 - **Background Detail (Out of Scope):** Essentially an **alien assuming a deistic identity** (more blatantly than Nala) - this is background world-building only
 - Has the power of **Quantumancy** (all five quantum abilities combined)
 - Created the world **against explicit prohibition** (imperfect act)
 - **Immature, spoiled brat** - lacks compassion and wisdom
 - Holds all life **hostage** by tying his life force to his creation
-- **Cannot be killed** without killing everyone on Iolinus
+- **Cannot be killed** without killing everyone on Iolanu
 - Rules through the **Church of Malachor** (orthodoxy/control)
 - **Note for Story:** Details about what the First Children "really are" are out of scope—they are simply gods with godly powers for the reader
 
@@ -39,14 +39,14 @@ The story draws inspiration from the theology of Marcion of Sinope (2nd century 
 - Not actively involved in world events
 - Parent/first child relationship to all the little 'g' gods
 - Source of the moral framework/laws that Zeta violated
-- The one who prohibits creating worlds like Iolinus (or whose natural laws prohibit it)
+- The one who prohibits creating worlds like Iolanu (or whose natural laws prohibit it)
 - Not a character in the story—distant and uninvolved
 
 ### The Liberator: Nala
 - **Goddess (little 'g')** - first child of Big G God, like Malachor
 - **Background Detail (Out of Scope):** Essentially an **alien assuming a deistic identity** (less blatantly than Malachor) - this is background world-building only
 - Has the power of **Quantumancy** (all five quantum abilities combined)
-- Fighting to **liberate Iolinus** from Zeta/Malachor
+- Fighting to **liberate Iolanu** from Zeta/Malachor
 - Represents the "coming" - the intervention to free people from the Demiurge
 - Her mission: **free the souls** so they can be saved/evacuated
 - Once souls are free, Zeta can be **punished without killing everyone**
@@ -64,8 +64,8 @@ The story draws inspiration from the theology of Marcion of Sinope (2nd century 
 1. **Big 'G' God** - The true, perfect god
 2. **Little 'g' gods** - Children of the big G God (Nala, Zeta/Malachor, etc.)
    - Nala - Agent of liberation
-   - Zeta/Malachor - The Demiurge, creator of Iolinus
-3. **Mortals on Iolinus** - Held hostage by Zeta's binding
+   - Zeta/Malachor - The Demiurge, creator of Iolanu
+3. **Mortals on Iolanu** - Held hostage by Zeta's binding
 
 ### The Conflict
 - **Zeta/Malachor** - The imperfect creator who holds creation hostage

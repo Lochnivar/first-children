@@ -36,7 +36,7 @@ Naval captain temporarily "stretching his legs" ashore because Loisa is his dear
 - REAL coupling, not simulated (Inquisitors are experts, would detect faking)
 - Both survived, both scarred differently
 
-### Grayson's Response (Iolinus Traditional)
+### Grayson's Response (Iolanu Traditional)
 - Took YEARS to process
 - Intimacy = significant to his culture
 - Still embarrassed, reddens automatically
@@ -95,7 +95,7 @@ Warm honey over steel. Pun-obsessed. Lazy, sarcastic questions that eviscerate. 
 
 ## Notes
 - Visual Model / Vibe: Big, sun-browned sailor with honeyed-steel voice
-- Culture / Affiliation: Iolinus native, naval captain, civilian
+- Culture / Affiliation: Iolanu native, naval captain, civilian
 - Relationship Status: Dating Elsbeth Thane (slow-burn romance)
 - Key Dynamic: The only person who can make Grayson feel two feet tall is Calder (through Grayson's lazy sarcasm)
 

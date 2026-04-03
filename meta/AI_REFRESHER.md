@@ -1,6 +1,6 @@
-# Hypatia Framework & Iolinus: Comprehensive AI Refresher Document
+# Hypatia Framework & Iolanu: Comprehensive AI Refresher Document
 
-**Purpose:** This document provides a comprehensive overview of the Hypatia framework and the Iolinus novel series project, sufficient to start a new conversation with an AI assistant and bring them up to speed on the framework, world, characters, plot, and key concepts.
+**Purpose:** This document provides a comprehensive overview of the Hypatia framework and the Iolanu novel series project, sufficient to start a new conversation with an AI assistant and bring them up to speed on the framework, world, characters, plot, and key concepts.
 
 **Last Updated:** December 2024
 
@@ -8,20 +8,20 @@
 
 ## Project Overview
 
-**Hypatia** is the over-universe (cosmological framework) containing multiple worlds, including **Iolinus**. Iolinus is a subordinate world within the Hypatia framework—it must conform to framework rules while telling its own story.
+**Hypatia** is the over-universe (cosmological framework) containing multiple worlds, including **Iolanu**. Iolanu is a subordinate world within the Hypatia framework—it must conform to framework rules while telling its own story.
 
-**Iolinus** is a fantasy novel series project featuring:
+**Iolanu** is a fantasy novel series project featuring:
 - A fractured world of city-states prevented from unifying by monsters and political forces
-- Earth souls transplanted into Iolinus bodies
+- Earth souls transplanted into Iolanu bodies
 - A three-novel arc structure
 - Grounded fantasy tone with emotional subtlety—quiet tenderness amid pragmatic violence
 - No high heroism; people choosing each other over crumbling empires
 
 ### Framework Context
 
-Iolinus exists within the **Hypatia framework**—a multiverse where First Children (glorified waveforms, sentient and godlike) create worlds. The framework establishes universal rules that all worlds must follow, while allowing world-specific expansions and exceptions.
+Iolanu exists within the **Hypatia framework**—a multiverse where First Children (glorified waveforms, sentient and godlike) create worlds. The framework establishes universal rules that all worlds must follow, while allowing world-specific expansions and exceptions.
 
-**Key Framework Principle:** The framework (in `FRAMEWORK.md` and `oververse/`) is the PRIMARY SOURCE OF TRUTH. Iolinus (in `oververse/worlds/iolinus/`) is SUBORDINATE and must conform to framework rules.
+**Key Framework Principle:** The framework (in `FRAMEWORK.md` and `oververse/`) is the PRIMARY SOURCE OF TRUTH. Iolanu (in `oververse/worlds/iolanu/`) is SUBORDINATE and must conform to framework rules.
 
 ### Key Themes
 - Exile and adaptation (Earth immigrants vs. natives)
@@ -36,7 +36,7 @@ Iolinus exists within the **Hypatia framework**—a multiverse where First Child
 ### Three-Novel Arc
 
 1. **Book 1: "The Nalan Apostasy"** - Orientation tour through Gabby's eyes
-   - Premise: Educational tour for new Earth soul Gabby D'Olivier to familiarize her with Iolinus
+   - Premise: Educational tour for new Earth soul Gabby D'Olivier to familiarize her with Iolanu
    - Primary POV: Gabby (third-person limited)
    - Aside POVs: Axiarch Solon, Jasin Lochnivar (strategic exposition)
    - Structure: City stops → Travel legs → City stops pattern
@@ -57,24 +57,24 @@ Iolinus exists within the **Hypatia framework**—a multiverse where First Child
 ## Core World-Building Concepts
 
 ### The Shattering
-A catastrophic historical event where mad Quantumancers (influenced by Nala) attempted to destroy the Godstone to escape eternal quantum haze. Instead, they shattered it into seven Godshards, creating a massive rift in reality that spawns monsters and permanently damaged Iolinus.
+A catastrophic historical event where mad Quantumancers (influenced by Nala) attempted to destroy the Godstone to escape eternal quantum haze. Instead, they shattered it into seven Godshards, creating a massive rift in reality that spawns monsters and permanently damaged Iolanu.
 
 **Key Files:**
 - `world-building/history-events/the_shattering.md`
 - `world-building/artifacts/godstone_godshards.md`
 
-### The Godstone and Godshards (Iolinus-Specific)
+### The Godstone and Godshards (Iolanu-Specific)
 
-**Framework Context:** Quantumancy requires constant enforcement without an anchor (reality snaps back like a rubber band). Anchors are stable artifacts/constructs that "hold" quantum collapses in place, offloading persistence. The Godstone is Malachor's anchor for Iolinus.
+**Framework Context:** Quantumancy requires constant enforcement without an anchor (reality snaps back like a rubber band). Anchors are stable artifacts/constructs that "hold" quantum collapses in place, offloading persistence. The Godstone is Malachor's anchor for Iolanu.
 
-**Iolinus-Specific:**
+**Iolanu-Specific:**
 - **Original Godstone:** Created by Malachor as his quantum anchor and embodiment of his life-force binding
-- **The Shattering:** Purely Iolinus-specific event. The Godstone was shattered into seven Godshards, wounding the binding and creating rifts/monsters
+- **The Shattering:** Purely Iolanu-specific event. The Godstone was shattered into seven Godshards, wounding the binding and creating rifts/monsters
 - **Current Status:** Scattered (locations unknown)
 - **Central McGuffins:** The Godshards are central to the plot—multiple factions seek them for different reasons
 - **The 7th Godshard:** Missing/lost, quest target for Book 2
 
-**Framework Note:** The Godstone/Shattering are Iolinus-specific implementations. Other worlds might have different anchor types or no anchors at all.
+**Framework Note:** The Godstone/Shattering are Iolanu-specific implementations. Other worlds might have different anchor types or no anchors at all.
 
 **Key Questions:**
 - If reunited: Could restore Malachor's God-King power OR seal the main rift?
@@ -83,11 +83,11 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 
 **Key File:** `world-building/artifacts/godstone_godshards.md`
 
-### Quantum-Adjacent Abilities (Iolinus-Specific Expansion)
+### Quantum-Adjacent Abilities (Iolanu-Specific Expansion)
 
 **Framework Foundation:** All "magic" in Hypatia ultimately boils down to quantum manipulation. "Magic" systems are comprehension tools—schools and methods that let the mortal mind comprehend something way above their abilities.
 
-**Iolinus Expansion:** Five distinct power systems (the 5-split was imposed by Malachor when he brought Quantumancy into Iolinus). All persecuted by the Church of Malachor:
+**Iolanu Expansion:** Five distinct power systems (the 5-split was imposed by Malachor when he brought Quantumancy into Iolanu). All persecuted by the Church of Malachor:
 
 1. **Quantumancers** - Can manipulate quantum reality; go mad from "quantum haze" (seeing all possible realities simultaneously, eternal suffering, even after death)
 2. **Readers** - Can read quantum states (truth/current reality)
@@ -95,11 +95,11 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 4. **Echoes** - Can view past events (quantum historical record)
 5. **Nullwraiths** - Can nullify quantum effects (anti-magic, invisible to quantum perception)
 
-**Framework Note:** First Children have FULL Quantumancy (all abilities at once, no split). The 5-split is Iolinus-specific, imposed by Malachor.
+**Framework Note:** First Children have FULL Quantumancy (all abilities at once, no split). The 5-split is Iolanu-specific, imposed by Malachor.
 
 **Key File:** `world-building/magic-systems/quantum_abilities.md`
 
-### Cosmology & Theology (Framework + Iolinus-Specific)
+### Cosmology & Theology (Framework + Iolanu-Specific)
 
 **Framework Foundation:**
 - **Prime Author** (also called "Big 'G' God" in older terminology): The true creator who created reality and First Children, then withdrew permanently and will not return. Established physical laws but not moralistic rules.
@@ -109,12 +109,12 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 - **The Deepest Truth:** Everything is energy. Everything is quantum. All existence (mortal bodies, ghosts, spirits, even First Children) are patterns of coherent energy at the quantum layer.
 - **Earth:** A world within Hypatia—a solo, non-interventionist creation with no mortal quantum access. Functions as a "control" world, hinting at Marcionite theology validity.
 
-**Iolinus-Specific Details:**
-- **Nala (Goddess of Liberation):** First Child fighting to free Iolinus from her brother Zeta/Malachor. Has full Quantumancy. Influenced Quantumancers to attempt the Shattering (morally grey). Has her own plan involving the Godshards.
-- **Zeta/Malachor (God of Iolinus):** First Child who created Iolinus solely, against peer judgment (judged too immature). Same entity, names represent progression through "ages of man." Created Iolinus and bound all life to himself (life force binding—Iolinus-specific). Was God-King before the Shattering. Wants Godshards reunited to restore power.
+**Iolanu-Specific Details:**
+- **Nala (Goddess of Liberation):** First Child fighting to free Iolanu from her brother Zeta/Malachor. Has full Quantumancy. Influenced Quantumancers to attempt the Shattering (morally grey). Has her own plan involving the Godshards.
+- **Zeta/Malachor (God of Iolanu):** First Child who created Iolanu solely, against peer judgment (judged too immature). Same entity, names represent progression through "ages of man." Created Iolanu and bound all life to himself (life force binding—Iolanu-specific). Was God-King before the Shattering. Wants Godshards reunited to restore power.
 
-**Iolinus Mortal Understanding:**
-- Mortals on Iolinus have NO concept of the Prime Author—they think Malachor is THE god (Malachor actively encourages this)
+**Iolanu Mortal Understanding:**
+- Mortals on Iolanu have NO concept of the Prime Author—they think Malachor is THE god (Malachor actively encourages this)
 - This demonstrates First Children controlling mortal awareness (closed world, actively encourages creator-as-only-god belief)
 
 **Note:** Details about First Children being waveforms/energy patterns are background-only, out of scope for readers. For story purposes, they are simply "gods" with godly powers.
@@ -126,7 +126,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 - `../../cosmology/first-speech.md` - First Speech (framework)
 - `../../cosmology/marcionite-theology.md` - Theological inspiration (framework)
 
-**Iolinus-Specific Files:**
+**Iolanu-Specific Files:**
 - `world-building/cosmology/nala_goddess.md`
 - `world-building/cosmology/zeta_god.md`
 - `world-building/cosmology/zeta_malachor_naming.md`
@@ -144,7 +144,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 ### Factions & Organizations
 
 **Nala's Apostasy:**
-- Organization fighting to free Iolinus from Malachor
+- Organization fighting to free Iolanu from Malachor
 - Recruits and protects Earth souls
 - Uses greyroses as marks/interface with Nala
 - Eight-person party in Book 1 (see "The Eight-Person Party" below)
@@ -179,7 +179,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 
 ## The Eight-Person Party (Book 1)
 
-**Context:** The orientation tour party in Book 1, traveling together to show Gabby Iolinus.
+**Context:** The orientation tour party in Book 1, traveling together to show Gabby Iolanu.
 
 1. **Loisa Xialing** - First Earth soul, Intelligence Chief of Nala's Apostasy, strategist, Gabby's mentor
 2. **Grayson McKenzie** - Naval captain, Loisa's best friend, civilian support, pun-obsessed
@@ -216,11 +216,11 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 ### Protagonists
 
 **Gabby D'Olivier:**
-- Second Earth soul to arrive in Iolinus
+- Second Earth soul to arrive in Iolanu
 - Soul transplanted into Maogreki body (formerly Boudicca Jane Call)
 - Book 1 protagonist (primary POV)
 - Greyrose Ranger
-- Brash, zero deference, swears in three languages (two don't exist in Iolinus)
+- Brash, zero deference, swears in three languages (two don't exist in Iolanu)
 - Copes by being loud and pun-slinging
 - Partners with Jasin "Loch" Lochnivar in Book 2
 
@@ -233,7 +233,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 - Connected to Church of Malachor priesthood and Seeker tradition
 
 **Loisa Xialing:**
-- First Earth soul to arrive in Iolinus
+- First Earth soul to arrive in Iolanu
 - Intelligence Chief of Nala's Apostasy
 - Strategist, three moves ahead
 - Gabby's mentor (only two people who know what a microwave is)
@@ -308,7 +308,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 
 ## Cultures
 
-Iolinus has 11+ distinct cultures, each a fusion of Earth cultures:
+Iolanu has 11+ distinct cultures, each a fusion of Earth cultures:
 
 1. **Thohalla** - Old Testament Israelites + Romani wanderers; stateless, covenant-bound, nomadic caravans; were Malachor's chosen people that he discarded; riftwalkers
 2. **Maogreki** - New Zealand Māori + Classical Athens; Greyrose Rangers, Echo Mothers (memory-keepers), soul stewardship
@@ -340,7 +340,7 @@ Iolinus has 11+ distinct cultures, each a fusion of Earth cultures:
 - **Kitzigen Falls** - Final destination (Kitzengai waterfall city, seven-tiered waterfalls, mistfae)
 
 **Key Files:**
-- `locations/cities/cities_iolinus.md` - Complete list of 60 cities
+- `locations/cities/cities_iolanu.md` - Complete list of 60 cities
 - `locations/cities/kitzigen_falls.md`
 - `locations/README.md`
 
@@ -378,7 +378,7 @@ Iolinus has 11+ distinct cultures, each a fusion of Earth cultures:
 ### Directory Organization
 
 ```
-iolinus/
+iolanu/
 ├── README.md                          # Project overview and navigation
 ├── characters/                        # Organized by role (main, supporting, antagonists, historical, groups)
 │   ├── README.md                      # Character index
@@ -452,23 +452,23 @@ Each major directory has a `README.md` that serves as a comprehensive index:
 5. **Use templates:** Each category has templates for creating new entries
 
 ### Key Framework Concepts to Remember
-- **Framework is PRIMARY:** `FRAMEWORK.md` and `oververse/` are the source of truth; Iolinus is SUBORDINATE
+- **Framework is PRIMARY:** `FRAMEWORK.md` and `oververse/` are the source of truth; Iolanu is SUBORDINATE
 - **Prime Author:** True creator, withdrew permanently and will not return
 - **First Children:** Glorified waveforms (sentient, godlike energy patterns) that can be reformed (effectively destroyed)
 - **Everything is quantum:** All existence is patterns of coherent energy at the quantum layer
 - **Quantumancy:** Full quantum manipulation (First Children only); mortals have fragments
 - **All magic is quantum:** "Magic" systems are comprehension tools for mortals
-- **Anchors:** Stable constructs that offload quantum persistence (Godstone is Iolinus-specific anchor)
+- **Anchors:** Stable constructs that offload quantum persistence (Godstone is Iolanu-specific anchor)
 - **First Speech:** Original conceptual framework; *hypatia* means "library" and "creator" simultaneously
 - **Earth:** A world within Hypatia—a solo, non-interventionist creation with no mortal quantum access (source of Earth souls for liberation operations)
 
-### Key Iolinus Concepts to Remember
-- **Earth souls:** People from Earth transplanted into Iolinus bodies (soul transfer mechanism: greyroses)
+### Key Iolanu Concepts to Remember
+- **Earth souls:** People from Earth transplanted into Iolanu bodies (soul transfer mechanism: greyroses)
 - **Quantum abilities:** Five distinct powers (5-split imposed by Malachor), all persecuted
 - **Godshards:** Seven fragments, central plot McGuffins
-- **The Shattering:** Iolinus-specific historical event that broke the Godstone
+- **The Shattering:** Iolanu-specific historical event that broke the Godstone
 - **Nalan Apostasy:** Organization fighting Malachor
-- **Life force binding:** Iolinus-specific protective mechanism (Malachor bound all life to himself)
+- **Life force binding:** Iolanu-specific protective mechanism (Malachor bound all life to himself)
 - **Three-novel arc:** Orientation tour → Godshard quest → TBD
 
 ### Tone & Writing Style Guidelines
@@ -484,26 +484,26 @@ Each major directory has a `README.md` that serves as a comprehensive index:
 ### Common Pitfalls to Avoid
 
 **Framework-Level:**
-- **FRAMEWORK.md is PRIMARY:** Always check framework rules first; Iolinus must conform
+- **FRAMEWORK.md is PRIMARY:** Always check framework rules first; Iolanu must conform
 - Don't confuse Prime Author with "The Author" (First Children's term for Prime Author)
 - Remember: Physical laws come from Prime Author; moralistic rules are First Children constructs
 - First Children cannot be truly destroyed but can be reformed (effectively the same thing)
 - The Library metaphor is purely conceptual, not literal structure
 - Everything is energy patterns—First Children, mortals, ghosts, spirits, all quantum-based
 
-**Iolinus-Level:**
+**Iolanu-Level:**
 - Don't confuse Zeta and Malachor (they're the same entity, different names for different ages)
 - Don't forget that First Children details (waveforms/energy patterns) are background-only for readers
-- Iolinus mortals have NO concept of Prime Author—Malachor actively suppresses this
-- The 5-split of quantum abilities is Iolinus-specific, imposed by Malachor
-- Life force binding is Iolinus-specific, not a universal framework element
-- Godstone/Shattering are Iolinus-specific implementations
+- Iolanu mortals have NO concept of Prime Author—Malachor actively suppresses this
+- The 5-split of quantum abilities is Iolanu-specific, imposed by Malachor
+- Life force binding is Iolanu-specific, not a universal framework element
+- Godstone/Shattering are Iolanu-specific implementations
 - Don't treat provisional content as canon
 - Remember that not all Book 1 party members continue to Book 2
 - The 7th Godshard is missing—that's the Book 2 quest target
 - Don't romanticize the Loisa-Grayson relationship—it's platonic, sacred duet
 - Don't make relationships simple—they're complex, with unspoken tensions
-- Don't forget Gabby's Earth origin—she swears in languages that don't exist in Iolinus
+- Don't forget Gabby's Earth origin—she swears in languages that don't exist in Iolanu
 - Remember Hara's two-mode personality (quiet default, command crisis with post-crisis guilt)
 - Remember Marek's delayed processing—jokes hit hours later
 
@@ -544,10 +544,10 @@ Each major directory has a `README.md` that serves as a comprehensive index:
 - `../../meta/CONSISTENCY_QA.md` - Resolved consistency questions
 - `../../meta/CONSISTENCY_PROCESS.md` - Consistency process
 
-### Iolinus Project Documentation
+### Iolanu Project Documentation
 - `meta/PREMISE_TONE_PERSPECTIVE.md` - Complete premise, tone, perspective, and POV structure
 - `meta/WRITING_FRAMEWORK_README.md` - Framework for organizing writing projects
-- `CONSISTENCY_CHECK.md` - How Iolinus conforms to framework
+- `CONSISTENCY_CHECK.md` - How Iolanu conforms to framework
 
 ### Character Relationships
 - `relationships/loisa_grayson.md` - Aubrey-Maturin bond documentation

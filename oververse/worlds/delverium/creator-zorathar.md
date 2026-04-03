@@ -96,7 +96,7 @@ Zorathar (The Architect) is the First Child who created Delverium as a solo crea
 **Framework Alignment:**
 - Open cosmology variant (framework allows)
 - Mortals aware of creator (framework variant)
-- Different from closed cosmology (like Iolinus)
+- Different from closed cosmology (like Iolanu)
 
 ---
 

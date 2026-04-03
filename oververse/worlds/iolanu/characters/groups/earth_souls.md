@@ -1,15 +1,15 @@
-# Earth Souls on Iolinus
+# Earth Souls on Iolanu
 
 **Status:** Supporting Characters / Agents of Nala  
-**Role:** Earth souls brought to Iolinus by Nala to serve as agents in the war of liberation from Zeta
+**Role:** Earth souls brought to Iolanu by Nala to serve as agents in the war of liberation from Zeta
 
 ## Overview
-Nala has brought a few Earth souls to Iolinus to serve as her agents. There are not many—Nala can't sneak that many past Zeta without being noticed. These souls are placed in bodies that have been prepared for them, marked by the greyrose that makes the soul transfer possible.
+Nala has brought a few Earth souls to Iolanu to serve as her agents. There are not many—Nala can't sneak that many past Zeta without being noticed. These souls are placed in bodies that have been prepared for them, marked by the greyrose that makes the soul transfer possible.
 
 ## Known Earth Souls
 
 ### Loisa Xialing (First Earth Soul)
-- **Origin:** First Earth soul to fall through into Iolinus
+- **Origin:** First Earth soul to fall through into Iolanu
 - **Status:** The strategist; built her flawless mask from absolute zero
 - **Note:** May also be referred to as "Daochen" from Xian, China in some contexts
 
@@ -28,7 +28,7 @@ Nala has brought a few Earth souls to Iolinus to serve as her agents. There are 
 ### Daochen
 - **Origin:** Xian, China
 - **Role:** Mother Superior at the Chapterhouse of Nala in Ibelin
-- **Status:** Head of the order on Iolinus, responsible for fulfilling Nala's plans. Serves as liaison between Nala and the Earth souls she brings here. Supports Earth souls adapting to their new life and mission, coordinates their activities once acclimated, and manages the Chapterhouse.
+- **Status:** Head of the order on Iolanu, responsible for fulfilling Nala's plans. Serves as liaison between Nala and the Earth souls she brings here. Supports Earth souls adapting to their new life and mission, coordinates their activities once acclimated, and manages the Chapterhouse.
 - **Religious Beliefs:** A Christian who doesn't worship Nala but approves of Nala's mission and plans. Wears a simple silver crucifix. She doesn't preach Nala's message but serves as support and coordination.
 - **Appearance:** About 45 Earth years old, brown hair with generous strands of gray, hazel eyes, light brown skin from an ages-old tan. You'd never know she's from China from her host body.
 - **Note:** Different from Loisa Xialing - Daochen is the Mother Superior and liaison, while Loisa is the first Earth soul and strategist.
@@ -57,7 +57,7 @@ Nala has brought a few Earth souls to Iolinus to serve as her agents. There are 
 
 ## Notes
 - There are only a few Earth souls—Nala can't sneak that many past Zeta without being noticed
-- They share a mission: help break Iolinus free from Zeta's grasp
+- They share a mission: help break Iolanu free from Zeta's grasp
 - They must work quietly and hidden, building momentum beneath Zeta's notice
 - Some natives with greyrose tattoos will share much more in common with Earth souls than they would realize
 

@@ -1,9 +1,9 @@
 # Locations Index
 
-All locations in Iolinus organized by type.
+All locations in Iolanu organized by type.
 
 ## Cities
-- [Cities of Iolinus](cities/cities_iolinus.md) - Complete list of 60 cities and locations
+- [Cities of Iolanu](cities/cities_iolanu.md) - Complete list of 60 cities and locations
 - [Kitzigen Falls](cities/kitzigen_falls.md) - Kitzengai waterfall city and mistfae (provisional)
 
 ### Key Cities from Book 1 Orientation Tour

@@ -2,7 +2,7 @@
 
 **A cosmological framework for a multiverse of interconnected stories and worlds.**
 
-Hypatia is the over-universe (the Library) that contains multiple worlds (Books) and stories, similar to Brandon Sanderson's Cosmere. Individual stories (like Iolinus) are subordinate to and must conform to the Hypatia framework.
+Hypatia is the over-universe (the Library) that contains multiple worlds (Books) and stories, similar to Brandon Sanderson's Cosmere. Individual stories (like Iolanu) are subordinate to and must conform to the Hypatia framework.
 
 **The Library Metaphor (Conceptual Framework):**
 - **Prime Author** = The Author who created everything, then withdrew forever

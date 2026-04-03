@@ -5,7 +5,7 @@
 **Related Files:** [Marcionite Theological Inspiration](marcionite_theology.md), [Zeta / Malachor](zeta_god.md), [Nala](nala_goddess.md)
 
 ## Overview
-The Big 'G' God is the true deity who created the universe. This is a **deistic** God—a "watchmaker" who created the universe, wound it up, and stepped away. The Big G God is not actively involved in the affairs of Iolinus or the conflict between Nala and Malachor.
+The Big 'G' God is the true deity who created the universe. This is a **deistic** God—a "watchmaker" who created the universe, wound it up, and stepped away. The Big G God is not actively involved in the affairs of Iolanu or the conflict between Nala and Malachor.
 
 ## Nature
 - **Status:** True deity (big 'G' God)
@@ -29,6 +29,6 @@ The Big 'G' God is the true deity who created the universe. This is a **deistic*
 ## Notes
 - The Big G God is not a character in the story—it's the distant, deistic creator
 - All the action happens at the "little 'g'" level
-- The prohibition against creating Iolinus came from the Big G God (or its natural laws)
+- The prohibition against creating Iolanu came from the Big G God (or its natural laws)
 - Details about what the little 'g' gods "really are" are out of scope—they are simply gods with godly powers
 

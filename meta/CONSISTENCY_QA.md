@@ -16,7 +16,7 @@
 - **"Big 'G' God" / "Prime Author"** = The actual concept/being that exists in reality (framework truth)
 - **"The Author"** = How First Children conceptualize/refer to this being in their cosmology (in-world term used by First Children)
 - **Different worlds/mortals** = May have completely different conceptions, or none at all
-  - Example: Iolinus mortals don't know about Prime Author - they think Malachor (Zeta) is THE god
+  - Example: Iolanu mortals don't know about Prime Author - they think Malachor (Zeta) is THE god
   - Different worlds could have different names/concepts for the Prime Author, or be unaware entirely
 
 **Framework Documentation Standard:**
@@ -27,7 +27,7 @@
 **Files to update:**
 - Clarify in framework docs that "The Author" is First Children terminology
 - Note that mortals on different worlds may have no conception of Prime Author
-- Update Iolinus docs to note that mortals there don't know about Prime Author
+- Update Iolanu docs to note that mortals there don't know about Prime Author
 
 ---
 
@@ -39,7 +39,7 @@
 **Answer:** The legality of world creation is purely a First Children judgment call. There are no explicit prohibitions from the Prime Author. First Children judge each other's readiness/maturity to create worlds. 
 
 **Examples:**
-- Iolinus: Other First Children judged that Zeta/Malachor (before he became Malachor) was too immature to create his own world. He created it anyway, against their judgment—hence "against prohibition."
+- Iolanu: Other First Children judged that Zeta/Malachor (before he became Malachor) was too immature to create his own world. He created it anyway, against their judgment—hence "against prohibition."
 - Legal creation would mean either: created with approval/consent of other First Children, or at least not judged as problematic/immature by peers.
 
 **Framework Update:**
@@ -51,7 +51,7 @@
 **Files to update:**
 - Clarify that prohibitions are First Children judgments, not Prime Author laws
 - Update world creation documentation
-- Update Iolinus example to reflect that other First Children judged Zeta/Malachor as too immature
+- Update Iolanu example to reflect that other First Children judged Zeta/Malachor as too immature
 
 ---
 
@@ -97,32 +97,32 @@
 
 ---
 
-## Iolinus-Specific Elements
+## Iolanu-Specific Elements
 
 ### Q5: Godstone and Shattering - Framework implications?
 **RESOLVED**
 
-**Answer:** The Godstone and the Shattering are **purely Iolinus-specific**—this is the Iolinus implementation of quantum anchor mechanics. Other worlds might have similar concepts (quantum anchors, catastrophic events), but they would be different implementations, not the Godstone/Shattering.
+**Answer:** The Godstone and the Shattering are **purely Iolanu-specific**—this is the Iolanu implementation of quantum anchor mechanics. Other worlds might have similar concepts (quantum anchors, catastrophic events), but they would be different implementations, not the Godstone/Shattering.
 
 **Framework Understanding:**
-- **Godstone:** Iolinus-specific artifact that serves as Malachor's quantum anchor and embodiment of his life-force binding
-- **The Shattering:** Iolinus-specific catastrophic event where the Godstone was shattered into seven Godshards
+- **Godstone:** Iolanu-specific artifact that serves as Malachor's quantum anchor and embodiment of his life-force binding
+- **The Shattering:** Iolanu-specific catastrophic event where the Godstone was shattered into seven Godshards
 - **Universal Concept:** Quantum anchors are universal—other First Children might use different anchor types (artifacts, living souls, cosmic lattices, or nothing)
 - **Similar Concepts:** Other worlds might have similar catastrophic events or anchor systems, but they would be different implementations, not the Godstone/Shattering
-- **Framework Scaling:** The framework allows for diverse anchor implementations across worlds, with Iolinus demonstrating one specific approach
+- **Framework Scaling:** The framework allows for diverse anchor implementations across worlds, with Iolanu demonstrating one specific approach
 
 ---
 
-### Q6: Iolinus as "contested" vs. "created by one"
+### Q6: Iolanu as "contested" vs. "created by one"
 **RESOLVED**
 
-**Answer:** Iolinus was created solely by Malachor (Zeta). Nala took an interest in Iolinus after observing Malachor's abuse of his creation. This makes Iolinus a solo creation that became the focus of a liberation operation, not a contested or collaborative creation.
+**Answer:** Iolanu was created solely by Malachor (Zeta). Nala took an interest in Iolanu after observing Malachor's abuse of his creation. This makes Iolanu a solo creation that became the focus of a liberation operation, not a contested or collaborative creation.
 
 **Framework Understanding:**
-- **Creation:** Iolinus was created by Malachor alone (solo creation)
+- **Creation:** Iolanu was created by Malachor alone (solo creation)
 - **Nala's Involvement:** Nala became involved later after observing Malachor's abuse
-- **Not Contested Creation:** Iolinus is not an example of "contested creation" (where visions clash during creation)
-- **Liberation Operation:** Iolinus demonstrates a liberation operation pattern (First Child freeing a world from its creator)
+- **Not Contested Creation:** Iolanu is not an example of "contested creation" (where visions clash during creation)
+- **Liberation Operation:** Iolanu demonstrates a liberation operation pattern (First Child freeing a world from its creator)
 - **Timeline:** Creation (Malachor) → Abuse observed (Nala) → Liberation operation (Nala's response)
 
 ---
@@ -137,7 +137,7 @@
 **Framework Understanding:**
 - **Earth is in Hypatia:** Earth is one of the worlds (Books) in Hypatia (the Library), not external
 - **Control World:** Earth is a "control" world—no magic, very little First Children involvement
-- **Source for Soul Transfer:** Earth serves as a source of souls for liberation operations (like Iolinus)
+- **Source for Soul Transfer:** Earth serves as a source of souls for liberation operations (like Iolanu)
 - **Marcionite Hint:** There's a hint that Marcion of Sinope's theology might have some validity, suggesting Earth might represent a different relationship to the Prime Author and First Children than other created worlds
 - **Other Source Worlds:** Other worlds can also serve as sources for soul transfer (Earth is one example, not the only possibility)
 
@@ -146,9 +146,9 @@
 ## Liberation Operations
 
 ### Q8: What happens to worlds after liberation?
-**DEFERRED** - To be determined after Iolinus story is complete.
+**DEFERRED** - To be determined after Iolanu story is complete.
 
-**Status:** Framework describes liberation operations but not the aftermath. The answer will be determined through the Iolinus story, so this question is deferred until the story is finished.
+**Status:** Framework describes liberation operations but not the aftermath. The answer will be determined through the Iolanu story, so this question is deferred until the story is finished.
 
 **Questions to be answered:**
 - Can a liberated world continue to exist independently?
@@ -158,19 +158,19 @@
 
 **Current statements:**
 - "Nala can rebuild world - it's the souls she can't bear to lose"
-- But unclear if this is Iolinus-specific or general framework pattern
+- But unclear if this is Iolanu-specific or general framework pattern
 
-**Note:** This will be clarified after the Iolinus story is complete, as the framework will be informed by how the story resolves the liberation operation.
+**Note:** This will be clarified after the Iolanu story is complete, as the framework will be informed by how the story resolves the liberation operation.
 
 ---
 
 ### Q9: Are liberation operations always about freeing worlds?
 **RESOLVED**
 
-**Answer:** No, life force binding is not a universal framework element. It was a tool created by Malachor specifically for his situation on Iolinus. Other worlds may have similar mechanisms, but none have been created yet. Liberation operations can exist for various scenarios—life force binding is just one example from Iolinus.
+**Answer:** No, life force binding is not a universal framework element. It was a tool created by Malachor specifically for his situation on Iolanu. Other worlds may have similar mechanisms, but none have been created yet. Liberation operations can exist for various scenarios—life force binding is just one example from Iolanu.
 
 **Framework Understanding:**
-- **Life Force Binding:** Iolinus-specific tool created by Malachor for his situation (not universal)
+- **Life Force Binding:** Iolanu-specific tool created by Malachor for his situation (not universal)
 - **Similar Mechanisms:** Other worlds may have similar mechanisms, but none have been created yet
 - **Liberation Operations:** Can exist for various scenarios (not limited to life force binding situations)
   - Worlds with cruel creators (with or without binding mechanisms)
@@ -213,14 +213,14 @@
 ### Q12: Quantumancy fragments - always five?
 **RESOLVED**
 
-**Answer:** The split into 5 quantum-adjacent powers is Iolinus-specific, imposed by Malachor when he brought Quantumancy into Iolinus. First Children don't have the split—they effectively have all 5 abilities at once (full Quantumancy). There might be more than 5 fragments across all worlds, but not on Iolinus.
+**Answer:** The split into 5 quantum-adjacent powers is Iolanu-specific, imposed by Malachor when he brought Quantumancy into Iolanu. First Children don't have the split—they effectively have all 5 abilities at once (full Quantumancy). There might be more than 5 fragments across all worlds, but not on Iolanu.
 
 **Framework Understanding:**
 - **First Children:** Have full Quantumancy—all abilities combined, not split (effectively have all 5 at once)
-- **The 5 split is Iolinus-specific:** The split into 5 quantum-adjacent powers was imposed by Malachor when he brought Quantumancy into Iolinus
-- **There might be more than 5 fragments total:** Across all worlds, there could be more than 5 fragment types, but not on Iolinus
+- **The 5 split is Iolanu-specific:** The split into 5 quantum-adjacent powers was imposed by Malachor when he brought Quantumancy into Iolanu
+- **There might be more than 5 fragments total:** Across all worlds, there could be more than 5 fragment types, but not on Iolanu
 - **Other worlds:** May have different numbers or types of fragments, different splits, or different implementations entirely
-- **Iolinus implementation:** The 5 abilities (Quantumancers, Readers, Weavers, Echoes, Nullwraiths) are Malachor's specific implementation for Iolinus
+- **Iolanu implementation:** The 5 abilities (Quantumancers, Readers, Weavers, Echoes, Nullwraiths) are Malachor's specific implementation for Iolanu
 
 **Core Mechanic:**
 - Quantumancy requires constant enforcement without anchors (rubber band effect)
@@ -453,13 +453,13 @@
 2. **Q2:** ✅ RESOLVED - What makes world creation legal vs. prohibited (First Children peer judgment)
 3. **Q3:** ✅ RESOLVED - Relationship between life force binding and prohibition violations (separate mechanisms)
 4. **Q4:** ✅ RESOLVED - Can multiple First Children collaborate on world creation (yes, but raises ownership questions—fuel for conflicts)
-5. **Q5:** ✅ RESOLVED - Godstone and Shattering framework implications (quantum anchor mechanics, unique to Iolinus but demonstrates universal anchor concept)
-6. **Q6:** ✅ RESOLVED - Iolinus creation timeline (solely Malachor's creation, Nala took interest after observing abuse)
+5. **Q5:** ✅ RESOLVED - Godstone and Shattering framework implications (quantum anchor mechanics, unique to Iolanu but demonstrates universal anchor concept)
+6. **Q6:** ✅ RESOLVED - Iolanu creation timeline (solely Malachor's creation, Nala took interest after observing abuse)
 7. **Q7:** ✅ RESOLVED - Earth's status (one of the worlds in Hypatia, "control" world with no magic and minimal First Children involvement, Marcionite hint)
-8. **Q9:** ✅ RESOLVED - Life force binding scope (Iolinus-specific tool created by Malachor, not universal framework element)
-9. **Q12:** ✅ RESOLVED - Quantumancy fragments (5-split is Iolinus-specific, imposed by Malachor; First Children have all abilities at once; there might be more than 5 across all worlds)
+8. **Q9:** ✅ RESOLVED - Life force binding scope (Iolanu-specific tool created by Malachor, not universal framework element)
+9. **Q12:** ✅ RESOLVED - Quantumancy fragments (5-split is Iolanu-specific, imposed by Malachor; First Children have all abilities at once; there might be more than 5 across all worlds)
 10. **Q13:** ✅ RESOLVED - All magic is quantum manipulation (magic systems are comprehension tools for mortals)
-11. **Q14:** ✅ RESOLVED - Mortal awareness of Hypatia (First Children control awareness on their creations; varies by world—open, closed, or actively encourages creator-as-only-god like Iolinus)
+11. **Q14:** ✅ RESOLVED - Mortal awareness of Hypatia (First Children control awareness on their creations; varies by world—open, closed, or actively encourages creator-as-only-god like Iolanu)
 12. **Q15:** ✅ RESOLVED - Rules and enforcement (Physical laws from Prime Author; moralistic rules are First Children constructs; First Children responsible for violations and enforcement)
 13. **Q16 & Q17:** ✅ RESOLVED - Single point of truth (FRAMEWORK.md = primary source; oververse/ = detailed supplementary; worlds = subordinate exceptions/expansions)
 14. **Q18:** ✅ RESOLVED - Prime Author withdrawal permanence (permanent and final, will not return—has left the library forever)
@@ -473,7 +473,7 @@
 2. **Q2:** ✅ RESOLVED - What makes world creation legal vs. prohibited (First Children peer judgment)
 3. **Q3:** ✅ RESOLVED - Relationship between life force binding and prohibition violations (separate mechanisms)
 4. **Q4:** ✅ RESOLVED - Can multiple First Children collaborate on world creation (yes, but raises ownership questions—fuel for conflicts)
-5. **Q5:** ✅ RESOLVED - Godstone and Shattering framework implications (quantum anchor mechanics, unique to Iolinus but demonstrates universal anchor concept)
+5. **Q5:** ✅ RESOLVED - Godstone and Shattering framework implications (quantum anchor mechanics, unique to Iolanu but demonstrates universal anchor concept)
 9. **Q12:** ✅ RESOLVED - Quantumancy core mechanics (persistence problem, anchors, explains mortal madness)
 7. **Q8:** Post-liberation world status
 8. **Q12:** Quantumancy fragment variation

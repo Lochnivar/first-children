@@ -1,7 +1,7 @@
 # TheWay Interface — How Participants See the System
 
 **Purpose:** Canonical reference for how TheWay infrastructure is displayed to dungeon participants.  
-**Source:** DIALOGUE_PAGE.md (integrated)
+**Source:** Trial / UI patterns (repo history). **Cosmological First Speech** (glyphs, Prime Author vocabulary): [first-speech.md](../../../cosmology/first-speech.md). **Trial naming trope** (world tokens): [first-speech-conventions.md](../../../mechanics/first-speech-conventions.md).
 
 ---
 

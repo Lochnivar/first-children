@@ -39,7 +39,7 @@ These rules should be referenced and followed when:
 
 This is a **fantasy world-building project** focused on:
 - The Over-Universe Framework (cosmological rules)
-- The Iolinus world (subordinate story/world)
+- The Iolanu world (subordinate story/world)
 - World-building documentation (characters, locations, cultures, etc.)
 - Plot planning (arcs, scenes, outlines)
 
@@ -49,10 +49,10 @@ Rules have been adapted from an alt-history project and tailored to this fantasy
 
 These rules work alongside:
 - `meta/CONSISTENCY_PROCESS.md` - Framework consistency process
-- `oververse/worlds/iolinus/CONSISTENCY_CHECK.md` - World conformance documentation
+- `oververse/worlds/iolanu/CONSISTENCY_CHECK.md` - World conformance documentation
 - `FRAMEWORK.md` - Primary framework source of truth
 
 ---
 
 *For framework-specific rules, see `meta/CONSISTENCY_PROCESS.md`*  
-*For world-specific guidelines, see `oververse/worlds/iolinus/meta/`*
+*For world-specific guidelines, see `oververse/worlds/iolanu/meta/`*

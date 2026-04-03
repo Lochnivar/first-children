@@ -4,7 +4,7 @@
 **Related Concepts:** Godstone, Godshards, Quantumancers, Rifts, Monsters
 
 ## Overview
-The Shattering was a catastrophic event where mad Quantumancers attempted to destroy the Godstone to escape their eternal suffering, but instead shattered it into seven Godshards, creating a massive rift in reality that spawned monsters and permanently damaged Iolinus.
+The Shattering was a catastrophic event where mad Quantumancers attempted to destroy the Godstone to escape their eternal suffering, but instead shattered it into seven Godshards, creating a massive rift in reality that spawned monsters and permanently damaged Iolanu.
 
 ## Historical Context
 
@@ -15,7 +15,7 @@ The Shattering was a catastrophic event where mad Quantumancers attempted to des
 - Absolute power, absolute madness
 
 ### The Godstone
-- Created by Malachor to allow direct connection to Iolinus
+- Created by Malachor to allow direct connection to Iolanu
 - Allowed him to affect the world without maintaining constant quantum "focus"
 - God-King interface and divine anchor point
 - Power amplifier that freed him from concentration requirements
@@ -54,7 +54,7 @@ The Shattering was a catastrophic event where mad Quantumancers attempted to des
 
 ### The Target
 - Identified the Godstone
-- "Destroy this, universe evaporates" (at least Iolinus and surroundings)
+- "Destroy this, universe evaporates" (at least Iolanu and surroundings)
 - Universal suicide to escape eternal suffering
 
 ### Nala's Influence
@@ -125,7 +125,7 @@ The Shattering was a catastrophic event where mad Quantumancers attempted to des
 ## Timeline
 
 ### When Did It Happen?
-- Nala became interested in Iolinus after "the final fall of the Thohalla"
+- Nala became interested in Iolanu after "the final fall of the Thohalla"
 - Decided to intervene to take world from Malachor
 - Needed initial break in Malachor's power
 - Created Greyroses to interface and start Apostasy after Shattering

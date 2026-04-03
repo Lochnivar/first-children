@@ -25,15 +25,15 @@ World documentation at the framework level shows how each world **expands upon o
 
 ## Known Worlds
 
-### [Iolinus](iolinus.md)
-- **Creator:** Malachor (Zeta) - claimed Iolinus as his own
+### [Iolanu](iolanu.md)
+- **Creator:** Malachor (Zeta) - claimed Iolanu as his own
   - Ripped off a bootleg copy of Earth thousands of years ago—too lazy to do his own work; the bootleg proved he was too immature (what really pissed off the FC)
   - Almost exclusively human, no Panspermia species
-  - Sought permanent dominion (embedded himself via the Godstone—Iolinus-specific artifact)
+  - Sought permanent dominion (embedded himself via the Godstone—Iolanu-specific artifact)
 - **Liberator:** Nala
-  - Took interest in Iolinus after observing Malachor's abuse
+  - Took interest in Iolanu after observing Malachor's abuse
   - Working to liberate mortals from Malachor's dominion
-- **Defining event:** The Shattering — purely Iolinus-specific
+- **Defining event:** The Shattering — purely Iolanu-specific
 
 ### [Stratara](stratara.md)
 - **Creators:** 4-6 First Children siblings - collaborative creation
@@ -86,13 +86,13 @@ World documentation at the framework level shows how each world **expands upon o
 ### [Atahom](atahom.md)
 - **Names:** **Atahom** / **`'THM`** · common **Tahom** / *the world* (*tehom* resonance). Endless vertical realm; Stacks, Collapse, Pulse, Guild.
 - **Not LitRPG / not dungeon-crawler:** [Narrative framing](atahom/world-building/narrative-framing.md) — civilizational fiction, fauna not encounters.
-- **Canon:** [world-building index](atahom/world-building/README.md). [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md) is scratch only.
+- **Canon:** [world-building index](atahom/world-building/README.md). [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md) is a redirect stub. **First Speech (cosmology):** [first-speech.md](../cosmology/first-speech.md).
 - **Framework demonstration:** Setting-scale “book” with instrumented-trial naming via world token; FC creation details TBD for cross-world use.
 
 ### [Earth](earth/)
 - One of the worlds in Hypatia (not external)
 - A "control" world with no magic and very little hands-on involvement by any First Children
-- Source of "Earth souls" transported to other worlds (like Iolinus) for liberation operations
+- Source of "Earth souls" transported to other worlds (like Iolanu) for liberation operations
 - There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
 - **Earth trial:** Final vetting for Homo sapiens as generalist FC staff. World-to-dungeon transformation—administrative-boundary rooms, limited-access corridors, Gatelocks, integration metric. Independent contractors deploy via Platform 934. Narrative focus: human survival in a drastically changed world. See [Earth Trial Mechanics](earth/trial-mechanics.md) and [Earth AI Refresher](earth/AI-REFRESHER.md).
 
@@ -118,7 +118,7 @@ When adding new worlds, remember that worlds may be:
 - **Shaped by one sibling** alone (most common)
 - **Shaped by several siblings in collaboration** (possible but not necessarily common—raises questions of ownership/control, "whose world is it?"—potential fuel for conflicts)
 - **Contested** when sibling visions clash (can happen during creation, after creation, or when collaborative worlds have ownership disputes)
-- **Radically different** from Iolinus—no Godstone equivalent, no Shattering, different experiments in creation
+- **Radically different** from Iolanu—no Godstone equivalent, no Shattering, different experiments in creation
 
 **Note:** No personality stereotypes established for First Children—collaboration depends on individual circumstances, not predetermined traits.
 

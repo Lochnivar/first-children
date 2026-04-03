@@ -38,14 +38,14 @@ This document outlines a proposed chapter structure for Book 1: The Nalan Aposta
 **Chapter 4: Departure and Boat Journey (Travel Leg)**
 - Board boat from Ibelin
 - Meet the rest of the eight-person party
-- First experience of Iolinus geography
+- First experience of Iolanu geography
 - Party dynamics begin to form
 - Observe monster hordes from safe boat
 
 **Educational Goals:**
 - Understand the danger (monsters visible but distant)
 - Begin to understand party relationships
-- See Iolinus geography and culture from water
+- See Iolanu geography and culture from water
 
 **Chapter 5: Arrival in Doicas (City Stop)**
 - Arrive at Doicas
@@ -84,7 +84,7 @@ This document outlines a proposed chapter structure for Book 1: The Nalan Aposta
 - Extended immersion in Thohalla culture
 - Understand riftwalking and mobile rift dangers
 - Deepen party relationships
-- Understand cultural complexity of Iolinus
+- Understand cultural complexity of Iolanu
 
 ---
 
@@ -161,12 +161,12 @@ This document outlines a proposed chapter structure for Book 1: The Nalan Aposta
 - Port culture and trade
 - Grayson's ship context
 - Preparation for final leg
-- Maritime perspective on Iolinus
+- Maritime perspective on Iolanu
 
 **Educational Goals:**
 - Understand trade and commerce
 - Maritime culture and connections
-- See Iolinus from coastal perspective
+- See Iolanu from coastal perspective
 - Grayson's world (naval context)
 
 ---
@@ -227,7 +227,7 @@ This document outlines a proposed chapter structure for Book 1: The Nalan Aposta
 
 **Chapter 20: Orientation Complete**
 - Tour complete
-- Gabby's understanding of Iolinus
+- Gabby's understanding of Iolanu
 - What she's learned
 - Relationships solidified
 - Preparing for what comes next

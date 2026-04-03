@@ -32,7 +32,7 @@ It's all one vast, indifferent quantum sea, and the First Children are the only 
 - Ghosts degrade over time as the memory chain (identity structure) weakens; traumatic memories persist longest—see [Souls and Identity](souls-and-identity.md) for the full mechanism
 
 ### Rift Spawns
-- Some stable rift outputs on Iolinus manifest as spectral entities
+- Some stable rift outputs on Iolanu manifest as spectral entities
 - Energy patterns that never solidify into matter
 - Quantum instability creates coherent patterns that persist
 
@@ -63,11 +63,11 @@ Just patterns, coherence, and the fleeting preferences of those who can make the
 - Fully consistent with quantum manipulation as the root of all supernatural phenomena
 - Malachor didn't add something foreign when he bound his life force or split the disciplines—he just rearranged the waves into patterns that pleased him
 
-## Iolinus-Specific Examples
+## Iolanu-Specific Examples
 
 ### Echoes (Quantum Discipline)
 - Echoes (the quantum discipline) may have a natural affinity for perceiving or creating temporary coherent patterns
-- Potential origin of some "ghost" lore on Iolinus
+- Potential origin of some "ghost" lore on Iolanu
 - Can perceive quantum historical records, which may include patterns that persist as ghosts
 
 ### Cultural Traditions

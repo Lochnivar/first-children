@@ -44,7 +44,7 @@ Quantum manipulation is a fundamental force across Hypatia. It is the metaphysic
 ### The Quantum Foundation
 - Quantum manipulation appears to be a fundamental force across worlds
 - First Children have full access (Quantumancy)
-- Mortals may manifest fragments (the way these are split is world-specific—Iolinus has 5 because Malachor imposed that split when bringing Quantumancy into Iolinus)
+- Mortals may manifest fragments (the way these are split is world-specific—Iolanu has 5 because Malachor imposed that split when bringing Quantumancy into Iolanu)
 - These abilities may be persecuted, accepted, or hidden depending on the world
 
 ### Fundamental Nature

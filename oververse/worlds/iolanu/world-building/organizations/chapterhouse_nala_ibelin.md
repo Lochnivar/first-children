@@ -4,7 +4,7 @@
 **Related Characters:** Daochen (Mother Superior), Gabby D'Olivier, other Earth souls
 
 ## Overview
-The Chapterhouse of Nala in Ibelin is a facility where Earth souls brought to Iolinus by Nala are housed and acclimated. It's managed by Daochen, the Mother Superior, who serves as liaison between Nala and the Earth souls.
+The Chapterhouse of Nala in Ibelin is a facility where Earth souls brought to Iolanu by Nala are housed and acclimated. It's managed by Daochen, the Mother Superior, who serves as liaison between Nala and the Earth souls.
 
 ## Location
 - **City:** Ibelin
@@ -28,7 +28,7 @@ The Chapterhouse of Nala in Ibelin is a facility where Earth souls brought to Io
 - **Donor Letters:** It is a tradition that a donor (the person who gave their body) writes a letter to the soul that will inhabit their body after the Ceremony. These letters can be unusual—Laila's letter was a single intricate glyph that allowed her to appear and speak to Gabby.
 
 ## Management
-- **Mother Superior:** Daochen serves as the head of the order on Iolinus
+- **Mother Superior:** Daochen serves as the head of the order on Iolanu
 - **Responsibilities:** Fulfilling Nala's plans, supporting Earth souls, coordinating activities, managing the Chapterhouse
 
 ## Notes

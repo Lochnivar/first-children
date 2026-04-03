@@ -6,7 +6,7 @@
 ## The Godstone (Original)
 
 ### Purpose
-- Created by Malachor to allow direct connection to Iolinus
+- Created by Malachor to allow direct connection to Iolanu
 - Allowed him to affect the world without maintaining constant quantum "focus"
 - God-King interface and divine anchor point
 - Power amplifier that freed him from concentration requirements
@@ -51,7 +51,7 @@
 
 #### Individual Power
 - Do they grant abilities?
-- Connection to Iolinus?
+- Connection to Iolanu?
 - Quantum manipulation?
 - Unknown properties
 
@@ -131,7 +131,7 @@
 
 ## Notes
 - Nala's plan probably related to Godshards
-- Godshards key to freeing Iolinus
+- Godshards key to freeing Iolanu
 - Central to endgame
 - Location and ownership currently unknown
 - Multiple factions seeking for different reasons

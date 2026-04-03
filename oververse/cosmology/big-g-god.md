@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal  
 **Category:** Cosmology / Deity  
-**Related:** [First Children](first-children.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
+**Related:** [First Children](first-children.md), [First Speech (cosmology)](first-speech.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
 
 **Also Known As:** Big 'G' God (older terminology)
 
@@ -12,9 +12,9 @@ The Prime Author (also called "Big 'G' God") is the true creator who created rea
 
 **The Prime Author is now structural rather than actively interventionist**—best understood as the concert hall rather than a performer within it. His presence is not absent but distributed and embedded in the substrate itself. The continued existence and coherent operation of the universe is proof of His sustained presence. Arguments about whether He is "present" or "absent" are category errors—beings looking for a person when the presence has become structural. The First Children, Dragons, mortals, and everything else exist within Him without necessarily recognizing it as such.
 
-**Terminology Note:** "The Author" is the term First Children use to refer to the Prime Author in their cosmology. Different worlds and mortals may have their own conceptions of the Prime Author, or none at all. First Children control what mortals know on their creations—some worlds are open about cosmology, some closed, some actively encourage creator-as-only-god belief. For example, mortals on Iolinus have no concept of the Prime Author and believe Malachor (Zeta) is the only god (Malachor actively encourages this).
+**Terminology Note:** "The Author" is the term First Children use to refer to the Prime Author in their cosmology. Different worlds and mortals may have their own conceptions of the Prime Author, or none at all. First Children control what mortals know on their creations—some worlds are open about cosmology, some closed, some actively encourage creator-as-only-god belief. For example, mortals on Iolanu have no concept of the Prime Author and believe Malachor (Zeta) is the only god (Malachor actively encourages this).
 
-**In the First Speech:** The Prime Author created hypatia (simultaneously "library" and "creator") and the First Children.
+**In the First Speech:** The Prime Author created hypatia (simultaneously "library" and "creator") and the First Children. Full treatment of Prime Author vocabulary vs mortal glyphs: [First Speech (cosmology)](first-speech.md).
 
 **Conceptual Metaphor: The Author (Purely Conceptual)**
 - The Prime Author can be conceptually understood as **"The Author"** (First Children's term) who created Hypatia (conceptually, "the Library")
@@ -22,7 +22,7 @@ The Prime Author (also called "Big 'G' God") is the true creator who created rea
 - The Prime Author established the foundational rules and structure, created the First Children (siblings)
 - The Prime Author's presence is structural—embedded in the substrate. All existence unfolds within that structure
 - **Note:** The Library metaphor is purely conceptual—it's the closest that First Children or any mortal mind can approach understanding the true nature of Hypatia
-- Mortal awareness of the Prime Author varies: First Children control what mortals know on their creations. Some worlds are open about the cosmology, some are closed, and some (like Iolinus) actively encourage belief that the creator is the only god
+- Mortal awareness of the Prime Author varies: First Children control what mortals know on their creations. Some worlds are open about the cosmology, some are closed, and some (like Iolanu) actively encourage belief that the creator is the only god
 
 ## Nature
 

@@ -2,15 +2,15 @@
 
 **Status:** Framework Reference — Stable  
 **Purpose:** Canonical naming pool for First Children across the Hypatia framework.  
-**Related:** [First Children](first-children.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
+**Related:** [First Children](first-children.md), [First Speech (cosmology)](first-speech.md), [../FRAMEWORK.md](../../FRAMEWORK.md)
 
-> **Note:** This is the stable reference. DIALOGUE_PAGE.md is ephemeral and will be replaced; use this document as the source of truth for FC naming.
+> **Note:** This is the stable reference for **FC personal names** and root pools. For **glyphs, triconsonantal notation, Malachor’s `!'YLN` tag, and in-universe scholarly debates**, see [First Speech (cosmology)](first-speech.md).
 
 ---
 
 ## Convention
 
-- **Root system:** Semitic consonantal roots (Hebrew/Aramaic tradition) with vowel-filling to produce pronounceable names
+- **Root system:** Semitic consonantal roots (Hebrew/Aramaic tradition) with vowel-filling to produce pronounceable names. Aligns with [First Speech](first-speech.md) triconsonantal *glyph* roots at the cosmological layer; FC names here are **character labels**, not full scholarly transcriptions.
 - **Meaning:** Informs but does not constrain — FC drift far from their name's root meaning over time
 - **Key principle:** Categories are starting points, not definitions. A FC named from the Shadow cluster is not automatically antagonistic. A FC named from the Regal cluster is not automatically authoritative. Names reflect origin orientation, not destiny.
 
@@ -20,8 +20,8 @@
 
 | Consonantal Root | Name | Root Meaning | Current Role |
 |-----------------|------|--------------|--------------|
-| MLKR | Malachor | Ruling messenger / resonance | Antagonist FC — Iolinus creator. Named for authority, drifted toward abuse. |
-| NLH | Nala | Enduring completion | Liberation operations — working to free Iolinus mortals |
+| MLKR | Malachor | Ruling messenger / resonance | Antagonist FC — Iolanu creator. Named for authority, drifted toward abuse. |
+| NLH | Nala | Enduring completion | Liberation operations — working to free Iolanu mortals |
 | LGRH | Legara | Resonant rewarder / completer | Contracts domain — Mercara's Cross. Binding precision, perfect language. |
 | MRCRH | Mercara | Boundary marker / delineator | Owner of Mercara's Cross. Cosmic curiosity, reality TV energy. |
 | VRLL | Virelle | Vibrating illuminator | Transit domain — Mercara's Cross. Schedule obsession, Grand Anchor. |

@@ -9,7 +9,7 @@ All significant places in your world.
 - [Region Name](template.md) - Brief description
 
 ## Cities & Settlements
-- [Cities of Iolinus](cities_iolinus.md) - List of city names (from handwritten notes, may contain OCR errors)
+- [Cities of Iolanu](cities_iolanu.md) - List of city names (from handwritten notes, may contain OCR errors)
 
 ## Notable Buildings
 - [Location Name](template.md) - Brief description

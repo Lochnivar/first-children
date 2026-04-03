@@ -45,6 +45,7 @@ Canonical examples of **First Speech for [world]** as a **deployment label**:
 |--------|--------|----------------|
 | **Algernon** | `'LGRNN` | e.g. *'LGRNN Orientation Quest* — leading apostrophe is part of the string |
 | **Atahom** | `'THM` | Deployment label; common **Tahom**; extended roots & locative rules: [First Speech — Atahom](../worlds/atahom/world-building/first-speech-lexicon.md) |
+| **Iolanu** | `YLN` / `!'YLN` | World-token flavor; **cosmological** tag and drift to the name *Iolanu*: [Malachor’s graffiti](../cosmology/first-speech.md#cosmological-footnote-malachors-graffiti) |
 | **Legara** | `LGRH` | First Speech for Legara |
 | **Mercara** | `MRCRH` | First Speech for Mercara |
 
