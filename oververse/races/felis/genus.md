@@ -26,4 +26,5 @@ Genus Felis is defined by the cat-derived genetic template from the FC genetic r
 ---
 
 *For species expressions, see [Nekari](nekari.md), [Felari](felari.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

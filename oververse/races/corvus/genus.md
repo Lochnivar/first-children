@@ -32,4 +32,5 @@ This is the species norm, not a disorder. Among themselves: perfect clarity. Oth
 ---
 
 *For species expression, see [Corvani (Blackwings)](morticus.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

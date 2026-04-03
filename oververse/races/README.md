@@ -12,6 +12,8 @@ The races of Hypatia are like a **salad bar**—a common framework of species av
 
 **Genus structure:** Each genus has its own folder with a `genus.md` file defining the shared traits (physical, temperamental) that define that genetic template. Species files within each folder describe the specific expressions of that genus.
 
+**Species entry standard:** All species entries follow a standardized template (see [template.md](template.md)). Sections include: Overview & Truism, Author's Narrative, Universal Characteristics, Role (Natural Gravitation / FC Staff / Adversary / Infrastructure), Relationships, Native World & History (origin, trial, governance, legal, theology), Story Role, Variations, Naming Conventions, Race-Specific Details, and Example Characters & Dialogue.
+
 **Emergent vs. designated:** Only Homo (FC staff) and Orcus (adversaries) have designated roles. All other genera—Pachi, Chelonari, Giff, etc.—have no assigned roles; their traits lead naturally to certain behaviors (e.g., patience tends toward wisdom-sharing, not "therapist").
 
 ## The Salad Bar Principle

@@ -26,4 +26,5 @@ Genus Ratufa is defined by the giant squirrel–derived genetic template from th
 ---
 
 *For species expression, see [Iridari (Pristails)](iridari.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

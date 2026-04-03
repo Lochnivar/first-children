@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal  
 **Category:** Races / Genus Definition  
-**Related:** [Genetic Frameworks](../genetic-frameworks.md), [../../mechanics/trials.md](../../mechanics/trials.md), [../../FRAMEWORK.md](../../FRAMEWORK.md)
+**Related:** [Genetic Frameworks](../genetic-frameworks.md), [trials.md](../../mechanics/trials.md), [FRAMEWORK.md](../../../FRAMEWORK.md)
 
 ## Definition
 
@@ -159,6 +159,7 @@ See individual species files: [Goblins](goblins.md), [Orcs](orcs.md), [Trolls](t
 
 ---
 
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*  
-*For trials mechanics, see [../../mechanics/trials.md](../../mechanics/trials.md)*  
-*For framework overview, see [../../FRAMEWORK.md](../../FRAMEWORK.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For trials mechanics, see [trials.md](../../mechanics/trials.md)*  
+*For framework overview, see [FRAMEWORK.md](../../../FRAMEWORK.md)*  
+*For races overview, see [Races README](../README.md)*

@@ -32,4 +32,5 @@ Genus Homo is defined by the bipedal humanoid genetic template. Unlike other gen
 ---
 
 *For species expressions, see individual species files above*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

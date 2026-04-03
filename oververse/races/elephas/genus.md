@@ -25,4 +25,5 @@ Genus Elephas is defined by the elephant-derived genetic template from the FC ge
 ---
 
 *For species expressions, see [Pachi](pachi.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

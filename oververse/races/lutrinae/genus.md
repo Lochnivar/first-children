@@ -24,4 +24,6 @@ Genus Lutrinae is defined by the otter-derived genetic template from the FC gene
 
 ---
 
-*For species expression, see [Otter-folk](otter-folk.md)*
+*For species expression, see [Otter-folk](otter-folk.md)*  
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

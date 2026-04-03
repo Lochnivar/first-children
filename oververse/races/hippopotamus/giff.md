@@ -1,61 +1,71 @@
-# Giff
+# Giff (Hippo People)
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Hippopotamus](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Kitsune](../vulpes/kitsune.md), [../../FRAMEWORK.md](../../../FRAMEWORK.md)
+**Related:** [Genus Hippopotamus](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Kitsune](../vulpes/kitsune.md)
 
 ## Overview
 
 Giff are hippopotamus-based anthropomorphic people created through FC panspermia. They aren't *designed* to be mercenaries—but their aggressive traits and penchant for weapons make them *ideal* bodyguards and mercenaries. Not a designated role; the work finds them because of who they are. "Point me at the problem." They often form one vertex of the economy triangle with Kitsune and Nekari.
 
-### Emergent Tendencies
-- Aggressive, overwhelming force, penchant for weapons → ideal for bodyguard and mercenary work
-- Honor-bound, straightforward → contracts sacred; professional reputation
-- Often found in mercenary companies, heavy combat roles—because their traits make them suited to it, not by assignment
+### Truism
+*"Point me at the problem."*
 
-### Physical Traits
-- 400+ pounds, tank-like
-- Massive, aggressive, powerful
-- Hippo-headed
-- Built for overwhelming force
+## Author's Narrative
 
-### Personality
-- Straightforward, loud
-- Professional honor (contracts sacred)
-- Pride in overwhelming force
-- Expensive but effective
-- "Point me at the problem"
-
-### Common Dynamic
-- **Kitsune:** Brokers/information/goods
-- **Nekari:** Hired for precision/stealth work
-- **Giff:** Hired for muscle/protection
-- Kitsune takes cut, professionals get paid
-
-### Story Potential
-- Muscle for hire
-- Combat expertise
-- Professional mercenary culture
-- Bodyguard option for wealthy
+*To be developed.*
 
 ## Universal Characteristics
 
 ### Physical Attributes
-- **Lifespan:** Moderate to long (typically 80-120 years, varies by world)
-- **Size:** Large and powerfully built (typically 7-8 feet tall)
-- **Build:** Massive, muscular, with thick hides
-- **Strength:** Exceptional physical strength and resilience
-- **Appearance:** Hippopotamus-like features (broad snout, thick skin, powerful build)
+- **Height/Size:** Large and powerfully built (typically 7–8 feet tall)
+- **Build:** 400+ pounds; massive, muscular, with thick hides; tank-like
+- **Lifespan:** Moderate to long (typically 80–120 years, varies by world)
+- **Distinctive:** Hippopotamus-like features (broad snout, thick skin, powerful build); built for overwhelming force
 
-### Cognitive Abilities
-- **Intelligence:** Fully intelligent, often strategic and tactical
-- **Discipline:** Strong mental discipline and focus
-- **Honor:** Strong sense of honor, duty, and commitment to contracts
+### Cognitive & Behavioral Traits
+- **Straightforward:** Loud, direct; no subtlety
+- **Honor-bound:** Strong sense of duty and commitment; contracts sacred
+- **Disciplined:** Strong mental discipline and focus; strategic and tactical
+- **Professional pride:** In overwhelming force; expensive but effective
 
-### Cultural
-- Military discipline and love of explosives (varies by world)
-- May be organized into mercenary companies or military units
-- Unit bonds and loyalty
+### Social Characteristics
+- **Community:** Military discipline; unit bonds and loyalty; mercenary companies
+- **Culture:** Love of explosives (varies by world); combat as craft
+
+## Natural Gravitation
+
+Aggressive + overwhelming force + honor-bound → bodyguard and mercenary work. Traits make them suited to it; not assigned. Economy triangle: Kitsune brokers, Nekari executes precision work, Giff provides muscle/protection. Kitsune takes cut, professionals get paid.
+
+## Relationships
+
+- **Kitsune:** Professional broker-contractor dynamic. Economy triangle.
+- **Nekari:** Fellow professionals; different specialties (precision vs. force). Economy triangle.
+
+## Native World & History
+
+### Origin
+FC panspermia-seeded from hippopotamus genetic template.
+
+### Trial History
+*To be developed.*
+
+### Governance & Politics
+*To be developed.*
+
+### Legal Code
+*To be developed.*
+
+### Theology
+*To be developed.*
+
+## Story Role
+
+- Muscle for hire
+- Combat expertise
+- Professional mercenary culture
+- Bodyguard option for wealthy
+- Economy triangle dynamics
 
 ## Variations Across Worlds
 
@@ -63,9 +73,21 @@ Giff are hippopotamus-based anthropomorphic people created through FC panspermia
 - Technology (firearms, explosives) varies by world—no futuristic weapons in trial worlds
 - Honor codes and professional standards may differ
 
+## Naming Conventions
+
+### Patterns
+*To be developed — names should reflect military bluntness and physical power; possibly short, percussive, rank-influenced.*
+
+### Examples
+- **Male:** *To be developed*
+- **Female:** *To be developed*
+
+## Example Characters & Dialogue
+
+*Characters to be developed.*
+
 ---
 
-*For genus definition, see [genus.md](genus.md)*  
+*For genus definition, see [Genus Hippopotamus](genus.md)*  
 *For economy triangle, see [Nekari](../felis/nekari.md) and [Kitsune](../vulpes/kitsune.md)*  
-*For races overview, see [../README.md](../README.md)*  
-*For framework overview, see [../../FRAMEWORK.md](../../../FRAMEWORK.md)*
+*For races overview, see [Races README](../README.md)*

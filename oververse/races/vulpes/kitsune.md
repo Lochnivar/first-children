@@ -1,51 +1,90 @@
-# Kitsune
+# Kitsune (Fox People)
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Vulpes](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Giff](../hippopotamus/giff.md), [../../FRAMEWORK.md](../../../FRAMEWORK.md)
+**Related:** [Genus Vulpes](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Giff](../hippopotamus/giff.md)
 
 ## Overview
 
 Kitsune are fox-based anthropomorphic people created through FC panspermia. Their traits—clever, cunning, morally flexible—tend toward information, trade, and opportunism. Not a designated role; brokering, deal-making, and finding what others need emerge naturally from who they are. They won't help for free, ever. "Nothing personal, just business." They often form one vertex of the economy triangle with Nekari and Giff. Legara recruits them for contract work at Mercara's Cross.
 
-### Emergent Tendencies
-- Clever, cunning → tends toward information work, finding opportunities
-- Morally flexible, practical → deal-making, trade, contracts
-- Often brokers, merchants—but this emerges from traits, not assignment
+### Truism
+*"Everything has a price, only Kitsune know theirs."*
 
-### Physical Traits
-- **One tail** (always—exactly one physical tail)
-- **Rank markings** on the tail indicate mastery (bands, patterns that appear naturally)
-- Beautiful, charming
-- Quick-witted, clever
-- Use appeal to negotiate
+## Author's Narrative
 
-### Personality
-- Clever, silver-tongued
-- Ruthlessly practical
-- Morally flexible
-- "Nothing personal, just business"
-- Won't help for free (ever)
+*To be developed.*
 
-### Common Dynamic
-- **Kitsune:** Brokers/information/goods
-- **Nekari:** Hired for precision/stealth work
-- **Giff:** Hired for muscle/protection
-- Kitsune takes cut, professionals get paid
+## Universal Characteristics
 
-### Story Potential
+### Physical Attributes
+- **Height/Size:** Medium build; quick, agile
+- **Build:** Attractive, charming; use appeal to negotiate
+- **Lifespan:** Very long-lived (hundreds to thousands of years, varies by world)
+- **Tails:** One tail (always—exactly one physical tail). Rank markings (bands, patterns) indicate mastery. See Tail Rank System below.
+- **Forms:** May shapeshift between fox and humanoid forms (varies by world)
+- **Appearance:** In humanoid form, often attractive and graceful
+
+### Cognitive & Behavioral Traits
+- **Clever:** Silver-tongued, quick-witted
+- **Ruthlessly practical:** Morally flexible; practical over principled
+- **Transactional:** Won't help for free (ever). "Nothing personal, just business."
+- **Memory:** Long memories, especially for social interactions and precedent
+- **Learning:** Quick learners, especially for social manipulation
+
+### Social Characteristics
+- **Community:** Trade networks; guild-like structures; rank hierarchy (tail markings)
+- **Culture:** Contract culture; reputation is currency; rank earns respect
+
+## Natural Gravitation
+
+Clever + cunning + morally flexible → information work, brokering, deal-making. Traits lead naturally to trade, contracts, and finding what others need. Often form the economy triangle with Nekari (precision) and Giff (muscle): Kitsune brokers, Nekari executes, Giff protects. Kitsune takes cut, professionals get paid.
+
+## Relationships
+
+- **Nekari:** Professional respect; Kitsune broker, Nekari execute. Economy triangle.
+- **Giff:** Muscle for hire; Kitsune broker, Giff protect. Economy triangle.
+- **Otter-folk:** Fellow operators. Kitsune use contracts; Otter-folk use charm. Mutual recognition.
+
+## Native World & History
+
+### Origin
+FC panspermia-seeded from fox genetic template.
+
+### Trial History
+*To be developed.*
+
+### Governance & Politics
+*To be developed.*
+
+### Legal Code
+*To be developed.*
+
+### Theology
+*To be developed.*
+
+## Story Role
+
 - Moral dilemmas (trade information that hurts others?)
 - Economic reality (everything costs)
 - Intelligence network
 - Temptation (can get you what you need... at a price)
 
-### Example Character
-Yuki, three-tail rank, 87 years old (relatively young), white fur, amber eyes. Charming and dangerous. "Sweetness doesn't buy antibiotics. What DO you have to trade?"
+## Variations Across Worlds
 
-### Truism
-*"Everything has a price, only Kitsune know theirs."*
+- Shapeshifting: Some worlds have full shapeshifting; others have fox features in humanoid form
+- Cultural: Tricksters, wise advisors, or brokers depending on world
+- Economic presence: May be more or less central to trade networks
+- Tail rank system: Core (one tail + markings) is framework; ceremonial details may vary by world
 
----
+## Naming Conventions
+
+### Patterns
+*To be developed — names should reflect cleverness and social grace; possibly Japanese-influenced given the kitsune heritage.*
+
+### Examples
+- **Male:** *To be developed*
+- **Female:** *To be developed*
 
 ## Tail Rank System
 
@@ -80,31 +119,18 @@ Yuki, three-tail rank, 87 years old (relatively young), white fur, amber eyes. C
 - Presence: Immediate respect (or fear). Rooms quiet when they enter.
 - "You can feel a nine-tail before you see them. The tail announces them."
 
----
+## Example Characters & Dialogue
 
-## Universal Characteristics
+### Yuki
+- **Age:** 87 years old (relatively young)
+- **Role:** Three-tail rank broker
+- **Description:** White fur, amber eyes. Charming and dangerous.
+- **Sample Dialogue:** "Sweetness doesn't buy antibiotics. What DO you have to trade?"
 
-### Physical Attributes
-- **Lifespan:** Very long-lived (hundreds to thousands of years, varies by world)
-- **Forms:** May shapeshift between fox and humanoid forms (varies by world)
-- **Tails:** One tail; rank markings (bands/patterns) indicate mastery in contract law, negotiation, deception
-- **Appearance:** In humanoid form, often attractive and graceful
-
-### Cognitive Abilities
-- **Intelligence:** Highly intelligent and cunning
-- **Learning:** Quick learners, especially for social manipulation
-- **Memory:** Long memories, especially for social interactions and precedent
-
-## Variations Across Worlds
-
-- Shapeshifting: Some worlds have full shapeshifting; others have fox features in humanoid form
-- Cultural: Tricksters, wise advisors, or brokers depending on world
-- Economic presence: May be more or less central to trade networks
-- Tail rank system: Core (one tail + markings) is framework; ceremonial details may vary by world
+*Additional characters to be developed.*
 
 ---
 
-*For genus definition, see [genus.md](genus.md)*  
+*For genus definition, see [Genus Vulpes](genus.md)*  
 *For economy triangle, see [Nekari](../felis/nekari.md) and [Giff](../hippopotamus/giff.md)*  
-*For races overview, see [../README.md](../README.md)*  
-*For framework overview, see [../../FRAMEWORK.md](../../../FRAMEWORK.md)*
+*For races overview, see [Races README](../README.md)*

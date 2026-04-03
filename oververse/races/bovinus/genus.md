@@ -25,4 +25,6 @@ Genus Bovinus is defined by the bovine/cattle-derived **non-sapient** genetic te
 
 ---
 
-*For sapient bovine staff, see [Homo bovinus](../homo/bovinus.md)*
+*For sapient bovine staff, see [Homo bovinus](../homo/bovinus.md)*  
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

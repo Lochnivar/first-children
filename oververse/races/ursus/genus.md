@@ -27,4 +27,6 @@ Genus Ursus is defined by the bear-derived genetic template from the FC genetic 
 ---
 
 *For species expression, see [Bruin](bruin.md)*  
-*For legal systems context, see [../../cosmology/legal-systems.md](../../cosmology/legal-systems.md)*
+*For legal systems context, see [legal-systems.md](../../cosmology/legal-systems.md)*  
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

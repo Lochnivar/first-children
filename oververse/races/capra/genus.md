@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal  
 **Category:** Races / Genus Definition  
-**Related:** [Genetic Frameworks](../genetic-frameworks.md), [../README.md](../README.md)
+**Related:** [Genetic Frameworks](../genetic-frameworks.md), [Races README](../README.md)
 
 ## Definition
 
@@ -27,4 +27,5 @@ Genus Capra is defined by the goat-derived genetic template from the FC genetic 
 ---
 
 *For species expressions, see [Capra Quantus](quantus.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

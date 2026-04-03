@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal  
 **Category:** Races / Genus Definition  
-**Related:** [Genetic Frameworks](../genetic-frameworks.md), [Draconis sapiens](draconis-sapiens.md), [../../FRAMEWORK.md](../../FRAMEWORK.md)
+**Related:** [Genetic Frameworks](../genetic-frameworks.md), [Draconis sapiens](draconis-sapiens.md), [FRAMEWORK.md](../../../FRAMEWORK.md)
 
 ## Definition
 
@@ -235,5 +235,6 @@ Greater Dragons are PA-created; Lesser Dragons and Kobolds are GD-created. *Drac
 ---
 
 *For Draconis sapiens, see [draconis-sapiens.md](draconis-sapiens.md)*  
-*For genetic frameworks and FC inspiration from Greater Dragons, see [../genetic-frameworks.md](../genetic-frameworks.md)*  
-*For framework overview, see [../../FRAMEWORK.md](../../FRAMEWORK.md)*
+*For genetic frameworks and FC inspiration from Greater Dragons, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For framework overview, see [FRAMEWORK.md](../../../FRAMEWORK.md)*  
+*For races overview, see [Races README](../README.md)*

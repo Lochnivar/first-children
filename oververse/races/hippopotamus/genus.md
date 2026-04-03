@@ -25,4 +25,5 @@ Genus Hippopotamus is defined by the hippo-derived genetic template from the FC 
 ---
 
 *For species expressions, see [Giff](giff.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

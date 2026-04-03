@@ -25,4 +25,5 @@ Genus Vulpes is defined by the fox-derived genetic template from the FC genetic 
 ---
 
 *For species expressions, see [Kitsune](kitsune.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*

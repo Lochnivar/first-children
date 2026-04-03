@@ -2,35 +2,94 @@
 
 **Status:** Framework Element - Virelle's Creation  
 **Category:** Races / Species  
-**Related:** [Genus Capra](genus.md), [Genetic Frameworks](../genetic-frameworks.md), [Mercara's Cross Riftkeepers](../../worlds/mercara-cross/riftkeepers.md)
+**Related:** [Genus Capra](genus.md), [Genetic Frameworks](../genetic-frameworks.md), [Races README](../README.md)
 
 ## Overview
 
 Capra Quantus (common name: Riftkeepers; Anchor Goats) are Virelle's purpose-built transit infrastructure staff at Mercara's Cross. Goat-derived anthropomorphic beings with quantum-sensitive horns, territorial binding to the Grand Anchor, and compressed speech patterns. They monitor platforms, maintain schedule precision, and detect quantum anomalies. Cannot psychologically leave The Cross.
 
-## Taxonomy
-
-- **Species:** Capra Quantus
-- **Genus:** Capra (goat framework)
-- **Creator:** Virelle
-- **Deployment:** Mercara's Cross (Riftkeepers) — Anchor binding is a deliberate modification for that role
-
 **Authorial note:** Without the behavioral/Anchor binding, Capra Quantus could be used elsewhere as quantumancy detectors—quantum-sensitive horns, early warning for flux, illegal magic detection. Don't restrict usage to the Cross only.
 
-## Physical Traits
+### Truism
+*"Platform 47. Earth. Five minutes. Board now."*
 
-- 5–6 feet tall, humanoid posture
-- Lean, wiry, climber's physique; digitigrade legs, hooved feet
-- Goat features: rectangular pupils, horns (quantum-sensitive), chin beard, short fur (white, black, brown, gray, spotted)
-- Lifespan: 300–500 years
+## Author's Narrative
 
-## Behavioral Traits
+*To be developed.*
 
+## Universal Characteristics
+
+### Physical Attributes
+- **Height/Size:** 5–6 feet tall, humanoid posture
+- **Build:** Lean, wiry, climber's physique; digitigrade legs, hooved feet
+- **Lifespan:** 300–500 years
+- **Distinctive:** Goat features—rectangular pupils, horns (quantum-sensitive), chin beard, short fur (white, black, brown, gray, spotted)
+
+### Cognitive & Behavioral Traits
 - **Stubborn:** Won't abandon post; immovable once positioned
 - **Territorial:** "MY platform, MY responsibility"; fiercely protective
 - **Independent:** Self-directed; minimal social needs
 - **Alert:** Hypervigilant; notice tiny changes instantly
 - **Hardy:** Work through fatigue; stoic
+
+### Social Characteristics
+- **Community:** Platform-based territory; individual responsibility
+- **Culture:** Schedule precision as sacred duty; screaming as communication
+
+## Framework Role: Infrastructure
+
+### Creator
+Virelle
+
+### Designated Function
+- Transit infrastructure staff at Mercara's Cross (Riftkeepers)
+- Platform monitoring, schedule precision, quantum anomaly detection
+- Anchor binding is a deliberate modification for the Cross role
+
+### Taxonomy
+- **Species:** Capra Quantus
+- **Genus:** Capra (goat framework)
+- **Creator:** Virelle
+- **Deployment:** Mercara's Cross (Riftkeepers)
+
+## Relationships
+
+- **Cayminus:** Uncomfortable—goat musk bothers them
+- **Greater Dragons:** Feel "quantum-wrong"—Riftkeepers scream at them continuously
+
+## Native World & History
+
+### Origin
+Virelle's creation; goat-derived with deliberate modifications for transit infrastructure.
+
+### Trial History
+N/A — Infrastructure staff; not trial subjects.
+
+### Governance & Politics
+*To be developed.*
+
+### Legal Code
+*To be developed.*
+
+### Theology
+*To be developed.*
+
+## Story Role
+
+Transit infrastructure comedy and tension. Schedule obsession, screaming, quantum sensitivity as story mechanics. The Silence Problem as anxiety metaphor.
+
+## Variations Across Worlds
+
+Without the Anchor binding, Capra Quantus could serve elsewhere as quantum detectors—flux early warning, illegal quantumancy detection.
+
+## Naming Conventions
+
+### Patterns
+*To be developed — names should reflect compressed, staccato speech; possibly short, sharp, no articles.*
+
+### Examples
+- **Male:** *To be developed*
+- **Female:** *To be developed*
 
 ## The Anchor Binding
 
@@ -68,6 +127,12 @@ Capra Quantus (common name: Riftkeepers; Anchor Goats) are Virelle's purpose-bui
 - "Too quiet" feels wrong; horns say quantum too perfect
 - Virelle accepts 99.7% efficiency; can't fix without breaking detection
 
+## Example Characters & Dialogue
+
+*Characters to be developed.*
+
 ---
 
-*For full Riftkeeper documentation (relationships, culture, scenarios), see [Mercara's Cross Riftkeepers](../../worlds/mercara-cross/riftkeepers.md)*
+*For full Riftkeeper documentation (relationships, culture, scenarios), see [Mercara's Cross Riftkeepers](../../worlds/mercara-cross/riftkeepers.md)*  
+*For genus definition, see [Genus Capra](genus.md)*  
+*For races overview, see [Races README](../README.md)*

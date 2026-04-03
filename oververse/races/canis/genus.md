@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal  
 **Category:** Races / Genus Definition  
-**Related:** [Genetic Frameworks](../genetic-frameworks.md), [Mercara's Cross](../../worlds/mercara-cross.md), [../README.md](../README.md)
+**Related:** [Genetic Frameworks](../genetic-frameworks.md), [Mercara's Cross](../../worlds/mercara-cross.md), [Races README](../README.md)
 
 ## Definition
 
@@ -25,4 +25,5 @@ Genus Canis is defined by the canid-derived genetic template from the FC genetic
 ---
 
 *For species expressions, see [Cayminus](cayminus.md), [Gnoll](gnoll.md)*  
-*For genetic frameworks overview, see [../genetic-frameworks.md](../genetic-frameworks.md)*
+*For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
+*For races overview, see [Races README](../README.md)*
