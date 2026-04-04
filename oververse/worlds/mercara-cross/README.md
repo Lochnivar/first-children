@@ -18,7 +18,7 @@ Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where por
 - **Soul Transfer Hub:** Central nexus for all inter-world transfers
 - **Neutral Ground:** First Children meet for negotiations
 - **Commercial Evolution:** Markets emerged organically around transit
-- **Specialized Entities:** Capra Quantus/Riftkeepers (Virelle), Elves (Mercara's genetic repo contribution—PR-focused homo), Canis cayminus (Nummus), Kitsune (Legara)
+- **Specialized Entities:** Kethi as Riftkeepers (Virelle), Elves (Mercara's genetic repo contribution—PR-focused homo), Canis cayminus (Nummus), Kitsune (Legara)
 
 ## Quick Reference
 
@@ -49,7 +49,7 @@ How hero trading evolved, legitimate trading process, gray areas, black market
 Primary function (transit safety), secondary function (contract enforcement)
 
 ### [The Riftkeepers](riftkeepers.md)
-Capra Quantus—goat-derived transit staff; quantum-sensitive; Anchor binding; screaming; the 3 AM chorus
+Kethi (*Capra Quantus*)—goat-derived transit staff at the Cross; quantum-sensitive; Anchor binding; screaming; the 3 AM chorus
 
 ### [Society & Culture](society-culture.md)
 Permanent residents, transient population, cultural norms

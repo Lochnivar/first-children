@@ -26,7 +26,7 @@
 | FC | Obsession | Domain | Created/Selected | Authority |
 |----|-----------|--------|------------------|-----------|
 | **Mercara** | Pure curiosity, observation | The Cross itself (owner), public spaces, Announcement Spires, coordination | Elves (PR-focused homo; Mercara's genetic repo contribution; at Cross = her viewing crew) | World-level (final say) |
-| **Virelle** | Transit, synchronization, schedule perfection | Platform rings, Grand Anchor, transit infrastructure | Capra Quantus (Riftkeepers—Anchor Goats) | Transit ops (complete autonomy) |
+| **Virelle** | Transit, synchronization, schedule perfection | Platform rings, Grand Anchor, transit infrastructure | Kethi employed as Riftkeepers (Anchor Goats at the Cross) | Transit ops (complete autonomy) |
 | **Nummus** | Finance, ledgers, numerical perfection | Banking vaults, quantum ledger, financial systems | Canis cayminus (banking specialists) | Banking ops (complete autonomy) |
 | **Legara** | Contracts, binding precision, perfect language | Contract Halls, legal frameworks, arbitration | Kitsune (legal specialists, recruited) | Contract ops (complete autonomy) |
 
@@ -40,7 +40,7 @@
 - Stabilizes all rift connections simultaneously
 - Most sophisticated anchor network in Hypatia
 - Enables safe soul transfers between worlds
-- Administered by Riftkeepers (Virelle's creation)
+- Administered by Riftkeepers (Kethi—employed by Virelle)
 
 **Portal Platforms**
 - 1,247+ documented platforms in concentric rings around the Pillar
@@ -55,8 +55,8 @@
 - Secondary: Contract enforcement (Legara's domain; merchants co-opted it; voluntary registration, both parties consent)
 - Quantum database; revenue funds anchor maintenance
 
-**Riftkeepers (Capra Quantus)**
-- Created by Virelle for transit maintenance (goat-derived; Anchor Goats)
+**Riftkeepers (Kethi / *Capra Quantus*)**
+- Kethi employed by Virelle for transit maintenance (goat-derived; Anchor Goats binding at the Cross)
 - Quantum-sensitive horns; detect problems before instruments
 - Psychologically bound to Grand Anchor (cannot leave)
 - Staccato speech; scream at emergencies (and dragons)
@@ -95,7 +95,7 @@
 
 - **Obsession:** Perfect synchronization, schedule optimization, flow & timing
 - **Built:** Platform rings, Grand Anchor, transit systems
-- **Created:** Riftkeepers (transit-bound specialists)
+- **Staff:** Employs Kethi as Riftkeepers (transit-bound specialists at the Cross)
 - **Authority:** Complete autonomy over transit operations
 - **Personality:** Autistic-level obsession. "The trains run on time."
 
@@ -138,7 +138,7 @@
 | `core-infrastructure.md` | Grand Anchor, Ledger, transit mechanics |
 | `platform-list.md` | Full 1,247+ platform directory; Protomundus deep-dive |
 | `integration-other-worlds.md` | Platform 7, 12, 934; story potential |
-| `riftkeepers.md` | Capra Quantus—full Riftkeeper documentation |
+| `riftkeepers.md` | Kethi / Riftkeepers—full Riftkeeper documentation |
 | `AI-REFRESHER.md` | This document |
 
 ---
@@ -147,6 +147,6 @@
 
 - All mechanics = quantum manipulation (no separate realms)
 - Soul transfer requires mechanisms (Grand Anchor = greyrose-equivalent)
-- FC can create specialized entities (Riftkeepers by Virelle); Elves = Mercara's contribution to genetic repo (PR-focused homo staff)
+- FC can create or employ specialized entities (Virelle employs Kethi as Riftkeepers); Elves = Mercara's contribution to genetic repo (PR-focused homo staff)
 - Neutral ground; commerce emerged organically
 - Honors peer judgment seals (Iolanu)

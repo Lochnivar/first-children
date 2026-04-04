@@ -67,7 +67,7 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
   - [Ogres](orcus/ogres.md) (Orcus magnus) - Tank/siege
 
 ### Infrastructure-Bound (Mercara's Cross)
-- **[Capra Quantus (Riftkeepers)](capra/quantus.md)** - Virelle's transit staff; goat-derived; quantum-sensitive; bound to Grand Anchor; see [Mercara's Cross Riftkeepers](../worlds/mercara-cross/riftkeepers.md)
+- **[Kethi (*Capra Quantus*)](capra/quantus.md)** - Goat-derived, quantum-sensitive horns; panspermia species; **Riftkeepers** (subset) work transit at Mercara's Cross for Virelle; see [Mercara's Cross Riftkeepers](../worlds/mercara-cross/riftkeepers.md)
 - **[Cayminus (Coyote Folk)](canis/cayminus.md)** - Nummus's banking staff; coyote-derived; contractual, opportunistic; banking vaults, quantum ledger
 
 ## Designated Roles vs. Emergent Tendencies

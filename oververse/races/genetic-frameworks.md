@@ -47,7 +47,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 - Cats = Nekari, Felari relatives
 - Camels = Djemari relatives
 - Llamas = Llamari relatives
-- Goats = Capra Quantus (Riftkeepers) relatives
+- Goats = Kethi (*Capra Quantus*) relatives
 - Pangolins = Quedari relatives
 - Squirrels = Iridari (Pristails) relatives
 - Crows = Corvani (Blackwings) relatives
@@ -98,10 +98,10 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | **Ratufa** | Squirrels | Iridari (iridescens) | Tends toward broadcasting, information-sharing | Social, observational, validation-seeking |
 | **Corvus** | Crows | Corvani (morticus) | Tends toward healing, chain-mending | Hyper-literal, death-framed, pattern-obsessed |
 | **Canis** | Coyotes | Cayminus (cayminus) | Nummus's banking staff at Mercara's Cross | Contractual, opportunistic |
-| **Canis** | Hyenas | Gnolls (jocularis/festivus) | No designated role; chaos-souls; emergent | Theatrical, communal, warmth until crossed |
+| **Canis** | Hyenas | Gnolls (jocularis/festivus) | No designated role; satirical pack species; emergent | Theatrical, communal, warmth until crossed |
 | **Bovinus** | Cattle, oxen, bison | — | Non-sapient template only; sapient bovine staff are *Homo bovinus* (Homo) | — |
 | **Lutrinae** | Otters | Otter-folk (sapiens) | No designated role; facilitators, bridge-builders, grifters | Charm-aware, play-as-bonding; individual variation |
-| **Capra** | Goats | Capra Quantus (quantus) | Transit staff at Mercara's Cross (Virelle's creation); bound to Grand Anchor | Stubborn, territorial, quantum-sensitive |
+| **Capra** | Goats | Kethi (*Capra Quantus* / quantus) | Panspermia species; **Riftkeepers** (subset) employed by Virelle at Mercara's Cross; Anchor binding is deployment-specific | Stubborn, territorial, quantum-sensitive |
 | **Orcus** | — | Goblins (minor) | Swarm mobs (designated) | Cruel, chaotic |
 | **Orcus** | — | Orcs (sapiens) | Standard combat (designated) | Brutal, organized |
 | **Orcus** | — | Trolls (gigantus) | Elite encounters (designated) | Mournful, patient |

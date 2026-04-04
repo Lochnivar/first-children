@@ -46,7 +46,7 @@ Mercara (The Cross Owner, The Crossroads Keeper) is the First Child who created 
 
 **Evolution:**
 1. Mercara invited Virelle, Nummus, and Legara to build their domains
-2. Virelle built transit infrastructure (Grand Anchor, platforms, Capra Quantus/Riftkeepers)
+2. Virelle built transit infrastructure (Grand Anchor, platforms) and employs Kethi (*Capra Quantus*) as Riftkeepers for transit operations
 3. Nummus built banking; Legara built contract halls
 4. First Children began using Cross for negotiations (neutral territory)
 5. Mortals discovered they could transit through

@@ -2,21 +2,22 @@
 
 **Status:** World-Specific Expansion  
 **Category:** Mercara's Cross / Virelle's Staff  
-**Related:** [Capra Quantus](../../races/capra/quantus.md), [Core Infrastructure](core-infrastructure.md), [Creator: Mercara](creator-mercara.md)
+**Related:** [Kethi (*Capra Quantus*)](../../races/capra/quantus.md), [Core Infrastructure](core-infrastructure.md), [Creator: Mercara](creator-mercara.md)
 
 ## Overview
 
-Riftkeepers (*Capra Quantus*; Anchor Goats) are Virelle's transit infrastructure staff at Mercara's Cross. Quantum-sensitive, territorial goat-people who guard platforms with stubborn ferocity, scream at emergencies (and dragons), speak in compressed fragments, and cannot psychologically leave The Cross. They make Virelle's schedule precision possible.
+Riftkeepers are **Kethi** (*Capra Quantus*) employed by Virelle as transit infrastructure staff at Mercara's Cross — the subset who accept **Anchor Goats** binding and platform assignment. Quantum-sensitive, territorial goat-people who guard platforms with stubborn ferocity, scream at emergencies (and dragons), speak in compressed fragments, and cannot psychologically leave The Cross. They make Virelle's schedule precision possible. (For the species as a whole, see the race article.)
 
-## Taxonomy & Creation
+## Taxonomy & Role
 
-- **Species:** Capra Quantus
+- **Species:** *Capra Quantus* (common name: **Kethi** — see [race article](../../races/capra/quantus.md))
 - **Genus:** Capra (goat framework)
-- **Creator:** Virelle
-- **Common Name:** Riftkeepers
+- **Origin:** FC panspermia; not created by Virelle
+- **This deployment:** Virelle employs Kethi as Riftkeepers at Mercara's Cross
+- **Job title:** Riftkeepers (implies Anchor binding and platform assignment here)
 - **Purpose:** Transit infrastructure maintenance and monitoring
 
-**Authorial note:** The Anchor binding is specific to this deployment. Capra Quantus without binding could serve as quantumancy detectors elsewhere—don't restrict the species to the Cross only.
+**Authorial note:** The Anchor binding is specific to this deployment. Kethi without binding can serve as quantum-sensitive detectors elsewhere — do not restrict the species to the Cross only.
 
 ## Physical Appearance
 
@@ -88,7 +89,7 @@ Most of the time: silent. 3–5 screams/day across all platforms. Locals used to
 
 - "Quantum-sensitive, territorial, stubborn goats who scream at problems. Perfect transit staff."
 - "Dragons complain. Irrelevant. The trains run on time."
-- On the silence problem: "I created beings optimized to detect problems. Absence of problems IS a problem to them. 99.7% efficiency with anxious bleating is acceptable."
+- On the silence problem: "I station a species optimized to detect problems. Absence of problems IS a problem to them. 99.7% efficiency with anxious bleating is acceptable."
 
 ## Key Quote
 
@@ -96,5 +97,5 @@ Most of the time: silent. 3–5 screams/day across all platforms. Locals used to
 
 ---
 
-*For race framework, see [Capra Quantus](../../races/capra/quantus.md)*  
+*For species framework, see [Kethi (*Capra Quantus*)](../../races/capra/quantus.md)*  
 *For core infrastructure, see [core-infrastructure.md](core-infrastructure.md)*

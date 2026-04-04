@@ -218,7 +218,7 @@ All existence operates at the quantum layer:
 - **Signature quote:** "Welcome to my Cross. Where even warlords can have tea."
 
 ### Notable First Children — Virelle (Quick Guide)
-- **Core:** Transit Autist of Mercara's Cross; autistic-level obsession with schedules, synchronization, flow & timing. Built platform rings, Grand Anchor, transit systems. Created Capra Quantus (Riftkeepers—quantum-sensitive goat-people bound to Grand Anchor).
+- **Core:** Transit Autist of Mercara's Cross; autistic-level obsession with schedules, synchronization, flow & timing. Built platform rings, Grand Anchor, transit systems. Employs Kethi (*Capra Quantus*) as Riftkeepers—quantum-sensitive goat-people with Anchor binding at the Cross.
 - **Voice & Tone:** Mechanically precise, schedule-obsessed. "The trains run on time."
 - **Portrayal guidance for AI:** Use Virelle for transit-focused scenes, schedule optimization conflicts, Riftkeeper announcements. Transit domain = complete autonomy; Mercara mediates when transit affects other domains.
 
@@ -327,7 +327,7 @@ All existence operates at the quantum layer:
 - **Ogres** — Tank/siege
 
 ### Infrastructure-Bound (Mercara's Cross)
-- **Capra Quantus (Riftkeepers)** — Virelle's transit staff; goat-derived; bound to Grand Anchor
+- **Kethi (*Capra Quantus*; Riftkeepers at the Cross)** — Virelle's transit staff; panspermia species; Anchor binding deployment-specific
 - **Cayminus (Coyote Folk)** — Nummus's banking staff; contractual, opportunistic
 
 ### Other

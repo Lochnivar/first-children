@@ -20,7 +20,7 @@ Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where por
 
 ### Infrastructure Creation (Four FC)
 - **Mercara:** World foundation, public spaces, Announcement Spires, Elves (PR-focused homo; her genetic repo contribution)
-- **Virelle:** Grand Anchor, portal platforms, transit systems, Capra Quantus/Riftkeepers (transit specialists)
+- **Virelle:** Grand Anchor, portal platforms, transit systems; employs Kethi (*Capra Quantus*) as Riftkeepers (transit specialists)
 - **Nummus:** Banking vaults, quantum ledger, financial systems, Canis cayminus (banking staff)
 - **Legara:** Contract Halls, legal frameworks, arbitration, Kitsune (legal staff)
 
@@ -65,8 +65,8 @@ Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where por
 - Auction houses and professional mercenaries
 - Gray areas and black market exist
 
-**Riftkeepers (Capra Quantus):**
-- Created by Virelle for transit maintenance (goat-derived; Anchor Goats)
+**Riftkeepers (Kethi / *Capra Quantus*):**
+- Kethi employed by Virelle for transit maintenance (goat-derived; Anchor Goats binding at the Cross)
 - Quantum-sensitive horns; detect problems before instruments
 - Psychologically bound to Grand Anchor (cannot leave)
 - Staccato speech; scream at emergencies and dragons
@@ -86,7 +86,7 @@ Mercara's Cross is the crossroads of Hypatia—the liminal nexus world where por
 - All mechanics operate through quantum manipulation (no separate realms)
 - Physical laws cannot be violated (portal placement limited by natural rift points)
 - Soul transfer requires mechanisms (Grand Anchor network as greyrose-equivalent)
-- First Children can create specialized entities (Riftkeepers)
+- First Children can create or employ specialized entities (e.g. Virelle employs Kethi as Riftkeepers)
 - Neutral ground demonstrates First Children cooperation
 - Commerce emerged organically (not imposed)
 

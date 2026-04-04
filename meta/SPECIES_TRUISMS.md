@@ -52,7 +52,7 @@
 ### Infrastructure-Bound (Mercara's Cross)
 | Species | Proposed Truism | Source / Rationale |
 |---------|-----------------|-------------------|
-| **Capra Quantus (Riftkeepers)** | *"MY platform, MY responsibility."* | Behavioral traits: territorial; direct quote from doc |
+| **Kethi / Riftkeepers (*Capra Quantus*)** | *"MY platform, MY responsibility."* | Behavioral traits: territorial; direct quote from doc |
 | **Cayminus** | *"Sound books, steady hands, and a great deal of patience."* | The craft of banking; ledgers, precision, patience |
 
 ### Adversaries (Orcus — trial use only)
@@ -101,7 +101,7 @@
 - **Otter-folk:** *"Don't be afraid to smile with an Ottern, but make sure to check your pockets."* (canonical)
 
 ### Infrastructure-Bound (Mercara's Cross)
-- **Capra Quantus:** *"MY platform, MY responsibility."* (proposed)
+- **Kethi (*Capra Quantus*; Riftkeepers):** *"MY platform, MY responsibility."* (proposed)
 - **Cayminus:** *"Sound books, steady hands, and a great deal of patience."* (proposed)
 
 ### Adversaries (Orcus — trial use only)

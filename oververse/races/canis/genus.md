@@ -20,7 +20,7 @@ Genus Canis is defined by the canid-derived genetic template from the FC genetic
 ### Framework
 - **Non-sapient baseline:** Coyotes, wolves, dogs, hyenas (Earth template)
 - **Sapient expression:** [Cayminus](cayminus.md) — coyote folk; Nummus's banking staff at Mercara's Cross
-- **Sapient expression:** [Gnoll](gnoll.md) — hyena folk; chaos-souls; emergent; no designated role
+- **Sapient expression:** [Gnoll](gnoll.md) — hyena folk; satirical pack species; emergent; no designated role
 
 ---
 

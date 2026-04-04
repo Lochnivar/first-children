@@ -153,7 +153,7 @@ All other sections remain identical.
 
 ## Template: Infrastructure-Bound Species
 
-Use for: Capra Quantus (Riftkeepers), Cayminus (Coyote Folk).
+Use for: Kethi (*Capra Quantus*) in Riftkeeper deployment, Cayminus (Coyote Folk).
 
 Same skeleton as Panspermia, but replace the **Natural Gravitation** section with:
 

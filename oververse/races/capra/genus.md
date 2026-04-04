@@ -22,10 +22,10 @@ Genus Capra is defined by the goat-derived genetic template from the FC genetic 
 
 ### Framework
 - **Non-sapient baseline:** Goats (Earth template)
-- **Sapient expression:** [Capra Quantus](quantus.md) (Riftkeepers) — Virelle's creation for transit infrastructure at Mercara's Cross
+- **Sapient expression:** [Kethi (*Capra Quantus*)](quantus.md) — panspermia species with quantum-sensitive horns; **Riftkeepers** are a subset employed by Virelle at Mercara's Cross
 
 ---
 
-*For species expressions, see [Capra Quantus](quantus.md)*  
+*For species expression, see [Kethi (*Capra Quantus*)](quantus.md)*  
 *For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
 *For races overview, see [Races README](../README.md)*
