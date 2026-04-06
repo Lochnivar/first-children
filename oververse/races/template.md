@@ -12,7 +12,7 @@ All sections are included for completeness. If a section has no content yet, lea
 
 ## Template: Panspermia Species (Emergent Roles)
 
-Use for: Pachi, Chelonari, Aubrei, Giff, Nekari, Felari, Kitsune, Djemari, Llamari, Quedari, Bruin, Iridari, Corvani, Gnolls, Otter-folk, Draconis sapiens.
+Use for: Pachi, Chelonari, Aubrei, Kibo, Nekari, Felari, Kitsune, Djemari, Llamari, Quedari, Bruin, Iridari, Corvani, Gnolls, Otter-folk, Draconis sapiens.
 
 ```markdown
 # [Race Name] ([Common Name])
@@ -27,6 +27,10 @@ Use for: Pachi, Chelonari, Aubrei, Giff, Nekari, Felari, Kitsune, Djemari, Llama
 
 ### Truism
 *"[One-line species truism]"*
+
+## One Line Summary
+
+[Single sentence — a terse **tone hook** for readers, AI context, and pitch. Intended to be a quick generality for author, AI or reader conception. Metaphor, pop-culture shorthand, or in-universe comparison is fine. Not a second overview; it answers *"what do they feel like at a glance?"* Use *To be developed.* until drafted.]
 
 ## Author's Narrative
 
@@ -179,17 +183,18 @@ All other sections remain identical.
 | 1 | Header (Status/Category/Related) | Yes | Standard metadata block |
 | 2 | Overview | Yes | Identity, self-designation, common names |
 | 3 | Truism | Yes | One-line species truism under Overview |
-| 4 | Author's Narrative | Optional | Freeform — leave heading even if empty |
-| 5 | Universal Characteristics | Yes | Physical, Cognitive/Behavioral, Social |
-| 6 | Role section (varies by type) | Yes | Natural Gravitation / FC Staff / Adversary / Infrastructure |
-| 7 | Relationships | Yes | Inter-species dynamics |
-| 8 | Native World & History | Yes | Origin, Trial, Governance, Legal, Theology |
-| 9 | Story Role | Yes | Narrative function and contrasts |
-| 10 | Variations Across Worlds | Yes | How they differ by world |
-| 11 | Naming Conventions | Yes | Patterns + male/female examples |
-| 12 | Race-Specific Details | Optional | Appendix for unique content |
-| 13 | Example Characters & Dialogue | Yes | Structured, growable; at least one per entry |
-| 14 | Footer links | Yes | Genus + README minimum |
+| 4 | One Line Summary | Yes | Single-sentence tone hook; *To be developed.* until drafted |
+| 5 | Author's Narrative | Optional | Freeform — leave heading even if empty |
+| 6 | Universal Characteristics | Yes | Physical, Cognitive/Behavioral, Social |
+| 7 | Role section (varies by type) | Yes | Natural Gravitation / FC Staff / Adversary / Infrastructure |
+| 8 | Relationships | Yes | Inter-species dynamics |
+| 9 | Native World & History | Yes | Origin, Trial, Governance, Legal, Theology |
+| 10 | Story Role | Yes | Narrative function and contrasts |
+| 11 | Variations Across Worlds | Yes | How they differ by world |
+| 12 | Naming Conventions | Yes | Patterns + male/female examples |
+| 13 | Race-Specific Details | Optional | Appendix for unique content |
+| 14 | Example Characters & Dialogue | Yes | Structured, growable; at least one per entry |
+| 15 | Footer links | Yes | Genus + README minimum |
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## Overview
 
-Nekari (*Felis praecisus*) are feline predator anthropomorphic people created through FC panspermia. Their traits—predator, solitary, patient, professional—tend toward precision work and operating alone. Not a designated role; tracking, retrieval, and precision-focused professions emerge naturally from who they are. They often form one vertex of the economy triangle with Kitsune and Giff.
+Nekari (*Felis praecisus*) are feline predator anthropomorphic people created through FC panspermia. Their traits—predator, solitary, patient, professional—tend toward precision work and operating alone. Not a designated role; tracking, retrieval, and precision-focused professions emerge naturally from who they are. They often form one vertex of the economy triangle with Kitsune and Kibo.
 
 **Contrast with Felari cousins:** Nekari pursue perfection of purpose or action. Felari pursue perfection of appearance or manners. Same genus, different orientation: Nekari are about the job; Felari are about the presentation.
 
@@ -39,12 +39,12 @@ Nekari (*Felis praecisus*) are feline predator anthropomorphic people created th
 
 ## Natural Gravitation
 
-Predator + solitary + patient + professional → precision work, tracking, retrieval. Often hired for stealth or precision—but this emerges from traits, not assignment. Frequently part of the economy triangle: Kitsune brokers, Nekari executes, Giff protects.
+Predator + solitary + patient + professional → precision work, tracking, retrieval. Often hired for stealth or precision—but this emerges from traits, not assignment. Frequently part of the economy triangle: Kitsune brokers, Nekari executes, Kibo protect.
 
 ## Relationships
 
 - **Kitsune:** Professional broker-contractor dynamic. Economy triangle.
-- **Giff:** Fellow professionals; different specialties. Economy triangle.
+- **Kibo:** Fellow professionals; different specialties. Economy triangle.
 - **Felari:** Cousins. Nekari: perfection of purpose. Felari: perfection of appearance. Mutual respect for different crafts; occasional rivalry.
 
 ## Native World & History
@@ -75,7 +75,7 @@ FC panspermia-seeded from feline predator genetic template.
 
 - Appearance details vary (coloration, size)
 - Cultural expressions of professional honor differ
-- Relationship to Kitsune and Giff may vary
+- Relationship to Kitsune and Kibo may vary
 
 ## Naming Conventions
 
@@ -100,5 +100,5 @@ FC panspermia-seeded from feline predator genetic template.
 
 *For genus definition, see [Genus Felis](genus.md)*  
 *For Felari cousins, see [Felari](felari.md)*  
-*For economy triangle, see [Kitsune](../vulpes/kitsune.md) and [Giff](../hippopotamus/giff.md)*  
+*For economy triangle, see [Kitsune](../vulpes/kitsune.md) and [Kibo](../hippopotamus/kibo.md)*  
 *For races overview, see [Races README](../README.md)*

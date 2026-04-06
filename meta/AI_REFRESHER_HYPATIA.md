@@ -309,7 +309,7 @@ All existence operates at the quantum layer:
 - **Pachi** — Elephant people; movement, trade, contemplation
 - **Chelonari** — Tortoise people; helping others with wisdom
 - **Aubrei** — Naval tortoise; more aggressive
-- **Giff** — Hippo people; strength-based professions
+- **Kibo** (*Kib* sg.) — Hippopotamus people; enthusiastic pragmatism; bodyguard/mercenary/security (emergent)
 - **Nekari** — Feline people; perfection of purpose or action; precision work, solitude
 - **Felari** — Feline people; perfection of appearance or manners; social grace, presentation
 - **Kitsune** — Fox people; information, trade, opportunism

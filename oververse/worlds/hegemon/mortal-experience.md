@@ -115,7 +115,7 @@ Mortals on Hegemon live real lives with real stakes while their destinies are sh
 - Espionage, illusion, mercenary politics, information brokers
 
 **Others:**
-- Halflings, Giff, etc. as needed
+- Halflings, Kibo, etc. as needed
 
 **Framework Alignment:**
 - Universal races available (framework element)

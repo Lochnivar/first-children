@@ -10,20 +10,20 @@ Genus Hippopotamus is defined by the hippo-derived genetic template from the FC 
 
 ### Physical
 - **Massive, tank-like build** — 400+ pounds, thick hides
-- **Overwhelming force** — Built for power, not speed
+- **Overwhelming force** — Built for power; surprising burst speed for the size (sapient Kibo)
 - **Broad snout, powerful jaws**
 
 ### Temperament
-- **Aggressive when provoked** — Territorial, dangerous
+- **Territorial when provoked** — Dangerous; will not back down (baseline hippo)
 - **Loud, straightforward** — No subtlety
-- **Honor-bound** — Strong sense of duty and commitment
+- **Commitment-default** — Sapient Kibo: says they’ll do it, does it; personal loyalty to unit/mates
 
 ### Framework
 - **Non-sapient baseline:** Hippos (Earth template)
-- **Sapient expression:** [Giff](giff.md) — aggressive traits, penchant for weapons; ideal for bodyguard/mercenary work (emergent, not designed)
+- **Sapient expression:** [Kibo](kibo.md) (*Kib* singular) — hippopotamus-derived; enthusiastic pragmatism; bodyguard/mercenary/security work (emergent fit, not designed)
 
 ---
 
-*For species expressions, see [Giff](giff.md)*  
+*For species expression, see [Kibo](kibo.md)*  
 *For genetic frameworks overview, see [genetic-frameworks.md](../genetic-frameworks.md)*  
 *For races overview, see [Races README](../README.md)*

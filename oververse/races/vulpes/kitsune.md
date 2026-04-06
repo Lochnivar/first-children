@@ -2,11 +2,11 @@
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Vulpes](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Giff](../hippopotamus/giff.md)
+**Related:** [Genus Vulpes](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Kibo](../hippopotamus/kibo.md)
 
 ## Overview
 
-Kitsune are fox-based anthropomorphic people created through FC panspermia. Their traits—clever, cunning, morally flexible—tend toward information, trade, and opportunism. Not a designated role; brokering, deal-making, and finding what others need emerge naturally from who they are. They won't help for free, ever. "Nothing personal, just business." They often form one vertex of the economy triangle with Nekari and Giff. Legara recruits them for contract work at Mercara's Cross.
+Kitsune are fox-based anthropomorphic people created through FC panspermia. Their traits—clever, cunning, morally flexible—tend toward information, trade, and opportunism. Not a designated role; brokering, deal-making, and finding what others need emerge naturally from who they are. They won't help for free, ever. "Nothing personal, just business." They often form one vertex of the economy triangle with Nekari and Kibo. Legara recruits them for contract work at Mercara's Cross.
 
 ### Truism
 *"Everything has a price, only Kitsune know theirs."*
@@ -54,12 +54,12 @@ That knowledge is the currency. The contract is just what reveals it.
 
 ## Natural Gravitation
 
-Clever + cunning + morally flexible → information work, brokering, deal-making. Traits lead naturally to trade, contracts, and finding what others need. Often form the economy triangle with Nekari (precision) and Giff (muscle): Kitsune brokers, Nekari executes, Giff protects. Kitsune takes cut, professionals get paid.
+Clever + cunning + morally flexible → information work, brokering, deal-making. Traits lead naturally to trade, contracts, and finding what others need. Often form the economy triangle with Nekari (precision) and Kibo (muscle): Kitsune brokers, Nekari executes, Kibo protect. Kitsune takes cut, professionals get paid.
 
 ## Relationships
 
 - **Nekari:** Professional respect; Kitsune broker, Nekari execute. Economy triangle.
-- **Giff:** Muscle for hire; Kitsune broker, Giff protect. Economy triangle.
+- **Kibo:** Muscle for hire; Kitsune broker, Kibo protect. Economy triangle.
 - **Otter-folk:** Fellow operators. Kitsune use contracts; Otter-folk use charm. Mutual recognition.
 
 ## Native World & History
@@ -259,6 +259,6 @@ A Kitsune who earns their way from a placeholder name to a full dual family name
 ---
 
 *For genus definition, see [Genus Vulpes](genus.md)*  
-*For economy triangle, see [Nekari](../felis/nekari.md) and [Giff](../hippopotamus/giff.md)*  
+*For economy triangle, see [Nekari](../felis/nekari.md) and [Kibo](../hippopotamus/kibo.md)*  
 *For Mercara's Cross context, see [mercara-cross.md](../../worlds/mercara-cross.md)*  
 *For races overview, see [Races README](../README.md)*

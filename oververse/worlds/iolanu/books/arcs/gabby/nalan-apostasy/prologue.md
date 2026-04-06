@@ -16,13 +16,13 @@ Only when balance is disrupted does change occur.
 
 ---
 
-"Hello Boadicea," a voice spoke from the darkness.
+"Hello Boudicca," a voice spoke from the darkness.
 
-"H... Hello?" Boadicea felt her groggy mental state trying to gather itself into something resembling coherence. Something was wrong. Boadicea could feel it. Her eyes wouldn't open, and she couldn't feel any part of her body. She couldn't even detect whether she had a body still. Her entire world was a focus that wasn't seen, only felt. It was a presence to be inferred rather than confirmed by physical senses that she no longer had access to.
+"H... Hello?" Boudicca felt her groggy mental state trying to gather itself into something resembling coherence. Something was wrong. Boudicca could feel it. Her eyes wouldn't open, and she couldn't feel any part of her body. She couldn't even detect whether she had a body still. Her entire world was a focus that wasn't seen, only felt. It was a presence to be inferred rather than confirmed by physical senses that she no longer had access to.
 
-"Hello, Boadicea," the voice said again. There was a note of relief in that voice, as if a doubtful duty had been accomplished.
+"Hello, Boudicca," the voice said again. There was a note of relief in that voice, as if a doubtful duty had been accomplished.
 
-"I... I don't like that name," Boadicea said. "I prefer..."
+"I... I don't like that name," Boudicca said. "I prefer..."
 
 She tried to remember the name she preferred to go by, but it was as difficult to access any memories as it was to use her senses.
 
@@ -58,7 +58,7 @@ Nala's voice sounded amused with the little joke.
 
 "Let's assume, for the moment, that I believe you and the line you're spouting for me. What do you want with me?"
 
-"Always so practical and pragmatic. That's what I value most about you, Gabby. Very well, what I need from you is to be my agent in a war of liberation from my brother, Zeta."
+"Always so practical and pragmatic. That's what I value most about you, Gabby. Very well, what I need from you is to be my agent in a war of liberation from my brother, Malachor."
 
 "Fighting a god?" Gabby wasn't sure she was ready for that.
 
@@ -82,17 +82,17 @@ The first images began to fill the void. They weren't made of light. They were t
 
 "You're right, I don't understand. Why did you let him go unpunished if he broke your law?"
 
-"Because, for all of Zeta's faults, he is also very clever. We can't take direct action because he tied his life force to his creation. If we punished him as he deserves, remember what I said earlier—his death would mean the death of every hint of life on Iolanu. There are millions of sentient, intelligent beings on that planet, and Zeta knows he is holding them hostage."
+"Because, for all of Malachor's faults, he is also very clever. We can't take direct action because he tied his life force to his creation. If we punished him as he deserves, remember what I said earlier—his death would mean the death of every hint of life on Iolanu. There are millions of sentient, intelligent beings on that planet, and Malachor knows he is holding them hostage."
 
 "So this is pointless?" Gabby said. "I mean, if you can't kill him or punish him, then there is no point fighting him."
 
-"We can't punish him yet," Nala corrected her. "I have a plan, but it means we have to break the intelligent species from Zeta's grasp and evacuate them. And that's where you come in here, Gabby. I need your perspective, and some others, if I'm going to break Iolanu free. Once the intelligent species are evacuated, Zeta won't have any more hostages. I can rebuild a world of plants and animals. It's the souls that I can't bear to vanish into oblivion when Zeta dies."
+"We can't punish him yet," Nala corrected her. "I have a plan, but it means we have to break the intelligent species from Malachor's grasp and evacuate them. And that's where you come in here, Gabby. I need your perspective, and some others, if I'm going to break Iolanu free. Once the intelligent species are evacuated, Malachor won't have any more hostages. I can rebuild a world of plants and animals. It's the souls that I can't bear to vanish into oblivion when Malachor dies."
 
 "You've completely lost me," Gabby said.
 
-"I suppose I have," Nala's voice seemed to sigh. "There is so much more context than I can explain. Suffice it to say, I can't challenge Zeta too openly. If he feels threatened, he'll abandon his playground and all of those people will die as if we killed Zeta himself. No. This has to be a quiet, hidden effort. Something that grows beneath his notice until it's strong enough to let show. Something that builds momentum until even he can't stop it."
+"I suppose I have," Nala's voice seemed to sigh. "There is so much more context than I can explain. Suffice it to say, I can't challenge Malachor too openly. If he feels threatened, he'll abandon his playground and all of those people will die as if we killed Malachor himself. No. This has to be a quiet, hidden effort. Something that grows beneath his notice until it's strong enough to let show. Something that builds momentum until even he can't stop it."
 
-"But your time is growing short here, Gabby. You need to make a decision. I have a follower who was dedicated to me. I had transferred her soul to my keeping—Zeta can't touch her. She grew sick and a high fever damaged her brain. Her soul left her body and lies an empty husk. If you're willing, I will borrow your soul and place it in that empty vessel. You will live out the remainder of her life working as my agent to fight Zeta. Once that life ends, you will return here as though you never left."
+"But your time is growing short here, Gabby. You need to make a decision. I have a follower who was dedicated to me. I had transferred her soul to my keeping—Malachor can't touch her. She grew sick and a high fever damaged her brain. Her soul left her body and lies an empty husk. If you're willing, I will borrow your soul and place it in that empty vessel. You will live out the remainder of her life working as my agent to fight Malachor. Once that life ends, you will return here as though you never left."
 
 Gabby thought a moment.
 

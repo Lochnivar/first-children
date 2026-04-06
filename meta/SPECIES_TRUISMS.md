@@ -41,7 +41,7 @@
 | **Pachi** | *"We wander because we are not home yet."* | Philosophy: they search for the Perfect Place; choose meaning despite truth |
 | **Chelonari** | *"Stone is strong, flesh is weak, water and memory outlast them both."* | Philosophy: integration takes time; their core teaching |
 | **Aubrei** | *"The shell protects, the sea shelters."* | Naval Testudo; patient, shell-backed; maritime identity |
-| **Giff** | *"Some problems need a delicate touch. That's not us."* | Straightforward, overwhelming force; not subtle |
+| **Kibo** (*Kib* sg.) | *"Point me at the problem."* / *"Point us at the problem."* | Enthusiastic application; commitment model; More Boom bias (see race doc) |
 | **Nekari** | *"Perfection is not vanity, it is duty."* | Perfection of purpose or action; precision work, solitude |
 | **Felari** | *"Appearance is courtesy."* | Perfection of appearance or manners; "look your best" and "you're lucky we grace you with our presence" |
 | **Kitsune** | *"Everything has a price, only Kitsune know theirs."* | Transactional; brokers who know the value of things |
@@ -87,7 +87,7 @@
 - **Pachi:** *"We wander because we are not home yet."* (proposed)
 - **Chelonari:** *"Stone is strong, flesh is weak, water and memory outlast them both."* (proposed)
 - **Aubrei:** *"The shell protects, the sea shelters."* (proposed)
-- **Giff:** *"Some problems need a delicate touch. That's not us."* (proposed)
+- **Kibo:** *"Point me at the problem."* / *"Point us at the problem."* (canonical; singular/plural)
 - **Nekari:** *"Perfection is not vanity, it is duty."* (proposed)
 - **Felari:** *"Appearance is courtesy."* (proposed)
 - **Kitsune:** *"Everything has a price, only Kitsune know theirs."* (proposed)

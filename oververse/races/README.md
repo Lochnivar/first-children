@@ -12,9 +12,9 @@ The races of Hypatia are like a **salad bar**—a common framework of species av
 
 **Genus structure:** Each genus has its own folder with a `genus.md` file defining the shared traits (physical, temperamental) that define that genetic template. Species files within each folder describe the specific expressions of that genus.
 
-**Species entry standard:** All species entries follow a standardized template (see [template.md](template.md)). Sections include: Overview & Truism, Author's Narrative, Universal Characteristics, Role (Natural Gravitation / FC Staff / Adversary / Infrastructure), Relationships, Native World & History (origin, trial, governance, legal, theology), Story Role, Variations, Naming Conventions, Race-Specific Details, and Example Characters & Dialogue.
+**Species entry standard:** All species entries follow a standardized template (see [template.md](template.md)). Sections include: Overview & Truism, **One Line Summary** (tone hook), Author's Narrative, Universal Characteristics, Role (Natural Gravitation / FC Staff / Adversary / Infrastructure), Relationships, Native World & History (origin, trial, governance, legal, theology), Story Role, Variations, Naming Conventions, Race-Specific Details, and Example Characters & Dialogue.
 
-**Emergent vs. designated:** Only Homo (FC staff) and Orcus (adversaries) have designated roles. All other genera—Pachi, Chelonari, Giff, etc.—have no assigned roles; their traits lead naturally to certain behaviors (e.g., patience tends toward wisdom-sharing, not "therapist").
+**Emergent vs. designated:** Only Homo (FC staff) and Orcus (adversaries) have designated roles. All other genera—Pachi, Chelonari, Kibo, etc.—have no assigned roles; their traits lead naturally to certain behaviors (e.g., patience tends toward wisdom-sharing, not "therapist").
 
 ## The Salad Bar Principle
 
@@ -40,7 +40,7 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Pachi](elephas/pachi.md)** - Elephant people; tends toward movement, trade, contemplation
 - **[Chelonari](testudo/chelonari.md)** - Tortoise people; tends toward helping others with wisdom
 - **[Aubrei](testudo/aubrei.md)** - Naval tortoise people; more aggressive; cousins to Chelonari
-- **[Giff](hippopotamus/giff.md)** - Hippo people; tends toward strength-based professions
+- **[Kibo](hippopotamus/kibo.md)** (*Kib* singular) — Hippopotamus people; enthusiastic pragmatism; bodyguard, mercenary, security (emergent fit)
 - **[Nekari](felis/nekari.md)** - Feline predator people; perfection of purpose or action; precision work, solitude
 - **[Felari](felis/felari.md)** - Feline predator people; perfection of appearance or manners; social grace, presentation
 - **[Kitsune](vulpes/kitsune.md)** - Fox people; tends toward information, trade, opportunism
@@ -82,7 +82,7 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - Iridari: Tend toward broadcasting, information-sharing—social, observational, validation-seeking traits suit the work
 - Corvani: Tend toward healing, chain-mending—hyper-literal, death-framed, pattern-recognition traits suit the work
 - Aubrei: Naval Testudo; more aggressive; same core traits as Chelonari
-- Giff, Nekari, Kitsune: Tend toward combat, precision, or trade (economy triangle)
+- Kibo, Nekari, Kitsune: Muscle, precision, or trade (economy triangle)
 - Nekari: Perfection of purpose or action. Felari: Perfection of appearance or manners. Cousins (Felis).
 - Djemari, Llamari: Traits (efficient O2, water conservation, endurance) suit transport and logistics
 - Quedari: No designated role; passed trial via avoidance; patient, minimal engagement. Not all races have purposes—some simply are.

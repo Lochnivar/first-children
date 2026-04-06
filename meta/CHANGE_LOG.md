@@ -13,6 +13,16 @@ Each entry should include:
 
 ---
 
+## April 2026
+
+### Race rename: Giff → Kibo (*Kib* singular)
+- **Date:** April 2026
+- **Change:** Sapient Genus Hippopotamus expression renamed **Kibo** (singular **Kib**). Primary file: `oververse/races/hippopotamus/kibo.md`. `giff.md` remains as a one-line redirect stub for old links.
+- **Files updated:** `oververse/races/README.md`, `genetic-frameworks.md`, `template.md`, `hippopotamus/genus.md`, Kitsune and Nekari (economy triangle), `halflings.md`, Hegemon/Stratara mortal lists, `SPECIES_TRUISMS.md`, `AI_REFRESHER_HYPATIA.md`.
+- **Reason:** Assert in-universe naming across the project; distinct from legacy “Giff” association.
+
+---
+
 ## March 2026
 
 ### Framework Directory Renamed to oververse

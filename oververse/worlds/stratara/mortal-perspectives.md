@@ -96,7 +96,7 @@ Stratara has an **open cosmology**—mortals are aware of the First Children "pl
 - Masters of deception and infiltration
 
 **Other Races:**
-- Dwarves, Halflings, Giff, etc. as needed
+- Dwarves, Halflings, Kibo, etc. as needed
 - Each adapted to different territories and roles
 
 ### Evolving Societies
