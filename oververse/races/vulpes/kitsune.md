@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species  
-**Related:** [Genus Vulpes](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Kibo](../hippopotamus/kibo.md)
+**Related:** [Genus Vulpes](genus.md), [Races README](../README.md), [Nekari](../felis/nekari.md), [Kibo](../hippopotamus/kibo.md), [Geliss](../gekko/geliss.md), [Bandari](../procyon/bandari.md)
 
 ## Overview
 

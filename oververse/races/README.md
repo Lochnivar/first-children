@@ -44,6 +44,8 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Nekari](felis/nekari.md)** - Feline predator people; perfection of purpose or action; precision work, solitude
 - **[Felari](felis/felari.md)** - Feline predator people; perfection of appearance or manners; social grace, presentation
 - **[Kitsune](vulpes/kitsune.md)** - Fox people; tends toward information, trade, opportunism
+- **[Geliss](gekko/geliss.md)** (*Gekko versalis*) — Gecko people; cross-context fluency (cultural, linguistic, analytical); liaison, embedded research, intelligence analysis; no designated role—emergent
+- **[Bandari](procyon/bandari.md)** (*Procyon callidus*) — Raccoon people; gray-area economy, salvage, frontier trade, crew bond; anti-authoritarian calibration (not ideology); no designated role—emergent
 - **[Djemari](camelus/djemari.md)** - Camel people; water conservation, endurance—long-haul efficiency
 - **[Llamari](lama/llamari.md)** - Llama people; efficient O2, vigilance—transport, logistics
 - **[Quedari](manis/quedari.md)** - Pangolin people; passed trial via passive avoidance; no designated role—they simply are
@@ -52,9 +54,16 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Corvani (Blackwings)](corvus/morticus.md)** - Crow people; hyper-literal, death-framed; emergent healers and chain-menders; no designated role—traits suit the work
 - **[Gnolls](canis/gnoll.md)** - Hyena-derived; chaos-souls; improv troupe social structure; Festivus; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 - **[Otter-folk](lutrinae/otter-folk.md)** - Otter-derived; charm-aware; facilitators, bridge-builders, grifters; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
+- **[Sungrun](lepus/sungrun.md)** (*Lepus acutis*) — Rabbit people; extraordinary sensory capability (hearing, smell, vibration, pressure); folk percussion/thumping music culture; no designated role—capability platform, emergent
 
 ### Core Races
 - **[Orcs](orcus/orcs.md)** - Orcus sapiens; trial adversary (standard combat)
+
+### Fae (Substrate-Proximate / Origin Undefined)
+Species of unknown origin; FC cannot trace genetic repo ancestry or identify a creator. FC classification is a placeholder. See [Genus Fae](fae/genus.md) for cosmological context.
+- **[Ilvari](fae/ilvari.md)** *(stub)* — High/noble fae; courts, long memory, the beautiful-wrong
+- **[Lumari](fae/lumari.md)** *(stub)* — Small, luminescent; curiosity-primary; the spark not the flame
+- **[Margari](fae/margari.md)** *(stub)* — Threshold fae; liminal spaces, edges, transitions; guide or trickster, context-dependent
 
 ### Prime Author Creation (Second Children) / Taxonomic Dispute
 - **[Genus Draconis](draconis/genus.md)** - FC taxonomy: Greater Dragons (PA), Lesser Dragons, Kobolds, [*Draconis sapiens*](draconis/draconis-sapiens.md) (FC-created, not staff). Scientifically invalid classification; FC control the system. See taxonomic dispute.
@@ -83,6 +92,9 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - Corvani: Tend toward healing, chain-mending—hyper-literal, death-framed, pattern-recognition traits suit the work
 - Aubrei: Naval Testudo; more aggressive; same core traits as Chelonari
 - Kibo, Nekari, Kitsune: Muscle, precision, or trade (economy triangle)
+- Geliss: Fluency across contexts; immersion scholarship; liaison and analysis—genuine inhabitation, not mimicry (see [Geliss](gekko/geliss.md) on the “spy” misread)
+- Bandari: Crew-first loyalty; informal economy and last-mile solutions; navigates whoever “The Man” is this week without needing a manifesto (see [Bandari](procyon/bandari.md))
+- Sungrun: Extraordinary sensory suite (hearing, smell, vibration, pressure); capability platform not a role; folk thumping/percussion music culture; “You didn't sneak up on a Sungrun”
 - Nekari: Perfection of purpose or action. Felari: Perfection of appearance or manners. Cousins (Felis).
 - Djemari, Llamari: Traits (efficient O2, water conservation, endurance) suit transport and logistics
 - Quedari: No designated role; passed trial via avoidance; patient, minimal engagement. Not all races have purposes—some simply are.
@@ -108,7 +120,7 @@ See **[Genetic Frameworks](genetic-frameworks.md)** for:
 
 ## Voice & Dialogue Reference
 
-For expanded species voice guidance (speech patterns, tonal references, flavor quotes, author notes), see **[DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)**. Covers: Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Otter-folk. *Homo bovinus* species reference: [homo/bovinus.md](homo/bovinus.md).
+For expanded species voice guidance (speech patterns, tonal references, flavor quotes, author notes), see **[DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)** — hub linking to canonical per-species files. Covers: Bandari, Geliss, Gnoll, Corvani (Blackwings), Iridari (Pristails), Quedari, Otter-folk. *Homo bovinus* species reference: [homo/bovinus.md](homo/bovinus.md).
 
 For species truisms (validation check: does the scene fit?), see **[meta/SPECIES_TRUISMS.md](../../meta/SPECIES_TRUISMS.md)**.
 

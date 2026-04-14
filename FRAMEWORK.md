@@ -242,11 +242,13 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Suggests Iolanu itself may have multiple regions/cultures
 
 **Earth:**
-- One of the worlds in Hypatia (not external)
-- A "control" world with no magic and very little hands-on involvement by any First Children
-- Source of "Earth souls" transported to other worlds (like Iolanu)
-- There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
-- Will undergo the Trial (world-to-dungeon transformation) in the book
+- World #934 — one FC-created world among many; no cosmologically special or unique status
+- Purpose-built to develop Homo sapiens as a generalist FC staff species
+- Previous Homo iterations (Neanderthals, Denisovans, Floresiensis, and others) were earlier candidates that failed to meet the generalist staff criteria; sapiens is the variant that cleared the bar
+- Iolanu was created as a pirated fork of Earth — Malachor infiltrated Earth, was expelled, and built Iolanu from sapiens stock he took with him; see Iolanu world docs for the full genesis
+- Earth's FC creator (designated YHWH in internal documentation) is intentionally undeveloped; the real-world theological weight of that name makes it a deliberate blank
+- Source of "Earth souls" transported to other worlds (like Iolanu) via Malachor's fork
+- Will undergo the Trial (world-to-dungeon transformation) — final vetting for Homo sapiens as generalist FC staff
 - **Template repository:** Living catalog of the Prime Author's genetic frameworks; unusually high biodiversity; FC study non-sapient baselines before deploying sapient variants; humans surrounded by framework cousins (wolves, elephants, foxes, etc.) without knowing it—see [oververse/races/genetic-frameworks.md](oververse/races/genetic-frameworks.md)
 
 **Trials:**

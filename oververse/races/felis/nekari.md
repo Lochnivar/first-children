@@ -6,46 +6,54 @@
 
 ## Overview
 
-Nekari (*Felis praecisus*) are feline predator anthropomorphic people created through FC panspermia. Their traits—predator, solitary, patient, professional—tend toward precision work and operating alone. Not a designated role; tracking, retrieval, and precision-focused professions emerge naturally from who they are. They often form one vertex of the economy triangle with Kitsune and Kibo.
+Nekari (*Felis praecisus*) are feline anthropomorphic people created through FC panspermia. Their defining trait is the ongoing pursuit of precision — not as a destination to be reached, but as a discipline to be maintained. Confidence does not come from a track record. It comes from knowing exactly where they currently stand on the continuum of mastery, and knowing they are still moving.
 
-**Contrast with Felari cousins:** Nekari pursue perfection of purpose or action. Felari pursue perfection of appearance or manners. Same genus, different orientation: Nekari are about the job; Felari are about the presentation.
+**Contrast with Felari cousins:** Both species carry inward-facing standards, but oriented differently. Felari's standard faces outward — the self as presented, the room as audience. Nekari's standard faces inward — the work as executed, the self as the only judge that matters. Felari perfection is a state you *are*. Nekari precision is a practice you *do*.
 
 ### Truism
-*"Perfection is not vanity, it is duty."*
+*"Among the Nekari, perfection is not vanity. It is a debt they owe themselves."*
 
 ## Author's Narrative
 
-*To be developed.*
+A Nekari in the room doesn't announce themselves. They don't need to. The announcement is in how they move, how they wait, how they assess before committing.
+
+You might mistake it for arrogance — the quiet, the economy of expression, the way they don't seem to need your approval. It isn't arrogance. Arrogance requires an audience. A Nekari would be exactly the same if no one was watching. They probably prefer it that way.
+
+The thing that unsettles people isn't the skill. It's the absence of surprise. Ask a Nekari if they can do something and you get one of two answers: yes, or a precise explanation of exactly why it falls outside their current range. No false modesty, no performance of confidence. Just accuracy.
+
+They train when there's no contract. They refine when there's no audience. The work is not a product — it is the practice itself, and the practice is constant. A Nekari who has stopped refining is a Nekari you should be concerned about.
 
 ## Universal Characteristics
 
 ### Physical Attributes
-- **Height/Size:** Medium; sleek, silent, deadly
-- **Build:** Predator template; agile, navigate difficult terrain
+- **Height/Size:** Medium; lean and efficient
+- **Build:** Feline predator template — agile, precise movement, economy of motion
 - **Lifespan:** Long-lived (varies by world)
-- **Senses:** Night vision, enhanced hearing, acute awareness
-- **Movement:** Silent; built for stealth
+- **Senses:** Night vision, acute hearing, acute awareness — sensory tools in service of precision
+- **Movement:** Silent; no wasted motion
 
 ### Cognitive & Behavioral Traits
-- **Solitary:** Operate alone or in select company; reputation matters
-- **Patient:** Wait for the right moment
-- **Professional:** Silent until contract discussed; prideful about skill
-- **Precise:** Perfection is not vanity, it is duty
-- **Expensive but worth it:** Pure professional; no emotion on the job
+- **Precision as ongoing practice:** Perfection is not a destination — it is a debt they continually pay
+- **Accurate self-assessment:** Know exactly what they can do at their current level; will not claim more or accept work beyond current range
+- **Failure as diagnostic:** Failure is not crisis — it identifies the gap. The practice responds. The refinement continues.
+- **No performance of confidence:** The confidence is present-state. They do not establish it for your benefit.
+- **Respect for mastery in any domain:** Precision is precision regardless of field. A master craftsman earns the same recognition as a master hunter.
+- **Practice is constant:** The contract is the test. The training is the life.
 
 ### Social Characteristics
-- **Community:** Loose professional networks; reputation-based
-- **Culture:** Precision as craft; professional honor above all
+- **Community:** Loose professional networks built on mutual recognition of mastery
+- **The Ename:** The E-ending courtesy name — a diminutive of the full name, granted under strict personal terms. Not assumed, not inferred. If a Nekari has not granted permission, the Ename is not used. The act of granting is deliberate and carries weight; it signals the Nekari has found something in you that meets their internal standard. The specific threshold varies by individual. The protocol does not.
+- **Culture:** Precision as living discipline; the refinement never stops
 
 ## Natural Gravitation
 
-Predator + solitary + patient + professional → precision work, tracking, retrieval. Often hired for stealth or precision—but this emerges from traits, not assignment. Frequently part of the economy triangle: Kitsune brokers, Nekari executes, Kibo protect.
+Feline predator biology + patient precision + accurate self-knowledge → roles where "close enough" is a failure condition: tracking, retrieval, precision craft, assessment, surgery, anything requiring exactness. Not a designated role — the trait deploys wherever precision matters. A Nekari weaponsmith is as coherent as a Nekari tracker.
 
 ## Relationships
 
-- **Kitsune:** Professional broker-contractor dynamic. Economy triangle.
-- **Kibo:** Fellow professionals; different specialties. Economy triangle.
-- **Felari:** Cousins. Nekari: perfection of purpose. Felari: perfection of appearance. Mutual respect for different crafts; occasional rivalry.
+- **Felari:** Cousins. Same genus, opposite orientation. Felari: perfection of presentation (outward-facing standard). Nekari: precision of execution (inward-facing standard). Mutual recognition of rigor; occasional friction where the standards collide.
+- **Kitsune:** Natural professional affinity — Kitsune reads competence accurately and brokers accordingly. A Nekari does not need to sell themselves; Kitsune knows how to read the record. *(Provisional — pending Kitsune finalization.)*
+- **Kibo:** Fellow practitioners of a different discipline. *(Provisional — pending Kibo finalization.)*
 
 ## Native World & History
 
@@ -64,41 +72,71 @@ FC panspermia-seeded from feline predator genetic template.
 ### Theology
 *To be developed.*
 
-## Story Role
-
-- Action scenes (retrieval missions)
-- Danger escalation (hired to hunt protagonist?)
-- Professional standards
-- Skill contrast with fumbling humans
-
 ## Variations Across Worlds
 
-- Appearance details vary (coloration, size)
-- Cultural expressions of professional honor differ
-- Relationship to Kitsune and Kibo may vary
+- Coloration, size, and physical expression vary by world
+- The specific domains of precision mastery vary culturally — one world's Nekari may be master hunters; another's master builders or surgeons
+- The Ename convention is consistent across worlds; the specific terms of granting vary by individual
 
 ## Naming Conventions
 
-### Patterns
-*To be developed — names should reflect silent precision; possibly short, sharp, shadow-influenced.*
+### System
+Nekari names follow a vowel-gender signaling system. The final vowel of a given name carries social information:
 
-### Examples
-- **Male:** *To be developed*
-- **Female:** *To be developed*
+- **A or I endings** — female
+- **O or U endings** — male
+- **E endings** — the Ename; a diminutive of the full given name, used only when the Nekari has explicitly granted permission
+
+Family names do not follow the gendered vowel system and use mixed endings freely.
+
+### Given Name Pools
+
+**Female (A/I endings):** Sethi, Amiri, Taniki, Niraki, Yotana, Miora, Kaira, Seula, Toremi, Suera
+
+**Male (O/U endings):** Kaisu, Tanoku, Kotaru, Seiru, Toru, Raiku, Miroku, Amesu, Yusaru, Teshu
+
+### Ename Examples
+- Sethi → **Sethe**
+- Kotaru → **Kotare**
+- Tanoku → **Tanoke**
+- Yotana → **Yotane**
+- Miora → **Miore**
+
+### Family Names
+Koritsu, Tameshi, Seiroku, Mietoku, Harisen, Toranu, Kurethi
+
+### Full Examples
+- *Female:* Miora Koritsu — Ename: Miore (granted to two)
+- *Male:* Kaisu Tameshi — Ename: Kaise (granted to perhaps four)
 
 ## Example Characters & Dialogue
 
-### Kael Shadowpaw
-- **Age:** Unknown
-- **Role:** Retrieval specialist
-- **Description:** Black fur, scarred. Few words; absolute competence.
-- **Sample Dialogue:** "Acceptable. Extraction by midnight." [leaves]
+### Miora Koritsu
+**Ename:** Miore (granted to two people)  
+**Age:** 340  
+**Role:** Retrieval specialist
 
-*If he takes the job, it gets done.*
+Mid-career by Nekari standards. Known in professional circles not for the jobs she has taken, but for the ones she has declined. The declinations are a kind of advertisement: she knows her range precisely, and the range is narrow only because the standard is high.
+
+**Sample Dialogue:** "That's outside my current range. I'd recommend Seiru Harisen — she works that environment. I'll give you a contact."
+
+*She does not apologize for the limitation. She offers a solution. The precision applies to the referral.*
+
+---
+
+### Tanoku Seiroku
+**Ename:** Tanoke (granted to three)  
+**Age:** 610  
+**Role:** Master weaponsmith
+
+Old enough that the refinement has compounded into something most practitioners will not reach. Doesn't advertise, doesn't solicit. The work speaks. Has been offered positions of institutional authority three times and declined each — authority over others is not the same as mastery of the craft.
+
+**Sample Dialogue:** "Sit. Watch. Don't ask questions until you understand what you're watching." *(pause)* "You can ask now."
+
+*The pause is not dramatic. It is the actual interval he needed to assess whether you were ready.*
 
 ---
 
 *For genus definition, see [Genus Felis](genus.md)*  
 *For Felari cousins, see [Felari](felari.md)*  
-*For economy triangle, see [Kitsune](../vulpes/kitsune.md) and [Kibo](../hippopotamus/kibo.md)*  
 *For races overview, see [Races README](../README.md)*

@@ -1,11 +1,16 @@
-# DIALOGUE_PAGE (redirect)
+# Voice & Dialogue Reference (hub)
 
-Draft notes and experiments may still land here during writing sessions.
+Canonical species write-ups live under **`oververse/races/`**. This file is a **quick map** to those docs—not the canon body text.
 
-**Canonical First Speech cosmology** (glyphs, roots, Malachor’s tag, scholarly reliability table) lives in:
+| Species | Canonical doc |
+|---------|----------------|
+| **Bandari** (raccoon people) | [oververse/races/procyon/bandari.md](oververse/races/procyon/bandari.md) · [Genus Procyon](oververse/races/procyon/genus.md) |
+| **Geliss** (gecko people) | [oververse/races/gekko/geliss.md](oververse/races/gekko/geliss.md) · [Genus Gekko](oververse/races/gekko/genus.md) |
+| **Gnolls** | [oververse/races/canis/gnoll.md](oververse/races/canis/gnoll.md) |
+| **Corvani (Blackwings)** | [oververse/races/corvus/morticus.md](oververse/races/corvus/morticus.md) |
+| **Iridari (Pristails)** | [oververse/races/ratufa/iridari.md](oververse/races/ratufa/iridari.md) |
+| **Quedari** | [oververse/races/manis/quedari.md](oververse/races/manis/quedari.md) |
+| **Otter-folk** | [oververse/races/lutrinae/otter-folk.md](oververse/races/lutrinae/otter-folk.md) |
+| **Homo bovinus** | [oververse/races/homo/bovinus.md](oververse/races/homo/bovinus.md) |
 
-**[oververse/cosmology/first-speech.md](oververse/cosmology/first-speech.md)**
-
-Trial-fiction naming (world tokens, quest OS strings) remains distinct: [First Speech conventions (trials & quest interfaces)](oververse/mechanics/first-speech-conventions.md).
-
-Do not treat this file as setting storage unless it explicitly points at or excerpts the canonical doc above.
+**Truism check:** [meta/SPECIES_TRUISMS.md](meta/SPECIES_TRUISMS.md) · **Full race index:** [oververse/races/README.md](oververse/races/README.md)

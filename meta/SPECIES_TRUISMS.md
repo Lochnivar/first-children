@@ -8,10 +8,12 @@
 
 ---
 
-## Canonical Truisms (from DIALOGUE_PAGE)
+## Canonical Truisms (species docs + legacy dialogue hub)
 
 | Species | Truism |
 |---------|--------|
+| **Geliss** | *"If you want to read about a place, get a travel guide. If you want to know about a place, read a Geliss book."* |
+| **Bandari** | *"Ain't no such thing as trash. Just stuff that ain't been useful yet."* |
 | **Gnoll** | *"It's all fun and games until the Gnolls stop laughing."* |
 | **Corvani (Blackwings)** | *"The Crows remember when no one else does."* |
 | **Iridari (Pristails)** | *"We tell their stories. That's how they live on."* |

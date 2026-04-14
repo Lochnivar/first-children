@@ -56,6 +56,9 @@ All are genetically related within their framework. ~85% DNA similarity between 
 - Hippos = Kibo relatives
 - Cattle, oxen, bison = Genus Bovinus (non-sapient template); sapient bovine staff are *Homo bovinus*
 - Otters = Otter-folk relatives
+- Geckos = Geliss relatives
+- Raccoons = Bandari relatives
+- Rabbits, hares = Sungrun relatives
 
 **Earth's Homo culling (background cosmology):** An FC deployed Homo baseline on Earth ~2.5 million years ago and managed evolution. Six variants emerged (erectus, neanderthalensis, denisova, floresiensis, heidelbergensis, naledi, sapiens). Five were allowed to go extinct (evaluated as too specialized—Neanderthals cold-adapted, Denisovans altitude-optimized, erectus cognitively rigid, etc.); sapiens was supported as the "true generalist" variant. Earth's human history = that selection process. "We're not Earth's first humans. We're Earth's selected humans." (Cosmology context only—FC not a story character.)
 
@@ -102,12 +105,18 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | **Canis** | Hyenas | Gnolls (jocularis/festivus) | No designated role; satirical pack species; emergent | Theatrical, communal, warmth until crossed |
 | **Bovinus** | Cattle, oxen, bison | — | Non-sapient template only; sapient bovine staff are *Homo bovinus* (Homo) | — |
 | **Lutrinae** | Otters | Otter-folk (sapiens) | No designated role; facilitators, bridge-builders, grifters | Charm-aware, play-as-bonding; individual variation |
+| **Gekko** | Geckos | Geliss (versalis) | Tends toward liaison, embedded research, cross-context analysis (emergent) | Adaptive, linguistically flexible; temperature-tuned cognition |
+| **Procyon** | Raccoons | Bandari (callidus) | Tends toward salvage, frontier trade, fixers, informal economy (emergent) | Resourceful, crew-loyal; anti-authoritarian calibration |
+| **Lepus** | Rabbits, hares | Sungrun (acutis) | No designated role; extraordinary sensory capability—capability platform, context determines role | Sensory-always-on, information-sharing instinct; folk music (thumping) culture |
 | **Capra** | Goats | Kethi (*Capra Quantus* / quantus) | Panspermia species; **Riftkeepers** (subset) employed by Virelle at Mercara's Cross; Anchor binding is deployment-specific | Stubborn, territorial, quantum-sensitive |
 | **Orcus** | — | Goblins (minor) | Swarm mobs (designated) | Cruel, chaotic |
 | **Orcus** | — | Orcs (sapiens) | Standard combat (designated) | Brutal, organized |
 | **Orcus** | — | Trolls (gigantus) | Elite encounters (designated) | Mournful, patient |
 | **Orcus** | — | Ogres (magnus) | Tank/siege (designated) | Simple, food-motivated |
 | **Draconis** | — | Draconis sapiens | FC creation (spite-built) | Dragon-inspired |
+| **Fae** | ??? | Ilvari *(stub)* | Undefined origin; FC classification placeholder | Presence-heavy, long game, uncanny |
+| **Fae** | ??? | Lumari *(stub)* | Undefined origin; FC classification placeholder | Luminescent, curiosity-primary |
+| **Fae** | ??? | Margari *(stub)* | Undefined origin; FC classification placeholder | Liminal, threshold-keepers |
 
 *Latin epithets are taxonomic conventions; exact names may vary by world.*  
 *Homo and Orcus: designated roles (purpose-built). Other genera: emergent tendencies from traits.*  
@@ -145,6 +154,12 @@ Sapient species can instinctively understand some framework cousin behaviors:
 **Gnoll + Homo bovinus:** Friction, not war. Gnolls read them as stiff and unfunny; Bovinus read Gnolls as chaotic noise. Both can work a line—different definitions of “discipline.”
 
 **Otter-folk:** Individual variation—some facilitators, some grifters, some both. Charm-aware; "check your pockets." Gnolls may see through it; Corvani possibly immune. Kitsune are fellow operators.
+
+**Geliss + Kitsune:** Both read situations with unusual depth—Kitsune toward motive, leverage, and relational dynamics; Geliss toward cultural operating assumptions and environmental context. Mutual professional respect; each finds the other occasionally exhausting.
+
+**Bandari + Bruin:** Same frontier, different OS—law at the edge vs. informal economy at the edge. Wary mutual tolerance until jurisdiction and cargo manifest intersect; neither side holds it personally.
+
+**Bandari + Kitsune:** Kitsune for contracts and long networks; Bandari for last mile and settlements below formal minimums. Useful to each other; both stay wary on price and leverage.
 
 **Halflings + Orcus:** Halflings provision Orcus (someone has to). Wary but professional. Track their massive consumption. Full spectrum of FC creation—some to help (Halflings), some to harm (Orcus).
 

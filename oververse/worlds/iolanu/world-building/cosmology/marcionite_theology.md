@@ -7,6 +7,18 @@
 ## Overview
 The story draws inspiration from the theology of Marcion of Sinope (2nd century CE), who preached that a separate, lesser divine being (a "Demiurge") actually created the world, and the coming of Jesus represented the "true God" (big G) overthrowing the demiurge (little g).
 
+Marcionite theology is not merely an analogy for Iolanu — it is the direct theological residue of events that actually happened on Earth and produced Iolanu. Earth mortals partially got it right because they were living through it.
+
+## Earth History and the Genesis of Iolanu
+
+The Marcionite framework maps onto a literal sequence of events:
+
+- **~6,000 years ago (Old Testament era):** Malachor infiltrated Earth (world #934), a FC-created world being developed to produce generalist Homo sapiens staff. He embedded himself as the controlling divine presence — the jealous, law-giving god of the Hebrew Bible. He is the Demiurge Earth mortals encountered.
+- **~2,000 years ago (Christian era):** Malachor was overthrown and expelled from Earth by its legitimate FC creator. Earth mortals perceived this event through their theological framework and produced the liberation narratives of early Christianity. Marcion of Sinope, working ~150 years after the expulsion, correctly intuited that two distinct divine figures had been involved — a lesser controlling creator and a transcendent true god — because the evidence of both was still legible in the texts.
+- **After expulsion:** Malachor created Iolanu as a pirated fork, using sapiens stock and cultural material he had already shaped on Earth. Iolanu's theological architecture — its gods, its church, its cosmology — is downstream of what Malachor built during his tenure on Earth.
+
+Marcionite theology is therefore a conceptual guide to understanding Malachor's relationship to Earth and the genesis of Iolanu, not a claim about Earth's cosmological significance. Earth is world #934, no more special than any other FC world. What is special is that Malachor was there, and that its mortals noticed.
+
 ## Marcion of Sinope's Theology
 
 ### Core Doctrine

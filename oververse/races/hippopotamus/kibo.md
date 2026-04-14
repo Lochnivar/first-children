@@ -2,7 +2,7 @@
 
 **Status:** Framework Element - Universal Race  
 **Category:** Races / Species
-**Related:** [Genus Hippopotamus](genus.md), [Races README](../README.md)
+**Related:** [Genus Hippopotamus](genus.md), [Races README](../README.md), [Bandari](../procyon/bandari.md)
 
 ## Overview
 

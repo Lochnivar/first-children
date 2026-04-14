@@ -22,7 +22,7 @@ KPI is a loose term. These are not pass/fail thresholds. They are the specific q
 
 ### KPI 1: Generalist Viability
 
-Does this deployment actually have the traits the design doc specified? This is a retrospective audit of the FC designer's own work. The previous Homo variants — Neanderthalensis, Denisovians, and others — were pre-trial iterations. The designer was refining the template. Sapiens is the version the designer was confident enough to put through formal vetting.
+Does this deployment actually have the traits the design doc specified? This is a retrospective audit of the FC designer's own work. The previous Homo variants — Neanderthalensis, Denisovans, Floresiensis, and others — were pre-trial iterations that failed to meet the generalist staff criteria. The designer was refining the template across several hundred thousand years. Sapiens is the version the designer was confident enough to put through formal vetting.
 
 The traits being audited are the specific differentiators that made Sapiens the surviving variant:
 
@@ -56,7 +56,7 @@ The experienced contractors who have seen multiple trials read the trial design 
 
 Trials do not appear without infrastructure. Decades, and in some cases centuries, of groundwork precede the walls going up. The Earth trial is no exception.
 
-- Centuries of iteration on the Homo template — previous variants deployed, evaluated, allowed to go extinct or eliminated until Sapiens was the sole remainder
+- Centuries of iteration on the Homo template — previous variants (Neanderthalensis, Denisovans, Floresiensis, and others) deployed, evaluated, and allowed to go extinct or eliminated until Sapiens was the sole remainder
 - Homo sapiens reaching 21st-century, borderline pre-quantum civilization threshold triggers the formal trial sequence
 - Decades of pre-trial monitoring as Sapiens approached threshold
 - Homo genus staffers — elves, hobgoblins, dwarves, halflings, tinkari — quietly embedded in human institutional infrastructure in roles they were designed for. Municipal planning. Infrastructure assessment. Diplomatic liaison. They were not agents. They were simply good at jobs that happened to be exactly the jobs the trial would need.
