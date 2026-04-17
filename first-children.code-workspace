@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../hypatia"
+		},
+		{
+			"path": "../ashverse"
 		}
 	],
 	"settings": {}

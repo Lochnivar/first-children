@@ -55,6 +55,7 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Gnolls](canis/gnoll.md)** - Hyena-derived; chaos-souls; improv troupe social structure; Festivus; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 - **[Otter-folk](lutrinae/otter-folk.md)** - Otter-derived; charm-aware; facilitators, bridge-builders, grifters; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 - **[Sungrun](lepus/sungrun.md)** (*Lepus acutis*) — Rabbit people; extraordinary sensory capability (hearing, smell, vibration, pressure); folk percussion/thumping music culture; no designated role—capability platform, emergent
+- **[Tzvari](cervus/tzvari.md)** (*Cervus tzvari*) — Deer people; ecological reading (biological sensitivity to ecosystem health); tending compulsion; no designated role—traits lead to land management, herbalism, ecological stewardship
 
 ### Core Races
 - **[Orcs](orcus/orcs.md)** - Orcus sapiens; trial adversary (standard combat)
@@ -95,6 +96,7 @@ Species of unknown origin; FC cannot trace genetic repo ancestry or identify a c
 - Geliss: Fluency across contexts; immersion scholarship; liaison and analysis—genuine inhabitation, not mimicry (see [Geliss](gekko/geliss.md) on the “spy” misread)
 - Bandari: Crew-first loyalty; informal economy and last-mile solutions; navigates whoever “The Man” is this week without needing a manifesto (see [Bandari](procyon/bandari.md))
 - Sungrun: Extraordinary sensory suite (hearing, smell, vibration, pressure); capability platform not a role; folk thumping/percussion music culture; “You didn't sneak up on a Sungrun”
+- Tzvari: Ecological reading (continuous biological signal from living systems); tending compulsion; tend toward land management, ecological stewardship, herbalism — and being right too early about what the land is telling them
 - Nekari: Perfection of purpose or action. Felari: Perfection of appearance or manners. Cousins (Felis).
 - Djemari, Llamari: Traits (efficient O2, water conservation, endurance) suit transport and logistics
 - Quedari: No designated role; passed trial via avoidance; patient, minimal engagement. Not all races have purposes—some simply are.
@@ -109,6 +111,10 @@ Species of unknown origin; FC cannot trace genetic repo ancestry or identify a c
 - Races may manifest differently on different worlds
 - Each world may add unique races not in this framework
 - Framework races provide common options for consistency across Hypatia
+
+## Human Adjacency Index
+
+See **[Human Adjacency Index](human-adjacency-index.md)** for a complete authorial reference on how human-presenting each species is — scored 1–10, organized by visual band, with identification distances and scene-writing notes.
 
 ## Genetic Frameworks
 

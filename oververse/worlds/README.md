@@ -25,6 +25,14 @@ World documentation at the framework level shows how each world **expands upon o
 
 ## Known Worlds
 
+### [Bahvayin](bahvayin.md)
+- **Creator(s):** Unnamed FC experimenters — offstage permanently
+- **Premise:** Maximum species diversity experiment in a closed geographic system. Question: do diverse species integrate, segregate, or destroy each other under geographic pressure?
+- **Structure:** Hemisphere-spanning atoll (*bah-VAH-yin* — "pupil of the eye") surrounding the Akhan Sea. Three straits: The Storm Gate (east), The Desert Road (west), The Southern Way (south)
+- **Defining concept:** Dying maritime empire in succession crisis; the Eye of Tsapadon mega-storm approaching; breakwater islands compromised; engineer-priest coalition holding the math nobody in power wants to hear
+- **Death of Magic:** FC course correction — magic was contaminating the experiment. Pre-Death artifacts persist; new enchantment impossible
+- **Stories:** Ground-level. Common folk, junior functionaries, third sons. The meta-narrative assembles from fragments.
+
 ### [Iolanu](iolanu.md)
 - **Creator:** Malachor (Zeta) - claimed Iolanu as his own
   - Ripped off a bootleg copy of Earth thousands of years ago—too lazy to do his own work; the bootleg proved he was too immature (what really pissed off the FC)

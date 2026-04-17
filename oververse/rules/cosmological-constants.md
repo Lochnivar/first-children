@@ -36,6 +36,20 @@ These are the cosmological constants that must remain consistent across all worl
 - Different worlds may present quantum manipulation as different "magic" systems (spells, rituals, schools, etc.), but they're all ultimately quantum manipulation
 - Manifestations vary by world but foundation is consistent
 
+### Genetic Incompatibility
+- Species seeded from the genetic repository are **biologically incompatible** with each other — cross-species reproduction is impossible
+- The barrier is genetic, not social — a dog cannot breed with a cat, and the same principle applies across all species
+- No half-species, no hybrids, no exceptions anywhere in the framework
+- Cultural integration between species can be deep and genuine; biological boundaries do not move
+- This applies universally across all worlds — individual worlds may have in-world explanations (religious, cultural, scientific) but the underlying fact is a constant
+
+### Cross-Species Marriage
+- Cross-species marriage is legally valid but biologically sterile — no offspring are possible
+- Such marriages are rare and carry social disdain in most cultures — viewed as a tool of political desperation rather than genuine union
+- They function as **legitimacy transfer instruments**: a cross-species marriage can designate an heir from a cadet branch of either spouse's species, transferring political legitimacy without biological descent
+- Old houses with deep biological lines do not need this mechanism; its use announces the limits of a house's biological options even while executing political strategy
+- Individual worlds may develop specific theological and legal frameworks around this institution, but the underlying biological fact is a constant
+
 ### Note on Life Force Binding
 - Life force binding is **NOT a universal framework constant**
 - It is **Iolanu-specific**—a tool created by Malachor for his situation
