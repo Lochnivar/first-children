@@ -56,7 +56,7 @@ The Halfling logistics networks that control A'Kavah's distribution have deep co
 
 **Humans** — majority population across the horse operations, manufacturing, and port functions. The broad workforce of a duchy that runs on physical knowledge and consistent labor.
 
-**Pachi** — the landowning class of the breeding estates. Multigenerational estate management, the bloodline knowledge that makes quality breeding possible, the long patience for operations that produce results across decades not seasons. Pachi cultural affinity for land and patient cultivation translates directly to horse breeding.
+**Humans** — the landowning class of the breeding estates. Multigenerational family operations where the bloodline knowledge is held in the family, not a document — a specific farm's breeding decisions across four generations encoded in who gets bred to whom and why. Horse breeding produces results across decades not seasons, and Mare Shafel's human estate families have developed a patience for it that looks like instinct from outside.
 
 **Halflings** — logistics and distribution. The movement of horses, goods, and feed through the southwestern trade network runs on Halfling organizational capability.
 
@@ -84,7 +84,7 @@ Every claimant understands what is and isn't being said. None has found a way to
 
 **The sale season** — ground-level commerce with political undercurrent. A buyer who has come for horses and finds themselves in the middle of a succession crisis playing out in the hospitality tents. The Grand Duke managing three claimant delegations simultaneously over three days of horse auctions.
 
-**The breeding estate** — a Pachi estate manager maintaining bloodlines through a succession crisis that is threatening the feed contracts, the transport routes, and the stability of everything the estate depends on. The political crisis arriving as a practical problem: will the feed shipment from A'Kavah arrive on schedule?
+**The breeding estate** — a human estate manager maintaining bloodlines through a succession crisis that is threatening the feed contracts, the transport routes, and the stability of everything the estate depends on. The political crisis arriving as a practical problem: will the feed shipment from A'Kavah arrive on schedule?
 
 **The ferry crossing** — the routine passage between island and mainland that is the duchy's daily operational pulse. A character who works the ferry has seen everyone who has come and gone for years. What they've noticed recently is not reassuring.
 

@@ -151,7 +151,7 @@ Ten Grand Duchies built. The Emperor has not yet been developed — two ducal ap
 
 **Avir (Grimport)** — Southern inner Akhan, fog belt adjacent. Formal name: Avir. Working name: Grimport — what sailors call it, what appears in logs. Fog never fully lifts. Foghorn runs all day and all night without interruption. Gnoll-dense; Grimport Gnolls are a distinct cultural variant — they have metabolized the fog and noise into identity. "We're all a little mad here" is a statement of philosophy, not complaint. Former residents can't sleep without the foghorn. If the foghorn stops, something is wrong. Empire's primary fishing fleet and protein supply outside A'Kavah's agriculture.
 
-**Mare Shafel** — Southwestern inner Akhan, island plus mainland. Island is the administrative center; mainland coastal plain below the Western Range's eastern slopes is where the horses are. Empire's primary horse breeding operation. Pachi landowning class manages the estates. Andalusian climate, A'Kavah feeds the horses, Halfling networks move everything. Adjacent manufacturing: leather, tack, farrier work, textiles, specialized animal transport vessels. Sale season once a year — every claimant's representatives attend simultaneously, horses sell at fair prices, no commitments made.
+**Mare Shafel** — Southwestern inner Akhan, island plus mainland. Island is the administrative center; mainland coastal plain below the Western Range's eastern slopes is where the horses are. Empire's primary horse breeding operation. Human families run the breeding estates — multigenerational bloodline knowledge held in the family, not documents. Andalusian climate, A'Kavah feeds the horses, Halfling networks move everything. Adjacent manufacturing: leather, tack, farrier work, textiles, specialized animal transport vessels. Sale season once a year — every claimant's representatives attend simultaneously, horses sell at fair prices, no commitments made.
 
 **Kerath** — Northeastern inner Akhan. Peat bog fuel economy. Moisture from the Storm Gate gap produces persistent grey skies and deep bogs. Empire's primary fuel supply for forges, kilns, and hearths. Peat fires have a specific smell — Kerath natives find it comforting. Culture: permanently damp, strong oral tradition, indoor social life, extremely dry wit. Ordinary and functional. Grand Duke wants the succession resolved so the fuel contracts resume.
 
@@ -194,6 +194,8 @@ No mono-racial polities. Species gravitate to ecological niches but culture is t
 
 **Cross-species marriage:** Legally valid, biologically sterile. Rare and socially viewed with disdain — an instrument of political desperation, not genuine union. Old houses with deep biological lines don't need it. Its use announces the limits of a house's options even while executing strategy. Functions as a legitimacy transfer instrument: designates an heir from a cadet branch of either spouse's species. The imperial court processes these with full ceremony and theological framing. The rim cultures find them bizarre. The Architects' claim includes one such line two generations back — legally defensible, socially the detail every other claimant quietly points to.
 
+**Human Adjacency Index (HAI):** Authorial reference scale 1–10. Band 1–3: animal-primary (Pachi 3). Band 4–5: person-plus-animal, identifiable as sapient at 15m (Chelonari 4, Kibo 4–5, Corvani 5, Bruin 5). Band 6–7: working middle, reads as humanoid at 30m (Tzvari 6–6.5, Kitsune 7, Hobgoblins 7, Dwarves 7–8). Band 8–9: humanoid-first, passes as human at distance (Elves 8–9, Halflings 9). Band 10: Humans. Full index at `oververse/races/human-adjacency-index.md`.
+
 Key niches:
 - **Dwarves** — Engineering, construction, reef and structural work
 - **Chelonari** — Archival, long memory, institutional continuity
@@ -204,7 +206,8 @@ Key niches:
 - **Aubrei** — Fog navigation, outer reef and outer boundary operation
 - **Halflings** — Logistics, distribution networks, movement of goods through complex systems
 - **Kitsune** — Information brokering, commercial intelligence, acquisition networks
-- **Pachi** — Landowning class, multigenerational estates, agricultural and breeding management
+- **Pachi** — The Pachi Trail. Biologically nomadic — they cannot settle. Their role is circumnavigation: they travel the full atoll interior continuously, crossing biomes, maintaining trail rights that predate the empire. Best-informed people on the atoll by default. Not spies — just present everywhere
+- **Tzvari** (Cervus genus) — Ecological reading and estate tending. Human Adjacency Index 6-6.5. Softened muzzle, digitigrade hooved legs, dappled coat, antlers both sexes. Can feel what an ecosystem needs — stress, wrongness, imbalance — as composite biological signal. The tending compulsion is a behavioral response to that signal. Their findings are rarely solicited. Their findings are correct. At A'Kavah: Chelonari own the estates, Tzvari tend them — the distinction in who holds the ecological knowledge vs. who holds the title has never been formally examined
 - **Felari** — Court culture, refined social surface
 - **Bandari** — Gray market trade, frontier exchange
 - **Llamari** — Logistics in difficult terrain, northern supply chains

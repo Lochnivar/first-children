@@ -40,6 +40,10 @@ Bahvayin (*bah-VAH-yin*) is an atoll surrounding the Akhan Sea — the inner sea
 - [Northern Rim Culture](world-building/cultures/northern-rim-culture.md) — Cold frontier peoples, resource extraction, independence
 - [Imperial Culture](world-building/cultures/imperial-culture.md) — Inner Akhan islands, court life, the bureaucratic layer
 - [Stormbreak](world-building/cultures/stormbreak.md) — Storm reef culture, salvage economy, Category Three reef finds, outer ocean awareness
+- [San Tavar](world-building/cultures/san-tavar.md) — Surfer realpolitik, meritocracy by pragmatism, the Queen, the wave nobody has committed to
+- [A'Kavah](world-building/cultures/akavah.md) — Caldera agriculture, patient leverage, Chelonari estates, the Halfling variable
+- [Tzafan](world-building/cultures/tzafan.md) — Frontier staging, northern consolidation, the reliable vote and its consequences
+- [Kol Idic](world-building/cultures/kol-idic.md) — Mageocracy ruins, principled acquisition, the archive that fires once
 
 ### [Organizations & Institutions](world-building/organizations/)
 - [Political Hierarchy](world-building/organizations/political-hierarchy.md) — Full title structure, legitimacy sources, the King/Imperial Duke distinction
