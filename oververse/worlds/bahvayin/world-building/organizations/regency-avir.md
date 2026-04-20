@@ -1,14 +1,14 @@
-# The Grand Duchy of Avir
+# The Regency of Avir
 
-**Category:** Organizations & Institutions — Imperial Duchy  
-**Formal name:** The Grand Duchy of Avir  
+**Category:** Organizations & Institutions — Regency  
+**Formal name:** The Regency of Avir  
 **Working name:** Grimport  
-**Ruler:** Grand Duke TBD  
+**Ruler:** Regent TBD  
 **Related:** [Political Hierarchy](political-hierarchy.md), [Client Kingdoms — Kol Idic](client-kingdoms.md#kol-idic), [Southern Way Culture](../cultures/southern-way-culture.md), [Client Kingdoms — A'Kavah](client-kingdoms.md#akavah)
 
 ## Overview
 
-The Grand Duchy of Avir sits in the southern inner Akhan, fog belt adjacent, between Kol Idic and the Southern Way mouth. On imperial documents it is Avir — *avir*, air and atmosphere, named by someone who visited once in good weather and left before they understood what they were looking at. On charts, in logs, in the mouths of every sailor who has ever made the approach by sound: Grimport.
+The Regency of Avir sits in the southern inner Akhan, fog belt adjacent, between Kol Idic and the Southern Way mouth. On imperial documents it is Avir — *avir*, air and atmosphere, named by someone who visited once in good weather and left before they understood what they were looking at. On charts, in logs, in the mouths of every sailor who has ever made the approach by sound: Grimport.
 
 The fog does not lift. Not fully. Not permanently. There are days when it thins enough to see across the harbor and residents remark on it. There are nights when the visibility drops to arm's length and the foghorns run continuous and the fishing fleet navigates entirely by sound and memory. Both conditions are normal. The duchy has built its entire operational culture around the fog's permanence rather than waiting for it to clear.
 
@@ -52,7 +52,7 @@ The city itself is built for the fog. Architecture that assumes low visibility �
 
 **The docks:** Always active. Always loud. The smell of fish is not background — it is the atmosphere. Visitors who comment on the smell are gently informed that they will stop noticing it. This is not entirely true but it becomes more true over time.
 
-**The Grand Duke's court:** The most entertainingly direct court in the empire. No elaborate protocol — not because the duchy lacks sophistication but because protocol that requires seeing clearly across a room has limited utility in a city where the fog sometimes gets indoors. Audiences are loud. Someone is always tracking the foghorn schedule. The Grand Duke conducts formal imperial correspondence in correct register and returns to Grimport and immediately becomes a different person.
+**The Regent's court:** The most entertainingly direct court in the empire. No elaborate protocol — not because the duchy lacks sophistication but because protocol that requires seeing clearly across a room has limited utility in a city where the fog sometimes gets indoors. Audiences are loud. Someone is always tracking the foghorn schedule. The Regent conducts formal imperial correspondence in correct register and returns to Grimport and immediately becomes a different person.
 
 **The foghorn schedule:** Maintained by the harbor masters as a functional document that has accumulated ritual significance. Which horn sounds when. The sequence that means incoming fleet. The sequence that means hazard. The sequence that means the harbor mouth is closed for emergency maintenance — which has happened four times in recorded history and each time caused significant cultural disruption among residents who had never heard silence before.
 
@@ -62,7 +62,7 @@ The city itself is built for the fog. Architecture that assumes low visibility �
 
 Avir's political position in the succession crisis is shaped by a simple fact: the inner Akhan eats its fish. The duchy has no fleet that matters militarily, no archives, no fabrication capacity, no outer water patrol function. What it has is protein supply to a significant portion of the empire's population, produced in conditions nobody else can replicate, distributed through trade networks that depend on Grimport's docks functioning.
 
-The Grand Duke is not a political sophisticate by inclination. The succession crisis has been managed with the same approach Grimport applies to fog: it's there, you navigate around it, you keep working. The duchy will declare for whoever is most likely to leave it alone and maintain the trade routes that move the catch to market.
+The Regent is not a political sophisticate by inclination. The succession crisis has been managed with the same approach Grimport applies to fog: it's there, you navigate around it, you keep working. The duchy will declare for whoever is most likely to leave it alone and maintain the trade routes that move the catch to market.
 
 Every claimant delegation that has visited has found the experience difficult to characterize in their subsequent reports. The meetings were productive. The city was disorienting. The foghorn never stopped. They are not sure what they committed to, if anything.
 

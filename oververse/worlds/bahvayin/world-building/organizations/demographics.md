@@ -35,7 +35,7 @@ The result: a world that feels genuinely underpopulated relative to its geograph
 |------|-------|-----------------|-------|
 | Imperial capital | 1 | 40,000 — 60,000 | Largest city in the world |
 | Kingdom capitals | 4 to 5 | 15,000 — 25,000 | One per client kingdom |
-| Imperial Duke seats | 10 to 14 | 8,000 — 15,000 | Administrative centers |
+| Regent seats | 10 to 14 | 8,000 — 15,000 | Administrative centers |
 | Major ports / strait towns | 6 to 8 | 5,000 — 10,000 | Commercial and strategic nodes |
 | Minor cities | 30 to 40 | 2,000 — 5,000 | County seats, regional centers |
 | Towns | 150 to 200 | 500 — 2,000 | Market towns, harbor communities |
@@ -65,7 +65,7 @@ Single or double family settlements, maximum 15 people, typically on the frontie
 |-------|-------|------------------|
 | Emperor | 1 | Tsapadon's appointment |
 | Kings | 4 to 5 | Own lineage — client kingdoms |
-| Imperial Dukes | 10 to 14 | Imperial appointment |
+| Regents | 10 to 14 | Imperial appointment |
 | Dukes | 25 to 35 | Varies — lineage or appointment |
 | Counts | 60 to 80 | Varies |
 | Barons | 150 to 200 | Varies |
@@ -76,7 +76,7 @@ Single or double family settlements, maximum 15 people, typically on the frontie
 - Desert Road nomadic confederacy — tribal structure, treaty relationship
 - Southern Way fog navigators (Aubrei clans) — clan-based, treaty relationship
 - Northern rim confederacies — 2 to 3 loose groupings, variable imperial integration
-- Andalusian slope communities — variable, more integrated than other rim cultures due to proximity to Imperial Duke territories
+- Andalusian slope communities — variable, more integrated than other rim cultures due to proximity to Regent territories
 
 ---
 

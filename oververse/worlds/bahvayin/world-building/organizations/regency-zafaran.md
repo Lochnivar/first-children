@@ -1,7 +1,7 @@
-# The Grand Duchy of Zafaran
+# The Regency of Zafaran
 
-**Category:** Organizations & Institutions — Imperial Duchy  
-**Ruler:** Grand Duchess Lirael vel-Zafaran (Human, 52, appointed by Vaelor IX)  
+**Category:** Organizations & Institutions — Regency  
+**Ruler:** Regent Lirael vel-Zafaran (Human, 52, appointed by Vaelor IX)  
 **Administrator:** Senior Hobgoblin Administrator (actual government)  
 **Related:** [Political Hierarchy](political-hierarchy.md), [Client Kingdoms](client-kingdoms.md), [Desert Road Culture](../cultures/desert-road-culture.md), [Kol Idic](client-kingdoms.md#kol-idic)
 
@@ -11,7 +11,7 @@ Zafaran (*za'faran* — saffron) sits at the western inner Akhan terminus of the
 
 The climate is warm — not punishing, not the desert itself, but the particular pleasant warmth of a sheltered western harbor city that gets long golden afternoons and evenings cool enough to make the outdoor life a pleasure. Zafaran has developed an elaborate culture of outdoor life accordingly: gardens, fountains, public poetry competitions, covered markets that stay open late, the social architecture of a city that has decided comfort is a virtue.
 
-Zafaran is an Imperial Duchy — the Grand Duke's legitimacy derives from imperial appointment. Grand Duchess Lirael vel-Zafaran was placed here by Emperor Vaelor IX for reasons that say more about Vaelor than about Zafaran: she has no strong ties to any major claimant house, a reputation for meticulous record-keeping, and zero appetite for political maneuvering. Vaelor chose her because her reports are beautifully formatted and because she will not use the Imperial Archives as a weapon. She has a great deal of ceremonial time on her hands and uses it well by Zafaran's own cultural standards — she has won the poetry competition once, which is considered respectable for a sitting Grand Duchess.
+Zafaran is an Regency — the Regent's legitimacy derives from imperial appointment. Regent Lirael vel-Zafaran was placed here by Emperor Vaelor IX for reasons that say more about Vaelor than about Zafaran: she has no strong ties to any major claimant house, a reputation for meticulous record-keeping, and zero appetite for political maneuvering. Vaelor chose her because her reports are beautifully formatted and because she will not use the Imperial Archives as a weapon. She has a great deal of ceremonial time on her hands and uses it well by Zafaran's own cultural standards — she has won the poetry competition once, which is considered respectable for a sitting Regent.
 
 The empire is actually run, in Zafaran, by the Hobgoblin administrative apparatus. This is not a secret. It is not quite acknowledged either. It is simply how things work, and how they have worked for long enough that the fiction of the Duke's active governance is maintained by everyone including the Duke, who finds the arrangement entirely satisfactory.
 
@@ -49,7 +49,7 @@ The duchy is governed by a Hobgoblin administrative apparatus that has been in p
 
 **The senior administrator:** The current senior administrator has held the position for eleven years. He knows where everything is. He knows what the Djemari trade numbers actually mean. He knows which succession claims have clean documentation and which have problems the claimants haven't discovered yet. He knows which imperial appointments in the last two decades were accompanied by private correspondence that doesn't match the public appointment letter. He is professionally courteous, genuinely helpful to anyone with a legitimate request, and gives nothing away that wasn't asked for specifically.
 
-**The Duke fiction:** The Grand Duke receives regular briefings from the senior administrator. The briefings are accurate, complete, and presented in a format the Duke can absorb in approximately twenty minutes. The Duke signs what needs signing. Major decisions are framed as requiring the Duke's wisdom on matters the administration has prepared thoroughly. The Duke's wisdom, in practice, involves asking whether the recommended course of action is the correct one, being told that it is, and confirming that it should proceed. The arrangement works smoothly. The Duke is not stupid — he simply has no interest in governance and a great deal of interest in Zafaran's cultural life, which is genuinely excellent.
+**The Duke fiction:** The Regent receives regular briefings from the senior administrator. The briefings are accurate, complete, and presented in a format the Duke can absorb in approximately twenty minutes. The Duke signs what needs signing. Major decisions are framed as requiring the Duke's wisdom on matters the administration has prepared thoroughly. The Duke's wisdom, in practice, involves asking whether the recommended course of action is the correct one, being told that it is, and confirming that it should proceed. The arrangement works smoothly. The Duke is not stupid — he simply has no interest in governance and a great deal of interest in Zafaran's cultural life, which is genuinely excellent.
 
 **The declaration question:** In the succession crisis, the duchy's declaration will come from the senior administrator's recommendation, framed as the Duke's decision. The administrator is watching the succession claims with the same professional interest he brings to everything. He has access to the documentation of every claim. He has not decided. He is waiting for a claimant who asks him a question that suggests they understand what the Archives actually contain.
 
@@ -59,7 +59,7 @@ The duchy is governed by a Hobgoblin administrative apparatus that has been in p
 
 Zafaran has leaned into its warmth and prosperity with full commitment. The cultural register is Arabian Nights filtered through bureaucratic competence — elaborate hospitality, public intellectual culture, the arts of conversation and performance, an aesthetic that treats beautiful objects as a natural consequence of taking craftsmanship seriously.
 
-**The outdoor life:** Long golden afternoons, cool evenings, gardens with water features that announce themselves as luxury in a city at the edge of desert trade routes. Public spaces designed for lingering. The covered markets are social institutions as much as commercial ones. Poetry competitions — public, competitive, taken seriously — are a Zafaran tradition old enough to have produced a recognized canon. The Grand Duke has won three times. This is genuinely impressive regardless of other assessments of his governance.
+**The outdoor life:** Long golden afternoons, cool evenings, gardens with water features that announce themselves as luxury in a city at the edge of desert trade routes. Public spaces designed for lingering. The covered markets are social institutions as much as commercial ones. Poetry competitions — public, competitive, taken seriously — are a Zafaran tradition old enough to have produced a recognized canon. The Regent has won three times. This is genuinely impressive regardless of other assessments of his governance.
 
 **Intellectual culture:** The Grand Library creates a gravitational pull for scholars, researchers, legal historians, and anyone whose work requires access to imperial documentation. Zafaran has a significant transient scholarly population at any given time and a permanent intellectual community that has grown up to serve and engage with it.
 

@@ -1,15 +1,15 @@
-# Grand Duchy of Lurland
+# Regency of Lurland
 
 **State Index:** 1  
 **Status:** Active State  
 **Category:** Generic  
-**Form of Government:** Grand Duchy  
+**Form of Government:** Regency  
 **Era:** Hacutonce Era (HE)
 
 ## Basic Information
 
 - **Name:** Lurland
-- **Full Name:** Grand Duchy of Lurland
+- **Full Name:** Regency of Lurland
 - **Capital:** Burg #1
 - **Culture:** Culture #3
 - **Color:** `#66c2a5`

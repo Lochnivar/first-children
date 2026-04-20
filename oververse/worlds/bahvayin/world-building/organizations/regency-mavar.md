@@ -1,16 +1,16 @@
-# The Grand Duchy of Mavar
+# The Regency of Mavar
 
-**Category:** Organizations & Institutions — Imperial Duchy  
-**Ruler:** Grand Duke Sorath (Aubrei)  
+**Category:** Organizations & Institutions — Regency  
+**Ruler:** Regent Sorath (Aubrei)  
 **Related:** [Political Hierarchy](political-hierarchy.md), [Client Kingdoms](client-kingdoms.md), [San Tavar](client-kingdoms.md#san-tavar), [Outer Ocean](../natural-world/outer-ocean.md), [Southern Way Culture](../cultures/southern-way-culture.md)
 
 ## Overview
 
 Mavar (*ma'avar* — crossing, passage) sits in the central inner Akhan, positioned to project naval power toward any of the three straits without committing to one approach until necessary. The Akhan is the road; Mavar is where the road's traffic can be controlled, redirected, or stopped.
 
-Three generations of Aubrei Grand Dukes have commanded the imperial fleet from Mavar. This was not an accident of inheritance. The first appointment was deliberate — the emperor of that generation wanted his best water-readers on the San Tavar problem and the Aubrei family that became the Mavar line was, simply, the best. The appointment became hereditary because it kept working. The empire got results and stopped asking why.
+Three generations of Aubrei Regents have commanded the imperial fleet from Mavar. This was not an accident of inheritance. The first appointment was deliberate — the emperor of that generation wanted his best water-readers on the San Tavar problem and the Aubrei family that became the Mavar line was, simply, the best. The appointment became hereditary because it kept working. The empire got results and stopped asking why.
 
-Mavar is an Imperial Duchy — the Grand Duke's legitimacy derives from imperial appointment, not independent lineage. In stable times this distinction is administrative. In the current succession crisis it means Grand Duke Sorath is governing on borrowed confirmation. Every claimant is watching Mavar carefully. The fleet's declaration will matter.
+Mavar is an Regency — the Regent's legitimacy derives from imperial appointment, not independent lineage. In stable times this distinction is administrative. In the current succession crisis it means Regent Sorath is governing on borrowed confirmation. Every claimant is watching Mavar carefully. The fleet's declaration will matter.
 
 ---
 
@@ -18,11 +18,11 @@ Mavar is an Imperial Duchy — the Grand Duke's legitimacy derives from imperial
 
 The largest remaining coherent element of the imperial navy is based at Mavar. Not the whole navy — the imperial fleet has fragmented along with imperial authority, individual lords retaining ships whose loyalty has quietly shifted to local paymasters. What remains at Mavar is the professional core: the ships that have stayed maintained, the officers who have stayed paid, the institutional knowledge that has not yet dispersed.
 
-**Why it held together:** Three generations of Aubrei Grand Dukes who understood that a fleet that cannot sail is an expensive dock ornament. Maintenance culture, not martial culture. The Mavar fleet is not flashy — it is functional, supplied, and capable of being at sea when ordered. In the current empire that is rarer than it should be.
+**Why it held together:** Three generations of Aubrei Regents who understood that a fleet that cannot sail is an expensive dock ornament. Maintenance culture, not martial culture. The Mavar fleet is not flashy — it is functional, supplied, and capable of being at sea when ordered. In the current empire that is rarer than it should be.
 
-**Loyalty structure:** The fleet's loyalty runs to the Grand Duke, not the imperial throne. This is not disloyalty — it is the natural result of three generations of Aubrei commanders who paid wages on time and kept ships seaworthy when the imperial center could not be bothered. From the crew's perspective, the Grand Duke *is* the empire. The emperor is an abstraction. The officer who signs your pay chit is not.
+**Loyalty structure:** The fleet's loyalty runs to the Regent, not the imperial throne. This is not disloyalty — it is the natural result of three generations of Aubrei commanders who paid wages on time and kept ships seaworthy when the imperial center could not be bothered. From the crew's perspective, the Regent *is* the empire. The emperor is an abstraction. The officer who signs your pay chit is not.
 
-Every succession claimant knows this. The fleet declaration is not the empire declaring — it is Grand Duke Sorath declaring, and the fleet following because that is what the fleet does.
+Every succession claimant knows this. The fleet declaration is not the empire declaring — it is Regent Sorath declaring, and the fleet following because that is what the fleet does.
 
 **Composition:** Not mono-species, but Aubrei-dense in the navigation and command track in a way that would be remarkable anywhere else and is simply how Mavar works. The fleet concentrates what its work requires.
 - **Aubrei** — navigation, outer passage work, command track, weather reading in open water conditions
@@ -36,11 +36,11 @@ Every succession claimant knows this. The fleet declaration is not the empire de
 
 ## Aubrei Concentration
 
-Mavar is the most Aubrei-dense Imperial Duchy on the Akhan. This is niche logic, not policy: a naval posting that prizes deep-water navigation and outer ocean awareness attracts Aubrei the way the Storm Gate attracts Dwarves. The concentration self-reinforces — Aubrei officers mentor Aubrei cadets, Aubrei navigation traditions embed into fleet doctrine, the duchy's civilian culture absorbs the same orientation toward water and passage that the fleet runs on.
+Mavar is the most Aubrei-dense Regency on the Akhan. This is niche logic, not policy: a naval posting that prizes deep-water navigation and outer ocean awareness attracts Aubrei the way the Storm Gate attracts Dwarves. The concentration self-reinforces — Aubrei officers mentor Aubrei cadets, Aubrei navigation traditions embed into fleet doctrine, the duchy's civilian culture absorbs the same orientation toward water and passage that the fleet runs on.
 
 The civilian population of Mavar's islands reflects this. Port culture with a distinctly Aubrei register — outer ocean awareness is present in daily life in ways it is not in the deeper inner Akhan islands. People here know what the fog belt is. They have relatives who work it.
 
-**The information consequence:** The fog belt Aubrei who noticed the behavioral change on the outer boundary are not strangers to Mavar's sailors. They are cousins, former crew, people who send letters. Information that has not reached the inner Akhan through official channels has been moving through Aubrei networks toward this fleet for months. Grand Duke Sorath knows things about what is changing on the outer ocean edge that his imperial superiors have not thought to ask about.
+**The information consequence:** The fog belt Aubrei who noticed the behavioral change on the outer boundary are not strangers to Mavar's sailors. They are cousins, former crew, people who send letters. Information that has not reached the inner Akhan through official channels has been moving through Aubrei networks toward this fleet for months. Regent Sorath knows things about what is changing on the outer ocean edge that his imperial superiors have not thought to ask about.
 
 He has not volunteered this information. He is not sure what it means yet. He is sure that presenting an incomplete picture of something this significant to a succession crisis already at its most unstable is a decision he wants to make carefully.
 
@@ -48,9 +48,9 @@ He has not volunteered this information. He is not sure what it means yet. He is
 
 ## The San Tavar Relationship
 
-The Grand Duchy of Mavar was positioned where it is, by the emperor who made the first Aubrei appointment, because San Tavar was identified as the natural greatest threat to imperial rule in the inner Akhan. The fleet next door is the hedge. San Tavar has always known this. Mavar has always known San Tavar knows this. The relationship has been conducted across this open secret for three generations.
+The Regency of Mavar was positioned where it is, by the emperor who made the first Aubrei appointment, because San Tavar was identified as the natural greatest threat to imperial rule in the inner Akhan. The fleet next door is the hedge. San Tavar has always known this. Mavar has always known San Tavar knows this. The relationship has been conducted across this open secret for three generations.
 
-What developed is not hostility — it is professional adversarial respect. The Queen of San Tavar and Grand Duke Sorath are not friends. They are two very capable people who understand each other's positions precisely, share an interest in not finding out what a direct conflict between them actually produces, and have maintained correct diplomatic relations accordingly.
+What developed is not hostility — it is professional adversarial respect. The Queen of San Tavar and Regent Sorath are not friends. They are two very capable people who understand each other's positions precisely, share an interest in not finding out what a direct conflict between them actually produces, and have maintained correct diplomatic relations accordingly.
 
 **The succession disruption:** The Queen is watching the bidding for Mavar's declaration closely. If a claimant she has not chosen to back locks down the fleet first, she may be forced to declare earlier than she wants. If she can influence which claimant gets Sorath's declaration, she acquires a buffer — a fleet nominally pointed at her that is now pointed at her preferred claimant's enemies instead.
 

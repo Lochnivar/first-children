@@ -17,7 +17,7 @@ Duchies inside client kingdoms answer to their King, not the Emperor. Their succ
 
 **Duchy of Kelen** — Eastern inner Akhan, sits on a natural deep harbor used as a secondary naval anchorage. Duchess Mira vel-Kelen (Human, appointed two reigns ago, confirmation still technically pending from the current crisis). *Her confirmation is the leverage every claimant keeps mentioning and never delivers.* Leans toward whoever confirms her first — has been waiting four years.
 
-**Duchy of Shoram** — Central inner Akhan, small wealthy island, banking and letters of credit. Duke Taveris (Hobgoblin, third generation, runs a tighter financial operation than most Grand Duchies). *The duchy that quietly holds debt from two claimant houses and has not called it in yet.* Not political — financial. The distinction is becoming academic.
+**Duchy of Shoram** — Central inner Akhan, small wealthy island, banking and letters of credit. Duke Taveris (Hobgoblin, third generation, runs a tighter financial operation than most Regencies). *The duchy that quietly holds debt from two claimant houses and has not called it in yet.* Not political — financial. The distinction is becoming academic.
 
 **Duchy of Amrath** — Southern inner Akhan, between Avir and Kol Idic, fishing and coastal trade. Duke Halvorn (Human, inherited six months ago, unconfirmed). *Young, nervous, being courted by everyone because his confirmation is cheap to offer and his harbor is useful.* Has not made a decision. Is aware he should make a decision. Has not made a decision.
 
@@ -29,9 +29,18 @@ Duchies inside client kingdoms answer to their King, not the Emperor. Their succ
 
 ---
 
-## Mainland Duchies — Southwestern (Western Range Eastern Slopes)
+## Mainland Duchies — Southwestern (Western Range Eastern Slopes / Archavar Highland Interior)
 
-**Duchy of Kern** — Eastern slopes of the Western Range, north of Mare Shafel. Count Aldric vel-Kern (Human, old vine family, technically a County but functions as a Duchy in practice). *Kernish Red. Every claimant has sent a very nice letter. The Count has sent back equally nice letters and a case of the current vintage.* No commitments. Warm correspondence.
+**Duchy of Andalvar** — Highland interior valley of the Archavar, the luxury corridor. *Ducal seat vacant 18 months; administered by County council pending Vaelor's appointment — which Vaelor is not making.* Contains two Counties and the highest concentration of prestige production in the empire. See [duchy-andalvar.md](duchy-andalvar.md) for full treatment.
+
+- **County of Kern** *(within Andalvar)* — Eastern slopes, vineyards, Kernish Red. Count Aldric vel-Kern (Human, old vine family). *Kernish Red. Every claimant has sent a very nice letter. The Count has sent back equally nice letters and a case of the current vintage.* No commitments. Warm correspondence.
+- **County of Mak'Zavar** *(within Andalvar)* — Deep mountain mines, gem cutting, Quedari sacred extractors. Count-in-waiting pending confirmation; the aged Count has no heir. *Every claimant has sent their most delicate representative. All have received a finished piece of extraordinary quality and an invoice.*
+
+**The Rim Baronies** *(within Andalvar)* — Small mining settlements, pass controls, and quarry operations on the peaks that define Andalvar's boundary — within the duchy by definition. Answer to Andalvar's Duke; currently answering to the County council (ducal seat vacant), which none of them find satisfactory. Brief entries:
+- *Barony of Marak* — Iron ore, seventh-generation Dwarf family. Sends claimants a price list.
+- *Barony of Gadar* — High pass control, winter toll revenue, eight years of unusual crossing logs nobody has asked about.
+- *Barony of Ashvel* — Sulfur and salt. Hobgoblin Baroness who responded to a "strategic resource guarantee" inquiry with a detailed invoice.
+- *Barony of Talvar* — Quarry, imperial palace stone. Human Baron, four-generation quarry family, in no hurry. His Felari wife has been trying to determine for eleven years what she saw in him.
 
 **Duchy of Sharath** — Southern mainland coast, between Mare Shafel and the Southern Way mouth, warm climate agriculture and coastal fishing. Duke Orin (Human, Mare Shafel's administrative reach in practice). *Exists in Mare Shafel's orbit without being absorbed by it — a distinction the Duke maintains carefully.* Follows Mare Shafel's lead on the succession but won't say so publicly.
 
@@ -49,7 +58,7 @@ Duchies inside client kingdoms answer to their King, not the Emperor. Their succ
 
 **Duchy of Valdur** — Northern rim, cold climate, resource extraction and fur trade. Duchess Kira (Human, frontier stock, holds her territory by being the most competent person in it). *The sort of ruler who knows every family in her duchy by name and the northern consolidation as a personal professional concern rather than an abstract political one.* Has sent a detailed report to Baram's warehouse master. They have compared notes.
 
-**Duchy of Thoran** — Northeastern mainland, between the northern rim and the inner Akhan coast, timber and river trade. Duke Mavar the Younger (Human, named after the Duchy of Mavar which his grandfather served — a deliberate honor that creates mild confusion in official correspondence). *Earnest, capable, slightly overwhelmed by the succession crisis, doing his best.* Has backed no claimant but has quietly asked Grand Duke Sorath for guidance. Sorath has not yet replied.
+**Duchy of Thoran** — Northeastern mainland, between the northern rim and the inner Akhan coast, timber and river trade. Duke Mavar the Younger (Human, named after the Duchy of Mavar which his grandfather served — a deliberate honor that creates mild confusion in official correspondence). *Earnest, capable, slightly overwhelmed by the succession crisis, doing his best.* Has backed no claimant but has quietly asked Regent Sorath for guidance. Sorath has not yet replied.
 
 ---
 

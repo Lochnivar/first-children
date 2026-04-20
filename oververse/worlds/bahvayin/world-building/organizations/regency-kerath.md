@@ -1,8 +1,8 @@
-# The Grand Duchy of Kerath
+# The Regency of Kerath
 
-**Category:** Organizations & Institutions — Imperial Duchy  
-**Ruler:** Grand Duke TBD  
-**Related:** [Political Hierarchy](political-hierarchy.md), [Grand Duchy of Baram](grand-duchy-baram.md), [Storm Gate](../geography/storm-gate.md)
+**Category:** Organizations & Institutions — Regency  
+**Ruler:** Regent TBD  
+**Related:** [Political Hierarchy](political-hierarchy.md), [Regency of Baram](regency-baram.md), [Storm Gate](../geography/storm-gate.md)
 
 ## Overview
 
@@ -20,7 +20,7 @@ The inner Akhan runs on Kerath peat. Not exclusively — there is timber and cha
 
 **The smell:** Kerath peat fires have a specific smell. Anyone who grew up on Kerath finds it comforting in a way they cannot fully explain to people who didn't. Ships carrying Kerath peat announce themselves before they're visible in harbor. The smell is in the walls of every building on the island. It is simply the smell of home.
 
-**Export:** Peat moves through the northeastern inner Akhan trade routes to Baram for northern distribution and directly to the central Akhan markets. The succession crisis has disrupted the shipping contracts in ways the Grand Duke finds extremely irritating. Fuel supply is not a political question. It is a practical question. People get cold.
+**Export:** Peat moves through the northeastern inner Akhan trade routes to Baram for northern distribution and directly to the central Akhan markets. The succession crisis has disrupted the shipping contracts in ways the Regent finds extremely irritating. Fuel supply is not a political question. It is a practical question. People get cold.
 
 ---
 
@@ -30,7 +30,7 @@ Kerath has metabolized the grey and the damp the same way Grimport metabolized t
 
 **The dry wit:** Developed as a survival mechanism against the weather and refined over generations into something approaching an art form. Kerath humor is deadpan, self-deprecating, and extremely dry — which visitors find jarring given how wet everything else is. The juxtaposition is intentional.
 
-**On the succession crisis:** Kerath's position is uncomplicated. The duchy wants the fuel contracts honored, the shipping lanes stable, and the political situation resolved before winter. The Grand Duke has communicated this to every claimant delegation with characteristic Kerath directness. The delegations have received it as colorful regional personality. The Grand Duke meant it literally.
+**On the succession crisis:** Kerath's position is uncomplicated. The duchy wants the fuel contracts honored, the shipping lanes stable, and the political situation resolved before winter. The Regent has communicated this to every claimant delegation with characteristic Kerath directness. The delegations have received it as colorful regional personality. The Regent meant it literally.
 
 **Species mix:**
 - **Humans** — majority, the peat cutting workforce and general population
@@ -43,9 +43,9 @@ Kerath has metabolized the grey and the damp the same way Grimport metabolized t
 
 ## Political Position
 
-Kerath has no leverage position worth strategizing around. It has fuel supply, which matters practically and not at all politically until someone is cold. The Grand Duke is not playing a long game. He wants the disruption to end, the contracts to resume, and to be left alone to run a bog.
+Kerath has no leverage position worth strategizing around. It has fuel supply, which matters practically and not at all politically until someone is cold. The Regent is not playing a long game. He wants the disruption to end, the contracts to resume, and to be left alone to run a bog.
 
-Every claimant has received the same message: confirm the duchy, honor the fuel contracts, go away. So far the responses have been warm and non-committal. The Grand Duke finds this exhausting.
+Every claimant has received the same message: confirm the duchy, honor the fuel contracts, go away. So far the responses have been warm and non-committal. The Regent finds this exhausting.
 
 ---
 
@@ -59,5 +59,5 @@ Every claimant has received the same message: confirm the duchy, honor the fuel 
 
 ---
 
-*For the northern context, see [Grand Duchy of Baram](grand-duchy-baram.md)*  
+*For the northern context, see [Regency of Baram](regency-baram.md)*  
 *For the political hierarchy context, see [Political Hierarchy](political-hierarchy.md)*

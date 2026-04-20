@@ -1,7 +1,7 @@
-# The Grand Duchy of Eithan
+# The Regency of Eithan
 
-**Category:** Organizations & Institutions — Imperial Duchy  
-**Ruler:** Grand Duke TBD  
+**Category:** Organizations & Institutions — Regency  
+**Ruler:** Regent TBD  
 **Related:** [Political Hierarchy](political-hierarchy.md), [The Engineer-Priests](engineer-priests.md), [Storm Gate](../geography/storm-gate.md), [Storm Gate Culture](../cultures/storm-gate-culture.md)
 
 ## Overview
@@ -10,7 +10,7 @@ Eithan (*EYE-than*) sits on the eastern inner Akhan, positioned just inside the 
 
 The duchy is a working place. Dry docks, stone cutting yards, foundries, timber operations, the heavy fabrication infrastructure that produces the components the engineer-priests install in the breakwater system. The relationship between Eithan and the engineer-priests is not political — it is operational. They talk to each other constantly. They have shared deadlines, shared problems, shared consequences when something is late or wrong. The imperial court is an abstraction in Eithan. The engineer-priests' specifications are Monday morning.
 
-Eithan is an Imperial Duchy. The appointment has historically gone to someone the emperor trusts to keep the fabrication supply chain running without drama. Drama in Eithan means the breakwaters don't get what they need on schedule. Nobody wants that.
+Eithan is an Regency. The appointment has historically gone to someone the emperor trusts to keep the fabrication supply chain running without drama. Drama in Eithan means the breakwaters don't get what they need on schedule. Nobody wants that.
 
 ---
 
@@ -46,9 +46,9 @@ The relationship between Eithan and the engineer-priest Hierarchy is the closest
 
 **Shared dependency:** The Hierarchy cannot maintain the breakwater system without Eithan's fabrication. Eithan's economy cannot function without the Hierarchy's contracts. The dependency is mutual and both parties are aware of it. Mutual dependency of this kind produces either close cooperation or low-grade permanent resentment depending on how the power balance is managed. The current relationship is cooperative with a periodic undertone of resentment when the Hierarchy's specifications change mid-production run.
 
-**The specification problem:** Engineer-priest specifications evolve as their understanding of the breakwater system deepens. A component designed to specification six years ago may not meet the current specification. In a stable funding environment this is manageable. In the current environment — where the imperial control valve has been misused, budgets have been redirected, supply ships have been delayed — Eithan's fabrication yards have been asked to produce components to current specifications with materials and timelines appropriate to the old ones. The Grand Duke's correspondence with the Senior Council on this subject is extensive and increasingly direct.
+**The specification problem:** Engineer-priest specifications evolve as their understanding of the breakwater system deepens. A component designed to specification six years ago may not meet the current specification. In a stable funding environment this is manageable. In the current environment — where the imperial control valve has been misused, budgets have been redirected, supply ships have been delayed — Eithan's fabrication yards have been asked to produce components to current specifications with materials and timelines appropriate to the old ones. The Regent's correspondence with the Senior Council on this subject is extensive and increasingly direct.
 
-**The sabotage dimension:** The Corvani analyst's work on the maintenance logs is approaching legally documentable evidence of deliberate interference. Eithan's records are part of that analysis — the fabrication logs, the delivery schedules, the component specifications that were met versus those that were not. When the evidence is complete, the question of what to do with it will involve the Grand Duke as much as the Senior Council. Eithan holds the physical record of what was built, when, and whether it met specification.
+**The sabotage dimension:** The Corvani analyst's work on the maintenance logs is approaching legally documentable evidence of deliberate interference. Eithan's records are part of that analysis — the fabrication logs, the delivery schedules, the component specifications that were met versus those that were not. When the evidence is complete, the question of what to do with it will involve the Regent as much as the Senior Council. Eithan holds the physical record of what was built, when, and whether it met specification.
 
 ---
 
@@ -58,7 +58,7 @@ Eithan's culture is defined by proximity to large-scale consequence. When the br
 
 **The storm culture:** Not Stormbreak's calibrated fearlessness — that is an outer reef culture. Eithan's is an inner-facing storm culture. They watch the Gate from inside. When a major surge hits, they watch what holds and what doesn't. They know which components they built. The connection between the fabrication work and its real-world performance is direct and visible. A stonemason in Eithan can watch the section they cut take a surge hit and see whether it held.
 
-**On the succession crisis:** Eithan is not a political player by inclination. The succession crisis has disrupted the fabrication schedule, strained the relationship with the engineer-priests, and created uncertainty about contract continuity. The Grand Duke wants the crisis resolved in whoever's favor produces the most reliable budget for breakwater maintenance. The Eye is coming. Eithan has a production timeline to meet.
+**On the succession crisis:** Eithan is not a political player by inclination. The succession crisis has disrupted the fabrication schedule, strained the relationship with the engineer-priests, and created uncertainty about contract continuity. The Regent wants the crisis resolved in whoever's favor produces the most reliable budget for breakwater maintenance. The Eye is coming. Eithan has a production timeline to meet.
 
 **Species mix:**
 - **Homo Bovinus** — quality control, surge reinforcement crews, the tremorsense function throughout the fabrication and operational cycle
@@ -73,9 +73,9 @@ Eithan's culture is defined by proximity to large-scale consequence. When the br
 
 ## Political Position
 
-Eithan's political leverage is the fabrication supply chain. The breakwater system cannot be maintained without what Eithan produces. In the current succession crisis, that leverage has not been exercised — the Grand Duke has continued operating on the understanding that the breakwaters must be maintained regardless of political resolution. This is not loyalty to any claimant. It is the same logic a surgeon uses to keep operating during a fire alarm: you finish what you started.
+Eithan's political leverage is the fabrication supply chain. The breakwater system cannot be maintained without what Eithan produces. In the current succession crisis, that leverage has not been exercised — the Regent has continued operating on the understanding that the breakwaters must be maintained regardless of political resolution. This is not loyalty to any claimant. It is the same logic a surgeon uses to keep operating during a fire alarm: you finish what you started.
 
-The claimant who wins Eithan's declaration gets a functional fabrication infrastructure and a Grand Duke who will return immediately to the problem of meeting the Eye's maintenance timeline. The claimant should expect this and consider it a feature.
+The claimant who wins Eithan's declaration gets a functional fabrication infrastructure and a Regent who will return immediately to the problem of meeting the Eye's maintenance timeline. The claimant should expect this and consider it a feature.
 
 ---
 

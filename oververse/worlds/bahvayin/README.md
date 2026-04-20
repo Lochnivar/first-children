@@ -41,30 +41,33 @@ Bahvayin (*bah-VAH-yin*) is an atoll surrounding the Akhan Sea — the inner sea
 - [Imperial Culture](world-building/cultures/imperial-culture.md) — Inner Akhan islands, court life, the bureaucratic layer
 - [Stormbreak](world-building/cultures/stormbreak.md) — Storm reef culture, salvage economy, Category Three reef finds, outer ocean awareness
 - [San Tavar](world-building/cultures/san-tavar.md) — Surfer realpolitik, meritocracy by pragmatism, the Queen, the wave nobody has committed to
+- [Florentia](world-building/cultures/florentia.md) — County of Andalvar; Bahvayin Astelli analog; perfumer houses vs. dyer houses; argument never about the plant; the empire's scents and colors
 - [A'Kavah](world-building/cultures/akavah.md) — Caldera agriculture, patient leverage, Chelonari estates, the Halfling variable
 - [Tzafan](world-building/cultures/tzafan.md) — Frontier staging, northern consolidation, the reliable vote and its consequences
 - [Kol Idic](world-building/cultures/kol-idic.md) — Mageocracy ruins, principled acquisition, the archive that fires once
+- [Equan](world-building/cultures/equan.md) — *Equus Mobilus*; the merchant species; trade-as-circulation theology they won't explain in mixed company; herd-oriented, emotionally outward-facing, Dashamar heartland, present everywhere commerce happens
 
 ### [Organizations & Institutions](world-building/organizations/)
-- [Political Hierarchy](world-building/organizations/political-hierarchy.md) — Full title structure, legitimacy sources, the King/Imperial Duke distinction
+- [Political Hierarchy](world-building/organizations/political-hierarchy.md) — Full title structure, legitimacy sources, the King/Regent distinction
 - [Demographics & Settlement](world-building/organizations/demographics.md) — Population, settlement scale, frontier homesteads, political unit counts
 - [Emperor Vaelor IX](world-building/organizations/emperor-vaelor.md) — The Sheltering Hand, theological fatalist, pious inaction, Seneschal Korrin
 - [Succession Claimants](world-building/organizations/succession-claimants.md) — Five main contenders, None of the Above as sixth force, collective dynamics
 - [The Engineer-Priests](world-building/organizations/engineer-priests.md) — Structure, knowledge hierarchy, political position
 - [The Empire](world-building/organizations/empire.md) — Imperial structure, succession law, the intermarriage web
 - [The Island Lords](world-building/organizations/island-lords.md) — Autonomy concessions, fleet politics, claim hierarchy
-- [Grand Duchy of Mavar](world-building/organizations/grand-duchy-mavar.md) — Imperial fleet anchorage, Grand Duke Sorath (Aubrei), San Tavar hedge, outer ocean intelligence
-- [Grand Duchy of Zafaran](world-building/organizations/grand-duchy-zafaran.md) — Desert Road terminus, Imperial Archives and Grand Library, Hobgoblin administration, Duke TBD
-- [Grand Duchy of Baram](world-building/organizations/grand-duchy-baram.md) — Far northern transhipment and cold storage, Llamari-dense, northern pattern anomalies
-- [Grand Duchy of Eithan](world-building/organizations/grand-duchy-eithan.md) — Eastern inner Akhan, breakwater fabrication yard, Homo Bovinus tremorsense QC, Kibo surge labor
-- [The Mishmarine](world-building/organizations/mishmarine.md) — Outer coastal patrol institution, Grand Duchy by status, Kitsune Duke/Bruin Admiral, Gnoll/Otter-folk crews, Lesser Dragon protocols
-- [Grand Duchy of Avir (Grimport)](world-building/organizations/grand-duchy-avir.md) — Southern inner Akhan, fog belt fishing fleet, Gnoll-dense, foghorn culture, protein supply
-- [Grand Duchy of Mare Shafel](world-building/organizations/grand-duchy-mare-shafel.md) — Southwestern inner Akhan, horse breeding, Andalusian plain below the Western Range, adjacent manufacturing
-- [Grand Duchy of Kerath](world-building/organizations/grand-duchy-kerath.md) — Northeastern inner Akhan, peat bog fuel supply, grey and damp, feeds the empire's forges and hearths
-- [Grand Duchy of Shavon](world-building/organizations/grand-duchy-shavon.md) — Northwestern inner Akhan, mixed agriculture, feeds the northern rim, ordinary
-- [Grand Duchy of Amud](world-building/organizations/grand-duchy-amud.md) — Eastern mid-Akhan, transit stop, service economy, reliably unremarkable
-- [The Duchies](world-building/organizations/duchies.md) — 28 regular duchy entries: Inner Akhan island, mainland, rim adjacent, Desert Road, Storm Gate, Southern Way, and client kingdom internal
-- **Count of Kern** (mainland, development pending) — Vineyard country on eastern slopes north of Mare Shafel, Kernish Red, soft power through a product everyone knows
+- [Regency of Mavar](world-building/organizations/regency-mavar.md) — Imperial fleet anchorage, Regent Sorath (Aubrei), San Tavar hedge, outer ocean intelligence
+- [Regency of Zafaran](world-building/organizations/regency-zafaran.md) — Desert Road terminus, Imperial Archives and Grand Library, Hobgoblin administration, Duke TBD
+- [Regency of Baram](world-building/organizations/regency-baram.md) — Far northern transhipment and cold storage, Llamari-dense, northern pattern anomalies
+- [Regency of Eithan](world-building/organizations/regency-eithan.md) — Eastern inner Akhan, breakwater fabrication yard, Homo Bovinus tremorsense QC, Kibo surge labor
+- [The Mishmarine](world-building/organizations/mishmarine.md) — Outer coastal patrol institution, Regency by status, Kitsune Duke/Bruin Admiral, Gnoll/Otter-folk crews, Lesser Dragon protocols
+- [Regency of Avir (Grimport)](world-building/organizations/regency-avir.md) — Southern inner Akhan, fog belt fishing fleet, Gnoll-dense, foghorn culture, protein supply
+- [Regency of Mare Shafel](world-building/organizations/regency-mare-shafel.md) — Southwestern inner Akhan, horse breeding, Andalusian plain below the Western Range, adjacent manufacturing
+- [Regency of Kerath](world-building/organizations/regency-kerath.md) — Northeastern inner Akhan, peat bog fuel supply, grey and damp, feeds the empire's forges and hearths
+- [Regency of Shavon](world-building/organizations/regency-shavon.md) — Northwestern inner Akhan, mixed agriculture, feeds the northern rim, ordinary
+- [Regency of Amud](world-building/organizations/regency-amud.md) — Eastern mid-Akhan, transit stop, service economy, reliably unremarkable
+- [The Duchies](world-building/organizations/duchies.md) — Regular duchy entries: Inner Akhan island, mainland, rim adjacent, Desert Road, Storm Gate, Southern Way, and client kingdom internal
+- [Duchy of Andalvar](world-building/organizations/duchy-andalvar.md) — Archavar highland interior, luxury corridor; County of Kern (wine), County of Mak'Zavar (gems/Quedari), County of Florentia (aromatics/dyes); ducal seat vacant; the place that makes the crown
+- [Duchy of Marzavan](world-building/organizations/duchy-marzavan.md) — Archavar eastern descent, empire's silk production; County of Serev (sericulture), County of Kazhal (weaving), County of Marvat (finishing/harbor); Florentia dye relationship; court dress comes from here
 
 ### [Races & Species](world-building/races/)
 - [Species Distribution](world-building/races/distribution.md) — Full salad bar placement by region and niche

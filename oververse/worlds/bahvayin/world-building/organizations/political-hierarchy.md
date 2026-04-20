@@ -30,12 +30,12 @@ The critical distinction is not between title levels but between **legitimacy so
 
 ---
 
-### Imperial Duke (formal title: Grand Duke)
+### Regent (formal title: Regent)
 **Source of authority:** Hereditary succession with imperial confirmation  
-**Nature:** Medium island administrators. "Imperial Duchy" is the categorical term; the formal title of address is *Grand Duke* / *Grand Duchy*. Succession is hereditary — the family expects to hold the duchy — but requires imperial confirmation to be legally complete. In stable times confirmation is a formality. In the current crisis it is a lever.  
-**Removal:** The emperor can remove a Grand Duke at will. The political consequences of doing so are entirely real and entirely narrative — they depend on circumstances, personalities, and timing. A three-generation family with a loyal fleet is not the same removal calculation as a recent appointment with shallow local roots. The power exists; using it is a story, not a procedure.  
-**Succession crisis exposure:** Grand Duchies with recent unconfirmed successions are in legal limbo — hereditary claim locally recognized, imperial confirmation outstanding. Every claimant can offer confirmation as a carrot. Grand Duchies that have held long enough to accumulate deep local legitimacy look increasingly like client kingdoms in practice. The crisis is sorting them into those two categories.  
-**Independence:** Negotiated. Some Grand Duchies have held long enough that removal would be a serious political event. Most have not.  
+**Nature:** Medium island administrators. "Regency" is the categorical term; the formal title of address is *Regent* / *Regency*. Succession is hereditary — the family expects to hold the duchy — but requires imperial confirmation to be legally complete. In stable times confirmation is a formality. In the current crisis it is a lever.  
+**Removal:** The emperor can remove a Regent at will. The political consequences of doing so are entirely real and entirely narrative — they depend on circumstances, personalities, and timing. A three-generation family with a loyal fleet is not the same removal calculation as a recent appointment with shallow local roots. The power exists; using it is a story, not a procedure.  
+**Succession crisis exposure:** Regencies with recent unconfirmed successions are in legal limbo — hereditary claim locally recognized, imperial confirmation outstanding. Every claimant can offer confirmation as a carrot. Regencies that have held long enough to accumulate deep local legitimacy look increasingly like client kingdoms in practice. The crisis is sorting them into those two categories.  
+**Independence:** Negotiated. Some Regencies have held long enough that removal would be a serious political event. Most have not.  
 **Current behavior:** Playing a short game. They need the succession resolved. They are being collected by claimants who offer title confirmation in exchange for declarations of support. The price is reasonable. The implications are long-term.
 
 ---
@@ -78,11 +78,11 @@ The hard distinction is between titles with independent legitimacy roots and tit
 - Some Counts and Barons in territories with long local history
 
 **Dependent roots (appointment legitimacy):**
-- Imperial Dukes — always
+- Regents — always
 - Most Dukes in imperial territory
 - Most Counts and Barons in recently organized territories
 
-**The gray zone:** Imperial Dukes whose families have held the title for generations, Dukes in client kingdoms whose Kings' legitimacy is privately questioned, Counts whose territory straddles a client kingdom boundary. The Hobgoblin administrators have files on all of them.
+**The gray zone:** Regents whose families have held the title for generations, Dukes in client kingdoms whose Kings' legitimacy is privately questioned, Counts whose territory straddles a client kingdom boundary. The Hobgoblin administrators have files on all of them.
 
 ---
 
@@ -94,7 +94,7 @@ The three strait cultures and the rim cultures do not fit cleanly into the feuda
 **Desert Road nomads** — tribal structure; the Djemari have their own internal hierarchy that does not map onto imperial titles  
 **Southern Way fog navigators (Aubrei)** — clan-based; treaty relationship with the empire that specified mutual obligations without feudal incorporation  
 **Northern rim cultures** — variable; some have adopted Count/Baron equivalents through long imperial contact, others maintain traditional structures  
-**Andalusian slope communities** — variable; more integrated with imperial title structure due to proximity to Imperial Duke territories on the western arc
+**Andalusian slope communities** — variable; more integrated with imperial title structure due to proximity to Regent territories on the western arc
 
 ---
 

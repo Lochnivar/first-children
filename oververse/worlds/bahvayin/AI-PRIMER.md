@@ -22,7 +22,7 @@ Bahvayin (*bah-VAH-yin*, stress second syllable) is a world in the Hypatia overv
 **The Atoll:** The Akhan Sea (inner sea) is approximately 1.75x the size of the Mediterranean. The atoll rim extends beyond that. The three straits — Storm Gate (east), Desert Road (west-northwest), Southern Way (south) — divide the rim into three distinct landmass arcs. Boundaries bleed naturally; transition zones are gradual and often the most interesting geography.
 
 **The three arcs:**
-- **Grenmarch** (northeast arc, Storm Gate to Desert Road over the top) — Temperate forest, frontier territory. Tzafan and Baram sit here. **Tal Aegis**, the imperial capital, sits on the lee side of the southern Grenmarch headland at the Storm Gate mouth — the Sheltering Hand shelters by standing in the path.
+- **Grenmarch** (northeast arc, Storm Gate to Desert Road over the top) — Four zones: **Kyremark** (inner Akhan coast, Greek/Dalmatian morphology, deeply indented harbors, commercial face), **Icemark** (outer ocean coast, glacially carved fjords, exposed, few settlements), **Aldwood** (south of the Pachi Trail, primordial temperate forest, predecessor ruins under the roots), **Kaldvast** (north of the Pachi Trail, genuine taiga thinning toward tundra-fringe, where the northern consolidation is happening). The Pachi Trail runs the treeline — the Pachi follow the natural forest boundary rather than cutting through it. **Tal Aegis**, the imperial capital, sits on the lee side of the southern Grenmarch headland at the Storm Gate mouth.
 - **Dashamar** (south arc, Storm Gate to Southern Way) — Southern steppe, warm grasslands, ranching culture. Southern Way warm current moderates from below. Storm coast outer face holds the **divine office temples** — the gods' offices, where mortals petition; distinct from their homes in the Archavar.
 - **Harova** (west arc, Southern Way to Desert Road) — Three distinct zones stacked west to east:
   - *The Harovian Desert* — outer western face, hyperarid, weather factory, Desert Road corridor runs along mountain base aquifer ribbon
@@ -77,15 +77,15 @@ Bahvayin (*bah-VAH-yin*, stress second syllable) is a world in the Hypatia overv
 |-------|-------|-------|
 | Emperor | Dynastic + theological | Vaelor IX — theological fatalist, piously passive |
 | Kings (x5) | Independent lineage | Client kingdoms, negotiated status, crowns predate empire |
-| Grand Dukes / Imperial Dukes (x10) | Hereditary + imperial confirmation | "Imperial Duchy" is the category; "Grand Duke" is the formal title |
+| Regents / Regents (x10) | Hereditary + imperial confirmation | "Regency" is the category; "Regent" is the formal title |
 | Dukes | Regional/military | Mixed legitimacy |
 | Counts | Administrative | e.g. Count of Kern |
 | Barons | Local | |
 | Thanes | Frontier | Often more real authority than title implies |
 
-**Grand Duke succession:** Hereditary but requires imperial confirmation. Emperor can remove a Grand Duke at will — the political consequences are real and narrative, not mechanical. In the succession crisis, unconfirmed heirs are in legal limbo; every claimant offers confirmation as a carrot.
+**Regent succession:** Hereditary but requires imperial confirmation. Emperor can remove a Regent at will — the political consequences are real and narrative, not mechanical. In the succession crisis, unconfirmed heirs are in legal limbo; every claimant offers confirmation as a carrot.
 
-**Key distinction:** Kings have legitimacy independent of imperial recognition. Grand Dukes' legitimacy depends on imperial confirmation. Kings watch and wait; Grand Dukes need the succession resolved.
+**Key distinction:** Kings have legitimacy independent of imperial recognition. Regents' legitimacy depends on imperial confirmation. Kings watch and wait; Regents need the succession resolved.
 
 **Succession ratification:** Three of five client kings must ratify any named heir. Constitutional concession from a weaker reign. Currently a structural trap — no coalition of three exists. Race to three kings; San Tavar is almost certainly the deciding third vote for any claimant who assembles the first two.
 
@@ -111,7 +111,7 @@ Bahvayin (*bah-VAH-yin*, stress second syllable) is a world in the Hypatia overv
 
 **The Mishmarine vacancy:** Deliberately left vacant 14 months. Stated reason: "The outer thresholds must remain under Kadoru's gaze, not any single house's prize." Actual function: leverage for the claimant with a credible northern policy. None has yet qualified.
 
-**Zafaran appointment:** Appointed Grand Duchess Lirael vel-Zafaran (human, 52, minor noble stock, no claimant ties, meticulous, won the poetry competition once) because her reports are beautifully formatted and she will not use the Archives as a weapon.
+**Zafaran appointment:** Appointed Regent Lirael vel-Zafaran (human, 52, minor noble stock, no claimant ties, meticulous, won the poetry competition once) because her reports are beautifully formatted and she will not use the Archives as a weapon.
 
 **Seneschal Korrin:** Hobgoblin chamberlain, 41 years of service, age 73. The only person who speaks to Vaelor bluntly in private. Has been managing the gap between what Vaelor believes and what reality requires for four decades. Keeps private records of his advice and Vaelor's responses, dated precisely. Does not know what he will do with them. Has begun thinking about what happens when he is no longer present to manage the gap.
 
@@ -135,27 +135,27 @@ All five are watching the succession crisis. None has declared. All have differe
 
 ---
 
-## The Grand Duchies
+## The Regencies
 
-Ten Grand Duchies built. The Emperor has not yet been developed — two ducal appointments (Zafaran, Mishmarine) are TBD pending that development.
+Ten Regencies built. The Emperor has not yet been developed — two ducal appointments (Zafaran, Mishmarine) are TBD pending that development.
 
-**Mavar** — Central inner Akhan. Imperial fleet anchorage, positioned as hedge against San Tavar. Grand Duke Sorath (Aubrei, third generation). Fleet loyalty runs to Sorath not the throne. Aubrei-dense in navigation and command track. Sorath has outer ocean intelligence nobody has formally asked for. The San Tavar relationship is professionally adversarial respect across an open secret — both know exactly why the fleet is positioned there.
+**Mavar** — Central inner Akhan. Imperial fleet anchorage, positioned as hedge against San Tavar. Regent Sorath (Aubrei, third generation). Fleet loyalty runs to Sorath not the throne. Aubrei-dense in navigation and command track. Sorath has outer ocean intelligence nobody has formally asked for. The San Tavar relationship is professionally adversarial respect across an open secret — both know exactly why the fleet is positioned there.
 
-**Zafaran** — Western inner Akhan, Desert Road terminus. Imperial Archives and Grand Library — the empire's official paper trail, not ancient mystery. Hobgoblin administration actually runs everything. Grand Duchess Lirael vel-Zafaran (human, 52, appointed by Vaelor for her meticulous loyalty and lack of political ambition; won the poetry competition once). Arabian Nights register: warm, prosperous, elaborate hospitality, outdoor life, poetry competitions. The senior Hobgoblin administrator has read every document in the archive and has opinions he hasn't been asked to share. Imperial court sends policy questions; archivists debate them over coffee for three evenings; response becomes binding imperial precedent. Nobody has officially acknowledged this. Kol Idic contrast: Kol Idic has the deep past, Zafaran has the current legal record. Both matter in the succession crisis.
+**Zafaran** — Western inner Akhan, Desert Road terminus. Imperial Archives and Grand Library — the empire's official paper trail, not ancient mystery. Hobgoblin administration actually runs everything. Regent Lirael vel-Zafaran (human, 52, appointed by Vaelor for her meticulous loyalty and lack of political ambition; won the poetry competition once). Arabian Nights register: warm, prosperous, elaborate hospitality, outdoor life, poetry competitions. The senior Hobgoblin administrator has read every document in the archive and has opinions he hasn't been asked to share. Imperial court sends policy questions; archivists debate them over coffee for three evenings; response becomes binding imperial precedent. Nobody has officially acknowledged this. Kol Idic contrast: Kol Idic has the deep past, Zafaran has the current legal record. Both matter in the succession crisis.
 
 **Baram** — Far northern inner Akhan shore. Transhipment and cold storage. Llamari-dense — they run the northern supply chains and are the first to notice when patterns change. Natural cool extends preservation windows. Deep harbor chambers are mageocracy-era construction — sealed against leakage by techniques that died with the Death of Magic, irreplaceable, maintained with great care. Kol Idic sent two scholarly delegations; warehouse master gave full access; they left frustrated because you can't put a harbor chamber in a certificate of stewardship. Northern supply anomalies showing up in the warehouse master's exception report file for eight months. Nobody has classified it as intelligence.
 
 **Eithan** — Eastern inner Akhan. Breakwater fabrication yard — where components get built before being barged to the Storm Gate for installation. Homo Bovinus-present for quality control via tremorsense. Kibo transient surge-labor influx when storm warnings circulate — locals read the Kibo arrival rate as a storm severity gauge before official warnings post. Close operational relationship with the engineer-priests; the imperial court is an abstraction, the engineer-priests' Monday morning specifications are not.
 
-**The Mishmarine** — Outer coastal patrol institution with Grand Duchy status. Not the imperial navy — operates where the imperial navy doesn't go. Multiple ports around the atoll rim. Grand Duchy vacant 14 months by Vaelor's decree (Kitsune candidate pool frozen, leverage for northern policy). Captain-General Thorne (Bruin) running operations on caretaker basis with considerable professional irritation — absorbing political functions he is not suited for and does not enjoy. Gnoll/Otter-folk dominant crew culture — long patrol endurance, pack cohesion, self-reliant. The Gnolls have a nickname for the institution. It is not Mishmarine. Thorne pretends not to know it. Lesser Dragon encounter protocols exist and are taken seriously. Aubrei behavioral change on the southern boundary has been in patrol reports for eight months; forwarded to imperial court three times; acknowledged each time.
+**The Mishmarine** — Outer coastal patrol institution with Regency status. Not the imperial navy — operates where the imperial navy doesn't go. Multiple ports around the atoll rim. Regency vacant 14 months by Vaelor's decree (Kitsune candidate pool frozen, leverage for northern policy). Captain-General Thorne (Bruin) running operations on caretaker basis with considerable professional irritation — absorbing political functions he is not suited for and does not enjoy. Gnoll/Otter-folk dominant crew culture — long patrol endurance, pack cohesion, self-reliant. The Gnolls have a nickname for the institution. It is not Mishmarine. Thorne pretends not to know it. Lesser Dragon encounter protocols exist and are taken seriously. Aubrei behavioral change on the southern boundary has been in patrol reports for eight months; forwarded to imperial court three times; acknowledged each time.
 
 **Avir (Grimport)** — Southern inner Akhan, fog belt adjacent. Formal name: Avir. Working name: Grimport — what sailors call it, what appears in logs. Fog never fully lifts. Foghorn runs all day and all night without interruption. Gnoll-dense; Grimport Gnolls are a distinct cultural variant — they have metabolized the fog and noise into identity. "We're all a little mad here" is a statement of philosophy, not complaint. Former residents can't sleep without the foghorn. If the foghorn stops, something is wrong. Empire's primary fishing fleet and protein supply outside A'Kavah's agriculture.
 
 **Mare Shafel** — Southwestern inner Akhan, island plus mainland. Island is the administrative center; mainland coastal plain below the Western Range's eastern slopes is where the horses are. Empire's primary horse breeding operation. Human families run the breeding estates — multigenerational bloodline knowledge held in the family, not documents. Andalusian climate, A'Kavah feeds the horses, Halfling networks move everything. Adjacent manufacturing: leather, tack, farrier work, textiles, specialized animal transport vessels. Sale season once a year — every claimant's representatives attend simultaneously, horses sell at fair prices, no commitments made.
 
-**Kerath** — Northeastern inner Akhan. Peat bog fuel economy. Moisture from the Storm Gate gap produces persistent grey skies and deep bogs. Empire's primary fuel supply for forges, kilns, and hearths. Peat fires have a specific smell — Kerath natives find it comforting. Culture: permanently damp, strong oral tradition, indoor social life, extremely dry wit. Ordinary and functional. Grand Duke wants the succession resolved so the fuel contracts resume.
+**Kerath** — Northeastern inner Akhan. Peat bog fuel economy. Moisture from the Storm Gate gap produces persistent grey skies and deep bogs. Empire's primary fuel supply for forges, kilns, and hearths. Peat fires have a specific smell — Kerath natives find it comforting. Culture: permanently damp, strong oral tradition, indoor social life, extremely dry wit. Ordinary and functional. Regent wants the succession resolved so the fuel contracts resume.
 
-**Shavon** — Northwestern inner Akhan, Tzafan-adjacent. Mixed agriculture, feeds the northwestern rim settlements. Hears northern news early, too small to do anything with it. Grand Duke competent, unremarkable, wants the disruption to end.
+**Shavon** — Northwestern inner Akhan, Tzafan-adjacent. Mixed agriculture, feeds the northwestern rim settlements. Hears northern news early, too small to do anything with it. Regent competent, unremarkable, wants the disruption to end.
 
 **Amud** — Eastern mid-Akhan. Transit stop — ships crossing the Akhan stop here. Service economy: provisioning, chandlery, minor repairs, hospitality. Prosperous through traffic volume. Politically cautious: commitment to a claimant before the outcome is clear is bad for business, the losing side remembers.
 
@@ -165,9 +165,9 @@ Ten Grand Duchies built. The Emperor has not yet been developed — two ducal ap
 
 **The Engineer-Priests** — multi-species coalition at the Storm Gate maintaining the breakwater islands. Engineering institution with theological framework built around its function. Homo Bovinus foundational — their tremorsense reads structural stress before visible indicators appear, encoded in ritual forms. Pre-Death instruments only they can read. Eight centuries of tidal records. The Sungrun early warning function. Currently: Corvani analyst's work on maintenance logs approaching legally documentable evidence of deliberate sabotage. Question the Senior Council hasn't answered: to whom do you present such evidence when every potential recipient has a political interest in how it is used?
 
-**Imperial Military Academy** — standalone imperial institution, not a Grand Duchy. Direct relationship with the throne, currently uncomfortable because the throne is contested. Mainland location (development pending). Commandant answers to the imperial office, not any specific emperor. Every claimant wants the Academy's declaration because it implies legitimacy.
+**Imperial Military Academy** — standalone imperial institution, not a Regency. Direct relationship with the throne, currently uncomfortable because the throne is contested. Mainland location (development pending). Commandant answers to the imperial office, not any specific emperor. Every claimant wants the Academy's declaration because it implies legitimacy.
 
-**Count of Kern** — mainland, development pending. Vineyard country on the eastern slopes of the Western Range north of Mare Shafel. Kernish Red is the prize product, recognized across the empire. Soft power through a product everyone knows. Every claimant has sent a nice letter mentioning Kernish Red specifically. The Count has sent back equally nice letters and a case of the current vintage. No commitments made.
+**Duchy of Andalvar** — Archavar highland interior, the empire's luxury corridor. Two Counties: Kern (vineyards, Kernish Red wine — "the ambrosia") and Mak'Zavar (deep mines, gems, Quedari sacred extractors — "the jewels"). Theology: the Archavar is the gods' home; what bleeds downward crystallizes as wine in Kern and as gems in Mak'Zavar. Quedari are the designated sacred retrievers — their nature is what the mountain permits in its interior, giving them theological status in the valley that their HAI 3–4 costs them everywhere else. Ducal seat vacant 18 months (Vaelor won't appoint — it would constitute an endorsement). The duchy that makes coronation regalia. Every claimant has received a beautiful finished piece and an invoice. No commitments made.
 
 ---
 
@@ -217,6 +217,7 @@ Key niches:
 - **Sungrun** — Acute environmental sensitivity, early warning function
 - **Bruin** — Frontier rangers, outer patrol command culture
 - **Otter-folk** — Social facilitation, crew morale on long operations
+- **Equan** (*Equus Mobilus*) — The merchant species. Equine-featured, bipedal, herd-oriented, HAI 6.5–7. Dashamar heartland, present everywhere commerce happens. Core theology: the world is perpetually imbalanced; trade heals it; the merchant is the instrument of healing, not the beneficiary. Hoard nothing — hoarding holds a wound open. Profit is legitimate — it's what the world pays for necessary work. Do not ask them to explain the theology in mixed company; they will deflect politely. They are not embarrassed about being horse-adjacent in appearance and find the expectation of offense quietly hilarious. Emotionally outward-facing — warmth, amusement, commercial satisfaction all visible. The one practiced deflection (the theology) stands out precisely because nothing else is hidden. Generational oral pattern knowledge of trade flows across the atoll is their primary commercial advantage; not in any archive.
 - **Djemari** — Desert Road nomads, water monopoly, negotiate at Zafaran not the imperial capital
 
 ---
@@ -239,7 +240,7 @@ Key niches:
 - Eye of Tsapadon approaching: engineer-priests have the math, cannot get political attention
 - Breakwater sabotage: Corvani analyst weeks from documentable evidence, nowhere safe to present it
 - Five client kingdoms watching: none declared, all have leverage, all waiting — collectively running a Prisoner's Dilemma on dissolution vs. kingmaker. Cooperative outcome requires all five to hold; defecting first wins big; defecting second loses badly. San Tavar is the only player who could broker cooperation and also the player best positioned to defect at the optimal moment. **Tzafan is Vaelor's reliable vote** — frontier pragmatism, doesn't care who wins, just wants the routes open. Won't vote dissolution while current King reigns, making dissolution mathematically impossible right now. Target on his back accordingly — a new Tzafan king changes everything. He has noticed and increased his personal security
-- Ten Grand Duchies: most want resolution, few have leverage, all being collected by claimants
+- Ten Regencies: most want resolution, few have leverage, all being collected by claimants
 - Outer ocean pattern: Aubrei behavioral change in Mishmarine reports and Grimport fishing accounts, right question not yet asked
 - Category Three reef finds: Chelonari archivist's private file, Stormbreak King's awareness, Kol Idic doesn't know
 - Northern anomalies: Tzafan's scout reports + Baram's freight exceptions = pattern nobody has assembled

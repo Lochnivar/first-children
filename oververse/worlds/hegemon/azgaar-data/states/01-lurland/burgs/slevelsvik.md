@@ -10,7 +10,7 @@ What keeps Slevelsvik legally alive is a quirk of Valthir inheritance law. As lo
 
 **The Mine:** The played-out iron mine is not entirely abandoned. Local rumor insists there's still ore deep in the mountain, accessible only through passages too dangerous to work commercially. Occasionally, desperate individuals venture into the old tunnels seeking to extract enough ore for a single profitable load. Most return empty-handed. Some don't return at all.
 
-**Strategic Irrelevance:** Slevelsvik is too small, too isolated, and too poor to interest anyone—which is exactly what makes it interesting to certain parties. A settlement that no one watches is a settlement where discrete activities can occur. The Grand Duke's tax collector hasn't visited Slevelsvik in five years. Who knows what might be happening in those abandoned mine tunnels?
+**Strategic Irrelevance:** Slevelsvik is too small, too isolated, and too poor to interest anyone—which is exactly what makes it interesting to certain parties. A settlement that no one watches is a settlement where discrete activities can occur. The Regent's tax collector hasn't visited Slevelsvik in five years. Who knows what might be happening in those abandoned mine tunnels?
 
 **The Stubborn Ones:** The unofficial leader of Slevelsvik is Brandr Ironson, whose great-grandfather founded the original mine. Brandr is forty-three, deeply bitter, and absolutely refuses to leave. He has outlasted three tax collectors, two priests, and one representative from Djugardi who came to "discuss relocation assistance." When asked why he stays, Brandr points to the boundary stones marking his family's claim and says simply: "They're still here. So am I."
 

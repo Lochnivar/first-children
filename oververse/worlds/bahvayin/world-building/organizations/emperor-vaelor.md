@@ -53,13 +53,13 @@ The breakwater budget redirections are not random. They are calibrated. Vaelor u
 
 ---
 
-## Grand Duchy Appointments
+## Regency Appointments
 
-### Zafaran — Grand Duchess Lirael vel-Zafaran
+### Zafaran — Regent Lirael vel-Zafaran
 Appointed: three years ago. Age 52. Human, minor noble stock, no strong ties to any major claimant house. Reputation: meticulous record-keeping, unimpeachable procedural loyalty, zero appetite for political maneuvering. Vaelor chose her because her reports are beautifully formatted and because she will not use the Imperial Archives as a weapon. The senior Hobgoblin administrator runs day-to-day operations; Lirael is the public, ceremonial face. Vaelor appreciates that she files things correctly. He considers this appointment one of his better decisions.
 
 ### Mishmarine — Vacancy (14 months)
-The Grand Duchy of the Mishmarine has been deliberately vacant for fourteen months. The Kitsune candidate pool is frozen in limbo. Captain-General Thorne, the Bruin Admiral, is running operations on a caretaker basis with considerable professional irritation.
+The Regency of the Mishmarine has been deliberately vacant for fourteen months. The Kitsune candidate pool is frozen in limbo. Captain-General Thorne, the Bruin Admiral, is running operations on a caretaker basis with considerable professional irritation.
 
 Vaelor's stated reason: *"The outer thresholds must remain under Kadoru's gaze, not any single house's prize."* The theological framing is genuine. The practical effect is leverage — the claimant who presents the most credible northern rim policy will receive the appointment. So far none has qualified. Vaelor is waiting with the patience of a man who believes time is not his problem to manage.
 
@@ -74,7 +74,7 @@ Vaelor's decisions do not announce themselves. They arrive as:
 - Sudden spikes in imperial maintenance levies in Amud and Grimport dock districts, timed just before storm season, with no explanation in the accompanying paperwork
 - A polite imperial letter archived under "theological review" that will not be retrieved
 - Hobgoblin clerks in Zafaran muttering that *"the Hand moves slower than the Eye itself"*
-- Mishmarine patrol crews receiving no new standing orders — only the same quarterly note that the Grand Duchy "remains under imperial consideration"
+- Mishmarine patrol crews receiving no new standing orders — only the same quarterly note that the Regency "remains under imperial consideration"
 - A claimant house whose breakwater supply contracts have been quietly redirected discovering the problem six months after it began, with no clean paper trail leading back to the throne
 
 ---

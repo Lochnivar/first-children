@@ -1,7 +1,7 @@
-# The Grand Duchy of Mare Shafel
+# The Regency of Mare Shafel
 
-**Category:** Organizations & Institutions — Imperial Duchy  
-**Ruler:** Grand Duke TBD  
+**Category:** Organizations & Institutions — Regency  
+**Ruler:** Regent TBD  
 **Related:** [Political Hierarchy](political-hierarchy.md), [Client Kingdoms — A'Kavah](client-kingdoms.md#akavah), [Southern Way Culture](../cultures/southern-way-culture.md), [Geography Overview](../geography/overview.md)
 
 ## Overview
@@ -24,7 +24,7 @@ Mare Shafel is the empire's primary source of horses. Not the only source — ri
 
 **The island port:** The administrative center sits on an island close enough to the mainland that the crossing is routine — a short ferry passage that horses make without particular difficulty after their first time. The port is where buyers arrive, where contracts are written, where the duchy's formal business is conducted. The horse operations are on the mainland. The money changes hands on the island.
 
-**The sale season:** Once a year, Mare Shafel runs the empire's primary horse market. Buyers from every significant polity in the Akhan attend. The succession crisis has made the last two sale seasons complicated — multiple claimants' representatives attending simultaneously, each trying to secure preferential access to the duchy's breeding stock, each trying not to antagonize the others. The Grand Duke has managed this with professional grace. The horses have been sold at fair prices to everyone. No commitments have been made about the next sale season.
+**The sale season:** Once a year, Mare Shafel runs the empire's primary horse market. Buyers from every significant polity in the Akhan attend. The succession crisis has made the last two sale seasons complicated — multiple claimants' representatives attending simultaneously, each trying to secure preferential access to the duchy's breeding stock, each trying not to antagonize the others. The Regent has managed this with professional grace. The horses have been sold at fair prices to everyone. No commitments have been made about the next sale season.
 
 ---
 
@@ -46,7 +46,7 @@ The manufacturing in Mare Shafel is in service of the horse trade, not independe
 
 A'Kavah feeds the inner Akhan. It also feeds Mare Shafel's horses. The relationship between the two is commercial, long-standing, and quietly significant.
 
-A'Kavah's agricultural surplus — the grain output that exceeds what the inner Akhan's food distribution requires — moves south to Mare Shafel as feed stock. The duchy pays fair prices. The arrangement has been in place long enough that A'Kavah's production planning accounts for Mare Shafel's feed requirements. When the succession crisis began disrupting trade routes, one of A'Kavah's first concerns was whether the Mare Shafel feed contracts would be honored. They have been. The Grand Duke made that a priority.
+A'Kavah's agricultural surplus — the grain output that exceeds what the inner Akhan's food distribution requires — moves south to Mare Shafel as feed stock. The duchy pays fair prices. The arrangement has been in place long enough that A'Kavah's production planning accounts for Mare Shafel's feed requirements. When the succession crisis began disrupting trade routes, one of A'Kavah's first concerns was whether the Mare Shafel feed contracts would be honored. They have been. The Regent made that a priority.
 
 The Halfling logistics networks that control A'Kavah's distribution have deep connections in Mare Shafel. The feed supply chain runs through them. So does the distribution of Mare Shafel leather and textile goods northward. The Halfling networks treat the southwestern trade corridor — A'Kavah to Mare Shafel to the Southern Way — as a single managed system that the political situation has not yet disrupted. They would like to keep it that way.
 
@@ -72,17 +72,17 @@ The Halfling logistics networks that control A'Kavah's distribution have deep co
 
 Mare Shafel's leverage in the succession crisis is the horse supply. Every military operation requires horses. Every significant overland trade route requires draft animals. Every noble who wants to arrive with appropriate ceremony requires horses. The empire runs on Mare Shafel's output in ways that are easy to ignore until the supply is interrupted.
 
-The Grand Duke is not threatening to interrupt it. The Grand Duke is simply noting, in the warm and hospitable atmosphere of the sale season, that the duchy looks forward to continued good relations with the empire's future administration, whoever that turns out to be. The horses have been sold at fair prices to everyone. The breeding contracts for next year remain open.
+The Regent is not threatening to interrupt it. The Regent is simply noting, in the warm and hospitable atmosphere of the sale season, that the duchy looks forward to continued good relations with the empire's future administration, whoever that turns out to be. The horses have been sold at fair prices to everyone. The breeding contracts for next year remain open.
 
 Every claimant understands what is and isn't being said. None has found a way to change the conversation.
 
-**The southern corridor dimension:** Mare Shafel sits at the junction of A'Kavah's food security leverage and the Southern Way's trade route. A claimant who secures both A'Kavah and Mare Shafel has locked the southwestern Akhan — food supply and horse supply simultaneously. That combination has not been lost on the claimants. It has also not been lost on the Grand Duke of Mare Shafel, who has noticed that A'Kavah's King is scheduling nothing and is in no particular hurry himself.
+**The southern corridor dimension:** Mare Shafel sits at the junction of A'Kavah's food security leverage and the Southern Way's trade route. A claimant who secures both A'Kavah and Mare Shafel has locked the southwestern Akhan — food supply and horse supply simultaneously. That combination has not been lost on the claimants. It has also not been lost on the Regent of Mare Shafel, who has noticed that A'Kavah's King is scheduling nothing and is in no particular hurry himself.
 
 ---
 
 ## Story Entry Points
 
-**The sale season** — ground-level commerce with political undercurrent. A buyer who has come for horses and finds themselves in the middle of a succession crisis playing out in the hospitality tents. The Grand Duke managing three claimant delegations simultaneously over three days of horse auctions.
+**The sale season** — ground-level commerce with political undercurrent. A buyer who has come for horses and finds themselves in the middle of a succession crisis playing out in the hospitality tents. The Regent managing three claimant delegations simultaneously over three days of horse auctions.
 
 **The breeding estate** — a human estate manager maintaining bloodlines through a succession crisis that is threatening the feed contracts, the transport routes, and the stability of everything the estate depends on. The political crisis arriving as a practical problem: will the feed shipment from A'Kavah arrive on schedule?
 

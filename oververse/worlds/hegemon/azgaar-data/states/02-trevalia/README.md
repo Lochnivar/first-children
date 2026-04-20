@@ -1,15 +1,15 @@
-# Grand Duchy of Trevalia
+# Regency of Trevalia
 
 **State Index:** 2  
 **Status:** Active State  
 **Category:** Generic  
-**Form of Government:** Grand Duchy  
+**Form of Government:** Regency  
 **Era:** Hacutonce Era (HE)
 
 ## Basic Information
 
 - **Name:** Trevalia
-- **Full Name:** Grand Duchy of Trevalia
+- **Full Name:** Regency of Trevalia
 - **Capital:** Burg #2
 - **Culture:** Culture #2
 - **Color:** `#fc8d62`

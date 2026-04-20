@@ -1,16 +1,16 @@
-# The Grand Duchy of Baram
+# The Regency of Baram
 
-**Category:** Organizations & Institutions — Imperial Duchy  
-**Ruler:** Grand Duke TBD  
+**Category:** Organizations & Institutions — Regency  
+**Ruler:** Regent TBD  
 **Related:** [Political Hierarchy](political-hierarchy.md), [Northern Rim Culture](../cultures/northern-rim-culture.md), [Client Kingdoms — Tzafan](client-kingdoms.md#tzafan)
 
 ## Overview
 
-Baram sits on the far northern inner Akhan shore — the closest major imperial polity to the northern rim. The climate is cool, the harbor is deep, and the duchy has been in the transhipment and cold storage business for as long as anyone can remember. Goods from the northern rim come down to Baram, go into warehouses, and wait until they are needed. Goods from the inner Akhan come up to Baram, go into warehouses, and wait until the right ship is going north. The duchy facilitates this process with professional efficiency and no particular drama.
+Baram is an island at the far northern inner Akhan — the closest major imperial polity to the northern rim. The climate is cool, the harbor is deep, and the duchy has been in the transhipment and cold storage business for as long as anyone can remember. Goods from the northern rim come down to Baram, go into warehouses, and wait until they are needed. Goods from the inner Akhan come up to Baram, go into warehouses, and wait until the right ship is going north. The duchy facilitates this process with professional efficiency and no particular drama.
 
 Baram is not where deals are made. It is not where contracts are written or negotiations conducted. It is where goods move through a system that works, in a climate cold enough to preserve what needs preserving, run by people who take pride in things arriving where they are supposed to arrive when they are supposed to arrive. The utilitarian character is not a lack of culture — it is a culture. Baram thinks the rest of the empire is needlessly complicated.
 
-Baram is an Imperial Duchy. The Grand Duke's appointment is unremarkable by design — this is not a posting that attracts imperial favorites or political players. It attracts competent administrators who want to govern something that functions and be left alone to let it function.
+Baram is a Regency. The Regent's appointment is unremarkable by design — this is not a posting that attracts imperial favorites or political players. It attracts competent administrators who want to govern something that functions and be left alone to let it function.
 
 ---
 
@@ -50,7 +50,7 @@ Baram's warehouses are the first place in the empire where the northern rim cons
 
 Shipments that arrive light. Expected goods that don't arrive on schedule and then arrive weeks late with no explanation. Occasional shipments that include materials nobody ordered and nobody on the sending end has documentation for. Llamari freight coordinators who have been running the same routes for years filing exception reports that are piling up in the warehouse master's office.
 
-The warehouse master — a Llamari, three decades in the role — has been looking at these reports for eight months. She has not sent them to the imperial court because they are logistics anomalies, not political intelligence, and her job is logistics. She has mentioned them to the Grand Duke, who forwarded a summary to the imperial court, which acknowledged receipt.
+The warehouse master — a Llamari, three decades in the role — has been looking at these reports for eight months. She has not sent them to the imperial court because they are logistics anomalies, not political intelligence, and her job is logistics. She has mentioned them to the Regent, who forwarded a summary to the imperial court, which acknowledged receipt.
 
 Tzafan's King is watching for a claimant with a coherent northern policy. The data for why that policy is urgent is sitting in a warehouse master's exception report file in Baram. Nobody has connected these two facts yet.
 
@@ -62,7 +62,7 @@ Baram's culture is utilitarian without apology. The aesthetic is functional — 
 
 This is not grim. Baram has warmth — the warmth of people who do their jobs well and respect others who do the same. A Baram merchant who delivers on time and invoices accurately is a person of standing regardless of species, origin, or title. A Baram merchant who delivers late and blames the weather is a person of diminished standing regardless of the same. The meritocracy here is not San Tavar's principled pragmatism — it is simply that competence is the only currency that matters in a transhipment economy.
 
-**On the succession crisis:** Baram finds the succession crisis inconvenient. It has disrupted shipping schedules, created uncertainty about which fleet is safe to contract with, and generated a great deal of correspondence that requires responses. The duchy will declare for whoever resolves the disruption fastest and most completely. The Grand Duke has communicated this position to every claimant delegation that has visited, in those terms, without diplomatic softening. The delegations have found this either refreshing or alarming depending on their political sophistication.
+**On the succession crisis:** Baram finds the succession crisis inconvenient. It has disrupted shipping schedules, created uncertainty about which fleet is safe to contract with, and generated a great deal of correspondence that requires responses. The duchy will declare for whoever resolves the disruption fastest and most completely. The Regent has communicated this position to every claimant delegation that has visited, in those terms, without diplomatic softening. The delegations have found this either refreshing or alarming depending on their political sophistication.
 
 **Species mix:**
 - **Llamari** — dominant operational culture, northern route logistics, warehouse management
@@ -79,7 +79,7 @@ This is not grim. Baram has warmth — the warmth of people who do their jobs we
 
 Baram's leverage in the succession crisis is informational and logistical, not military or documentary. The duchy controls the northern transhipment infrastructure. Whoever wins the succession and wants the northern rim's resources to keep flowing south needs Baram's warehouse and routing systems to be functioning and cooperative.
 
-The Grand Duke is not playing a long game. He is playing a practical game: which claimant will resolve the disruption, confirm the duchy's status, and leave Baram alone to run its port. He is not ideologically committed to any claim. He is operationally committed to things working.
+The Regent is not playing a long game. He is playing a practical game: which claimant will resolve the disruption, confirm the duchy's status, and leave Baram alone to run its port. He is not ideologically committed to any claim. He is operationally committed to things working.
 
 The warehouse master's exception reports are the most practically significant intelligence about the northern rim situation currently in existence. They are in a logistics file. No one has classified them as intelligence. No one has thought to ask Baram what its freight anomalies look like.
 

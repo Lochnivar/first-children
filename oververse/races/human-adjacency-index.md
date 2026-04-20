@@ -115,6 +115,7 @@ ConfAlpha is the product of three pressures acting on a species:
 | Orcs *(Orcus sapiens)* | 4–5 | A–B | Prominent tusks, heavy brow ridge, grey-green skin, stocky powerful build | 60 ft |
 | Geliss *(Gekko versalis)* | 4–5 | B | Scaled skin, very large eyes, adhesive toe pads, possible dewlap | 60 ft |
 | Kibo *(Hippopotamus bellator)* | 4–5 | B | Massive hippo head, enormous jaw, barrel chest, grey skin | 75 ft |
+| Equan *(Equus Mobilus)* | 4 | C | Prominently equine head, mane, tail, hooved feet; facultative quadruped — keratin-sheathed hands protect against ground contact at full pace; grasping functional, fine manipulation limited; horse-primary at any range | 75 ft |
 | Corvani *(Corvus morticus)* | 5 | A | Prominent beak, full feather covering, black coloring, possibly vestigial wing structures | 60 ft |
 | Bruin *(Ursus sapiens)* | 5 | C | Bear head and muzzle, full fur, visible claws, substantial frame | 60 ft |
 | Djemari *(Camelus sapiens)* | 5 | B | Distinctive camel face, hump (variable), long-lashed eyes, endurance build | 60 ft |

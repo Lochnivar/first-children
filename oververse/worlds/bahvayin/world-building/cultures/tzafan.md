@@ -1,7 +1,7 @@
 # Tzafan — Kingdom
 
 **Category:** Cultures  
-**Related:** [Client Kingdoms](../organizations/client-kingdoms.md), [Northern Rim Culture](northern-rim-culture.md), [Grand Duchy of Baram](../organizations/grand-duchy-baram.md)
+**Related:** [Client Kingdoms](../organizations/client-kingdoms.md), [Northern Rim Culture](northern-rim-culture.md), [Regency of Baram](../organizations/regency-baram.md)
 
 ## Overview
 
@@ -103,4 +103,4 @@ The King is waiting. He is patient about it in the way of someone who is watchin
 
 *For the succession crisis context, see [Succession Claimants](../organizations/succession-claimants.md)*  
 *For the northern rim culture, see [Northern Rim Culture](northern-rim-culture.md)*  
-*For Tzafan's northern supply infrastructure, see [Grand Duchy of Baram](../organizations/grand-duchy-baram.md)*
+*For Tzafan's northern supply infrastructure, see [Regency of Baram](../organizations/regency-baram.md)*

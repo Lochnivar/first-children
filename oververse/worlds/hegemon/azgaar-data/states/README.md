@@ -15,8 +15,8 @@ This directory contains detailed data for each state in the Hegemon world map. E
 | Index | Name | Full Name | Type | Form | Capital |
 |-------|------|-----------|------|------|---------|
 | 0 | Neutrals | Neutrals | Unknown | Unknown | #N/A |
-| 1 | Lurland | Grand Duchy of Lurland | Generic | Grand Duchy | #1 |
-| 2 | Trevalia | Grand Duchy of Trevalia | Generic | Grand Duchy | #2 |
+| 1 | Lurland | Regency of Lurland | Generic | Regency | #1 |
+| 2 | Trevalia | Regency of Trevalia | Generic | Regency | #2 |
 | 3 | Tormaline | Republic of Tormaline | Generic | Republic | #3 |
 | 4 | Agrima | Agriman Caliphate | Hunting | Caliphate | #4 |
 | 5 | Niljalia | Niljalian Empire | Nomadic | Empire | #5 |

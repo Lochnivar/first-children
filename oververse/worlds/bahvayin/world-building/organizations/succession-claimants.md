@@ -7,7 +7,7 @@
 
 Five main contenders for the Sheltering Hand. Each has a legal claim Dinath's scales have not dismissed. Each is wrong for the throne in a different way. If any of them were obviously right, the scales would have tipped already — that they haven't is the theological and political crisis simultaneously.
 
-They have been working the five client kingdoms, the Grand Duchies, and the imperial court for two years. None has broken through. None has been eliminated. The balancing act Vaelor maintains with such serene skill keeps all of them in hopeful anxiety and none of them in power.
+They have been working the five client kingdoms, the Regencies, and the imperial court for two years. None has broken through. None has been eliminated. The balancing act Vaelor maintains with such serene skill keeps all of them in hopeful anxiety and none of them in power.
 
 Running alongside the five main contenders — not a claimant, not a faction, but a sentiment — is the sixth force that none of them know how to address.
 
@@ -50,7 +50,7 @@ In stable times this is a formality — the kings confirm because the empire's l
 ### Claimant One — The Legitimate Cousin
 **Claim basis:** Nearest surviving bloodline to Vaelor. Strongest paper trail. The claim Korrin's legal research keeps returning to when he works through the archive documentation.  
 **Character:** Competent administrator. No vision. Would run the empire the way Vaelor runs it minus the theology — pure bureaucratic continuity. Understands process, follows procedure, produces accurate reports. The empire would function under this claimant the way Amud's transit economy functions: reliably, without drama, without inspiration.  
-**The problem:** Nobody is excited. The claim is legally strongest and personally least compelling. The five kings are not rushing to back the candidate who represents more of the same, only without the theological framing that at least gave Vaelor a coherent internal logic. The Grand Dukes who need stability might eventually settle here by default if the alternatives deteriorate. The Legitimate Cousin is aware of this and is quietly waiting for the alternatives to deteriorate.  
+**The problem:** Nobody is excited. The claim is legally strongest and personally least compelling. The five kings are not rushing to back the candidate who represents more of the same, only without the theological framing that at least gave Vaelor a coherent internal logic. The Regents who need stability might eventually settle here by default if the alternatives deteriorate. The Legitimate Cousin is aware of this and is quietly waiting for the alternatives to deteriorate.  
 **Vaelor's handling:** Favored slightly in symbolic gestures, which the Legitimate Cousin reads as encouragement and everyone else reads as Vaelor doing the minimum required by the bloodline proximity. The storm-sapphire clasp has never hummed in this claimant's presence. Nobody mentions this.  
 **Species:** Human. Old bloodline, appropriately thin.
 
@@ -59,7 +59,7 @@ In stable times this is a formality — the kings confirm because the empire's l
 ### Claimant Two — The General
 **Claim basis:** Distant intermarriage connection several generations back. Legally arguable — not dismissible, not strong. The kind of claim that wins a civil war and cannot win a legal argument.  
 **Character:** Military record that commands genuine respect. Popular support in the fleet remnants, among the island lords who want stability enforced rather than negotiated, and in the frontier communities that have been protecting themselves for years and would like an emperor who understands what that costs. Direct, decisive, impatient with the succession crisis in ways that read as strength to some and recklessness to others.  
-**The problem:** Knows the legal claim is thin. Has been compensating by building relationships with Grand Dukes who need protection more than legitimacy — offering military guarantee of their titles in exchange for declarations of support. The network is growing. It is also the most visible of the five claimant operations, which means it is the one the other four are most actively working to counter.  
+**The problem:** Knows the legal claim is thin. Has been compensating by building relationships with Regents who need protection more than legitimacy — offering military guarantee of their titles in exchange for declarations of support. The network is growing. It is also the most visible of the five claimant operations, which means it is the one the other four are most actively working to counter.  
 **Vaelor's handling:** Receives the General with warm ceremonial courtesy and redirects budget allocations to the dockyards that supply the General's allied fleet immediately afterward. The General has noticed. Has not found a way to address it that doesn't involve threatening the emperor, which would collapse all remaining legal legitimacy.  
 **Species:** TBD — the General's background from a specific military culture is held for development.
 
@@ -67,7 +67,7 @@ In stable times this is a formality — the kings confirm because the empire's l
 
 ### Claimant Three — The Architects
 **Claim basis:** Strong claim, well-documented, several intermarriage connections across two generations that stack into a cumulative argument. Not the single strongest claim but the most redundantly supported — if one line fails legally, another holds. One of those lines runs through a cross-species political marriage two generations back — legally valid, socially awkward, the detail the other four quietly point to when they want to cast doubt without making a direct accusation. The Architects consider it their most defensible line. The other claimants consider it the most revealing thing about the house.  
-**Character:** The house that arranged the boating accident. Unproven. Unprovable. Vaelor suspects. Will never act. The Architects have calculated this correctly and find it useful. Their campaign is the most methodical of the five — five years of sustained Grand Duchy relationship-building, careful placement of house members in administrative positions adjacent to imperial institutions, patient accumulation of leverage that doesn't announce itself. They do not seek declarations; they accumulate debts.  
+**Character:** The house that arranged the boating accident. Unproven. Unprovable. Vaelor suspects. Will never act. The Architects have calculated this correctly and find it useful. Their campaign is the most methodical of the five — five years of sustained Regency relationship-building, careful placement of house members in administrative positions adjacent to imperial institutions, patient accumulation of leverage that doesn't announce itself. They do not seek declarations; they accumulate debts.  
 **The problem:** They are good at this. Being good at this in a way that is visible to the other four claimants and the five kings has created a specific kind of opposition — not "we prefer someone else" but "we cannot allow these particular people." San Tavar's Queen has made no statement. Her information networks have been particularly active in documenting the Architects' operations for two years. Nobody has asked what she plans to do with the documentation.  
 **Vaelor's handling:** Held with perfect precision — neither favored nor punished, exactly centered. Every interaction is correct, appropriate, and impossible to read. The Architects find this unnerving in a way they do not admit. They had planned for Vaelor's passive complicity. They had not planned for Vaelor's passive precision.  
 **Species:** Human primary line, cross-species cadet branch in the claim documentation.
@@ -112,7 +112,7 @@ This population is convertible. The right candidate with the right message could
 
 ### The Dissolution Minority
 
-Smaller, cooler than it sounds, and concentrated in specific places. This version isn't "let it burn" — it's "let it stop." The empire dissolves with Vaelor's death. The kings return to full independence. The Grand Duchies revert to whatever their local legitimacy supports. The engineer-priests continue maintaining the breakwaters because they were doing that before the empire existed. The Djemari keep running the Desert Road. Grimport keeps fishing. The world continues — without the imperial superstructure extracting levies, redirecting budgets, and keeping everyone in hopeful anxiety.
+Smaller, cooler than it sounds, and concentrated in specific places. This version isn't "let it burn" — it's "let it stop." The empire dissolves with Vaelor's death. The kings return to full independence. The Regencies revert to whatever their local legitimacy supports. The engineer-priests continue maintaining the breakwaters because they were doing that before the empire existed. The Djemari keep running the Desert Road. Grimport keeps fishing. The world continues — without the imperial superstructure extracting levies, redirecting budgets, and keeping everyone in hopeful anxiety.
 
 Not chaos. Not destruction. Procedural dissolution. Each obligation running to the imperial office, and the imperial office becoming vacant.
 
@@ -149,7 +149,7 @@ Vaelor is aware the provision exists. He helped draft the legal commentary on it
 
 ## Collective Dynamics
 
-The five claimants are not cooperating. They are not fully in conflict either — open conflict would force declarations from the five kings and the Grand Duchies, and none of the five is certain enough of the outcome to want that. The current equilibrium is uncomfortable for everyone and preferable to the alternative.
+The five claimants are not cooperating. They are not fully in conflict either — open conflict would force declarations from the five kings and the Regencies, and none of the five is certain enough of the outcome to want that. The current equilibrium is uncomfortable for everyone and preferable to the alternative.
 
 The Architects are the most patient. The General is the most exposed. The Legitimate Cousin is waiting for attrition. The True Believer is building a theological argument that may matter enormously at the right moment. The Outsider is the variable none of the others have fully modeled.
 
@@ -159,4 +159,4 @@ Vaelor's serene precision keeps them all suspended. When Vaelor dies — and the
 
 *For Vaelor's management of the claimants, see [Emperor Vaelor IX](emperor-vaelor.md)*  
 *For the five kingdoms' positions, see [Client Kingdoms](client-kingdoms.md)*  
-*For the legal documentation each claim rests on, see [Grand Duchy of Zafaran](grand-duchy-zafaran.md)*
+*For the legal documentation each claim rests on, see [Regency of Zafaran](regency-zafaran.md)*

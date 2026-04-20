@@ -56,6 +56,7 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Otter-folk](lutrinae/otter-folk.md)** - Otter-derived; charm-aware; facilitators, bridge-builders, grifters; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 - **[Sungrun](lepus/sungrun.md)** (*Lepus acutis*) — Rabbit people; extraordinary sensory capability (hearing, smell, vibration, pressure); folk percussion/thumping music culture; no designated role—capability platform, emergent
 - **[Tzvari](cervus/tzvari.md)** (*Cervus tzvari*) — Deer people; ecological reading (biological sensitivity to ecosystem health); tending compulsion; no designated role—traits lead to land management, herbalism, ecological stewardship
+- **[Equan](equus/equan.md)** (*Equus Mobilus*) — Horse people; pattern memory for resource distribution; herd-oriented, emotionally outward-facing, range-seeking; trade-as-circulation theology they don't explain to outsiders (embarrassment + consideration, both); no designated role—traits lead naturally to commerce at scale
 
 ### Core Races
 - **[Orcs](orcus/orcs.md)** - Orcus sapiens; trial adversary (standard combat)
@@ -97,6 +98,7 @@ Species of unknown origin; FC cannot trace genetic repo ancestry or identify a c
 - Bandari: Crew-first loyalty; informal economy and last-mile solutions; navigates whoever “The Man” is this week without needing a manifesto (see [Bandari](procyon/bandari.md))
 - Sungrun: Extraordinary sensory suite (hearing, smell, vibration, pressure); capability platform not a role; folk thumping/percussion music culture; “You didn't sneak up on a Sungrun”
 - Tzvari: Ecological reading (continuous biological signal from living systems); tending compulsion; tend toward land management, ecological stewardship, herbalism — and being right too early about what the land is telling them
+- Equan: Pattern memory for resource distribution; circulation instinct (surplus-to-deficit wrongness is felt before it's reasoned); herd structure; tend toward long-distance trade, route development, commodity brokerage; theology says trade heals the world; they'd rather not explain that to you
 - Nekari: Perfection of purpose or action. Felari: Perfection of appearance or manners. Cousins (Felis).
 - Djemari, Llamari: Traits (efficient O2, water conservation, endurance) suit transport and logistics
 - Quedari: No designated role; passed trial via avoidance; patient, minimal engagement. Not all races have purposes—some simply are.

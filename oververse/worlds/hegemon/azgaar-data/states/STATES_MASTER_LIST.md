@@ -18,8 +18,8 @@ This master list provides a comprehensive reference for all states in the Hegemo
 | Index | Name | Full Name | Type | Form | Capital | Culture | Expansionism | Population | Area | Burgs |
 |-------|------|-----------|------|------|---------|---------|--------------|------------|------|-------|
 | 0 | Neutrals | Neutrals | Unknown | Unknown | N/A | N/A | N/A | 42.23 | 27,697 | 0 |
-| 1 | Lurland | Grand Duchy of Lurland | Generic | Grand Duchy | #1 | 3 | 1.4 | 439.10 | 9,395 | 6 |
-| 2 | Trevalia | Grand Duchy of Trevalia | Generic | Grand Duchy | #2 | 2 | 2.2 | 1,302.49 | 10,967 | 19 |
+| 1 | Lurland | Regency of Lurland | Generic | Regency | #1 | 3 | 1.4 | 439.10 | 9,395 | 6 |
+| 2 | Trevalia | Regency of Trevalia | Generic | Regency | #2 | 2 | 2.2 | 1,302.49 | 10,967 | 19 |
 | 3 | Tormaline | Republic of Tormaline | Generic | Republic | #3 | 9 | 1.3 | 679.03 | 12,045 | 8 |
 | 4 | Agrima | Agriman Caliphate | Hunting | Caliphate | #4 | 1 | 3.7 | 4,256.74 | 74,717 | 74 |
 | 5 | Niljalia | Niljalian Empire | Nomadic | Empire | #5 | 10 | 2.3 | 2,708.33 | 52,249 | 42 |
@@ -53,10 +53,10 @@ This master list provides a comprehensive reference for all states in the Hegemo
 | **2.6** | Jarklaus (Kingdom) |
 | **2.5** | Sigdak (Protectorate) |
 | **2.3** | Niljalia (Empire), Naiersbia (Theocracy) |
-| **2.2** | Trevalia (Grand Duchy), Alveimo (Kingdom) |
+| **2.2** | Trevalia (Regency), Alveimo (Kingdom) |
 | **2.0** | Pontena (Principality) |
 | **1.9** | Kutiograd (Theocracy) |
-| **1.4** | Lurland (Grand Duchy) |
+| **1.4** | Lurland (Regency) |
 | **1.3** | Tormaline (Republic), Kailhen (Protectorate) |
 | **1.1** | Ngathar (Duchy) |
 
@@ -79,7 +79,7 @@ This master list provides a comprehensive reference for all states in the Hegemo
 |------|--------|-------|
 | **Empire** | Niljalia, Cournonia | 2 |
 | **Kingdom** | Siyafar, Alveimo, Jarklaus | 3 |
-| **Grand Duchy** | Lurland, Trevalia | 2 |
+| **Regency** | Lurland, Trevalia | 2 |
 | **Principality** | Pontena, Brinach, Sealaris | 3 |
 | **Theocracy** | Naiersbia, Kutiograd | 2 |
 | **Caliphate** | Agrima | 1 |
@@ -142,7 +142,7 @@ This master list provides a comprehensive reference for all states in the Hegemo
 - **Monarchies (Total):** 15 (71%)
   - Empires: 2
   - Kingdoms: 3
-  - Grand Duchies: 2
+  - Regencies: 2
   - Principalities: 3
   - Duchies: 1
   - Dominions: 1
