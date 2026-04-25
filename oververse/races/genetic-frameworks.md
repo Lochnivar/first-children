@@ -56,6 +56,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 - Hippos = Kibo relatives
 - Cattle, oxen, bison = Genus Bovinus (non-sapient template); sapient bovine staff are *Homo bovinus*
 - Otters = Otter-folk relatives
+- Cobras (Indian cobra, king cobra) = Maturi relatives
 - Geckos = Geliss relatives
 - Raccoons = Bandari relatives
 - Rabbits, hares = Sungrun relatives
@@ -105,6 +106,7 @@ All are genetically related within their framework. ~85% DNA similarity between 
 | **Canis** | Hyenas | Gnolls (jocularis/festivus) | No designated role; satirical pack species; emergent | Theatrical, communal, warmth until crossed |
 | **Bovinus** | Cattle, oxen, bison | — | Non-sapient template only; sapient bovine staff are *Homo bovinus* (Homo) | — |
 | **Lutrinae** | Otters | Otter-folk (sapiens) | No designated role; facilitators, bridge-builders, grifters | Charm-aware, play-as-bonding; individual variation |
+| **Naja** | Cobras (Indian/king) | Maturi (maturinensis) | No designated role; naturalists, surgeons, analysts; emergent | Still, observational, precise; outsider-by-nature; warm-blooded departure from baseline |
 | **Gekko** | Geckos | Geliss (versalis) | Tends toward liaison, embedded research, cross-context analysis (emergent) | Adaptive, linguistically flexible; temperature-tuned cognition |
 | **Procyon** | Raccoons | Bandari (callidus) | Tends toward salvage, frontier trade, fixers, informal economy (emergent) | Resourceful, crew-loyal; anti-authoritarian calibration |
 | **Lepus** | Rabbits, hares | Sungrun (acutis) | No designated role; extraordinary sensory capability—capability platform, context determines role | Sensory-always-on, information-sharing instinct; folk music (thumping) culture |

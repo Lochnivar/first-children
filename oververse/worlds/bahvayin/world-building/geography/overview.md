@@ -186,6 +186,22 @@ Two straits cluster in the western hemisphere; the Storm Gate stands alone on th
 
 ---
 
+## Climate and Weather
+
+Bahvayin's weather is shaped by two forces operating simultaneously: the natural atmospheric geometry of the atoll, and a mageocracy-era artifact that has been quietly managing the consequences of that geometry for centuries.
+
+**Natural storm generation:** The Harovian Desert is Bahvayin's weather factory. Extreme surface heating over the hyperarid western outer face creates rising air columns and low-pressure systems that pull moisture off the outer ocean. These systems organize as they cross the full outer ocean fetch — the uninterrupted expanse between the Harovian storm coast and the eastern rim. By the time they reach the Storm Gate they are not disturbances. They are mature systems with the full outer ocean's energy behind them.
+
+**The shear layer:** A mageocracy artifact — origin documented, current location unknown — enhances wind shear along the atoll's primary storm tracks. High wind shear tears apart forming hurricanes before they can consolidate. The effect is not a wall. It is a filter that raises the activation threshold for hurricane formation. Most storms are shredded. The storms that form despite active suppression are the ones with exceptional thermodynamic conditions underneath — ideal sea surface temperatures, deep moisture, optimal pressure gradient. They arrive as abnormal Category 5+ events. The barrier raised the floor.
+
+**Grenmarch's anomalous cold:** Maintaining the shear layer draws energy from the northern latitudes. Grenmarch and the Icemark are measurably colder than their latitude should produce. The Icemark's glaciers, its fjord ice, its whaling grounds — all of it runs colder than the equivalent southern latitudes. The engineer-priests have this in their records. They have no explanation for it. The cold is simply what the north is.
+
+**The Eye and recharge cycles:** The artifact operates within a power budget. When that budget drops below threshold, it deactivates to recharge. During recharge windows the shear dissipates. Precursor storms signal the transition: more frequent, less extreme, the filter absent. When the full window opens the Eye forms — not a storm that overcame suppression, but a storm that assembled in conditions that have been waiting, untouched, for exactly this window.
+
+The recharge windows have been extending. The Death of Magic compromised the artifact's power generation; the enchantment holds but the energy supply it was designed to draw from no longer exists at the same ambient level. The engineer-priests' eight centuries of tidal records show the drift. The Eye now approaching is not necessarily larger than prior Eyes. The window preceding it is the longest in the record.
+
+---
+
 ## The Outer Ocean
 
 Everything outside the atoll rim. The mortals call it feared territory — "thar be dragons." This is not superstition.
@@ -222,3 +238,27 @@ What occasionally comes *through* the straits from the outer ocean — during su
 ---
 
 *For individual strait detail, see [Storm Gate](storm-gate.md), [Desert Road](desert-road.md), [Southern Way](southern-way.md)*
+
+---
+
+## Notable Mageocracy Artifacts
+
+Pre-Death artifacts retain their enchantments as frozen states — the only functioning magic in the current world. New enchantment is impossible. The mages who built these objects are gone. What they left continues operating, degrading, or sitting inert in the ruins they occupied. Most surviving artifacts are minor: administrative tools, navigation aids, equipment occasionally found in working condition in a cleared dungeon. A few are not minor.
+
+---
+
+### [Name TBD] — The Shear Engine
+
+**Purpose:** Hurricane suppression via artificial wind shear enhancement  
+**Status:** Active, degrading  
+**Location:** Unknown — documented in mageocracy records, not located in the current era
+
+The most consequential surviving artifact of the mageocracy. Built to reduce catastrophic hurricane frequency on the eastern storm coast by enhancing wind shear along primary storm tracks — the atmospheric equivalent of raising the activation energy for hurricane formation. It worked. What it also did: drew energy from the northern latitudes to maintain the shear, making Grenmarch anomalously cold; created the conditions by which storms that do form are exceptional rather than ordinary; and introduced the recharge cycle that produces the Eye of Tsapadon.
+
+Whether the cold north was a documented design tradeoff or an unintended consequence of the underlying mechanism is not recorded anywhere that survives. The artifact predates the Death of Magic. The enchantment held. The power source it was designed to draw from did not.
+
+The artifact is lost, not destroyed. Its location has not appeared in the historical record for generations. The mageocracy's institutional knowledge of where it was installed did not survive the collapse intact.
+
+---
+
+*Additional artifacts to be documented as encountered*

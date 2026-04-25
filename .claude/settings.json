@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python -c ' *)",
-      "Bash(ruby -e *)"
+      "Bash(ruby -e *)",
+      "Read(//c/Users/michaell/Projects/**)"
     ]
   }
 }

@@ -96,6 +96,8 @@ On land, administrative roles that require the same patient accumulation of info
 
 **Homo bovinus:** Professional overlap, different domain. Both are combat-oriented, both have fierce unit loyalty. But Bovinus is infantry — the line, the breach, the shield wall. Aubrei is the captain above the fight, directing it. They respect each other's competence without confusion about whose expertise is relevant where. The Bovinus who takes orders from an Aubrei captain follows them. The Aubrei who needs Bovinus muscle knows what it's worth.
 
+**Maturi:** The pairing. Maritime tradition has a name for a crew that carries both an Aubrei and a Maturi — *a complete watch* — and the name is not ironic. The Aubrei reads the sea and commands the action; the Maturi reads everything else and provides the analysis that makes the action correct. Neither role overlaps. The Aubrei finds the Maturi's stillness restful in the way that competence at rest is restful. The Maturi finds the Aubrei's decisiveness useful in the specific way that someone who has completed their calculation finds an operator who acts without requiring the calculation explained. Ships that carry both are considered well-staffed in a way other configurations don't replicate.
+
 **Quedari:** Both patient, both shelled. Almost no other overlap. Quedari presence is minimal by design; Aubrei presence is deliberate and directed. They regard each other with the mild curiosity of recognizing a distant family resemblance with no shared vocabulary for what to do about it.
 
 ---
