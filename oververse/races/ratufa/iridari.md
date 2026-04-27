@@ -102,6 +102,24 @@ The Iridari broadcast from height because height is both instinctively safe and 
 
 The broadcaster Iridari is not performing vanity. They are doing the most efficient version of what all Iridari do — opening as many loops as possible in a single position, collecting as many closings as the audience provides. The community that has a good broadcaster has a social infrastructure. Information moves. Emotional states are legible. The dead are remembered. The loop keeps closing.
 
+### The Witness and Performance
+
+The broadcaster Iridari does more than report. The tail, fully deployed and undulating, carries recorded experience directly to a crowd — not storytelling, not description. The crowd feels what the Iridari felt at the moment of witnessing. The cold, the dark, the specific quality of watching something happen in real time. Shared, simultaneous, immersive. You have to be in the room. The tail is the instrument and the instrument requires presence.
+
+This is not telepathy and not broadcast transmission. The tail's undulating color patterns create a mesmerizing effect that delivers recorded experience through the same emotional pathways that make the tail readable in the first place — scaled up, focused, operating on everyone in the crowd simultaneously. The crowd goes in when they stay. They can walk away before it begins. Staying is consent. Which is the thing that makes this categorically different from being witnessed — you can walk away from a performing Iridari. You cannot walk away from one sitting on your roof.
+
+**The two layers.** The tail records involuntarily — emotional truth in real time, cannot be suppressed, cannot be faked. The internal voice the Iridari runs alongside the experience is not involuntary. An experienced Iridari witnesses and simultaneously builds the narrative they'll perform — shaping inner commentary deliberately while the tail records the emotional substrate beneath it. Both go into the performance. The crowd receives both: the involuntary emotional truth the tail recorded, and the deliberate voice the Iridari ran alongside it. If those two things are in alignment the performance is extraordinary. If they're not, the tail shows the gap. An Iridari who wasn't there cannot perform it credibly — the tail will show the absence where the feeling should be.
+
+**The Springer and Attenborough split.** The full expression of broadcast temperament divides into two recognizable poles:
+
+*Springer contingent* — spectacular tail display, vivid colors, dramatic undulation, the crowd goes deep fast. The internal voice is breathless because that's genuinely how they experience things. The crowd comes out exhilarated and slightly overwhelmed. High ratings. Not always respected by other Iridari.
+
+*Attenborough contingent* — quieter, slower undulation. The crowd goes in gradually and stays longer. Eight months on one rooftop, watching one family. The internal voice measured and patient. *She declined the kiosk again. Fourth time. The coins took longer this week.* The tail delivers this with the full weight of that duration behind it. The multiverse remembers these performances.
+
+*The emotionally compromised* — started as Attenborough. Got attached somewhere around month six. Tails they can't fully control anymore. Still filing the segment. Still going back to the same rooftop. Their broadcasts are the ones the multiverse remembers most. Tails cannot lie. That's the journalism ethics problem with no clean resolution.
+
+**Spliced performance.** Long-form narrative works sequence multiple Iridari witnesses into a single performance — each segment the recorded experience of a different individual, assembled into a coherent arc. You don't cast for who can perform best. You cast for who was genuinely there, or who will genuinely feel it when placed in the situation. The tail confirms which is which.
+
 ### On the Dead
 
 When an Iridari dies the tail goes dark. The community registers this as a physical fact before any announcement is made — the dark tail is unmistakable and immediate.

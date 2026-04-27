@@ -1,79 +1,79 @@
-# Earth Trial Mechanics
+# Earth — The Walls
 
-**Platform 934 // Manchester Hub**  
-**Hypatia Framework — oververse/worlds/earth/trial-mechanics.md — March 2026**
+**Manchester Hub // Amoskeag Terminus**  
+**Hypatia Framework — oververse/worlds/earth/trial-mechanics.md**
 
-## 1. Purpose & Cosmological Context
+## 1. What Happened
 
-The Earth Trial is the final vetting stage for Homo sapiens as generalist infrastructure staff in the Hypatia genetic repository. It is not a punishment, a rescue operation, or a cosmic morality play. It is quality assurance on a product that took several hundred thousand years to iterate.
+The FC put the walls up. Nobody knows exactly why. The most honest answer available is that they could and they did — powerful beings with capricious intent and no particular obligation to explain themselves. The working theory among Commission staffers who have been here long enough to speak frankly in private is that the FC looked at humanity sitting on enough nuclear and conventional weaponry to end themselves several times over, walled them into their own administrative geography, and waited to see what happened next.
 
-The trial asks two interlocking questions:
+They expected war. Humanity in the 21st century, fractured along every possible tribal line, suddenly unable to move freely, resource chains disrupted, alien species appearing without warning — the conditions for spectacular and sustained conflict seemed ideal.
 
-- Do Homo sapiens possess the generalist traits the FC designer intended when specifying this deployment?
-- Can Homo sapiens function cooperatively in a wider universe now that they are no longer the apex species on their own planet?
+The QWAN carrier saturating Earth had other ideas.
 
-These are not checklist items. They are trajectory measurements. The FC designer is not watching for a finish line — they are watching for directional indicators across generational timescales. Individual humans are not data points. Tuesdays are data points.
+The same signal that activated human pineal glands and established the Gatelock payment network interacted catastrophically with engineered explosive compounds. Military stockpiles detonated prematurely. Weapons caches went off without being triggered. Ammunition became unstable. The machinery of modern warfare — the thing that was supposed to produce the show — started killing the people trying to use it before it could be pointed at anyone. Fuel supplies became unreliable. Motorized vehicles dependent on combustion became dangerous. The grand entertainment of watching humanity tear itself apart with F-35s and ICBMs became a much messier, lower-tech, and considerably less cinematic chaos.
 
-The trial does not editorialize. It does not care about individual humans, their names, their stories, or their suffering. It is indifferent quantum pressure applied with precision. The Gray at the plaza edge is not disappointed. They are recording.
+The FC lost interest. Walked away. Did not take the walls down. Did not fix the QWAN interaction with explosive compounds. Did not leave instructions. Simply stopped paying attention.
 
-## 2. Trial KPIs
+The Homo genus staffers who happened to be present — embedded in human institutions for their own reasons, doing their own jobs — were left holding the bag for a situation none of them designed and none of them could simply undo.
 
-KPI is a loose term. These are not pass/fail thresholds. They are the specific questions the FC designer needs answered over the course of the trial. Both must resolve positively for finalization. Each has independent failure modes.
+The Commission was built in the aftermath. Someone had to manage the chaos.
 
-### KPI 1: Generalist Viability
+## 2. The Official Narrative — Commission KPIs
 
-Does this deployment actually have the traits the design doc specified? This is a retrospective audit of the FC designer's own work. The previous Homo variants — Neanderthalensis, Denisovans, Floresiensis, and others — were pre-trial iterations that failed to meet the generalist staff criteria. The designer was refining the template across several hundred thousand years. Sapiens is the version the designer was confident enough to put through formal vetting.
+The Commission cannot tell Manchester NH that the walls went up because powerful beings thought it would be entertaining and then got bored. That is not a story that holds anything together. It does not give the situation meaning, it does not provide a framework for enduring it, and it does not give the Commission any institutional legitimacy to manage it.
 
-The traits being audited are the specific differentiators that made Sapiens the surviving variant:
+So the Commission maintains an official narrative: this is a trial. Humanity is being evaluated for integration into the wider multiverse. The walls are the evaluation mechanism. The KPIs define what the evaluation is measuring. When the KPIs resolve positively, the walls come down.
 
-- Behavioral modernity — abstract thinking, symbolic reasoning, planning beyond immediate need
-- Language complexity — not just communication but narrative. The ability to coordinate around things that do not yet exist.
-- Social scalability — the ability to cooperate functionally with strangers through shared abstract frameworks
-- Cumulative culture — each generation builds on the last rather than rediscovering. Knowledge compounds.
-- Cross-biome adaptability — demonstrated capacity to function across radically different environments
+This narrative is functional. It gives people something to work toward. It frames alien presence as purposeful rather than arbitrary. It gives the Commission's outreach operation a rationale. It is also, underneath, constructed — a story assembled from pieces of truth shaped into something livable.
 
-The trial does not test whether Sapiens can demonstrate these traits under normal conditions. The pre-trial record already answers that. The trial tests whether these traits survive catastrophic disruption — whether they are structural properties of the species or convenient behaviors that evaporate under maximum pressure.
+The KPIs as the Commission states them:
 
-### KPI 2: The Colonist Filter
+**KPI 1 — Generalist Viability:** Does humanity possess the adaptive traits that make it viable as a species operating in a wider multiverse? Behavioral modernity, social scalability, cumulative culture, cross-biome adaptability. The Commission frames this as a formal audit. The honest version is that nobody has confirmed what the FC were actually measuring, or whether they were measuring anything at all.
 
-Can this species function cooperatively in a wider universe, or are they monomaniacal enough to ruin it for everybody?
+**KPI 2 — The Colonist Filter:** Can humanity cooperate with non-human species as a default rather than an emergency response? The Commission frames this as the central question the wall system is designed to stress-test. The integration metric tracks it. The Gatelock friction encourages it. Whether any of this reflects FC intent is not something the Commission is positioned to confirm.
 
-This is not a question about manners. The wider universe already has Orcus for the designated adversarial role. What it does not need is general staff that defaults to conquest and domination whenever it acquires capability and opportunity.
+The KPI narrative holds because it is not entirely wrong. These are real questions with real stakes for humanity's future in the wider multiverse. The Commission believes in them, to varying degrees, depending on the staffer. The uncomfortable truth is that believing in the KPIs and knowing the FC walked away are not mutually exclusive positions. The situation requires both simultaneously.
 
-Sapiens has a genuinely alarming pre-trial record on this. The internal history of Earth is substantially composed of: meet different humans, subjugate or eliminate them, build civilization on the result, call it progress. That is not a promising resume for a species being considered for multiverse-wide deployment.
+Scratch the official narrative hard enough and the seams show. The timeline is undefined. The threshold for "resolved positively" is unspecified. The FC have not confirmed the KPI framework. The integration metric is the Commission's own theory, not a documented FC mechanism. The walls might come down. Nobody actually knows.
 
-The specific pathology being tested is what might be called the first-planet mentality. Sapiens spent their entire pre-trial history as the only sapient species on their world. Every social framework, every in-group and out-group instinct, every tribal boundary — all of it developed in a context where the most alien thing one would ever encounter was someone from the next valley over.
+## 3. How It Actually Happened
 
-The complicating factor is that Sapiens demonstrably possesses social scalability. The historical record shows explosive cooperative capacity under existential pressure. Disasters, wars, shared catastrophe — humans regularly extend their definition of 'us' when the alternative is death. The UN, the Geneva Convention, global trade networks, the internet — coordination at planetary scale with strangers across every cultural barrier.
+The walls appeared without warning. No preparation period. No advance notice. One day the administrative boundaries of human jurisdiction became physical walls and the limited-access highway network became walled corridors. Nobody saw it coming.
 
-And simultaneously cannot agree on parking.
+The QWAN carrier signal saturated simultaneously. Human pineal glands activated. Headaches. Disorientation. The biological toll hardware warming up in eight billion people who had no idea they had biological toll hardware.
 
-The trial is not asking whether Sapiens can cooperate under desperation. That question is already answered. The trial is asking whether Sapiens can make social scalability their default operating mode rather than their emergency override — whether they can extend genuine cooperation to beings that are not even the same genus, on a Tuesday afternoon when nothing is on fire and old habits are comfortable.
+Then the explosions started.
 
-The experienced contractors who have seen multiple trials read the trial design immediately. The range of reactions among them — from academic interest to 'which gray bastard did you piss off to get this type of trial' — reflects their institutional knowledge of what the FC designer is specifically probing. The cynical veterans are not wrong. This trial is a prosecution building a case, and the FC designer knows exactly what they are prosecuting.
+Military stockpiles, weapons caches, fuel depots — anything with sufficient explosive or combustible energy density began interacting badly with the QWAN saturation. Premature detonations. Cascading failures through connected ammunition stores. Fuel supplies becoming unstable, then dangerous, then effectively unusable for high-output combustion. The process took weeks to fully manifest and months before anyone understood the pattern.
 
-## 3. Pre-Trial Setup
+By the time the pattern was understood, the implications were clear: modern mechanized warfare was no longer viable. The weapons didn't reliably work. The fuel that powered the delivery systems was gone or dangerous. The supply chains that maintained the machinery had collapsed along with every other supply chain the walls disrupted.
 
-Trials do not appear without infrastructure. Decades, and in some cases centuries, of groundwork precede the walls going up. The Earth trial is no exception.
+This was the Summer of Chaos. Walls up, QWAN saturated, explosive infrastructure failing, global communications severed at every wall boundary — fiber lines cut underground, cell towers isolated within rooms. No alien presence. No explanation. No management. Humans dealing with the immediate reality of walls on their county lines with no framework for understanding what they were or why they existed.
 
-- Centuries of iteration on the Homo template — previous variants (Neanderthalensis, Denisovans, Floresiensis, and others) deployed, evaluated, and allowed to go extinct or eliminated until Sapiens was the sole remainder
-- Homo sapiens reaching 21st-century, borderline pre-quantum civilization threshold triggers the formal trial sequence
-- Decades of pre-trial monitoring as Sapiens approached threshold
-- Homo genus staffers — elves, hobgoblins, dwarves, halflings, tinkari — quietly embedded in human institutional infrastructure in roles they were designed for. Municipal planning. Infrastructure assessment. Diplomatic liaison. They were not agents. They were simply good at jobs that happened to be exactly the jobs the trial would need.
-- Cayminus banking infrastructure establishing QWAN network presence and coherence logging before walls appeared
-- Wall Commission framework assembled and operational before Day One
+No aliens to blame. No institutions to organize against. Just humans surviving and organizing because someone had to make decisions. The first corridor communities formed here — people who ran the arithmetic on Gatelock costs and entered the corridors before anyone told them they could or couldn't. Rough governance structures emerged in rooms that needed them. Communities developed a sense of ownership over their own survival that nothing that came after would fully dislodge.
 
-The Year of Preparation is the final pre-trial phase. Walls manifest. The system begins resolving its own geometry — a visible process of walls appearing, fading, and reappearing as the integration logic self-corrects orphaned segments and nubs. To humans this process is terrifying and apparently random.
+Then the Amoskeag terminus opened. The Fall.
 
-The hobgoblin admin corps knew the self-correction process was coming. They did not tell anyone. Form 1,203-F(u)(c)(k) has a checkbox for it on page twelve.
+The Commission came through into Manchester mid-chaos — institutional, organized, already constructing a narrative. Cayminus set up enrollment kiosks before most people had processed what was happening. The Millyard lease was signed within days. The official explanation — this is a trial, here are the KPIs, here is what the walls mean — arrived into a population that had spent a summer figuring it out themselves.
+
+The Fall of Humanity is not a collapse. It is the moment humanity discovers the Summer of Chaos wasn't the worst part. The worst part is finding out what kind of universe you actually live in — and that it was already administering you before you knew it existed.
+
+The kernels of Earth Front are in the Summer. The people who organized during the chaos, built something, kept their community alive through their own effort. They are the ones who feel most profoundly that something was taken from them when the Commission arrived to manage what they had already begun managing themselves. Not just walls. Not just aliens. The specific loss of having figured something out and then having someone show up to explain it to you.
+
+The Commission came through into a city mid-chaos with no advance intelligence and had to figure out Manchester the same way everyone else was figuring out their own room — from the ground, without a map, in the aftermath of a summer nobody planned for.
+
+Cayminus identified the Gatelock payment opportunity within days of the terminus opening and built the infrastructure immediately. The Commission assembled around the Millyard because the Millyard was available and the hobgoblin who negotiated the lease was very good at negotiating leases.
+
+The walls' self-correction process — appearing, fading, reforming as the geometry resolved itself — was terrifying to observe and apparently random. It was not random. The hobgoblin admin corps, piecing together the logic as it manifested, eventually understood the pattern. They did not announce this understanding widely. Form 1,203-F(u)(c)(k) has a checkbox for the self-correction process on page twelve. It was added retroactively.
 
 ## 4. The Wall System
 
 ### 4.1 Grid Basis
 
-The FC designer did not impose alien geometry. They used humanity's own organizational system — the administrative boundaries humans drew on their maps to govern territory. Town lines, city limits, county and parish boundaries. Humans spent centuries precisely documenting where these boundaries fall. They called it cartography.
+The FC did not impose alien geometry. They used humanity's own organizational system — the administrative boundaries humans drew on their maps to govern territory. Town lines, city limits, county and parish boundaries. Humans spent centuries precisely documenting where these boundaries fall. They called it cartography.
 
-Pure map grid reference lines (lat/long) were considered but rejected as too restrictive. The solution uses administrative boundaries, with regional variation (see 4.2). The same principles apply internationally — minimally contiguous administrative domains (parishes, boroughs, communes, provinces, etc.) define rooms; limited-access highways define corridors; Gatelocks mark interchanges between rooms and corridors.
+Pure map grid reference lines (lat/long) were considered but rejected as too restrictive. The solution uses administrative boundaries, with regional variation (see 4.2). The same principles apply internationally — minimally contiguous administrative domains (parishes, boroughs, communes, provinces, etc.) define zones; limited-access highways define corridors; Gatelocks mark interchanges between zones and corridors.
 
 ### 4.2 Room Definitions
 
@@ -95,7 +95,7 @@ A traveler moving from one town to a non-adjacent town in a different county pas
 
 ### 4.3 Corridors
 
-Corridors are the movement arteries of the trial world. They are defined strictly as true limited-access highways: controlled access, grade-separated interchanges only. Interstates, turnpikes, and their equivalents. US 101 on its limited-access stretches. US 15 in Pennsylvania on its limited-access segments. International equivalents apply (motorways, autobahns, etc.).
+Corridors are the movement arteries of the wall system. They are defined strictly as true limited-access highways: controlled access, grade-separated interchanges only. Interstates, turnpikes, and their equivalents. US 101 on its limited-access stretches. US 15 in Pennsylvania on its limited-access segments. International equivalents apply (motorways, autobahns, etc.).
 
 Corridor walls follow the highway right-of-way boundary. At interchanges, the walls flare outward to accommodate the ramp geometry — the wall is not a straight line but follows the actual infrastructure footprint. The corridor itself is uninterrupted. Only the connecting roads are Gatelocked or sealed.
 
@@ -127,21 +127,35 @@ If integration subsequently falls below threshold, walls can reform, recreating 
 
 ### 4.8 Gatelocks
 
-Gatelocks are the controlled entry and exit points of the wall system. Their locations are consistent with a single principle: any road that crosses a wall boundary either has a Gatelock if it is a legitimate connecting road, or is sealed if it is restricted or minor access.
+Gatelocks are controlled thresholds in the wall system — openings in the physical wall where legitimate roads cross room or corridor boundaries. They are not gates in the mechanical sense. They are passages that register crossings and impose toll friction on anyone passing through. Their locations are consistent with a single principle: any road that crosses a wall boundary either has a Gatelock if it is a legitimate connecting road, or is sealed if it is restricted or minor access.
 
 - Corridor Gatelocks: Located on interchange ramps — the connecting roads where they cross the corridor boundary. The corridor mainline itself has no Gatelocks.
 - Major Roadway Gatelocks: Located where non-corridor state routes and significant roads cross room boundaries — town lines, city limits, CDP edges, county lines.
 - Gatelock Caps: Terminal Gatelocks at the ends of capped corridor segments. Toll applies. You are not entering a room; you are entering or exiting the corridor system.
 - Sealed roads: Minor roads, driveways, restricted ramps. No Gatelock. Just wall. Route 28/Mammoth Road in Manchester hits the corridor wall at I-93 with no Gatelock because there is no interchange infrastructure to support one.
 
-### 4.9 Toll Structure and Payment
+The Gatelock's primary function is not collection — it is friction. The toll makes every crossing a deliberate choice rather than a reflex. The integration metric measures weighted, intentional cross-boundary interaction. Casual, unconsidered movement would produce noise. The friction filters for signal.
+
+As integration builds on a given segment, the friction reduces. The Gatelock becomes easier to cross as the behavior it was encouraging becomes default. When the segment reaches threshold and the wall dissolves, the Gatelock retires with it — the instrument removing itself because the measurement is complete.
+
+### 4.9 Toll Structure, Payment, and Commission Funding
 
 All Gatelocks impose a toll. The payment infrastructure is built on the QWAN network via Cayminus banking systems on Mercara's Cross.
 
-- Pineal interface: Active pineal glands function as biological toll-tags — they ping the QWAN network for instant balance verification and metric logging. This applies to all sapient species with functional pineal glands.
-- Cayminus accounts: Species with established Cayminus accounts move through Gatelocks frictionlessly. Alien contractors, whose banking infrastructure predates Earth's trial by centuries, are already in the system.
-- Human onboarding: Humans have pineal glands. They do not yet have Cayminus accounts. Early trial period humans pay tolls in physical currency or barter while watching aliens walk through. Cayminus offers enrollment services at every major Gatelock. The enrollment form is simple. The terms and conditions are not.
-- The GatePass ad: Active pineal users receive a 5-8 second non-skippable Cayminus promotional notice on account enrollment. Coyote-branded. Cannot be disabled without a GatePass account. Calcified or blocked pineals receive no ad but pay higher physical tolls.
+**Payment mechanics:**
+- Pineal interface: Pineal glands function as biological crossing tags — they ping the QWAN network for verification and crossing logs. This applies to all sapient species with functional pineal glands.
+- Cayminus accounts: Species with established Cayminus accounts cross with lower friction. Wild races whose banking infrastructure predates Earth's trial by centuries are already in the system.
+- Human onboarding: Humans have pineal glands but do not yet have Cayminus accounts. Early trial period humans pay tolls in physical currency or barter while watching other species cross more smoothly. Cayminus offers enrollment services at every major Gatelock. The enrollment form is simple. The terms and conditions are not.
+
+**Revenue flow:**
+Toll revenue flows to the Commission's operational account. Cayminus takes an administrative fee first — they built the infrastructure and there is naturally a service charge. The remainder funds Commission operations: the outreach program, human outreach employee salaries, and compensation for wild race Commission staff. Homo genus staffers do not draw operational pay — they are FC staff doing FC work.
+
+The human outreach employees and wild races on Commission payroll are therefore directly funded by toll revenue. Their paychecks come from Gatelock crossings. This is not incidental.
+
+**The toll disruption trap:**
+Earth Front factions that organize around disrupting toll collection operate on the assumption that starving Commission revenue collapses Commission operations. This assumption is strategically incorrect in ways the Commission has not volunteered to correct.
+
+More critically: reducing crossing frequency tanks the integration metric on affected segments. The walls strengthen rather than weaken. Earth Front's most tactically coherent anti-Commission strategy is also the most effective mechanism for ensuring the walls never come down.
 
 The conflict of interest inherent in Cayminus designing the payment infrastructure for a trial that tests human integration with alien species has been noted. Kitsune arbitrators have filed the relevant disclosures. They are on page forty-seven of the standard terms.
 
@@ -162,7 +176,7 @@ The integration metric measures trajectory, not achievement. A score trending up
 
 The metric also measures depth, not just quantity. Cooperation for corridor access — gaming the integration score to make walls go away for economic benefit — registers differently from genuine social scalability. Walls that come down for the wrong reasons tend to go back up faster. The system is not easily fooled.
 
-The Gray at the plaza is not watching for walls coming down. They are watching for walls that stay down.
+The Commission is not watching for walls coming down. It is watching for walls that stay down.
 
 ### 5.3 Merged Room Geography
 
@@ -214,15 +228,51 @@ Both interpretations are defensible. The FC designer has not clarified.
 
 When First Children manifest physically in Hypatia, the form they take is the Roswell Gray — the ambiguous, non-defining humanoid figure already embedded in human cultural mythology. This is not performance for human benefit. It is simply what FC look like when they show up. Other species have their own cultural contexts for the same form.
 
-The Gray is deliberately non-readable. No facial expression. No obvious emotional register. No clear intent communicated through form. This is appropriate for beings that are fundamentally self-sustaining quantum waveforms taking minimum viable physical shape. You cannot tell from a Gray's appearance whether the trial is going well or badly. You cannot negotiate with a face like that.
+The Gray is deliberately non-readable. No facial expression. No obvious emotional register. No clear intent communicated through form. This is appropriate for beings that are fundamentally self-sustaining quantum waveforms taking minimum viable physical shape.
 
-The pre-trial human mythological record of Gray encounters may reflect actual FC observation visits during the iteration phase. The FC designer has not confirmed this. The Gray at the plaza edge is not going to answer questions about it.
+The FC are not present on Earth during the trial. They are waiting for the Commission's report. The pre-trial human mythological record of Gray encounters may reflect actual FC observation visits during the iteration phase — the Commission has not confirmed or denied this on their behalf.
 
-'Which gray bastard did you piss off' is literal slang with a visual referent. Contractors who have been on Earth long enough use it without thinking about it anymore.
+'Which gray bastard did you piss off' is literal slang with a visual referent. Experienced wild races who have seen multiple trials use it without thinking about it anymore. It refers to the FC designer's intent in designing the trial — not to a physical presence watching from a plaza.
 
-## 8. The Wall Commission
+## 8. The Commission
 
-### 8.1 Composition and Authority
+### 8.1 Structure and Authority
+
+The Commission is the administrative body responsible for running the Earth trial. It is the operational layer between the FC designer and the trial itself. When the trial concludes, the Commission files its report with the FC. The FC are waiting for that report. They are not present on Earth.
+
+The Commission is primarily staffed by Homo genus personnel — elves, hobgoblins, dwarves, halflings, tinkari — in their designated FC staff roles. Kitsune serve as the arbitration and human-interface layer. Cayminus handles the financial infrastructure. Wild races may be present in various capacities but do not hold command authority within the Commission structure.
+
+### 8.2 Enforcement Posture
+
+The Commission maintains no enforcement force. This is deliberate trial design — previous trials have demonstrated that an alien enforcement presence fuels the exact occupation narrative that makes voluntary cooperation impossible. An armed Commission patrol in Manchester streets would collapse the integration metric on every segment it touched.
+
+Protective force (Homo Bovinus) is present at Commission facilities — the Millyard complex and the Amoskeag Circle terminus — in a purely defensive capacity. They are not rangers. They do not patrol. They guard the door.
+
+The Bruin handle everything outside Commission facilities under their own independent authority. They are not Commission employees. The separation is deliberate and understood by everyone except, occasionally, Earth Front.
+
+### 8.3 Outreach
+
+Outreach into human communities is one of the Commission's primary tools for influencing conditions outside its own walls. Without enforcement authority, persuasion and relationship are the mechanisms available. Human outreach employees — humans employed by the Commission to interface with human communities — are therefore significant operational assets. They are also the most visible target for the collaborator accusation.
+
+---
+
+## 9. The Wall System as Earth-Specific Design
+
+The wall and corridor system is not a standard trial feature. It is a custom instrument designed specifically for the Earth trial and the pathology it is testing.
+
+The first-planet mentality problem requires a mechanism that forces the integration question at every scale simultaneously. An open world allows self-segregation — humans would cluster, build enclaves, and the KPI would never be properly stressed. The walls prevent this. Every boundary crossing requires engagement with the system. Every Gatelock transaction is a data point. The integration metric measures whether that engagement is genuine or purely instrumental.
+
+Other trials have entirely different mechanisms suited to what they are testing. The wall system is not exported. It is not a template. It is the FC designer's specific answer to a specific question about a specific species pathology.
+
+Experienced wild races arriving on Earth and seeing the wall geometry read the FC designer's intent immediately. The trial is not testing whether humans can survive catastrophe. It is testing whether humans can voluntarily extend cooperation to beings they don't need, on a Tuesday, when nothing is on fire.
+
+The walls retire when they are no longer needed. A segment that reaches full integration has answered its question. The instrument removes itself. The end state of a fully passed trial is no walls — not because the Commission removed them, but because every segment answered correctly and there was nothing left to measure.
+
+---
+
+## 10. The Wall Commission
+
+### 10.1 Composition and Authority
 
 The Wall Commission is the administrative body responsible for small, local, case-by-case adjustments to the wall system. It operates under strict constraints:
 
@@ -231,17 +281,17 @@ The Wall Commission is the administrative body responsible for small, local, cas
 - Authority: Narrow and specific. Small boundary nudges, orphaned segment resolution, temporary passage grants. Adjustments expire if the integration metric does not stabilize to support them. No precedent. No appeals.
 - Process: Public hearings at neutral interchange plazas. Pristails broadcast live. Attendance is optional. Opinions are not.
 
-### 8.2 Why Humans Are Not on the Commission
+### 10.2 Why Humans Are Not on the Wall Commission
 
 Humans do not have the institutional knowledge required. They do not understand the legal basis for the walls, the grid system, the corridor definitions, or the integration metric framework. They cannot articulate what they are arguing against in terms the Commission recognizes.
 
-This is not a slight. It is a practical limitation. The Wall Commission was operational before the walls went up. Humans are new to understanding that the walls exist — they lack the institutional knowledge that trial veterans take for granted.
+This is not a slight. It is a practical limitation. Humans are new to understanding that the walls exist — they lack the institutional knowledge that species who have seen other wall situations take for granted.
 
 The result is that humans are represented by Kitsune arbitrators — which is itself a trial data point. Can humans extend sufficient trust to an alien species to let them represent human interests in an alien institutional framework? Some do. Some refuse on principle. The zones that hire Kitsune representation tend to get better Commission outcomes. The zones that refuse get what they get.
 
 The conflict of interest in Kitsune arbitrators representing human clients before a Commission they also staff as procedural guarantors, while simultaneously representing alien contractor organizations in other cases, has been fully disclosed. The disclosure documents are on file. Page forty-seven.
 
-### 8.3 De Facto Incorporation
+### 10.3 De Facto Incorporation
 
 County remainder territory — unincorporated land within a county — has no town-level or city-level sub-walls; it is simply part of the county room. However, when a human settlement in county remainder reaches sufficient size and organizational complexity — defined by specific threshold criteria including population, defined perimeter, semi-permanent structures, and evidence of governance activity — the Wall Commission field corps initiates a de facto incorporation adjudication.
 
@@ -251,15 +301,19 @@ Required filings for de facto incorporation include Form 57-G (initial room regi
 
 Form 1,203-F(u)(c)(k) is sequentially numbered. The hobgoblin admin corps was aware of the unfortunate designation approaching in the sequence for some time before it arrived. A committee was formed to consider renaming it. The committee filed Form 1,203-F(u)(c)(k) to formally request the renaming. The request is pending.
 
-## 9. The Pristail Media Ecosystem
+## 11. The Iridari Witness Culture
 
-Iridari — Pristails — are giant squirrel-derived people with color-changing emotional tails and an instinct for elevated positions and broadcast. They are the de facto media corps of the Earth trial. Their tails cannot lie. This creates a journalism ethics situation that has no clean resolution.
+Iridari — Pristails — are giant squirrel-derived people with color-changing emotional tails and an instinct for elevated positions and witnessing. They are the de facto witness culture around the Manchester situation. Their tails cannot lie. This creates an ethics situation that has no clean resolution.
 
-The Earth trial is among the most watched events in recent multiverse history. A 21st-century pre-quantum civilization undergoing trial for finalization as generalist FC staff, with full alien contractor integration, real-time QWAN broadcast capability, and the specific drama of a first-planet species encountering genuine aliens for the first time — the audience is substantial. The Pristail media infrastructure on Earth is proportionally significant.
+What is happening on Earth — and in Manchester specifically — is among the most witnessed events in recent multiverse memory. A 21st-century first-planet species encountering genuine sapient life for the first time, with a terminus on their doorstep and walls dividing their county lines, is a situation that draws Iridari the way fire draws moths. The audience across the multiverse is substantial. The Iridari are proportionally present.
 
-Notable voices span a spectrum: serious journalists with slow indigo tail registers; enthusiastic broadcasters with orange-gold bursts; and everything in between. The Pristail media corps documents what is happening on Earth for a multiverse audience — accurately, commercially, and with varying degrees of skepticism toward the GatePass advertising model and the indignity of covering a trial that the subjects do not know is a trial.
+They witness. They travel. They perform what they witnessed for crowds elsewhere — the tail deployed, the colors undulating, the crowd experiencing what the Iridari felt standing on that rooftop in Manchester when the integration shimmer started. The tails cannot lie. The performance cannot be faked. An Iridari who was not present cannot perform it credibly.
 
-## 10. Legal Landscape on Earth
+Notable witnesses span a spectrum: patient observers with slow indigo tail registers who have spent months documenting one family's relationship with the situation; enthusiastic witnesses with orange-gold bursts who climb to the highest available position whenever anything happens; and the ones who got emotionally compromised somewhere around month six and have never fully recovered their professional distance.
+
+The ones who got compromised are the ones the multiverse remembers.
+
+## 12. Legal Landscape on Earth
 
 There is no galactic legal consensus. There is no unified code, no Galactic Court, no overarching authority with jurisdiction over Earth. Each species present on Earth brought its own legal framework. They are largely incompatible. Nobody is in charge of resolving this.
 
@@ -272,28 +326,38 @@ In practice, Earth's post-wall legal landscape operates by zone:
 
 The Bruin (Marshals and Rangers) occupy a unique position as contracted enforcers who operate across jurisdictional lines. They enforce local law in alien districts, self-appoint in wilderness and buffer territory, and maintain a studied impartiality about whose law they are currently enforcing. 'We need order. We don't care if it's pretty.'
 
-The Wall Commission is, ironically, the most functional cross-species institution on Earth — not because humans are ready for it, but because everyone needs it and no one can afford to let it fail. Its integration metric for mixed-species proceedings is consistently high. Necessity cooperation at its most naked. The FC designer notes this without comment.
+The Wall Commission is, ironically, the most functional cross-species institution on Earth — not because humans are ready for it, but because everyone needs it and no one can afford to let it fail. Its integration metric for mixed-species proceedings is consistently high. Necessity cooperation at its most naked. Nobody designed this outcome. It emerged anyway.
 
-## 11. Orcus on Earth
+## 13. Orcus on Earth
 
-Orcus (goblins, orcs, trolls, ogres) are FC resources — designated adversaries, not staff. They serve as NPCs, mobs, and adversarial encounters in the trial landscape. They are present on Earth in that capacity. The trial's focus on social scalability does not require eliminating Orcus; it requires that Sapiens not default to conquest and domination when they acquire capability. The universe already has Orcus for the adversarial role. It does not need general staff who behave the same way.
+Orcus — goblins, orcs, trolls, ogres — were deployed to Earth as adversarial pressure. The Commission arranged their release and geographic dispersal in the early post-wall period, seeding them into county remainder and unincorporated territory where governance was absent and the Bruin presence was not yet established.
+
+The official Commission rationale fits the KPI narrative: adversarial pressure tests whether humans cooperate across species lines under threat. The less official reality is that Orcus deployment is standard procedure for situations like this, the hobgoblin admin corps had the deployment forms ready, and nobody at the Commission level made a decision so much as processed a requisition.
+
+The FC deployed Orcus as entertainment infrastructure before they walked away. The Commission inherited them along with everything else.
+
+Humans call them monsters. Experienced wild races recognize them as standard package. The Bruin in county remainder are dealing with them on a Tuesday-by-Tuesday basis and have opinions about the deployment density in the areas around Manchester specifically.
 
 ---
 
 ## Notes on Tone and Application
 
-The Earth trial is not a story about humans overcoming their racism to join the galactic community. That framing produces a lecture with worldbuilding attached, and readers will identify it immediately.
+This is not a story about humans overcoming their flaws to join the galactic community. That framing produces a lecture with worldbuilding attached. Readers identify it immediately.
 
-The trial is quality assurance on a product that took several hundred thousand years to iterate, conducted by observers the subjects cannot identify, against criteria nobody told them about, while they are simply trying to survive Tuesday.
+This is also not a story where the alien institutions are the villains. The Commission is damage control. The Cayminus infrastructure is functional. The Bruin are doing their job. The Kitsune arbitrators are managing an impossible situation with the tools available. None of them are enlightened and none of them are evil.
 
-The KPIs do not judge Tuesday. They count them.
+The FC did something capricious and walked away. That's the whole origin. Everything else is people — human and otherwise — dealing with the consequences of that on a Tuesday.
 
-The aliens are not morally superior. They are professionals with their own institutional baggage, their own species' histories, their own reasons for being on Earth that are not purely altruistic. The Kitsune arbitrator is not enlightened — they operate under a different set of tribal instincts that happen to be more contractually formalized. The Bruin enforcing corridor law is not a savior — they are doing a job they are very good at for reasons that have nothing to do with humanity's trial.
+**The Commission's specific situation:** They are managing a mess the FC created and abandoned. The trial narrative is the story they tell because it's the only story that functions. They believe in it to varying degrees. The KPIs are real enough as goals even if their FC authorization is unconfirmed. The integration metric might work. Nobody knows. They keep measuring anyway because the alternative is admitting there's no mechanism and no timeline and no guarantee the walls ever come down.
 
-The trial's cruelty is not in the walls or the Gatelocks or the forms in triplicate. It is in the indifference. The Gray at the plaza edge is not rooting for anyone. The Pristail cameras are rolling regardless of outcome. The Cayminus GatePass ad plays whether the integration metric is trending up or down.
+**The protagonist's specific situation:** Human outreach employee for the Commission. Works for the institution managing the situation. Gets called a collaborator by Earth Front for it. Knows — through access the job provides — that the trial narrative is thinner than advertised. Can't say so. The truth doesn't set anyone free here. It's accelerant.
 
-The humans just have Tuesday. The KPI leans on them anyway.
+**The aliens are not morally superior.** They have their own institutional baggage, their own species' histories, their own reasons for being in Manchester that are not purely altruistic. The Kitsune arbitrator operates under tribal instincts that happen to be more contractually formalized. The Bandari are checking your pockets. The Felari are here because Susie wouldn't stop talking about the last situation she witnessed. The Cayminus are taking their fee.
+
+**The scope is Manchester.** What's happening in DC, London, Beijing — rumor, inference, occasional news from the corridor network. Manchester doesn't know if it speaks for the world. Manchester didn't ask to speak for the world. The terminus landed here and now everyone coming through it deals with Manchester whether Manchester is ready or not.
+
+The walls went up. The FC walked away. The Commission is doing what it can. The humans just have Tuesday.
 
 ---
 
-*End of document — oververse/worlds/earth/trial-mechanics.md — March 2026*
+*End of document — oververse/worlds/earth/trial-mechanics.md*

@@ -78,7 +78,7 @@ Malachor is unusual for having noticed the lever exists and chosen to pull it. M
 
 ## QWAN and Earth
 
-Earth is the only FC-operated context where QWAN was deployed on a world that already had functioning explosive and firearm technology. When the Cayminus banking infrastructure established QWAN network presence during the Prep Year, the saturation effect activated immediately — and applied to everything already in service.
+Earth is the only FC-operated context where QWAN was deployed on a world that already had functioning explosive and firearm technology. When the walls appeared, QWAN saturation reached operational levels simultaneously — and applied to everything already in service.
 
 The effect on Earth's existing technology is identical to what it does everywhere else. Explosive compounds become hair-trigger. Ammo depots begin detonating spontaneously. Conventional warheads, artillery shells, and munitions stockpiles become unreliable and increasingly dangerous to store. The infrastructure Earth had built around reliable explosive chemistry stops being reliable.
 
@@ -94,7 +94,7 @@ Liquid propellants vary by chemistry. Hypergolic propellants — fuels and oxidi
 
 The combined effect on Earth's nuclear infrastructure: the warheads are unreliable, the delivery systems are compromised, and the silos themselves are potential radiological events waiting for a threshold to cross. The deterrence architecture that Earth's major powers built across the twentieth century stops functioning as designed the moment QWAN saturation reaches operational levels.
 
-The FC accepted this as a condition of deployment. Earth was already past the point where the technology could be prevented from existing. The trial design accounts for what that means.
+The FC put the walls up without fixing it. Earth was already past the point where the technology could be prevented from existing. Nobody asked whether the infrastructure was safe to deploy on a weapons-capable civilization. The FC didn't notice, or didn't care, or noticed and walked away anyway.
 
 ---
 
