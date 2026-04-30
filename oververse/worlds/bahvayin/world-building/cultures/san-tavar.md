@@ -51,9 +51,9 @@ The island's interior rises to a central plateau with commanding views of the Ak
 
 ---
 
-## The Queen
+## The Queen — Sarai-Kai Navari o Lafleur
 
-She has been ruling San Tavar for fifteen years. She achieved the position through San Tavar's own succession framework — merit-weighted, not purely hereditary — and has spent fifteen years demonstrating that the framework produced the right result.
+**Sarai-Kai Navari o Lafleur.** Kitsune. Known formally as **Sarai**. In private, to those who have genuinely earned it: **Kai**. The distinction matters — she gives every claimant the same relationship, which means the Kai circle is very small and its membership is itself intelligence. Has been ruling San Tavar for fifteen years. She achieved the position through San Tavar's own succession framework — merit-weighted, not purely hereditary — and has spent fifteen years demonstrating that the framework produced the right result. The alignment between her species and San Tavar's defining capability is not coincidence: Kitsune commercial intelligence instinct and the island's intelligence infrastructure are mutually reinforcing, and Sarahna is the concentrated expression of both. She thinks in contracts. Every relationship has understood terms. Nothing is given without knowing what comes back.
 
 Every claimant has approached her. Every claimant believes their conversation was qualitatively different from the others. The four-hour meeting with the Outsider is the most discussed — the Queen has not explained what was said. The meeting produced a detailed intelligence report that was filed in her private archive. The Outsider has not disclosed the contents either. Both parties behave as though the meeting was significant. Neither party has explained why.
 

@@ -96,6 +96,9 @@ Bahvayin (*bah-VAH-yin*) is an atoll surrounding the Akhan Sea — the inner sea
 
 **Imperial title:** *Sheltering Hand of Tsapadon* — full formal usage. Shortened in common speech to "the Hand" or "the Sheltering Hand."
 
+### [Narrative Arcs](narrative/arcs/)
+- [The Vaelance Arch](narrative/arcs/vaelance-arch.md) — The prince declared constitutionally dead, rescued by the Mishmarine, and his path to the throne through San Tavar
+
 ---
 
 ## Authorial Notes
