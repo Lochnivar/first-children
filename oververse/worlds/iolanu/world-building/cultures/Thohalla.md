@@ -18,6 +18,8 @@ A received stain on bloodlines and name that marks families with a history of tr
 ### Mad Gift
 A dangerous, unpredictable talent or mark passed down in some lines. It can save lives or ruin them; clans teach containment, ritual practice, and duty around such gifts.
 
+**World tie (Iolanu):** In the wider chronicle, the **quantum-adjacent gift** is taken to have **first arisen in ancient Thohalla**, then spread through ordinary inheritance into every mainland culture. Bigots still **map** “gifted” onto Thohallan names. The **Rathen Peaks** collect exiles from all those bloodlines — often **Thohalla-heavy** on some massifs, **never** a single people. See [quantum_abilities.md](../magic-systems/quantum_abilities.md) and [Rathen.md](Rathen.md).
+
 ### Bound Tongue
 A cultural tendency toward guarded speech and bound names—some truths are measured in weight and consequence rather than casual utterance.
 

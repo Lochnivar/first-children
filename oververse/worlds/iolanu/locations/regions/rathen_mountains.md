@@ -3,7 +3,7 @@
 **Type:** Natural Feature (Floating Mountain Range)  
 **Region:** Orindibar Desert (floating above the magnetic sand)  
 **Related Locations:** [Orindibar Desert](orindibar_desert.md)  
-**Related Cultures:** Rathen (terrace graft-keepers, Orindi-derived)  
+**Related Cultures:** Rathen (peak-bound gifted and kin; legal/social category, ethnically mixed); Orindi (sand-floor gatekeepers and crossings — see culture files)  
 **Significance:** Floating peaks that demonstrate ancient Quantumancer power and danger; key visual element in Book 1 orientation tour
 
 ## Description
@@ -28,13 +28,15 @@ The mountains are essentially debris from a casual act of destruction—a remind
 ## Geography
 - **Location:** Floating above the Orindibar Desert
 - **Magnetic field:** Sustained by the black magnetic sand below
-- **Access:** Reached via mag-lev skimmers or other magnetic levitation technology
-- **Stability:** Permanently suspended, creating stable floating terrain
+- **Access:** Landings and supply runs rely chiefly on **Orindi mag-lev skimmers** and pilot knowledge; **Church pressure** squeezes **who** gets passage and **what** counts as cargo vs fugitive. Orindi **do not** police peak kitchens; they **hold the line at interfaces** (egress, skimmer hire, descent).
+- **Hydrology / Rathen Veil:** Peaks sit high enough to **intercept snowpack**; seasonal **melt** pools in basins and crevices; overspill leaves cliff lines as falls that **shred into virga** — mist and dying rain that **rarely wets** the desert floor. Orindi call that visual curtain the **Rathen Veil** (see [Orindi.md](../../world-building/cultures/Orindi.md)). **Virga is water physics, not Long Walk forensics** — Walk victims **usually** **impact the sand** by trajectory and gravity, not because “the veil hid the body.”
+- **Stability:** Permanently suspended (ancient fixity + ongoing upkeep); ice load and drift are **chronic anxiety**, not hand-waved away for story years
 
 ## Cultural Significance
-- **Rathen culture:** The Rathen people (Orindi-derived) adapted to life on and around the floating mountains
-- **Terrace craft:** They developed terrace cultivation techniques adapted to the floating peaks
-- **Reminder of power:** The mountains serve as a constant reminder of ancient Quantumancer capabilities
+- **Rathen:** The peaks are **exile realized** for the **quantum-adjacent gifted** and kin — **self-policing** communities bound by **the Rathen Oath** (contain gift/teaching/effects to the peaks; do not encourage spread beyond). **Long Walk** (wakeful self-sentence) and **terrace execution** enforce the compact when minds **crack** or refuse it. Population is **ethnically mixed**, not an Orindi offshoot. Detail: [Rathen.md](../../world-building/cultures/Rathen.md).
+- **Orindi pact:** **Non-interference** above ↔ Rathen **internal** justice (including Walk). If containment **fails** and threat hits the sand or trade, **gatekeeper charter** tightens.
+- **Terrace craft:** Terrace and graft-husbandry **distribute** caught melt — hydraulic civilization on stone islands
+- **Reminder of power:** The mountains are debris from a Quantumancer wound; **quarantining the gifted on that wound** threads irony through the map
 
 ## Key Events (Book 1: "The Nalan Apostasy")
 - **Leg 3 of orientation tour:** Gabby sees the floating mountains while crossing the Orindibar Desert

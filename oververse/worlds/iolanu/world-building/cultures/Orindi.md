@@ -30,9 +30,11 @@ The cold is not brutal. It is constant. Orindi clothing reflects this — layere
 
 ### The Floating Rathen Mountains
 
-The shattered peaks that didn't become sand became something else entirely — massive rock formations riding the magnetic flux field, drifting in slow predictable patterns above the desert floor. Some are stable enough that people live on them. Those people are the Rathen — Orindi who at some point in the cultural history decided that up was a better direction than across, and climbed.
+The shattered peaks that didn't become sand became something else entirely — massive rock formations riding the magnetic flux field, drifting in slow predictable patterns above the desert floor. Some are stable enough that people live on them. Those people are the **Rathen**: not a voluntary fork of Orindi who "preferred altitude," but the **peak-bound population** — the gifted and their kin under **customary exile to the sky**, a **legal and social category** mainland cultures often flatten into a single "Rathen culture." (Ethnically the peaks are **mongrel**; detail lives in [Rathen.md](Rathen.md).)
 
-From the desert floor the peaks are a navigational reference and a permanent reminder simultaneously. Every Orindi skimmer pilot uses the peak positions to orient their route. Every Orindi child grows up knowing those peaks used to be a mountain range and knowing what reduced them to this.
+From the desert floor the peaks are a navigational reference and a permanent reminder simultaneously. Every Orindi skimmer pilot uses the peak positions to orient their route. Along the cliff lines, snowmelt and overspill leave the massifs as falls that shred into **virga** — spray and dying rain that the cold, clear air devours before much of it can wet the black sand. Pilots call that hanging curtain of mist and optical haze the **Rathen Veil** (sometimes the name covers the whole skyline block of peaks-plus-curtain). It explains why water that keeps the peaks alive **denies** the desert below; it is **not** an in-world explanation for what happens when someone takes the **Long Walk**.
+
+Every Orindi child grows up knowing those peaks used to be a mountain range and knowing what reduced them to this.
 
 The beauty of the floating mountains does not cancel the knowledge of what made them float. The Orindi hold both things at once without apparent difficulty. This is one of the first things outsiders find unsettling about them.
 
@@ -108,13 +110,13 @@ The dark humor is present in everything. The names they give to particularly dan
 
 ## The Rathen Relationship
 
-The Rathen are Orindi who went up instead of across. At some point in the cultural history — the sagas disagree on when and why — a population of Orindi made permanent settlement on the floating peaks rather than continuing to skim the desert floor.
+Orindi are **gatekeepers on the sand**, not governors of the sky. A **reciprocal pact** runs under custom and charter: Orindi **do not interfere** in Rathen affairs on the peaks — justice, feuds, and **the Long Walk** stay **internal** to Rathen self-policing. Rathen, in turn, are expected to **contain** quantum-adjacent **gift** and its fallout so it does not force Orindi routes, trade, or mainland treaties into Church crosshairs. When containment **fails** — a hijacked skimmer, a fugitive descent, havoc spilling to the sand — the gatekeeper line at **landings and egress** **snaps shut**.
 
-The relationship between Orindi and Rathen is complicated in the way that family relationships are complicated. Same origin, same physical adaptation, same base aesthetics. Diverged enough over generations that each finds the other slightly strange.
+**Egress** (down and out to the mainland) is the **hard** edge; **ingress** (up onto the peaks) stays murkier. Supply is **commerce**; turning a blind eye is **uneven by cargo**, not a blank cheque for **fugitives** sliding off the peaks. Church doctrine **publicly** paints Orindi as **accessories** to the sky-cage — carriers, knowing silences — and that accusation is **partly true** in the way political narratives that need a choke point are always partly true. Where the Church could **land and hold** Orindibar, canon intent is **no subtle mercy** toward either sand or sky; the **moat** — flux, logistics, Orindi monopoly on survivable crossings — is what blocks **cheap genocide**, not doctrine softening.
 
-Orindi find Rathen *settled* in a way that reads as almost incomprehensible — you stopped moving? Permanently? On purpose? Rathen find Orindi restless in a way that seems exhausting — you never stop crossing? You never just *stay*?
+Orindi pilots are **not naive** about the **Long Walk**: Rathen enforcement's public capstone is a **wakeful**, **voluntary** leap when someone still grasps the compact; **else** **terrace execution** on the peak, **remains** there under ordinary death custom. Walks **almost always** end with **remains on black sand** — impact, not a polite "lost in the virga." **Recorded history** holds **no** cracked walker who **survived** the Walk; treat any future exception as **epoch-shattering**. Among pilots, **who fell this season** is **the unmentioned** — understood, rarely spoken with outsiders, **gross breach** of professional ethos to **treat** it as gossip. The **Walk dead on the sand** are nonetheless **honored**: wide **berth**, **no** stripping, looting, or **desecration** — **sacrifice** that kept self-policing **credible** and the gift **bounded** to the peaks. Spectacle that violates that **berth** reads as **obscene** to guild honor.
 
-They trade. They intermarry occasionally. They share route songs that involve the peak positions. They do not entirely understand each other and have long since made peace with that.
+Orindi floor life and Rathen peak life **diverge** in daily texture: Orindi still **organize around skimmers and routes**; Rathen around **terraces, meltwater, and the Oath** (see [Rathen.md](Rathen.md)). They **trade**; families touch at the **interface**. Each side finds the other's normal **strained** — not estranged siblings of one people, but **neighbor species** sharing a wound in the map.
 
 ---
 

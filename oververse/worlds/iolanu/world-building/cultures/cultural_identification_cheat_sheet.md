@@ -41,12 +41,13 @@ A comprehensive cheat sheet for identifying Iolanu cultures, with Earth referenc
 
 ### Orindi — Magnet-Safe Desert Ascetics
 - **Earth Reference:** Scandinavian cold-adapted × Saharan tech minimalism
+- **Role (canon):** Skimmer pilots and **sand-floor gatekeepers** at Rathen interfaces (non-interference pact with peaks; hard line on egress)
 - **Skin:** Very pale to sallow
 - **Hair:** Blond to platinum, often with dark roots
 - **Eyes:** Pale gray, icy blue, silvery green
 - **Build:** Narrow, endurance-built frames
 - **Clothing:** Reflective lenses, minimalist fastenings, stamped tunics
-- **Narrative Identifiers:** Pale skin, stamped wrists, magnet-safe fittings
+- **Narrative Identifiers:** Pale skin, stamped wrists, magnet-safe fittings; **Rathen Veil** in route talk (virga curtain under peaks)
 - **Recreation Seed:** Orindi pale ascetics with stamped tunics and reflective lenses in magnetic desert
 
 ### Maogreki — Coastal Ritualists of the Salt Circle
@@ -81,13 +82,13 @@ A comprehensive cheat sheet for identifying Iolanu cultures, with Earth referenc
 
 ### Rathen — Terrace Graft-Keepers
 - **Earth Reference:** Incan terracecraft × Scandinavian structural craft
-- **Lineage:** Orindi-derived
+- **Category (canon):** Legal/social label for **peak-bound gifted and kin** — **mongrel** exile population, **not** an Orindi offshoot; QM gift first in **ancient Thohalla**, now widespread by inheritance
 - **Skin:** Fair to medium olive with altitude pallor
 - **Hair:** Ash blond to platinum, tightly braided or crown-coiled
 - **Eyes:** Glass blue, pale gray, silvery green
 - **Build:** Compact, dense-boned, powerful legs
 - **Clothing:** Compression harnesses, stepped embroidery, slate badges, woven sashes
-- **Narrative Identifiers:** Terrace-trained stance, grafting tools, civic knotwork
+- **Narrative Identifiers:** Terrace-trained stance, grafting tools, civic knotwork; **Rathen Oath** / **Long Walk** as dread horizon; **forbidden-air** teaching as heresy
 - **Recreation Seed:** Rathen graft-keepers with ash blond braids, glass-blue eyes, and stepped embroidery on misty terraces
 
 ### Wrenamo — Lake Magistrates (updated fusion)

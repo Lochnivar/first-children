@@ -6,6 +6,15 @@
 ## Overview
 Quantum-adjacent abilities are powers that interact with the quantum nature of reality on Iolanu. Those who possess them are hunted by the Church of Malachor, the Locquodian Order, and superstitious mobs. They are NOT extinct, but aggressively hunted.
 
+### Origin and spread (high canon)
+The **quantum-adjacent gift** first arose in **ancient Thohalla** and has since **mixed into every culture** through inheritance and intermarriage — there is no longer a single "Thohalla-only" bloodline for manifestation, though **bigots still conflate** "gifted" with Thohallan names. The **Rathen Peaks** above Orindibar concentrate **exiles and refugees** who ran ahead of hunters; peak society is **demographically mongrel** even when a given massif **leans** Thohalla-heavy in one decade.
+
+### QM haze and “cracking”
+Part of the burden is a **perceptual haze** — epistemic overload from **too many possible effects per cause** (overlapping probability strata). **Mortal minds** without Malachor-scale containment **fray** toward psychosis and uncontrolled expression; this is the **same family of failure** that drove **ancient Quantumancers** mad. Post-Shattering instability **worsens** the risk (see **Cost** under Quantumancers below). **Cracking** far enough that talent becomes an **ambient threat** is what triggers **Rathen** enforcement (Long Walk / terrace execution), not a separate moral system from **the Rathen Oath**.
+
+### Rathen Oath and pedagogy (containment)
+Among peak communities, **sanctioned teaching** is subordinate to **the Rathen Oath**: contain gift, instruction, and uncontrolled effects **to the peaks**; **do not** encourage spread **beyond**. **Forbidden-air** skills (levitation, self-flight, QM that **arrests terminal fall**) are treated as **curriculum heresy** — they **violate containment** by **easing escape** or **exporting miracle**. **Black-market tutors** exist but stay marginal; **accidental** oath breach can still invoke harsh outcomes (**mercy varies by peak**). Full social frame: [Rathen.md](../cultures/Rathen.md), [Orindi.md](../cultures/Orindi.md).
+
 ## The Five Powers
 
 ### 1. QUANTUMANCERS (Active/Future)

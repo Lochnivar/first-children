@@ -3,7 +3,7 @@
 **Type:** Natural Feature / Geographic Region  
 **Region:** Central Iolanu (magnetic desert between A'Thohalla and Orindibar)  
 **Related Locations:** [Rathen Mountains](rathen_mountains.md), City of Orindibar  
-**Related Cultures:** Orindi (magnet-safe desert ascetics), Rathen (terrace graft-keepers, Orindi-derived)  
+**Related Cultures:** Orindi (magnet-safe desert ascetics; skimmer gatekeepers at landings), Rathen (peak-bound gifted and kin — legal/social category, ethnically mixed)  
 **Significance:** Demonstrates the power and danger of ancient Quantumancers; key location in Book 1 orientation tour
 
 ## Description
@@ -31,7 +31,8 @@ This is a prime example of the casual danger and irresponsibility of ancient Qua
 
 ## Cultural Impact
 - **Orindi adaptation:** The Orindi culture adapted to the magnetic desert environment, developing magnet-safe technology and minimalist survival techniques
-- **Rathen culture:** Derived from Orindi, the Rathen people live in the floating mountains, adapting to life on levitating terrain
+- **Rathen:** Populations on the floating peaks are **not** an Orindi derivative — they are **mongrel** exile communities (**quantum-adjacent** gift and kin), culturally organized under **the Rathen Oath** and **self-policing** (see [Rathen.md](../../world-building/cultures/Rathen.md)). Orindi **move freight and people at the interface** under a **pact** of non-interference above and **hard egress** control at landings.
+- **Moat:** The same flux and logistics that make the desert lethal to conventional armies **block** the Church’s **total-solution** fantasy toward sand and sky; **small hunters, infiltrators, and narrative war** substitute until someone solves the crossing problem
 - **Technological legacy:** The mag-lev technology is a reminder of ancient Quantumancer capabilities
 
 ## Key Events (Book 1: "The Nalan Apostasy")

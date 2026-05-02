@@ -63,8 +63,8 @@
 
 - **Physical:** Very pale to sallow; blond to platinum hair, often with dark roots; pale gray, icy blue, or silvery green eyes; narrow, endurance-built frames
 - **Clothing:** Reflective lenses, minimalist fastenings, stamped tunics, travel cloaks, hooded parkas, magnetically compatible fittings
-- **Cultural Elements:** Magnetic desert adaptation; minimalist aesthetic; functional design over ornamentation
-- **Narrative Identifiers:** Pale skin, stamped wrists, magnet-safe fittings
+- **Cultural Elements:** Magnetic desert adaptation; minimalist aesthetic; functional design over ornamentation; **sand-floor gatekeepers** at Rathen interfaces (non-interference pact; hard egress line)
+- **Narrative Identifiers:** Pale skin, stamped wrists, magnet-safe fittings; **Rathen Veil** in pilot talk
 
 ---
 
@@ -115,12 +115,13 @@
 
 ## Rathen
 
-**Earth Reference:** Incan terracecraft × Scandinavian structural craft (Orindi-derived)
+**Earth Reference:** Incan terracecraft × Scandinavian structural craft  
+**Canon note:** Legal/social category — **peak-bound gifted and kin**, ethnically **mongrel** (QM gift first in ancient Thohalla, now widespread); **not** Orindi-derived. See [Rathen.md](Rathen.md).
 
 - **Physical:** Fair to medium olive with altitude pallor; ash blond to platinum, tightly braided or crown-coiled; glass blue, pale gray, or silvery green eyes; compact, dense-boned, powerful legs
 - **Clothing:** Compression harnesses, stepped embroidery, slate badges, woven sashes, boiled wool, pale-lens visors
-- **Cultural Elements:** High-altitude adaptation; terrace architecture; grafting and terrace maintenance
-- **Narrative Identifiers:** Terrace-trained stance, grafting tools, civic knotwork
+- **Cultural Elements:** **Rathen Oath** (contain gift to peaks); **Long Walk** / terrace execution; terrace hydraulics; self-policing fragments
+- **Narrative Identifiers:** Terrace-trained stance, grafting tools, civic knotwork; forbidden-air teaching as oath-heresy
 
 ---
 
