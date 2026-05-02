@@ -66,8 +66,10 @@ Bahvayin (*bah-VAH-yin*) is an atoll surrounding the Akhan Sea — the inner sea
 - [Regency of Shavon](world-building/organizations/regency-shavon.md) — Northwestern inner Akhan, mixed agriculture, feeds the northern rim, ordinary
 - [Regency of Amud](world-building/organizations/regency-amud.md) — Eastern mid-Akhan, transit stop, service economy, reliably unremarkable
 - [The Duchies](world-building/organizations/duchies.md) — Regular duchy entries: Inner Akhan island, mainland, rim adjacent, Desert Road, Storm Gate, Southern Way, and client kingdom internal
-- [Duchy of Andalvar](world-building/organizations/duchy-andalvar.md) — Archavar highland interior, luxury corridor; County of Kern (wine), County of Mak'Zavar (gems/Quedari), County of Florentia (aromatics/dyes); ducal seat vacant; the place that makes the crown
+- [Duchy of Andalvar](world-building/organizations/duchy-andalvar.md) — Archavar highland interior, luxury corridor; County of Kern (wine), County of Mak'Zavar (gems/Quedari), County of Florentia (aromatics/dyes); Barony of Gevar (Toru Harisen, Nekari); ducal seat vacant; the place that makes the crown
 - [Duchy of Marzavan](world-building/organizations/duchy-marzavan.md) — Archavar eastern descent, empire's silk production; County of Serev (sericulture), County of Kazhal (weaving), County of Marvat (finishing/harbor); Florentia dye relationship; court dress comes from here
+- [Duchy of Normont](world-building/organizations/duchy-normont.md) — North shore of Storm Gate, outer atoll east face; adjacent to Tal Aegis; controlled vehicle of the Architects; the Duke who doesn't know
+- [The Architects](world-building/organizations/the-architects.md) — Covert network centered on Barony of Gevar; Toru Harisen (Nekari Baron); gem barony become influence operation; they want the morning after, not the throne
 
 ### [Races & Species](world-building/races/)
 - [Species Distribution](world-building/races/distribution.md) — Full salad bar placement by region and niche

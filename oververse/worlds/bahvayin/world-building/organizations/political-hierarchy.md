@@ -86,6 +86,84 @@ The hard distinction is between titles with independent legitimacy roots and tit
 
 ---
 
+## Imperial Houses
+
+When the empire was formed, the founders recognized a structural problem: a legitimacy framework built entirely on human bloodline logic would either exclude every other species or produce constant friction. The solution was administrative. The empire assigned every species **three to five imperial houses** — formal representation slots within the legitimacy structure. Every species now has standing in the system. The system is legible across species lines.
+
+What the founders could not control was how each species received it.
+
+**Humans** — took the house system and ran. Assigned houses became dynasties, became identity, became something worth killing over. The system functions most completely among humans because they were already doing something like it before the empire formalized it.
+
+**Kitsune** — treat assigned houses as one more contractual framework. They know which house they're nominally assigned to, which house is currently useful to them, and what the difference between those two things means. The assigned house is a filing convention.
+
+**Quedari** — have houses on record. The empire has records. The Quedari go deeper into the mountain. The theological role — designated extractor, fulfilling the mountain's requirement — is the actual identity. The house is paperwork that arrived from outside and has nothing to do with which vein runs where.
+
+**Gnolls** — pack loyalty is the actual operating system. The house is what you cite when you need the empire to process your paperwork.
+
+Other species fall somewhere on the spectrum between "deadly serious" and "what is that again." The key fact is the same for all of them: a house gives **eligibility**. What you do with that eligibility is your own problem.
+
+---
+
+## The Title as Prize
+
+The distinction that makes Bahvayin's political game legible:
+
+- **The house** — the representation slot. Assigned by the empire, three to five per race. This is your standing in the system. You hold it; you don't win or lose it.
+- **The title** — the territorial prize. Duke, Baron, Count. Assigned by imperial appointment to a house or individual. This is what trades hands.
+- **The holding** — which house currently holds which title. This is the board state.
+
+The house gives eligibility. The title gives territory. The holding is the current score.
+
+Titles are **imperial appointments**, not hereditary rights. Convention says titles pass to heirs — and the empire tolerates convention in stable times because continuity is cheaper than adjudication. But convention is not law. Imperial confirmation is what makes a holding legally complete. Without confirmation, a holding is real in practice and vulnerable in principle.
+
+The succession crisis has made this distinction suddenly load-bearing. The empire is full of conventionally-held titles that are technically in limbo, waiting for an emperor who will confirm them or void them or simply never decide.
+
+---
+
+## Title Limits
+
+The imperial house system runs on two hard constraints:
+
+**One title per tier per house.** A house may hold one barony, one county, one duchy, one kingdom — but not two baronies, not two duchies. To take a new prize at a tier the house already holds, the old title must be released first. Houses build *vertically*, not horizontally.
+
+**One title per person.** An individual may hold only one title regardless of tier. A baron elevated to duke must release the barony. A duke who becomes king releases the duchy.
+
+Together these rules mean: filling a house's full vertical stack requires four separate people, each holding one tier. The house as an institution is the connective tissue between those individual holders. Lose a person and you lose their tier until someone else takes it.
+
+Every promotion creates a vacancy. The released title becomes available — either absorbed by another house member stepping up, or falling open for competition. Political moves cascade.
+
+**For long-lived species**, the one-title-per-person rule compounds in ways short-lived houses can't match. A Nekari baron who has held the same title for two centuries has accumulated relationships, debts, and institutional knowledge that a human baron cycling through in forty-year tenures cannot replicate. The title register shows a baron. The actual power register shows something else.
+
+---
+
+## Transfer Mechanisms
+
+**Imperial appointment** — direct grant from the emperor. Cleanest legitimacy. Currently frozen: every appointment reads as succession positioning, and Vaelor will not position.
+
+**Inheritance with confirmation** — title passes by family convention; imperial confirmation makes it legal. Without confirmation, the holding is conventionally real and legally incomplete. The crisis has left the empire full of unconfirmed inheritances.
+
+**Purchase with registration** — titles can be bought. Requires imperial registration to be fully clean. Unregistered purchases are real but vulnerable — the next emperor can honor or void them at will.
+
+**Superior confirmation** — a duke can confirm a baron within their duchy; a king within their kingdom. The chain runs to the emperor. In the current vacuum, superiors are quietly filling the confirmation gap the emperor left. Legally arguable. Politically expedient.
+
+**Forfeiture** — treason, failure, or imperial disfavor strips the title. It reverts to the imperial office for reappointment. The treason clause in the dissolution provision is a mass forfeiture mechanism: a failed dissolution vote treats every king who voted for it as a traitor, forfeiting everything they hold simultaneously.
+
+**Battlefield claim** — won by force; requires subsequent legitimization to be clean. Has historical precedent. Currently extremely dangerous because military action against a title-holder almost certainly triggers the treason clause before legitimization can occur.
+
+---
+
+## The Succession Crisis Backlog
+
+Vaelor's refusal to make appointments has created a structural accumulation. Every vacant title, every unconfirmed inheritance, every purchased-but-unregistered holding is sitting in legal limbo, waiting for a new reign.
+
+The succession winner's first act isn't governing. It's **distributing the backlog** — confirming, voiding, and reappointing every title that accumulated during the interregnum. Every house that backed the right claimant gets confirmation. Every house that backed the wrong one is vulnerable to having their conventional holdings voided or redistributed.
+
+This is an enormous patronage prize. The ability to confirm or deny the accumulated backlog is more concentrated power than any single military victory could produce. It is also the moment when whoever controls the administrative machinery for processing those confirmations becomes indispensable to the new emperor regardless of which claimant won.
+
+The claimants understand the military and political path to three kings. Fewer have thought carefully about what happens the morning after.
+
+---
+
 ## Channel and Rim Polities
 
 The three strait cultures and the rim cultures do not fit cleanly into the feudal hierarchy. They have treaty relationships with the empire rather than membership in it.

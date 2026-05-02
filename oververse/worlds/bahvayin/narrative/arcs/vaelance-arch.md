@@ -75,7 +75,7 @@ His private records — advice given, responses received, precisely dated — be
 
 ### Sarai-Kai Navari o Lafleur
 
-Queen of San Tavar. Kitsune. Known formally as **Sarai** or **Queen Sarai-Kai**. In private, to the very small circle that has earned it: **Kai**. She gives every claimant the same relationship — which means those who call her Kai are a meaningful exception. That name is a marker. When Vaelance first calls her Kai, something has shifted. The alignment between her species and her kingdom's defining capability is not coincidence — San Tavar's intelligence culture and Kitsune commercial intelligence instinct are mutually reinforcing at every level, and Sarahna is the concentrated expression of both. She doesn't just use the Kitsune networks. She is a Kitsune. The deal-making precision, the information-as-currency operating mode, the refusal to give more than you get — these are native, not learned.
+Queen of San Tavar. Kitsune. Known formally as **Sarai** or **Queen Sarai-Kai**. In private, to the very small circle that has earned it: **Kai**. She gives every claimant the same relationship — which means those who call her Kai are a meaningful exception. That name is a marker. When Vaelance first calls her Kai, something has shifted. The alignment between her species and her kingdom's defining capability is not coincidence — San Tavar's intelligence culture and Kitsune commercial intelligence instinct are mutually reinforcing at every level, and Sarai-Kai is the concentrated expression of both. She doesn't just use the Kitsune networks. She is a Kitsune. The deal-making precision, the information-as-currency operating mode, the refusal to give more than you get — these are native, not learned.
 
 Gave every claimant the same relationship. Waited. Vaelance represents something genuinely new: imperial bloodline with zero leverage. The arrangement she offers gives her everything an empress position provides without requiring her to leave San Tavar, surrender her kingdom, or close any operational options.
 
@@ -182,7 +182,7 @@ Vaelance needs to reach San Tavar through waters controlled by players with inte
 
 ### Phase 7: Sarai-Kai — The Wooing Arc
 
-Not primarily romantic — a high-stakes negotiation conducted by two people who understand exactly what the other needs. Every other claimant came to Sarahna with a performance of mutual benefit. Vaelance, having nothing left to perform with, comes with an accurate accounting.
+Not primarily romantic — a high-stakes negotiation conducted by two people who understand exactly what the other needs. Every other claimant came to Sarai-Kai with a performance of mutual benefit. Vaelance, having nothing left to perform with, comes with an accurate accounting.
 
 The turning point: at some point he names the transaction plainly. *I know what you get from this. I know what I need. I am not going to pretend otherwise.* That is the thing she has not heard from fifteen years of claimant audiences. Every other player performed. This one doesn't.
 
@@ -202,7 +202,7 @@ Three of five kings must ratify Vaelance as San Tavar's sponsored candidate. San
 
 The assassination house's calculation changes once Vaelance has San Tavar's backing. Eliminating a king's endorsed candidate with two or three ratifications in progress is a different political act than quietly finishing a constitutional inconvenience. The arch closes when the cost of the second assassination attempt exceeds the cost of accepting the outcome.
 
-**The adopted heir** is the first major governance decision of the reign — chosen by Vaelance and Sarahna together, subject to three of five kings' ratification, raised in the imperial capital. Who that child is constitutes a significant authorial hold.
+**The adopted heir** is the first major governance decision of the reign — chosen by Vaelance and Sarai-Kai together, subject to three of five kings' ratification, raised in the imperial capital. Who that child is constitutes a significant authorial hold.
 
 ---
 
@@ -210,11 +210,11 @@ The assassination house's calculation changes once Vaelance has San Tavar's back
 
 **Legitimacy versus legality.** The constitution said the category he belongs to doesn't count. He does. The declaration was procedurally valid and practically corrupt. His path runs through the constitutional framework that excluded him, by finding the door it didn't close.
 
-**The asset of clear eyes.** In a game where every player is performing, the man who has nothing left to perform with is genuinely disorienting. Sarahna has watched performances for centuries. Vaelance's honesty about the transaction — I know what this is and I am accepting it — is the thing she hasn't seen.
+**The asset of clear eyes.** In a game where every player is performing, the man who has nothing left to perform with is genuinely disorienting. Sarai-Kai has watched performances for fifteen years of claimant audiences. Vaelance's honesty about the transaction — I know what this is and I am accepting it — is the thing she hasn't seen.
 
 **The cost of the necessary deal.** He accepts what the transaction is. He knows what he gave to get the throne. That clarity is the foundation of whatever the reign becomes — not illusion, not performance, an emperor who bought his throne at a known price and governs accordingly.
 
-**Sarahna's patience as character.** The ocean is always patient and always wins. She didn't rush. She watched. She chose the moment, the candidate, and the arrangement that costs her nothing and gains her a dynasty. Whether she feels anything more than political satisfaction about the marriage is a question the arc develops slowly.
+**Sarai-Kai's patience as character.** The ocean is always patient and always wins. She didn't rush. She watched. She chose the moment, the candidate, and the arrangement that costs her nothing and gains her a dynasty. Whether she feels anything more than political satisfaction about the marriage is a question the arc develops slowly.
 
 ---
 

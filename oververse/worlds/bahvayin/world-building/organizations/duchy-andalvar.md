@@ -90,6 +90,14 @@ The Rim Baronies answer to the Duchy of Andalvar's Duke. With the ducal seat vac
 
 **Barony of Talvar** — Quarry operation, the Archavar's building stone. Baron Davan vel-Talvar (Human, old quarry family, four generations cutting the same mountain face). The stone in the current imperial palace's eastern wing came from Talvar. So did three Grand Ducal seats. The Baron is aware that whoever becomes emperor will need to build something. He is in no hurry. His Felari wife, Baroness Sera vel-Talvar, has been trying to determine for eleven years what she saw in him. She has not found a satisfying answer. The quarry continues to produce excellent stone.
 
+**Barony of Gevar** — A gem-producing section of the Archavar's inner rim above Mak'Zavar, where a specific vein of colored stone runs shallower than the county's deep mines. Gevar developed finishing and distribution expertise before anyone else in the valley — not just extraction, but getting product to buyers who couldn't find the valley on a map. The Kitsune commercial partnership that enables this started three generations ago as a straightforward arrangement: Gevar needed court-level distribution networks; the Kitsune needed a reliable high-prestige inventory. Both got what they needed. Neither has fully explained the arrangement to anyone.
+
+**Baron Toru Harisen** — Nekari. The operative word for Toru is *precision* — not as a style, but as a species trait deployed across a long career. He has held the Barony of Gevar long enough that most of the valley's current administrators were not alive when he took it. This is not incidental. The relationships, the debts, the institutional knowledge that tenure produces compound in ways a human baron cycling through in forty years cannot replicate. The title register shows a gem baron. The actual register of what Toru holds is more complex and entirely unlisted.
+
+His Kitsune distribution partner is the thread most likely to connect him to things he would prefer remain separate. He knows this. The partnership is the financial foundation of everything else he has built. It stays open.
+
+Toru has not been seen at the ducal seat in eighteen months — since the previous Duke died without a confirmed heir. His correspondence with the council administration has been entirely cordial and entirely uninformative. The council finds him professionally pleasant and impossible to read.
+
 ---
 
 ## Political Position
