@@ -10,7 +10,7 @@
 
 | Culture | Earth Fusion | Key Identifiers |
 |---------|--------------|-----------------|
-| **Maogreki** | Māori × Celtic coastal | Red/auburn hair, facial tattoos, salt-circle rites, Gabby's body |
+| **Caelori** | Māori × Celtic coastal | Red/auburn hair, facial tattoos, salt-circle rites, Gabby's body |
 | **Kitzengai** | Tibetan × Aztec × Balinese | Mist-climbers, aqueduct harnesses, bone chimes |
 | **Llosca** | Andalusian × Arabian Nights | Veil-dancers, hennaed hands, coin belts |
 | **Orindi** | Scandinavian × Saharan | Pale, magnet-safe desert, stamped tunics |
@@ -24,14 +24,14 @@
 
 ---
 
-## Maogreki
+## Caelori
 
 **Earth Reference:** Māori × Celtic coastal tribes
 
 - **Physical:** Tawny to warm olive skin; black to auburn hair; dark brown to bright green eyes; athletic, compact builds; elders and warriors often bear facial tattooing or carved scar motifs
 - **Clothing:** Flax cloaks, feathered mantles, pleated tunics with geometric weaving, shell or bone jewelry, civic badges
 - **Cultural Elements:** Salt-circle rites; Greyrose Rangers (guardians of sacred sites, stewardship of bound souls); Echo Mothers (memory-keepers, custodians of communal history)
-- **Related Characters:** Gabby D'Olivier (soul-transplanted into Maogreki body named Laila)
+- **Related Characters:** Gabby D'Olivier (soul-transplanted into Caelori body named Laila)
 
 ---
 
@@ -156,7 +156,7 @@
 | [Kitzengai.md](Kitzengai.md) | Full culture doc |
 | [Llosca.md](Llosca.md) | Canal/mining variant |
 | [Llosca_Andalusian.md](Llosca_Andalusian.md) | Andalusian × Arabian Nights variant |
-| [Maogreki.md](Maogreki.md) | Full culture doc |
+| [Caelori.md](Caelori.md) | Full culture doc |
 | [Maneth.md](Maneth.md) | Full culture doc |
 | [Orindi.md](Orindi.md) | Full culture doc |
 | [Rathen.md](Rathen.md) | Full culture doc |

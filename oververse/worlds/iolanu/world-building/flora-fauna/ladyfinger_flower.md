@@ -22,10 +22,11 @@ As the dry season advances, each blossom desiccates into a papery sphere, its pe
 - Post-harvest drying racks line the salt basins, simultaneously preserving flowers and cracking husks for seed collection
 
 ## Cultural Significance
-- Fresh Ladyfingers offered at Eirendor's shrines symbolize renewal through water and mist
-- Dried petals fuel pigmentari spells, their distilled essence believed to amplify warding enchantments
-- The annual "Bloom of Crimson Tip" festival celebrates the flower's fleeting beauty and the promise held within its sweet nectar
+- Fresh Ladyfingers are offered at the old mist-pool shrines during the "Bloom of Crimson Tip" festival — one of the older observances in Kitzigen Falls, predating the current Church presence
+- The flower is traditionally associated with **Eirendor** — a folk name for Nala used quietly throughout Iolanu, particularly in cultures where direct Nala worship would draw Church attention. Most people using the name learned it from a grandmother and wouldn't call it theology. The Church knows what it means and prefers it unused.
+- Someone who mentions Eirendor casually, in passing, is worth a second look — it could be innocent tradition, or it could be something more. The Apostasy knows the difference between the two is not always clear, and uses that ambiguity.
+- The nectar preserve is a traditional festival food; the "Bloom of Crimson Tip" is culturally observed in Kitzigen Falls the way most holidays are — with more appetite than doctrine
 
 ## Notes
-The flower's connection to water, mist, and renewal ties it to Eirendor's domain and local spiritual practices.
+The Ladyfinger is said to have been created by Nala herself — the story survives in the folk tradition around Eirendor. Whether the Kitzengai believe this literally, symbolically, or not at all depends entirely on who you ask.
 

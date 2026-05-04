@@ -1,7 +1,7 @@
 # Gabby D'Olivier (formerly Boudicca Jane Call)
 
 **Status:** Main  
-**Role:** Originally a 17-year-old foster child from New Hampshire named Boudicca Jane Call. Died in a hiking accident; her soul was transplanted into a Maogreki woman named Laila. Now serves as a Greyrose Ranger.  
+**Role:** Originally a 17-year-old foster child from New Hampshire named Boudicca Jane Call. Died in a hiking accident; her soul was transplanted into a Caelori woman named Laila. Now serves as a Greyrose Ranger.  
 **First Appearance:** [TBD]
 
 ## Basic Information
@@ -12,14 +12,14 @@
 - **Physical Description:** 
   - **On Earth:** Dark black hair, olive-tinged skin (racial mix), naturally doe-eyed chocolate brown eyes, about 5'5" tall, fit and toned
   - **In Laila's Body:** Red hair in a long braid to the middle of her back (flaming red/bold), slate gray eyes (almost blue/sapphire blue), almost milk-white skin with freckles liberally dusting face and shoulders, peaches and cream complexion, about 5'5" tall, fit and toned. Breasts are 2-3 cup sizes bigger than her original body. Hips are wider but not grotesquely huge. Movements feel awkward with the greater mass on her chest and wider hips, but the body is quite limber.
-  - **Tattoos:** Extensive set of tattoos - lines of black ink run liberally across the body from chin down to toes. Wide bare spots that seem unfinished. Ritual tattoos consistent with Maogreki practice.
+  - **Tattoos:** Extensive set of tattoos - lines of black ink run liberally across the body from chin down to toes. Wide bare spots that seem unfinished. Ritual tattoos consistent with Caelori practice.
   - **Greyrose:** A gray-colored rose embedded in her skin. The bud nestles just below her left clavicle, and the stem winds down between her breasts with the end curling underneath the right breast. There are two leaves that spread at the top of the cleavage. It's firmly under the skin, and she can feel the texture of each petal as they wrap around the central bud. It's not a tattoo, but an actual rose embedded in her flesh.
 
 ## Personality
 Practical, wry, emotionally tethered to American roots while learning (and resisting) communal sacrificial language; haunted by loss and rebirth.
 
 ## Background
-Originally a 17-year-old foster child from New Hampshire named Boudicca Jane Call. Died in a hiking accident on the Appalachian Trail in the White Mountains of New Hampshire when a panicked rabbit darted across her feet at a particularly treacherous part of the trail. Her soul was transplanted into a Maogreki woman named Laila by the goddess Nala. Now serves as a Greyrose Ranger.
+Originally a 17-year-old foster child from New Hampshire named Boudicca Jane Call. Died in a hiking accident on the Appalachian Trail in the White Mountains of New Hampshire when a panicked rabbit darted across her feet at a particularly treacherous part of the trail. Her soul was transplanted into a Caelori woman named Laila by the goddess Nala. Now serves as a Greyrose Ranger.
 
 ### Death and Rebirth
 Gabby died in a coma after her hiking accident. While dying, she was approached by Nala, a goddess who offered her a choice: die and follow the path her world dictates for souls, or go on an adventure as Nala's agent in a war of liberation. Gabby agreed on the condition that Nala tell her the truth about Laila's body.
@@ -31,14 +31,14 @@ Gabby's soul was placed in Laila's body, and she will live out the remainder of 
 **Important:** Gabby won't remember much of this conversation—it's too dangerous to let her remember all of what was spoken. However, she will remember that anyone bearing a greyrose tattoo is dedicated to Nala and can be trusted. They share the mission, and some will share much more in common with her than she would realize.
 
 ## Current Vessel
-**Laila:** The Maogreki body that now houses Gabby's soul; cultural and ritual vessel. Laila was one of Nala's most devout followers who volunteered to sacrifice her body so that Gabby could come to Iolanu as Nala's agent. Her soul had been transferred to Nala's keeping (safe from Zeta's reach) before her body became available. Primary locus for conflicts about agency, consent, and ritual claims; her body's history and local ties complicate Gabby's attempts to assert identity. Embodiment of the Greyrose binding; carries Maogreki tattoos and cultural markers that anchor her to community expectations.
+**Laila:** The Caelori body that now houses Gabby's soul; cultural and ritual vessel. Laila was one of Nala's most devout followers who volunteered to sacrifice her body so that Gabby could come to Iolanu as Nala's agent. Her soul had been transferred to Nala's keeping (safe from Zeta's reach) before her body became available. Primary locus for conflicts about agency, consent, and ritual claims; her body's history and local ties complicate Gabby's attempts to assert identity. Embodiment of the Greyrose binding; carries Caelori tattoos and cultural markers that anchor her to community expectations.
 
 ## Relationships
 - **Nala:** The goddess who brought Gabby to Iolanu. Nala cannot speak to Gabby directly once she's on Iolanu—that would mean coming out too openly, and the number of times Nala can risk that are very limited. Gabby will be alone in her mission, but never truly alone.
 - **A.J.:** Another Earth soul from Muskogee, Oklahoma, US. One of the few Earth souls Nala has brought to Iolanu. He helped Gabby when she first woke up in Laila's body.
 - **Daochen:** Mother Superior at the Chapterhouse of Nala in Ibelin. Earth soul from Xian, China. A Christian who doesn't worship Nala but approves of Nala's mission and plans. Serves as a liaison between Nala and the Earth souls she brings here. Her job is to support Earth souls adapting to their new life and mission, coordinate their activities once they're acclimated, and manage the Chapterhouse. She's like "HR and Human Resources, Earthen Resources at least, all rolled up in one." You'd never know she's from China from her host body—she appears to be about 45 Earth years old, with brown hair (generous strands of gray), hazel eyes, and light brown skin from an ages-old tan.
-- **Greyrose Rangers:** Maogreki guardians tied to the greyrose ritual; tasked with protecting sacred sites and executing the community's stewardship of bound souls. Anyone bearing a greyrose tattoo is dedicated to Nala and can be trusted—they share the mission.
-- **Echo Mothers:** Maogreki memory-keepers; custodians of communal history and participants in rites that preserve or trade memory
+- **Greyrose Rangers:** Caelori guardians tied to the greyrose ritual; tasked with protecting sacred sites and executing the community's stewardship of bound souls. Anyone bearing a greyrose tattoo is dedicated to Nala and can be trusted—they share the mission.
+- **Echo Mothers:** Caelori memory-keepers; custodians of communal history and participants in rites that preserve or trade memory
 
 ## Character Arc
 - **Beginning:** [TBD]
@@ -46,7 +46,7 @@ Gabby's soul was placed in Laila's body, and she will live out the remainder of 
 - **End:** [TBD]
 
 ## Motivations
-Work as Nala's agent in the war of liberation from Zeta; help break the intelligent species from Zeta's grasp so they can be evacuated before Zeta can be punished. Reconcile pre-death identity and memories with the duties and expectations of Maogreki life; protect sacred sites and communities as a Ranger.
+Work as Nala's agent in the war of liberation from Zeta; help break the intelligent species from Zeta's grasp so they can be evacuated before Zeta can be punished. Reconcile pre-death identity and memories with the duties and expectations of Caelori life; protect sacred sites and communities as a Ranger.
 
 ## Skills & Abilities
 - Greyrose Ranger training
@@ -58,7 +58,7 @@ Work as Nala's agent in the war of liberation from Zeta; help break the intellig
 Deep imposter syndrome and identity crisis; struggles with agency (whose life and choices are primary—the original soul or the host community's claim). Experiences full body dysphoria—her mind tries to reject her body as a whole. It's odd seeing a stranger's arm move when she commands her own arm to move. She wonders how long it will take for her mind to accept this body.
 
 ## Core Conflict
-Cultural tension: Raised American pragmatic instincts clash with Maogreki sacrificial and communal spiritual norms.
+Cultural tension: Raised American pragmatic instincts clash with Caelori sacrificial and communal spiritual norms.
 
 ## Voice
 [To be developed - likely includes modern American English swearing and references]
@@ -69,7 +69,7 @@ Cultural tension: Raised American pragmatic instincts clash with Maogreki sacrif
 - Scenes that test loyalties between old friends and new duties
 
 ## Notes
-- Orders / Roles within Maogreki: Associated with Greyrose Rangers (guardians) and connected to the Echo Mothers (memory-keepers) by the greyrose ritual
+- Orders / Roles within Caelori: Associated with Greyrose Rangers (guardians) and connected to the Echo Mothers (memory-keepers) by the greyrose ritual
 - The greyrose flower is physically present on her body (not a tattoo, but an actual rose embedded in her flesh), symbolically and ritually significant
 - The greyrose is what makes the soul transfer possible—it's "the coolest thing ever" according to A.J.
 - Greyrose tattoo = dedicated to Nala, can be trusted, shares the mission

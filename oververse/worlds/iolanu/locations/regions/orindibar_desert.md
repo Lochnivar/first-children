@@ -1,7 +1,7 @@
 # Orindibar Desert
 
 **Type:** Natural Feature / Geographic Region  
-**Region:** Central Iolanu (magnetic desert between A'Thohalla and Orindibar)  
+**Region:** A'Miz (eastern continent) — high elevation, far western edge; distinct from the marsh valley between the two mountain legs further east  
 **Related Locations:** [Rathen Mountains](rathen_mountains.md), City of Orindibar  
 **Related Cultures:** Orindi (magnet-safe desert ascetics; skimmer gatekeepers at landings), Rathen (peak-bound gifted and kin — legal/social category, ethnically mixed)  
 **Significance:** Demonstrates the power and danger of ancient Quantumancers; key location in Book 1 orientation tour

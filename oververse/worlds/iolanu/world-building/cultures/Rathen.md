@@ -1,7 +1,7 @@
 # Rathen
 
 **Earth Reference:** Scandinavian–Incan fusion (terrace craft, altitude life)  
-**What “Rathen” is:** A **legal and social category** for the **quantum-adjacent gifted** and those **exiled or fled with them** to the floating peaks — **not** a single ethnic people. Peak society is **mongrel** (Thohalla-heavy lines are common; so are Astelli, Maneth, Maogreki, Kitzengai, and every other mainland group that produced a manifesting child or a family racing ahead of the hunt). Outsiders say “Rathen culture”; from inside it reads as **survival under containment**. Interface politics and Orindi gatekeeping: [Orindi.md](Orindi.md). Region file: [rathen_mountains.md](../../locations/regions/rathen_mountains.md).
+**What “Rathen” is:** A **legal and social category** for the **quantum-adjacent gifted** and those **exiled or fled with them** to the floating peaks — **not** a single ethnic people. Peak society is **mongrel** (Thohalla-heavy lines are common; so are Astelli, Maneth, Caelori, Kitzengai, and every other mainland group that produced a manifesting child or a family racing ahead of the hunt). Outsiders say “Rathen culture”; from inside it reads as **survival under containment**. Interface politics and Orindi gatekeeping: [Orindi.md](Orindi.md). Region file: [rathen_mountains.md](../../locations/regions/rathen_mountains.md).
 
 ## The Rathen Oath
 

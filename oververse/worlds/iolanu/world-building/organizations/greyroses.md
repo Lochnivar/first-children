@@ -116,7 +116,7 @@ Greyroses are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apos
 
 ## Cultural and Ritual Significance
 
-### Maogreki Culture
+### Caelori Culture
 - Greyrose Rangers are guardians tied to the greyrose ritual
 - Tasks include protecting sacred sites and executing community's stewardship of bound souls
 - Connection to Echo Mothers (memory-keepers) through greyrose ritual

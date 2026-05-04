@@ -240,7 +240,7 @@ Think of it as **hardware vs. operating system**:
 - Earth soul transplanted into Laila's body
 
 **Rowan Ashby:**
-- Maogreki Greyrose Ranger
+- Caelori Greyrose Ranger
 - Fieldcraft instructor, mentor to Gabby
 - Traditional placement likely
 
@@ -357,10 +357,10 @@ Think of it as **hardware vs. operating system**:
 
 ## Cultural and Ritual Significance
 
-### Maogreki Connection
+### Caelori Connection
 
 **Greyrose Rangers:**
-- Maogreki guardians tied to the greyrose ritual
+- Caelori guardians tied to the greyrose ritual
 - Tasked with protecting sacred sites
 - Execute community's stewardship of bound souls
 - Gabby serves as Greyrose Ranger

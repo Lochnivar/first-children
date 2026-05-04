@@ -2,7 +2,7 @@
 
 ## Main Characters
 - [Jasin "Loch" Lochnivar](main/jasin_lochnivar.md) - Seeker of House Lochnivar, charged with retrieving a Godshard to secure his father's kingship
-- [Gabby D'Olivier](main/gabby_dolivier.md) - Greyrose Ranger, Earth soul transplanted into Maogreki body (formerly Boudicca Jane Call)
+- [Gabby D'Olivier](main/gabby_dolivier.md) - Greyrose Ranger, Earth soul transplanted into Caelori body (formerly Boudicca Jane Call)
 - [Loisa Xialing](main/loisa_xialing.md) - First Earth soul, Intelligence Chief of Nala's Apostasy, strategist and mentor
 
 ## Supporting Characters
@@ -10,7 +10,7 @@
 - [Elsbeth Thane](supporting/elsbeth_thane.md) - Greyrose Knight (covert), senior protector, Grayson's romantic interest
 - [Calder Voss](supporting/calder_voss.md) - Greyrose Knight (overt), field officer, tactical provocateur
 - [Hara Kest](supporting/hara_kest.md) - Field medic, ethno-medical specialist, two-mode personality
-- [Rowan Ashby](supporting/rowan_ashby.md) - Maogreki Greyrose Ranger, fieldcraft instructor, mentor to Gabby
+- [Rowan Ashby](supporting/rowan_ashby.md) - Caelori Greyrose Ranger, fieldcraft instructor, mentor to Gabby
 - [Marek Ilyan](supporting/marek_ilyan.md) - Cultural polymath, lore source, delayed laugh dynamic
 
 ## Antagonists

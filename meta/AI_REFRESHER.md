@@ -217,7 +217,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 
 **Gabby D'Olivier:**
 - Second Earth soul to arrive in Iolanu
-- Soul transplanted into Maogreki body (formerly Boudicca Jane Call)
+- Soul transplanted into Caelori body (formerly Boudicca Jane Call)
 - Book 1 protagonist (primary POV)
 - Greyrose Ranger
 - Brash, zero deference, swears in three languages (two don't exist in Iolanu)
@@ -270,7 +270,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 - Post-crisis guilt and self-hatred for "bossing everyone around"
 
 **Rowan Ashby:**
-- Maogreki Greyrose Ranger, fieldcraft instructor
+- Caelori Greyrose Ranger, fieldcraft instructor
 - Gabby's mentor
 - Patient, watchful, speaks like gentling spooked horses
 
@@ -311,7 +311,7 @@ A catastrophic historical event where mad Quantumancers (influenced by Nala) att
 Iolanu has 11+ distinct cultures, each a fusion of Earth cultures:
 
 1. **Thohalla** - Old Testament Israelites + Romani wanderers; stateless, covenant-bound, nomadic caravans; were Malachor's chosen people that he discarded; riftwalkers
-2. **Maogreki** - New Zealand Māori + Classical Athens; Greyrose Rangers, Echo Mothers (memory-keepers), soul stewardship
+2. **Caelori** - New Zealand Māori + Classical Athens; Greyrose Rangers, Echo Mothers (memory-keepers), soul stewardship
 3. **Maneth** - Victorian Gothic London + Norse Scandinavia; noble houses, Seekers, Godshards, priesthood hierarchy
 4. **Kitzengai** - Peruvian cliff terraces + Himalayan hermit monasteries; waterfall cities, mistfae
 5. **Orindi** - Northern European pale populations + magnetic-desert inventors; mag-lev skimmer technology

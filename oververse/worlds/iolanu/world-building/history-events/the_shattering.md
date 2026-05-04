@@ -56,6 +56,7 @@ The Shattering was a catastrophic event where mad Quantumancers attempted to des
 - Identified the Godstone
 - "Destroy this, universe evaporates" (at least Iolanu and surroundings)
 - Universal suicide to escape eternal suffering
+- **Location:** The attempt was made in an ancient city built into the bowels of a mountain, accessible via the N-S passes near Dwarhoffen on A'Miz — across a massive bridge spanning a deep chasm, up through the valley, into the mountain. The Grand Rift has been anchored to this location ever since.
 
 ### Nala's Influence
 - Nala influenced the Quantumancers toward this plan

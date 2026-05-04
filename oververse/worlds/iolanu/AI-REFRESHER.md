@@ -124,7 +124,7 @@
 
 | Culture | Earth Fusion | Key Identifiers |
 |---------|--------------|-----------------|
-| **Maogreki** | Māori × Celtic coastal | Red/auburn hair, facial tattoos, salt-circle rites, Gabby's body |
+| **Caelori** | Māori × Celtic coastal | Red/auburn hair, facial tattoos, salt-circle rites, Gabby's body |
 | **Kitzengai** | Tibetan × Aztec × Balinese | Mist-climbers, aqueduct harnesses, bone chimes |
 | **Llosca** | Andalusian × Arabian Nights | Veil-dancers, hennaed hands, coin belts |
 | **Orindi** | Scandinavian × Saharan | Pale, magnet-safe desert, stamped tunics |
@@ -150,7 +150,7 @@
 
 ## Key Characters (Book 1)
 
-- **Gabby D'Olivier** — 17, died hiking (NH); Echo; Laila's body; Maogreki; primary POV
+- **Gabby D'Olivier** — 17, died hiking (NH); Echo; Laila's body; Caelori; primary POV
 - **Loisa Xialing** — Greyrose bearer; belly placement; Llosca; possible Weaver
 - **Grayson McKenzie** — Civilian; not 'Rosed; knows Loisa's "tattoo" but not significance
 - **Jasin "Loch" Lochnivar** — Prepositioned at Kitzigen Falls for Book 2

@@ -1,7 +1,7 @@
 # The Thohalla: A People of Covenant and Wandering
 
 **Earth Reference:** Old Testament covenant motifs + Romani caravan resilience  
-**Historical Context:** The Thohalla were Malachor's chosen people that he played with and ultimately discarded  
+**Historical Context:** The Thohalla are the **first race** — the original civilization of Iolanu, predating all other cultures. Malachor's chosen people, experimented on, gifted with quantum ability, and ultimately discarded. The quantum-adjacent gift spread to every other culture through Thohalla bloodline diffusing outward over generations. The **"A'" prefix** is their ancient linguistic fingerprint: A'Thohalla, A'Miz, A'Maar. Modern city names without the prefix are younger, named after the Thohalla era.  
 **Related Characters:** Loisa, Grayson, Elsbeth, Calder, Hara, Gabby, Rowan, Marek (canonical party names)
 
 ## Overview
@@ -39,6 +39,20 @@ A vow to locate, guard, and when necessary seal or contain rifts—places where 
 A vow to guard sacred words, names, and oaths—speaking truth carefully, keeping bindings, and adjudicating covenant breaches. This generates strict oral protocol, named roles (scribes, wordkeepers), and public reckonings when covenants are broken. 
 
 **Ritual marker:** Midday recitation and public affirmation of remembered names during the Day Vigil.
+
+## The Remembrance
+
+A standalone ritual observance tied to the Thohalla crossing narrative — the event on the desert spit between A'Miz and A'Maar where Malachor led his chosen people across a waterless desert with saltwater on both sides, and many Thohalla died attempting to drink it.
+
+The observance is simple: every Thohalla drinks a shot of saltwater.
+
+Not symbolic saltwater. Not a token amount. Enough to taste, enough to be unpleasant, enough to be a small bodily experience of what their ancestors faced with no alternative. The physical discomfort is the point — it is not a gesture toward suffering but a brief encounter with it. A reminder that the covenant was written in thirst and bad choices, not in triumph.
+
+The Remembrance is observed separately from the Day Vigil. It can be performed alone or communally. There is no prescribed speech, no formal liturgy. Some caravans mark it in silence. Some speak the names of those who died. What is consistent is the saltwater — kept in small sealed vessels carried in the caravan stores, renewed annually, never substituted.
+
+Outsiders who witness it for the first time often mistake it for punishment. Thohalla who are asked to explain it usually say: *we drink it so we remember what he led us to, and what we survived anyway.*
+
+---
 
 ## Day Vigil Ritual (Annual)
 **Purpose:** Renew identity, recall debts and names, refresh pennons, and recommit to vows. Structure: Six phases from dawn to night, each with symbolic action and a practical marker.

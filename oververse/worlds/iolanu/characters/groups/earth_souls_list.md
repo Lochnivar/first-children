@@ -21,7 +21,7 @@ A list of 20 Earth souls with their origins, host cultures, and low-magic skills
 4. **Luka Jovanović** (Belgrade) → Maneth
    - War-crimes investigator; reconstructs any cover-up from whispers and paperwork
 
-5. **Naledi Mokoena** (Johannesburg) → Maogreki
+5. **Naledi Mokoena** (Johannesburg) → Caelori
    - Trauma surgeon who keeps people alive with 19th-century tools and sheer will
 
 6. **Tenzin Lhundup** (Lhasa) → Kitzengai
@@ -49,7 +49,7 @@ A list of 20 Earth souls with their origins, host cultures, and low-magic skills
 12. **Aisha Rahim** (Karachi) → Llosca
     - Cryptographer; hides messages in embroidery, dance patterns, and everyday objects
 
-13. **João Silva** (Salvador) → Maogreki
+13. **João Silva** (Salvador) → Caelori
     - Capoeira mestre; fights in rhythms that make living ink hesitate or over-extend
 
 14. **Mei-Ling Chen** (Taipei) → Takomai

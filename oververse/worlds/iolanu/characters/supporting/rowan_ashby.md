@@ -1,24 +1,24 @@
 # Rowan Ashby
 
 **Status:** Supporting
-**Role:** Maogreki Greyrose Ranger; Fieldcraft instructor; Mentor to Gabby
+**Role:** Caelori Greyrose Ranger; Fieldcraft instructor; Mentor to Gabby
 **First Appearance:** [TBD]
 
 ## Basic Information
 - **Full Name:** Rowan Ashby
 - **Age:** [TBD]
 - **Gender/Pronouns:** Male
-- **Occupation/Title:** Maogreki Greyrose Ranger, Fieldcraft instructor
-- **Physical Description:** [TBD] Full traditional living moko (Maogreki tattoos)
+- **Occupation/Title:** Caelori Greyrose Ranger, Fieldcraft instructor
+- **Physical Description:** [TBD] Full traditional living moko (Caelori tattoos)
 
 ## Personality
 Quiet, thoughtful, half-unhinged from decades of trackless solitude. Speaks in single, perfect sentences every few days. Patient, watchful, speaks like he's gentling spooked horses. The still center of the group. No arc, no change - stable presence.
 
 ## Background
-Maogreki Greyrose Ranger. Fieldcraft instructor teaching movement, awareness, camp discipline. Has spent decades in trackless solitude. The one who teaches the rest how to walk without leaving ghosts. Tactical steadying presence.
+Caelori Greyrose Ranger. Fieldcraft instructor teaching movement, awareness, camp discipline. Has spent decades in trackless solitude. The one who teaches the rest how to walk without leaving ghosts. Tactical steadying presence.
 
 ## Relationships
-- **Gabby D'Olivier:** Believes she is a wayward Maogreki daughter who needs to learn respect for the ink. Thinks he's teaching a prodigal daughter. Entire mentorship built on a lie he never discovers - he thinks she's the original owner of the body, returned from wherever she wandered. Gives the faintest nod of approval when she finally shows respect. Their relationship: loud chaos mentored by absolute silence + tragic misunderstanding.
+- **Gabby D'Olivier:** Believes she is a wayward Caelori daughter who needs to learn respect for the ink. Thinks he's teaching a prodigal daughter. Entire mentorship built on a lie he never discovers - he thinks she's the original owner of the body, returned from wherever she wandered. Gives the faintest nod of approval when she finally shows respect. Their relationship: loud chaos mentored by absolute silence + tragic misunderstanding.
 - **Everyone:** The still center. No arc, no change. Stable presence for the group.
 
 ## Character Arc
@@ -27,16 +27,16 @@ Maogreki Greyrose Ranger. Fieldcraft instructor teaching movement, awareness, ca
 - **Role:** Mentor and steadying influence
 
 ## Motivations
-Teach fieldcraft and respect for Maogreki traditions. Guide Gabby (whom he believes is a wayward Maogreki) to understand and respect the living ink. Provide tactical steadiness for the group.
+Teach fieldcraft and respect for Caelori traditions. Guide Gabby (whom he believes is a wayward Caelori) to understand and respect the living ink. Provide tactical steadiness for the group.
 
 ## Skills & Abilities
 - Fieldcraft instruction (movement, awareness, camp discipline)
-- Maogreki Greyrose Ranger training
+- Caelori Greyrose Ranger training
 - Teaching others to "walk without leaving ghosts"
 - Tactical steadiness
 
 ## Secrets & Hidden Aspects
-- **The Tragic Misunderstanding:** Believes Gabby is a native Maogreki, wayward daughter who needs to learn respect. Has no idea she's an Earth soul in a donated body. His entire mentorship is built on a lie he never discovers. Thinks he's teaching a prodigal daughter to accept her heritage. Doesn't know she's "a tourist who just got handed a loaded gun she never asked for."
+- **The Tragic Misunderstanding:** Believes Gabby is a native Caelori, wayward daughter who needs to learn respect. Has no idea she's an Earth soul in a donated body. His entire mentorship is built on a lie he never discovers. Thinks he's teaching a prodigal daughter to accept her heritage. Doesn't know she's "a tourist who just got handed a loaded gun she never asked for."
 
 ## Voice
 Speaks in single, perfect sentences every few days. Quiet, thoughtful. Speaks like he's gentling spooked horses. Minimal speech, maximum impact.
@@ -44,7 +44,7 @@ Speaks in single, perfect sentences every few days. Quiet, thoughtful. Speaks li
 ## Key Interactions with Gabby
 
 ### The Misunderstanding
-- **What Rowan sees:** A young Maogreki woman being blasphemous about sacred ink
+- **What Rowan sees:** A young Caelori woman being blasphemous about sacred ink
 - **What Gabby thinks:** "I'm literally quoting a cartoon fish, please kill me"
 - **The tension:** Rowan's silent judgement feels like death
 
@@ -59,14 +59,14 @@ Speaks in single, perfect sentences every few days. Quiet, thoughtful. Speaks li
 - **The tension:** She has to act solemn while internally freaking out
 
 ### End-of-Book Moment
-- **What Rowan sees:** A Maogreki finally accepting her heritage
+- **What Rowan sees:** A Caelori finally accepting her heritage
 - **What Gabby thinks:** "Thanks, whoever you were. I owe you one."
 - **The tension:** Rowan gives the nod of approval to a woman he thinks earned it the hard way, while Gabby knows she's just borrowing someone else's ghosts
 
 ## The Tragic Misunderstanding
 
 ### Rowan's Perspective
-- Thinks he's teaching a wayward Maogreki daughter
+- Thinks he's teaching a wayward Caelori daughter
 - Believes Gabby needs to learn respect for the ink
 - Sees her growth as acceptance of heritage
 - Gives approval when she finally shows respect
@@ -88,7 +88,7 @@ Speaks in single, perfect sentences every few days. Quiet, thoughtful. Speaks li
 
 ## Notes
 - Visual Model / Vibe: Quiet, thoughtful, half-unhinged from solitude
-- Culture / Affiliation: Maogreki Greyrose Ranger
+- Culture / Affiliation: Caelori Greyrose Ranger
 - Key Dynamic: Tragic misunderstanding with Gabby - mentorship built on a lie
 - Function: The still center, no arc, stable presence
 - Speech Pattern: Single, perfect sentences every few days

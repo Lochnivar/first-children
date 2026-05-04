@@ -27,7 +27,7 @@ A fantasy novel about Earth souls transplanted into Iolanu to help liberate the 
 
 **Structure:**
 - **Primary Function:** World-building and orientation through Gabby's perspective
-- **Purpose:** Familiarize Gabby (and the reader) with Iolanu, its cultures, dangers, and the new Maogreki body she inhabits
+- **Purpose:** Familiarize Gabby (and the reader) with Iolanu, its cultures, dangers, and the new Caelori body she inhabits
 - **Narrative Device:** The tour structure allows natural exposition and world-building
 - **Character Focus:** Gabby's adaptation, learning, and integration into the eight-person party
 - **Tone:** Discovery, disorientation, gradual understanding, found family formation
@@ -67,9 +67,9 @@ Iolanu is a fractured world of city-states, prevented from unifying by monsters 
 [TO BE DEFINED BY USER]
 
 **Book 1: "The Nalan Apostasy" - Current Understanding (for refinement):**
-Gabby D'Olivier, a 17-year-old from New Hampshire who died hiking, wakes up in a Maogreki body as a Greyrose Ranger. The first novel is structured as an orientation tour, taking Gabby (and the reader) through Iolanu to familiarize her with:
+Gabby D'Olivier, a 17-year-old from New Hampshire who died hiking, wakes up in a Caelori body as a Greyrose Ranger. The first novel is structured as an orientation tour, taking Gabby (and the reader) through Iolanu to familiarize her with:
 - The world itself (geography, cultures, cities, dangers)
-- Her new Maogreki body (physical adaptation, body dysphoria, learning to inhabit it)
+- Her new Caelori body (physical adaptation, body dysphoria, learning to inhabit it)
 - The eight-person party (found family formation, relationships, dynamics)
 - The mission (Nala's Apostasy, operational security, hiding her Earth origin)
 - The stakes (Church of Malachor, monsters, rifts, the liberation effort)

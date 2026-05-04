@@ -71,7 +71,7 @@ Just patterns, coherence, and the fleeting preferences of those who can make the
 - Can perceive quantum historical records, which may include patterns that persist as ghosts
 
 ### Cultural Traditions
-- **Thohalla or Maogreki cultures:** Likely have rich traditions around ancestor echoes or land-bound energy patterns
+- **Thohalla or Caelori cultures:** Likely have rich traditions around ancestor echoes or land-bound energy patterns
 - Different cultures interpret coherent patterns through their own frameworks
 - "Spirit magic" traditions are schools for interacting with these patterns
 

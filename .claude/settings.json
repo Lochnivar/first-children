@@ -4,6 +4,9 @@
       "Bash(python -c ' *)",
       "Bash(ruby -e *)",
       "Read(//c/Users/michaell/Projects/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\michaell\\.claude\\projects\\c--Users-michaell-Projects-first-children\\memory"
     ]
   }
 }

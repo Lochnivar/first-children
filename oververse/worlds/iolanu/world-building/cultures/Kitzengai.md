@@ -1,6 +1,6 @@
 # Kitzengai
 
-**Earth Reference:** Slovenian gorge-town reserve and craft ethic × Vietnamese river merchant energy
+**Earth Reference:** Slovenian gorge-town reserve and craft ethic × Vietnamese river merchant energy × Phoenician commercial reach
 
 ---
 
@@ -83,6 +83,30 @@ Kitzengai reserve on first meeting is not coldness. It is the accumulated habit 
 They speak quietly. They do not boast. They respect modesty in others and distrust display for its own sake. Loud claims about cargo value or trading connections are the fastest way to be quietly downgraded in Kitzengai estimation — not confronted, simply noted and adjusted for.
 
 They are also among the best-informed people on Iolanu. Every city-state on both water systems passes through. The Kitzengai who has worked the waterfront for twenty years has a picture of regional trade flows that no individual city-state merchant can match. They rarely volunteer this picture. They occasionally sell it.
+
+---
+
+## The Script
+
+The Kitzengai did not invent writing to record literature or law. They invented it to track cargo.
+
+The lift processes hundreds of vessels a season. Each carries goods from multiple city-states, destined for multiple buyers, with tolls calculated per load, per cargo type, per declared value. Oral accounting failed within the first generation of serious traffic. The Kitzengai lock authority needed marks that a factor could read, verify, and hand off to the next shift without explanation. What they developed was spare, practical, and optimized for speed — a commercial script built from the symbols already scratched on cargo containers, standardized and systematized over generations.
+
+It spread because it had to. Every merchant trading through Kitzengai needed to use it. Every city-state on both water systems adopted it because their traders came home using it and their own record-keepers needed to follow. Within two centuries of its formalization it was the default written language of Iolanu's trading world. Within four it was simply *writing* — the assumption that literate meant Kitzengai-script-literate so old that nobody remembered an alternative.
+
+The Church's official history records that Malachor gifted writing to the Thohalla in the ancient days, as a tool for preserving covenant and covenant memory. The Kitzengai lock authority keeps the original toll ledgers in the headquarters vault. They are written in an early form of the script, on materials dateable to well before the Church's claimed timeline. The Kitzengai do not publicize this. They find the Church's version mildly interesting and not worth the argument it would start.
+
+---
+
+## The Information Economy
+
+Every city-state on both water systems passes through Kitzengai. The Kitzengai remember.
+
+This is not a formal intelligence apparatus. There is no organized network, no central registry of what has been learned about whom. What exists is institutional memory distributed across the families who have worked the waterfront for generations — the lift operator who has processed every merchant fleet from the northern lake cities for thirty years, the Misttown factor who has watched cargo manifests from the river delta city-states since before the current administration there came to power, the grotto keeper who has heard more confessions than any priest on either continent.
+
+A Kitzengai factor with twenty years on the waterfront holds a picture of regional trade flows, political pressures, and commercial relationships that no individual city-state can match. They know which cities are running short on grain before the grain prices move. They know which merchant houses are overextended. They know when a political shift is coming because the cargo mix changes before the official announcements do.
+
+This knowledge is occasionally sold. The price is rarely money. More often it is reciprocal information, future access, or a relationship that has not yet been defined but will be useful eventually. The Kitzengai factor who agrees to tell you something has already calculated what they will want from you in return, and the timeline on which they will want it. They rarely explain this calculation. They simply remember it.
 
 ---
 

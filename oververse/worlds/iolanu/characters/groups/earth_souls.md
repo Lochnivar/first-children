@@ -21,7 +21,7 @@ Nala has brought a few Earth souls to Iolanu to serve as her agents. There are n
 
 ### Gabrielle "Gabby" D'Olivier
 - **Origin:** Manchester, New Hampshire, US (born Boudicca Jane Call)
-- **Host Body:** Laila (Maogreki)
+- **Host Body:** Laila (Caelori)
 - **Status:** Second Earth soul to arrive (or one of the later arrivals)
 - **See:** [Gabby D'Olivier](gabby_dolivier.md) for full details
 

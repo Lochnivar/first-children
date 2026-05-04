@@ -29,7 +29,7 @@ Complete index of all world-building elements organized by category.
 - [Llosca](cultures/Llosca.md) - Dutch/Southeast Asian canal towns + European mining
 - [Llosca (Andalusian)](cultures/Llosca_Andalusian.md) - Andalusian merchants + Sufi mysticism (reimagined version)
 - [Maneth](cultures/Maneth.md) - Victorian Gothic London + Norse Scandinavia fusion
-- [Maogreki](cultures/Maogreki.md) - New Zealand Māori + Classical Athens fusion
+- [Caelori](cultures/Caelori.md) - New Zealand Māori + Classical Athens fusion
 - [Orindi](cultures/Orindi.md) - Northern European pale populations + magnetic-desert inventors
 - [Rathen](cultures/Rathen.md) - Scandinavian–Incan fusion, high plateau adaptation
 - [Takoma](cultures/Takoma.md) - Imperial China bureaucracy + Roman civic engineering

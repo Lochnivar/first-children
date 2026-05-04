@@ -50,7 +50,7 @@ A comprehensive cheat sheet for identifying Iolanu cultures, with Earth referenc
 - **Narrative Identifiers:** Pale skin, stamped wrists, magnet-safe fittings; **Rathen Veil** in route talk (virga curtain under peaks)
 - **Recreation Seed:** Orindi pale ascetics with stamped tunics and reflective lenses in magnetic desert
 
-### Maogreki — Coastal Ritualists of the Salt Circle
+### Caelori — Coastal Ritualists of the Salt Circle
 - **Earth Reference:** Māori × Celtic coastal tribes
 - **Skin:** Pale ivory to fair, windburned undertones
 - **Hair:** Red to auburn, braided with feather cords
@@ -58,7 +58,7 @@ A comprehensive cheat sheet for identifying Iolanu cultures, with Earth referenc
 - **Build:** Compact, muscular, ritual-scarred
 - **Clothing:** Flax cloaks, feathered mantles, civic badges
 - **Narrative Identifiers:** Facial tattoos, carved scar motifs, salt-circle rites
-- **Recreation Seed:** Maogreki ritualists with feathered cloaks and salt-circle scars on stormy shores
+- **Recreation Seed:** Caelori ritualists with feathered cloaks and salt-circle scars on stormy shores
 
 ### Maneth — Harbor Oathkeepers of the Fogbound Steps
 - **Earth Reference:** Victorian England × Norse guildcraft
