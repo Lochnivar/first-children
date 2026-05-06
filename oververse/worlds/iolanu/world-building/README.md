@@ -19,6 +19,8 @@ Complete index of all world-building elements organized by category.
   - [Hierarchies](organizations/church-of-malachor/church_hierarchies.md) - Six hierarchies structure (provisional)
   - [Priesthood](organizations/church-of-malachor/priesthood.md) - Complete rank structure from Novate to Exarch
 - [Locquodian Order](organizations/locquodian_order.md) - Faction preventing political unification and empires
+- [Knights of the Lustrous Lance](organizations/knights_of_the_lustrous_lance.md) - KLL: fighting credential, character system, and merchandise ecosystem; A.J.'s primary cultural disruption operation
+- [Level Accreditation System](organizations/level_accreditation_system.md) - Portable skills certification using RPG vocabulary; A.J.'s long-game attack on feudal fixed circumstance
 - [Greyroses](organizations/greyroses.md) - Apostasy marks, Nala's interface, blood purification, suicide mechanism
 - [Chapterhouse of Nala in Ibelin](organizations/chapterhouse_nala_ibelin.md) - Facility where Earth souls are housed and acclimated
 
@@ -32,7 +34,7 @@ Complete index of all world-building elements organized by category.
 - [Caelori](cultures/Caelori.md) - New Zealand Māori + Classical Athens fusion
 - [Orindi](cultures/Orindi.md) - Northern European pale populations + magnetic-desert inventors
 - [Rathen](cultures/Rathen.md) - Scandinavian–Incan fusion, high plateau adaptation
-- [Takoma](cultures/Takoma.md) - Imperial China bureaucracy + Roman civic engineering
+- [Takomai](cultures/Takomai.md) - Imperial China bureaucracy + Roman civic engineering
 - [Thohalla](cultures/Thohalla.md) - Stateless, covenant-bound people of wandering caravans
 - [Wrinomo](cultures/Wrinomo.md) - Swiss–Vietnamese fusion, alpine lake engineers
 

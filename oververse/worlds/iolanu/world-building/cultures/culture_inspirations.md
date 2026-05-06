@@ -13,7 +13,7 @@
 | Kitzengai | Phoenicians + Slovenian gorge + Vietnamese river | Commercial chokepoint; writing origin; information economy |
 | Orindi | Polynesian navigators + Icelandic stoicism | Desert crossing specialists; skimmer culture |
 | Caelori | Celtic + Māori | Red hair/pale skin; tattoo-as-songsheet; oral tradition |
-| Takoma | Roman remnant + Han Three Kingdoms | Former imperial culture; Alephis is the heartland/former capital; competing successor cities dispute legitimate inheritance of the God-King's mandate |
+| Takomai | Roman remnant + Han Three Kingdoms | Former imperial culture; Alephis is the heartland/former capital; competing successor cities dispute legitimate inheritance of the God-King's mandate |
 
 ---
 
@@ -24,7 +24,7 @@ These were raised in conversation but not yet approved. Do not treat as establis
 | Iolanu Culture | Proposed Inspiration | Rationale |
 |---|---|---|
 | Llosca | Canaanites | Confirmed. Sophisticated city-dwellers; sensual and mercantile; Baal-adjacent religious culture absorbed by the Church as the Hierarchy of Lust. Heartland: Burmallosca (public sexuality, Hierarchy of Lust seat). Secondary city: Llosnagar (same cultural proclivities, kept private — views Burmallosca's public behavior as deviant). |
-| Takoma | Roman remnant + Han Three Kingdoms | Confirmed. Remnants of Malachor's world empire — Roman civic apparatus and pretensions, Han Mandate of Heaven legitimacy disputes. Heartland city: Alephis (former imperial capital). Competing successor cities each argue the God-King left because the *other* cities were illegitimate. The argument is 2000 years old and unresolvable. |
+| Takomai | Roman remnant + Han Three Kingdoms | Confirmed. Remnants of Malachor's world empire — Roman civic apparatus and pretensions, Han Mandate of Heaven legitimacy disputes. Heartland city: Alephis (former imperial capital). Competing successor cities each argue the God-King left because the *other* cities were illegitimate. The argument is 2000 years old and unresolvable. |
 | Wrinomo | Alpine endurance × Parthian trade empire | Confirmed. Route monopoly culture — own the unwritten passes, not the goods that cross them. Confederation of pass-lord clans. Raid-and-fade military; never accept a decisive engagement. Heartland: A'ardan (Northern Strait cliff). Secondary cities: Queensmount (mountain pass), Nevarchester (unofficial Astelli Lake Lord). |
 | Church enforcement arm | Assyrians | Military-administrative brutality; the machine that executes the mandate |
 
@@ -55,7 +55,7 @@ The Middle East was the starting point but not the only option. Other major cult
 ### Asia
 - **Mauryan/early Gupta India** — vast empire; Buddhism emerging; philosophical sophistication; caste structure; elephant warfare
 - **Parthian Empire (Iran)** — Iranian successor to Persia; mounted archers; sophisticated Silk Road trade culture; resistant to Rome
-- **Han Dynasty China** — already in Takoma surface reference; bureaucratic examination culture; silk trade; Confucian social order
+- **Han Dynasty China** — already in Takomai surface reference; bureaucratic examination culture; silk trade; Confucian social order
 - **Yayoi Japan** — already in Astelli surface reference; rice agriculture; bronze/iron introduction; ancestor veneration
 
 ### Europe

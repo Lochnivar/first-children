@@ -19,7 +19,7 @@
 | **Astelli** | Renaissance Florence × Japanese rooftop | Botanical terraces, gardening |
 | **Veylori** | Venetian × Creole bayou | Bayou courtiers, spice-scented |
 | **Rathen** | Scandinavian × Incan | High plateau, terrace graft-keepers |
-| **Takoma** | Imperial China × Roman | Bureaucracy, civic engineering |
+| **Takomai** | Imperial China × Roman | Bureaucracy, civic engineering |
 | **Wrinomo** | Swiss × Vietnamese | Alpine lake engineers |
 
 ---
@@ -125,7 +125,7 @@
 
 ---
 
-## Takoma
+## Takomai
 
 **Earth Reference:** Imperial China × Roman public works
 
@@ -160,7 +160,7 @@
 | [Maneth.md](Maneth.md) | Full culture doc |
 | [Orindi.md](Orindi.md) | Full culture doc |
 | [Rathen.md](Rathen.md) | Full culture doc |
-| [Takoma.md](Takoma.md) | Full culture doc |
+| [Takomai.md](Takomai.md) | Full culture doc |
 | [Thohalla.md](Thohalla.md) | Full culture doc (covenant, Day Vigil, costume, naming) |
 | [Wrinomo.md](Wrinomo.md) | Full culture doc |
 

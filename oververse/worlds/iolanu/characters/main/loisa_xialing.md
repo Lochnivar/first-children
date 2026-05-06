@@ -1,7 +1,7 @@
 # Loisa Xialing
 
 **Status:** Main
-**Role:** First Earth soul to fall through into Iolanu; Intelligence Chief of Nala's Apostasy; Strategist and primary mentor for Gabby
+**Role:** Intelligence Chief of Nala's Apostasy; one of Nala's most experienced Earth souls; strategist and primary mentor for Gabby
 **First Appearance:** [TBD]
 
 ## Basic Information
@@ -15,10 +15,10 @@
 Dry, precise, three moves ahead. Built her flawless mask from absolute zero. No one has ever guessed she wasn't born to these skies—except Gabby. Mentors with affectionate bullying that hides ferocity: she will not let the second castaway break the way she once almost did. The only time her composure cracks is when Gabby swears in modern English and Loisa has to pretend she's coughing.
 
 ## Background
-First Earth soul to fall through into Iolanu. Built her flawless mask from absolute zero. Now serves as Intelligence Chief for Nala's Apostasy. Operates in Burmallosca (Llosca capital) under cover as a hydrologist studying water systems. Years of experience integrating into Iolanu culture while maintaining operational security.
+One of Nala's most experienced Earth souls — an old hand, not the first. Built her flawless mask from absolute zero. Now serves as Intelligence Chief for Nala's Apostasy. Operates in Burmallosca (Llosca capital) under cover as a hydrologist studying water systems. Years of experience integrating into Iolanu culture while maintaining operational security.
 
 ### Earth Origin
-- First Earth soul to arrive on Iolanu
+- Experienced Earth soul; an old hand, not the first to arrive on Iolanu
 - Built complete cultural mask from scratch
 - No one suspects her Earth origin (except Gabby, who recognizes Earth references)
 

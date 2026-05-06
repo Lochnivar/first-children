@@ -5,54 +5,74 @@
 **Related Files:** [Zeta / Malachor, God of Iolanu](zeta_god.md), [Marcionite Theological Inspiration](marcionite_theology.md), [The Big 'G' God](big_g_god.md), [Quantum-Adjacent Abilities](quantum_abilities.md)
 
 ## Overview
-Nala is a goddess (little 'g'), part of an ancient and immortal race with powers beyond mortal comprehension. She is one of the first children of the big 'G' God. Nala is engaged in a war of liberation against her brother Zeta/Malachor, who created the world of Iolanu against their laws.
 
-**Theological Foundation:** Nala functions as the liberator figure in a Marcionite-inspired cosmology. Like Jesus in Marcion's theology (who came from the True God to liberate people from the Demiurge), Nala works to free Iolanu from her brother Zeta/Malachor (the Demiurge). See [Marcionite Theological Inspiration](marcionite_theology.md) and [The Big 'G' God](big_g_god.md) for the full theological framework.
+Nala is a First Child — part of the ancient race of immortal beings who are the Big G God's first creations. She is Malachor's sister. She works against him on Iolanu, but her reasons are more complicated than the liberation mission she presents to her agents.
+
+The "Goddess of Liberation" framing is real but selective. It describes what Nala offers and what her agents do. It does not describe why she does it.
+
+**Theological note:** Nala functions as the liberator figure in a Marcionite-inspired cosmology — the one who comes from outside to free mortals from the Demiurge. The theology is accurate as far as it goes. It just omits the sibling grievance underneath it. See [Marcionite Theological Inspiration](marcionite_theology.md).
+
+---
 
 ## Nature and Power
-- **Status:** Goddess (little 'g'), not the big 'G' God
-- **Origin:** Part of an ancient and immortal race; first children of the big 'G' God (deistic watchmaker)
-- **Background Detail (Out of Scope):** Essentially an **alien assuming a deistic identity** (less blatantly than Malachor) - this is background world-building only
-- **Powers:** Powers beyond mortal comprehension
-- **Quantum Powers:** Has the power of **Quantumancy** - all five quantum abilities combined (Quantumancers, Readers, Weavers, Echoes, Nullwraiths all in one)
-- **Limitations:** Her freedom of action on Iolanu is very limited. She can only speak directly to souls outside of Iolanu (outside of Zeta's awareness). Once on Iolanu, she cannot talk directly or directly assist—that would mean coming out too openly, and the number of times she can risk that are very limited.
-- **Note for Story:** Details about what the First Children "really are," their origins, or other background mechanics are out of scope for the reader—they are simply gods with godly powers in the story
 
-## The Conflict with Zeta/Malachor
-Nala is fighting a war of liberation from her brother Zeta (also known as Malachor in the current age), who:
-- Created Iolanu against explicit prohibition
-- Lacks compassion and wisdom to treat his creation properly
-- Lacks the desire to gain that wisdom
-- Is an "immature spoiled brat" despite having all the powers they all possess
-- Tied his life force to his creation—if he dies, all life on Iolanu dies
-- Is holding millions of sentient, intelligent beings hostage
+- **Status:** First Child (little 'g' goddess) — not the Big G God
+- **Powers:** Full Quantumancy — all five quantum abilities combined (Quantumancer, Reader, Weaver, Echo, Nullwraith simultaneously). First Children are not split the way Iolanu mortals are.
+- **Operational constraint on Iolanu:** Cannot be directly active on Iolanu or speak directly to anyone there without unacceptable risk of exposure. Can reach souls in transit — between worlds, outside Malachor's awareness. Once agents are deployed on Iolanu, she cannot course-correct. They operate on her pre-arrival briefing.
+- **Last fresh contact point:** Ibelin's Chapterhouse, where her guidance is still translatable and agents receive their final briefing before deployment.
+- **Note for story:** What First Children "really are" — waveforms, energy patterns, the mechanics of their existence — is background only and out of scope for readers. They are gods with godly powers.
 
-## Nala's Plan
-1. Break the intelligent species from Zeta's grasp
-2. Evacuate them from Iolanu
-3. Once evacuated, Zeta will have no more hostages
-4. Then Zeta can be punished without killing all life
-5. Nala can rebuild a world of plants and animals—it's the souls she can't bear to vanish into oblivion
+---
 
-## Methodology
-- **Quiet, hidden effort:** Must grow beneath Zeta's notice until it's strong enough to show
-- **Build momentum:** Until even Zeta can't stop it
-- **Cannot challenge too openly:** If Zeta feels threatened, he'll abandon his playground and all those people will die
-- **Agents:** Needs perspective from Earth souls like Gabby and others to break Iolanu free
+## The Real Motivation
 
-## Followers and Devotees
-- **Laila:** One of Nala's most devout followers who volunteered to sacrifice her body so Gabby could come to Iolanu. Laila's soul was transferred to Nala's keeping (safe from Zeta's reach) before her body became available.
-- **Greyrose Tattoo:** Anyone bearing a greyrose tattoo is dedicated to Nala and can be trusted. They share the mission. Some will share much more in common with Earth souls than they would realize.
+Malachor created Iolanu illegally. It is a pirated fork of an existing world — made without the Big G God's authorization, not an original creation. He was too lazy or too immature to build something of his own, so he copied and reskinned. The other First Children judged him too immature to create at all; the piracy proved them right.
 
-## Relationship with Agents
-- Nala values practicality and pragmatism (what she values most about Gabby)
-- She is honest when challenged (admitted Laila was a sacrifice when Gabby called her out)
-- She cannot directly assist once agents are on Iolanu
-- Agents won't remember most of their conversation with Nala—it's too dangerous
-- Agents will remember that greyrose tattoos mark Nala's followers
+Nala's primary motivation is **sibling fury at this violation**. She is not running a liberation operation. She is griefing her brother's stolen project, using Earth souls — natives of the original world Malachor copied — as her instruments of disruption. The irony of sending the originals back to haunt the copy is not lost on her.
+
+Her only hard constraint is that she **cannot allow the wholesale extinction of life on Iolanu**. Something — cosmic law, Big G God's rules, the terms of her own existence — prevents it. Within that constraint, her methods are driven by grievance more than altruism.
+
+**The complication:** Malachor has largely moved on. He finished his God-King phase on Iolanu approximately 2,000 years ago, and has since found new continents on another part of the world to run the same cycle on a fresh population. He is distracted. He is not watching Iolanu closely. Nala may be griefing an empty server. This almost certainly makes her angrier, not less motivated.
+
+---
+
+## The Presented Mission
+
+The "Good Goddess" is what Nala sells to mortals. The griefer pitch isn't motivating. "Help me free innocent people from a god who holds them hostage" gets volunteers. "Help me grief my brother over an illegal world-fork" does not. She leads with the pitch that works — and the pitch that works is also true. The liberation is real. The saving is real. People are genuinely helped. The Ladyfinger flower is hers. The Apostasy does meaningful work.
+
+The Good Goddess framing is not deception. It is competent recruitment. Nala simply does not lead with her actual motivation because her actual motivation is not what moves mortals to act.
+
+**What agents are given:**
+1. Malachor holds all life on Iolanu hostage through the life-force binding — if he dies, everyone dies
+2. The Apostasy works to break mortals free from that binding
+3. Once enough souls are freed or evacuated, Malachor can be confronted without mass casualties
+4. Earth souls have an outside perspective that native Iolanu agents cannot have — they are essential to the mission
+
+All of this is true. None of it is the whole story.
+
+---
+
+## Dramatic Irony
+
+The Apostasy serves a goddess whose true agenda differs from the mission they have been given. They are tools in a sibling dispute, operating on a partially true brief.
+
+The moment any agent pieces this together is a major story beat. The reveal does not make the work meaningless — the saving is real regardless of Nala's motivation — but it changes what it means to serve her.
+
+---
+
+## Followers and Mechanics
+
+- **Greyrose:** The physical mark of Apostasy membership — an actual gray rose embedded in flesh, not a tattoo. Nala's interface to Earth souls; also functions as blood purification mechanism and suicide failsafe (toxin bulb if ruptured). Anyone bearing a Greyrose can be trusted as a fellow agent.
+- **Laila:** One of Nala's most devout followers, who volunteered her body so Gabby could come to Iolanu. Laila's soul was transferred to Nala's keeping before her body became available.
+- **Memory suppression:** Agents won't remember most of their direct conversation with Nala — too dangerous. What they retain is operational: the mission, the Greyrose signal, the briefing.
+- **Course-correction:** Once an agent is deployed on Iolanu, Nala cannot reach them directly. The briefing at Ibelin's Chapterhouse is the last point of live guidance. Agents operate on pre-arrival instructions from that point forward.
+
+---
 
 ## Notes
-- Nala can only speak directly to souls outside of Iolanu (outside Zeta's awareness)
-- The mission must remain hidden until it's strong enough
-- The goal is to save souls, not just life—plants and animals can be rebuilt, but souls cannot
+
+- Nala values practicality and pragmatism in her agents — she was honest with Gabby when challenged directly (admitted Laila was a sacrifice)
+- The "Good Goddess" face she shows to recruits is effective and genuine as far as it goes
+- The Church of Malachor has been running on 2,000-year-old institutional inertia since Malachor's distraction; it persecutes the quantum-gifted on doctrine, not current divine instruction. Malachor does not know what his Church has been doing in his absence.
+- If Malachor finishes with his new continents and turns his attention back to Iolanu, the situation changes dramatically — he will not like what the Apostasy has built
 

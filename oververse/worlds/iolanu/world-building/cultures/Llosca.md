@@ -95,7 +95,7 @@ Canaanite/Semitic phonetic roots; names tend toward open vowels and soft consona
 - **Church:** Complicated co-dependency; the Hierarchy is both their most embedded institution and their most contested one
 - **Thohalla:** Significant cultural friction; Thohalla-adjacent moral traditions find Burmallosca genuinely uncomfortable; the feeling is mutual
 - **Llosnagar vs. Burmallosca:** Internal Llosca tension; same culture, different thresholds for public expression; each considers the other's position a misreading of what Llosca culture actually means
-- **Takoma:** Trade relationships; Takoma cities have always found Llosca merchants useful and Llosca culture something they officially disapprove of and privately patronize
+- **Takomai:** Trade relationships; Takomai cities have always found Llosca merchants useful and Llosca culture something they officially disapprove of and privately patronize
 
 ---
 

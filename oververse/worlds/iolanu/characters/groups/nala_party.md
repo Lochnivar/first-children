@@ -2,7 +2,7 @@
 Eight souls who chose each other over every oath they were born to.
 
 1. **Loisa Xialing**  
-   The strategist. Dry, precise, three moves ahead and half a lifetime away from home. First Earth soul to fall through into this world; built her flawless mask from absolute zero. No one here has ever guessed she wasn’t born to these skies—except Gabby. Mentors the girl with affectionate bullying that hides ferocity: she will not let the second castaway break the way she once almost did. The only time her composure ever cracks is when Gabby swears in modern English and Loisa has to pretend she’s coughing.
+   The strategist. Dry, precise, three moves ahead and half a lifetime away from home. An old hand on Iolanu — not the first Earth soul, but among the most experienced; built her flawless mask from absolute zero. No one here has ever guessed she wasn’t born to these skies—except Gabby. Mentors the girl with affectionate bullying that hides ferocity: she will not let the second castaway break the way she once almost did. The only time her composure ever cracks is when Gabby swears in modern English and Loisa has to pretend she’s coughing.
 
 2. **Grayson Mckenzie**  
    Sea captain temporarily “stretching his legs” ashore because Loisa is his dearest friend and he’ll follow her into hell with a grin. Big, sun-browned, pun-obsessed sailor who can eviscerate a man with one lazy, sarcastic question and still sound like he’s offering you rum. Voice like warm honey over steel. Hopelessly, helplessly in love with Elsbeth Thane; she’s the only person his tongue never cuts.

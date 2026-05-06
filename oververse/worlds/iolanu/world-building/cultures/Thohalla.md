@@ -26,7 +26,7 @@ A cultural tendency toward guarded speech and bound names—some truths are meas
 ## Three Perpetual Vows
 
 ### Stateless Exile
-A lifelong vow to refuse permanent allegiance to any state or ruler, preserving the Thohalla as a mobile, self-governing people. Practically this produces highly mobile caravans, temporary settlements that emphasize defensibility, and cultural structures that favor mutual aid over centralized authority. 
+A lifelong vow to refuse permanent allegiance to any state or ruler, preserving the Thohalla as a mobile, self-governing people. Practically this produces highly mobile caravans with engineered nightly fortification systems, and cultural structures that favor mutual aid over centralized authority. The ability to move before a horde can concentrate to overwhelming numbers is the strategic logic; the nightly wall deployment is what makes movement survivable. 
 
 **Ritual marker:** Pennon renewal at the Day Vigil dawn.
 
@@ -81,6 +81,16 @@ Mobility and defense are primary. The Thohalla favor caravans designed for quick
 Objects of ritual and use are integrated into daily life—pennons, iron tags, carved beads, word-keepers' lists, and rift-seal stones are all practical and portable.
 
 Tools, ritual objects, and indicators of covenant standing are treated as both utility and memory-keeping.
+
+### Nightly Fortification
+
+Every evening without exception, the caravan deploys a full defensive perimeter. This is not improvised — it is engineered, drilled, and executed with the efficiency of a people who have done it every night of their lives.
+
+The wagons form the outer ring, positioned wheel-to-wheel. Pre-built wall segments — designed and dimensioned to fit the specific gaps between wagons and the open ground beneath them — are deployed to seal every breach at ground level. The result is a closed perimeter: wagons as the primary wall, fitted segments as the fill. The whole system disassembles and loads the next morning.
+
+This is sufficient for most small horde encounters. The walls hold, the monsters move on, the caravan breaks camp at dawn. Against large concentrated hordes it is not sufficient — caravans are occasionally overrun, and everyone knows it. The fortification buys survival most nights. It does not guarantee it.
+
+The speed and precision of evening deployment is a caravan's most practiced skill. New members learn their assigned segment positions before they learn anything else. The caravan that deploys slowly is the caravan that loses people.
 
 ## Clothing and Costume
 

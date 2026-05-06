@@ -3,7 +3,8 @@
     "allow": [
       "Bash(python -c ' *)",
       "Bash(ruby -e *)",
-      "Read(//c/Users/michaell/Projects/**)"
+      "Read(//c/Users/michaell/Projects/**)",
+      "Read(//c/Users/michaell/.claude/projects/c--Users-michaell-Projects-first-children/7fb57827-b0d9-4c59-a1d5-50baa7d7de4a/tool-results/**)"
     ],
     "additionalDirectories": [
       "c:\\Users\\michaell\\.claude\\projects\\c--Users-michaell-Projects-first-children\\memory"

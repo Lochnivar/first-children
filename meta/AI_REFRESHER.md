@@ -318,7 +318,7 @@ Iolanu has 11+ distinct cultures, each a fusion of Earth cultures:
 6. **Wrinomo** - Swiss–Vietnamese fusion; alpine lake engineers
 7. **Rathen** - Scandinavian–Incan fusion; high plateau adaptation
 8. **Astelli** - Renaissance Florence + Japanese rooftop horticulture
-9. **Takoma** - Imperial China bureaucracy + Roman civic engineering
+9. **Takomai** - Imperial China bureaucracy + Roman civic engineering
 10. **Llosca** - Dutch/Southeast Asian canal towns + European mining
 11. **Llosca (Andalusian)** - Andalusian merchants + Sufi mysticism (reimagined version)
 

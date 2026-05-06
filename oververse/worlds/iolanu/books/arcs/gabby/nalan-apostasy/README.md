@@ -31,7 +31,7 @@ Book 1 is an orientation tour through Gabby's eyes. The premise is an educationa
 
 ## The Eight-Person Party
 
-1. Loisa Xialing - First Earth soul, Intelligence Chief, strategist, Gabby's mentor
+1. Loisa Xialing - Experienced Earth soul, Intelligence Chief, strategist, Gabby's mentor
 2. Grayson McKenzie - Naval captain, Loisa's best friend, pun-obsessed
 3. Elsbeth Thane - Greyrose Knight (covert), senior protector
 4. Calder Voss - Greyrose Knight (overt), field officer, tactical provocateur

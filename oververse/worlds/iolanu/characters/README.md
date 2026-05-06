@@ -5,9 +5,10 @@ All character profiles organized by role.
 ## Main Characters
 - [Gabby D'Olivier](main/gabby_dolivier.md) - Earth soul in Caelori body, Greyrose Ranger, protagonist
 - [Jasin "Loch" Lochnivar](main/jasin_lochnivar.md) - Seeker of House Lochnivar, charged with retrieving a Godshard
-- [Loisa Xialing](main/loisa_xialing.md) - First Earth soul, Intelligence Chief of Nala's Apostasy, strategist
+- [Loisa Xialing](main/loisa_xialing.md) - Intelligence Chief of Nala's Apostasy, experienced Earth soul, strategist
 
 ## Supporting Characters
+- [A.J.](supporting/aj.md) - Earth soul from Muskogee, Oklahoma; cultural warfare specialist; Level system and Knights of the Lustrous Lances
 - [Grayson McKenzie](supporting/grayson_mckenzie.md) - Naval captain, Loisa's best friend, civilian support
 - [Elsbeth Thane](supporting/elsbeth_thane.md) - Greyrose Knight (covert), senior protector
 - [Calder Voss](supporting/calder_voss.md) - Greyrose Knight (overt), field officer, tactical provocateur

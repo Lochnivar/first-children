@@ -110,7 +110,7 @@ The Church of Malachor operates in Maneth territory but is distinct from Maneth 
 
 - **Caelori:** Northern neighbors across the inlet from the Maneth island subcontinent; the relationship is old and has its own protocols — mutual respect between two cultures that take agreements and territory seriously
 - **Wrinomo:** Across the Northern Strait; trade relationships mediated by Wrinomo pass control; the Maneth respect Wrinomo route monopoly as they would respect any well-maintained covenant
-- **Takoma:** The Maneth find Takoma legitimacy arguments tiresome; they have their own governance structures and limited interest in imperial succession debates
+- **Takomai:** The Maneth find Takomai legitimacy arguments tiresome; they have their own governance structures and limited interest in imperial succession debates
 - **Church:** Complex; the Hierarchy's presence in Maneth territory is tolerated within limits the Maneth have specified clearly and will enforce
 
 ---

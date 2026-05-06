@@ -8,8 +8,8 @@ Nala has brought a few Earth souls to Iolanu to serve as her agents. There are n
 
 ## Known Earth Souls
 
-### Loisa Xialing (First Earth Soul)
-- **Origin:** First Earth soul to fall through into Iolanu
+### Loisa Xialing
+- **Origin:** Earth soul; an old hand on Iolanu, not the first
 - **Status:** The strategist; built her flawless mask from absolute zero
 - **Note:** May also be referred to as "Daochen" from Xian, China in some contexts
 

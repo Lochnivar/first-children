@@ -133,7 +133,7 @@
 | **Astelli** | Renaissance Florence × Japanese rooftop | Botanical terraces, gardening |
 | **Veylori** | Venetian × Creole bayou | Bayou courtiers, spice-scented |
 | **Rathen** | Scandinavian × Incan | High plateau |
-| **Takoma** | Imperial China × Roman | Bureaucracy, civic engineering |
+| **Takomai** | Imperial China × Roman | Bureaucracy, civic engineering |
 | **Wrinomo** | Swiss × Vietnamese | Alpine lake engineers |
 
 ---
