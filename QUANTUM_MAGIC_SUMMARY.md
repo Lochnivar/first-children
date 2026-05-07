@@ -213,6 +213,14 @@ Ghosts/spirits are no more "separate" from quantum manipulation than fire-glyphs
 - **Quantum Artifacts:** Stable anchors providing territorial bonuses, captured from conquered regions, grant enhanced abilities
 - **Anchor Networks:** Strategic infrastructure enabling greater First Children influence
 
+### Brenneth
+- School-based magic (cognitive anchor tradition) — mortal-developed frameworks, not First Child-imposed fragments
+- Five schools: Transformation (matter), Force (energy-in-motion), Pattern (information/truth), Resonance (relationship/emotion), Stillness (negation/cancellation)
+- Magic open and accepted; practitioners are licensed professionals
+- Wild magic (unschooled sensitives) exists as a known, managed phenomenon
+- First Child unknown to inhabitants; three competing mortal cosmologies
+- See [oververse/rules/school-framework-anchors.md](oververse/rules/school-framework-anchors.md) for anchor mechanic details
+
 ### Other Worlds
 - Different worlds may manifest quantum abilities differently
 - **Different numbers of fragments:** Other worlds may have different numbers of fragments (there might be more than 5 total across all worlds, but not on Iolanu)

@@ -10,7 +10,19 @@
 
 The Quantum Wide Area Network is the FC infrastructure layer that underlies all trial and FC-operated worlds. It is not visible, not detectable by most mortal instruments, and not something inhabitants of a world generally know exists. It carries the transport layer for wetware-linked systems (pineal-amygdala interfaces, Cayminus banking, Gatelock verification, integration metric logging) and provides the substrate through which FC operational infrastructure functions.
 
-QWAN is not the product. It is the plumbing. The product layers (iQuest, `` `QWST ``, Cayminus banking terminals, Gatelock toll systems) run on top of it.
+QWAN is not the product. It is the plumbing. The product layers (iQuest, `QWST`, Cayminus banking terminals, Gatelock toll systems) run on top of it.
+
+---
+
+## Field States: Quiescent and Agitated
+
+QWAN operates as a binary field condition. The quantum substrate is always present — quantum mechanics operates at baseline everywhere, including Earth and worlds with no FC involvement. But presence is not the same as utility.
+
+**Quiescent** is the natural state: the quantum field at rest. Behavior exists at the substrate level but at energy levels too low for biological systems to interface with deliberately. In a quiescent field, pineal glands exist but have nothing to log into. Quantum talents may be genetically present but have almost nothing to work with. The field is there. Nothing can reach it.
+
+**Agitated** is what QWAN infrastructure produces: the same quantum substrate elevated past the threshold at which biological interface becomes possible. In an agitated field, the pineal gland can connect. A bootjacked amygdala can make the field real. Quantum manipulation becomes something a practitioner can actually sustain rather than grasp at.
+
+QWAN is both floor and ceiling. It sets the agitated level and holds it there. No practitioner, regardless of skill or training, can push the field beyond the agitated ceiling through personal effort, nor drop it below the quiescent baseline. The field is what it is. Practitioners work within it.
 
 ---
 
@@ -24,13 +36,36 @@ The pineal carries more than identity. A Gatelock doesn't just confirm *who* you
 
 Calcified or blocked pineals degrade the signal. The network can still detect the individual but with higher friction — slower verification, higher physical toll rates, reduced integration metric logging precision. The carrier is there; it just doesn't transmit cleanly.
 
-**Amygdala — the active interface.** The pineal carrier gets you on the network. Full interaction requires more: the amygdala is where QWAN activates for deliberate interface — the layer through which FC systems can be consciously read, queried, and engaged. This is what makes the LitRPG layer feel real rather than abstract. Stat feedback, quest notifications, level-up events, threat assessment, system status — these are delivered through amygdala activation because the amygdala processes threat, reward, and emotional salience. Abstract metrics become felt stakes. The system doesn't tell you something is dangerous; you feel that it is.
+**Amygdala — the reality regulator.** The pineal carrier gets you on the network. The amygdala is what makes the network real.
+
+The amygdala is the mind's reality regulator — the structure that converts incoming signal into actual, felt, subjective experience. This is what makes it the target of every known QWAN bootjack. QWAN provides the agitated field; a bootjacked amygdala is what converts that field into something the organism actually experiences. Without the bootjack, QWAN agitation is present but unfelt — the equivalent of a broadcast with no receiver attuned to the frequency. With it, the elevated field becomes real: as quantum talent perception, as LitRPG overlay, as whatever the specific bootjack was designed to surface.
+
+The amygdala's role in processing threat, reward, and emotional salience is precisely why it works this way. Abstract input routed through the amygdala becomes felt stakes. A stat notification becomes an insight. A quantum probability becomes a ghost-image of a future that feels genuinely possible. The system doesn't tell you something is dangerous; the amygdala makes you feel that it is.
 
 The interface manifests as an overlay on perception — the floating screen, the status window, the notification that resolves in the middle distance. It activates when engaged and closes when disengaged. For most users this is event-driven: the system pushes something through, or the individual actively opens the interface to query something.
 
-This is a staged activation. Pineal connection is baseline — the passive carrier, always present, functional from birth in species that have it. Amygdala integration is the secondary step, pushed by QWST when the system is ready to bring a participant into full interface. Someone with pineal connectivity but no amygdala integration can use Gatelocks and be logged by the network. They are not in the trial in any experiential sense. The full interface — the version where the world feels like it has a system running underneath it — requires both.
+This is a staged activation. Pineal connection is baseline — the passive carrier, always present, functional from birth in species that have it. Amygdala activation is the secondary step — pushed by QWST when the system is ready to bring a participant into full interface, or present as genetic modification in Homo Quantus populations, or received as part of Nala's accidental distribution. Someone with pineal connectivity but no amygdala activation can use Gatelocks and be logged by the network. They are not in the trial in any experiential sense. The full interface — the version where the world feels like it has a system running underneath it — requires both.
+
+**Universal biological substrate.** All organisms seeded from the Hypatia biological repository carry pineal gland and amygdala structures — or functional equivalents in non-humanoid species. This is not a humanoid feature; it is a base template design present across every species in the repository. The practical consequence: any amygdala bootjack is cross-species by default. It targets biological structures that every organism carries. QWAN interface — in any form — is available to every species in the repository, not just humans.
 
 **Extended professional use.** For most sapient users, the Amygdala interface is occasional — opened for specific interactions, closed afterward. FC operational staff who work directly with QWAN infrastructure develop a different relationship. Tinkari in particular maintain the interface in a low continuous background state while tending FC systems — not fully engaged, not closed, but held at the edge of awareness. The interface speaks when something in the infrastructure drifts past a threshold; they respond before the system has formally registered the event. This sustained partial engagement is specific to species and roles that require continuous infrastructure awareness. It is not the designed default use of the Amygdala layer; it is what happens when someone has tended the same systems through the interface long enough that closing it feels like losing a sense.
+
+---
+
+## The Amygdala Bootjack — Known Implementations
+
+Bootjacking the amygdala is how QWAN agitation becomes real experience for biological organisms. Three distinct implementations are documented.
+
+**Malachor / Iolanu — Quantum Talents (Homo Quantus)**
+Malachor modified the amygdala of Iolanu's population to interface with the QWAN field as quantum perception. The modification produces the Homo Quantus variant: organisms whose amygdalas convert QWAN agitation into the five talent types — Quantumancers, Readers, Weavers, Echoes, Nullwraiths. The specific talent split is Malachor's design; another FC bootjacking for the same purpose might produce different talents or a different number. The modification is genetic and inheritable — it is what makes quantum talents innate rather than trained, and what distinguishes Homo Quantus from baseline human populations.
+
+**Algernon / QWST — LitRPG Interface**
+The Algernon trial system bootjacked the amygdala for a different purpose entirely: to make the QWST Questing OS interface experientially real. Same biological structure. Different implementation. Different output. Where Malachor's bootjack surfaces quantum perception, QWST's bootjack surfaces the game layer — stat feedback, quest notifications, level-up events, threat assessment. The amygdala's processing of threat and reward is what makes abstract metrics feel like real stakes. The two bootjacks are functionally unrelated in purpose but mechanically parallel in method.
+
+**Nala's Accidental Push — Unmanaged Homo Quantus Propagation**
+When Nala committed the God-Empire school templates to the Hypatia repository without checking distribution scope, the committed package included Malachor's amygdala modification. She did not intend to push the modification. It was bundled with the archived materials. Worlds that received the commit received a version of the Homo Quantus bootjack alongside the school frameworks — and because all repository organisms share the underlying biological template, every species on receiving worlds is a potential recipient, not just humans. The modification arrived without the full pedagogical infrastructure to manage it. The schools arrived. The masters did not.
+
+Critical calibration: receiving the modification is not the same as expressing it. The bootjack is genetic potential — like eidetic memory, the capacity can be present in a population without manifesting in most individuals. The overwhelming majority of organisms on affected worlds carry the modification silently. Talent expression is rare, variable, and may require specific developmental conditions, environmental triggers, or simply the statistical lottery of which genetic expressions activate in a given individual. This is not an "everyone is a wizard" event. It is a quiet seeding of latent potential across species and generations, most of which will never surface. What surfaces is a small percentage of individuals who, without context, training, or any understanding of what they are, begin to perceive or interact with the quantum field in ways that have no name in their culture.
 
 ---
 
