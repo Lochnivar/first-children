@@ -55,9 +55,14 @@ Anthropomorphic species seeded across worlds; developed independently. *No desig
 - **[Gnolls](canis/gnoll.md)** - Hyena-derived; chaos-souls; improv troupe social structure; Festivus; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 - **[Otter-folk](lutrinae/otter-folk.md)** - Otter-derived; charm-aware; facilitators, bridge-builders, grifters; no designated role—emergent. *Expanded voice/dialogue: [DIALOGUE_PAGE.md](../../DIALOGUE_PAGE.md)*
 - **[Maturi](naja/maturinensis.md)** (*Naja maturinensis*) — Cobra-derived; warm-blooded; obsessive observers, naturalists, ship's surgeons; outsider quality by nature; no designated role—emergent. The Aubrei-Maturi pairing is documented maritime tradition.
+- **[Picari](pica/picari.md)** (*Pica yisshidi*) — Magpie-derived; transaction as emotional vocabulary; private ledger of earned regard; already in the room; no designated role—emergent
 - **[Sungrun](lepus/sungrun.md)** (*Lepus acutis*) — Rabbit people; extraordinary sensory capability (hearing, smell, vibration, pressure); folk percussion/thumping music culture; no designated role—capability platform, emergent
 - **[Tzvari](cervus/tzvari.md)** (*Cervus tzvari*) — Deer people; ecological reading (biological sensitivity to ecosystem health); tending compulsion; no designated role—traits lead to land management, herbalism, ecological stewardship
 - **[Equan](equus/equan.md)** (*Equus Mobilus*) — Horse people; pattern memory for resource distribution; herd-oriented, emotionally outward-facing, range-seeking; trade-as-circulation theology they don't explain to outsiders (embarrassment + consideration, both); no designated role—traits lead naturally to commerce at scale
+
+### FC Experimental (Created, Not Staff)
+Species created by the FC outside normal staff or panspermia frameworks — custom genera, non-template biology, experimental design briefs. Each experiment has its own genus. No designated roles; traits lead to emergent behaviors. This category is open; other FC experiments may exist or be discovered.
+- **[Weavers](iteratum/weavers.md)** (*Iteratum textori*) — FC immortality experiment; biological identity impermanence in physically immortal bodies; each personality is an "iteration"; prior selves accessible as library memory, not personal experience; no designated role — emergent
 
 ### Core Races
 - **[Orcs](orcus/orcs.md)** - Orcus sapiens; trial adversary (standard combat)
@@ -100,6 +105,8 @@ Species of unknown origin; FC cannot trace genetic repo ancestry or identify a c
 - Sungrun: Extraordinary sensory suite (hearing, smell, vibration, pressure); capability platform not a role; folk thumping/percussion music culture; “You didn't sneak up on a Sungrun”
 - Tzvari: Ecological reading (continuous biological signal from living systems); tending compulsion; tend toward land management, ecological stewardship, herbalism — and being right too early about what the land is telling them
 - Equan: Pattern memory for resource distribution; circulation instinct (surplus-to-deficit wrongness is felt before it's reasoned); herd structure; tend toward long-distance trade, route development, commodity brokerage; theology says trade heals the world; they'd rather not explain that to you
+- Picari: Transaction as emotional vocabulary (not mercenary — the stated cost is how they protect the relationship); private ledger of earned regard; already in the room before you set a place; tend toward negotiation, counsel, handling the deal; "The free ones cost the most"
+- Weavers: Biological identity impermanence — iterations cycle through immortal bodies; library cognition (prior selves known as history, not memory); externalization instinct drives archivism and knowledge preservation; tend toward archive work, transition care, institutional long-view, iteration-obligation law; "The library is not the librarian"
 - Nekari: Perfection of purpose or action. Felari: Perfection of appearance or manners. Cousins (Felis).
 - Djemari, Llamari: Traits (efficient O2, water conservation, endurance) suit transport and logistics
 - Quedari: No designated role; passed trial via avoidance; patient, minimal engagement. Not all races have purposes—some simply are.

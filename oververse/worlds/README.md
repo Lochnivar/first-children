@@ -104,6 +104,13 @@ World documentation at the framework level shows how each world **expands upon o
 - There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
 - **Earth trial:** Final vetting for Homo sapiens as generalist FC staff. World-to-dungeon transformation—administrative-boundary rooms, limited-access corridors, Gatelocks, integration metric. Independent contractors deploy via Platform 934. Narrative focus: human survival in a drastically changed world. See [Earth Trial Mechanics](earth/trial-mechanics.md) and [Earth AI Refresher](earth/AI-REFRESHER.md).
 
+### [Rakaiah](rakaiah.md)
+- **Creator:** Unnamed FC — sole creator; indifferent, data collected and departed
+- **Premise:** Controlled experiment — does QWAN activation suppress technological development? Answer: yes. Rakaiah was built without QWAN to test the hypothesis.
+- **Scope:** Universe, not a single world — multiple star systems, multiple sapient races, some in federations, some mono-racial. No center of gravity.
+- **Defining concept:** Space opera universe running on pure materialism. No magic, no quantum gifts, no tech ceiling. Inhabitants have no idea they are an abandoned experiment.
+- **Framework demonstration:** No-QWAN universe, tech-uncapped, indifferent FC, universe-scale scope, closed cosmology with no valid metaphysical tradition
+
 ### [MC20](mc20/) — Mercara's Cross 20
 - **Concept:** World-spanning race across 20 planets via Mercara's Cross infrastructure
 - **Architects:** Echad (meta-architect, favor economy), Virelle (Gatelock, scheduling)

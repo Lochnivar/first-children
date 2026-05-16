@@ -1,96 +1,289 @@
-# The Caelori: Singers in Skin
+# Caelori
 
-**Earth Reference:** Celtic oral tradition × Māori tattoo culture  
-**Historical Context:** The Caelori are the people of the far northern inlet coast of A'Maar — a cold, jagged coastline of hidden harbors and deep inlets that has made them self-sufficient, suspicious of outsiders, and fiercely independent. Their most distinctive cultural artifact is the tattoo-as-songsheet: every Caelori bears a tattoo that encodes their lineage as a readable musical score. The tattoo is not ornamentation. It is identity, genealogy, and song simultaneously.
+**Earth Reference:** Celtic oral tradition × Māori tattoo and performance culture  
+**Essence:** A people who made the body the document and the voice the archive — and have trusted neither text nor institution to hold what only skin and throat can carry.
 
----
-
-## Overview
-
-The Caelori are an oral tradition culture in the deepest sense — not merely that they prefer speech over text, but that their entire understanding of identity, history, and kinship is expressed in song. The tattoo solves the problem every oral culture faces: how do you carry your lineage when you can't write it down? The Caelori answer is the body. The score is always with you. Anyone who can read it can sing your history.
-
-This makes every Caelori both a document and a musician.
-
----
-
-## Territory
-
-The far north of A'Maar — a coastline of deep inlets, hidden harbors, and cold water. The terrain is difficult to invade by land (mountains back the coast) and difficult to navigate by sea (the inlets require local knowledge). The Caelori have never been conquered, partly because of the terrain and partly because the effort has never seemed worth what's there. They consider this a point of pride.
-
-The Northern Strait sits to the east, separating their coast from Wrinomo-held A'ardan on the far shore. The relationship is old, cautious, and has its own protocols.
-
-- **Bryndval** — heartland city; built on high ground above the inlets. *Bryn* = hill.
-- **Glannoch** — cultural city; inlet coast.
-- **Inisgow** — cultural city; likely island-situated. *Inis* = island (Gaelic).
+**What each reference brings:**
+- **Celtic:** The oral tradition as total infrastructure — law, history, genealogy,
+  and practical knowledge all carried in song rather than text; the bard as
+  the community's most essential institution; clan kinship as the primary
+  social unit; deep suspicion of administrative text-based control (the
+  Church's written records as the contemporary version of Rome's); fierce
+  independence enforced by terrain and temperament both.
+- **Māori:** Tā moko — tattoo as identity document, lineage as body text,
+  the sacred and functional inseparable in the marking; the Haka model for
+  collective physical-vocal performance as declaration of presence and
+  identity — the root of the fi'des; the understanding that performance
+  is not entertainment but assertion.
 
 ---
 
-## The Tattoo-as-Songsheet
+## Physical Heritage
 
-Every Caelori bears a tattoo that encodes their lineage as a musical score. The notation is a living system — standardized enough that any trained reader can parse it, flexible enough that each family line has its own tonal character.
+Shaped by generations on a cold, wet inlet coast with little direct sun
+and constant wind off the water.
 
-Reading a Caelori's tattoo aloud produces their genealogical song: names, deeds, and relationships rendered as melody. The song is not purely symbolic — it carries actual information. A skilled reader can determine lineage, clan affiliation, notable ancestors, and significant events from the score alone.
-
-The tattoo is applied in stages across a lifetime. Birth records the base melody — parentage and clan. Major life events add phrases. A life fully lived produces a complex, layered score. An elder's tattoo is a substantial composition.
-
-**What this means practically:**
-- Genealogical disputes are settled by reading the relevant tattoos aloud in council — the song either supports the claim or it doesn't
-- Forgery is possible but difficult; a false tattoo requires someone who can compose credibly in the family's tonal style
-- Caelori meeting strangers assess the tattoo before anything else — it answers most of the important questions
-- The death of someone with no surviving kin to carry their song is treated as a particular kind of loss
-
----
-
-## Oral Tradition
-
-Beyond the tattoo, the Caelori maintain history, law, and lore in sung form. Their bards — called *score-singers* — are trained from childhood to carry the community's full repertoire. A score-singer can recite hundreds of genealogical songs, historical narratives, legal precedents, and practical knowledge (tides, weather patterns, fishing grounds) in musical form.
-
-The Church has repeatedly attempted to introduce written records into Caelori territory as a step toward administrative control. The Caelori receive the offer politely and continue doing what they were doing.
-
----
-
-## Physical Characteristics
-
-- **Skin:** Pale; the inlet coast sees little direct sun
-- **Hair:** Red to auburn, occasionally dark red-brown; the red hair is strongly associated with Caelori identity and recognized across Iolanu
+- **Skin:** Pale; the inlet coast produces little sun exposure regardless
+  of season; weather-touched at cheeks and hands in those who work outside
+- **Hair:** Red to auburn, occasionally dark red-brown; the red hair is
+  the primary at-distance Caelori identifier, recognized across Iolanu
 - **Eyes:** Grey, green, or pale blue
-- **Build:** Lean and wind-hardened; generations of cold-weather coastal living
+- **Build:** Lean and wind-hardened; generations of cold-weather coastal
+  living produce a wiry, endurance-oriented frame
+- **Distinguishing:** The tattoo score, visible at collar and wrist by
+  convention; an elder's is a substantial composition readable at close
+  range; the red hair is visible at distance before anything else
+
+**On mixing:** The red hair is the most persistent trait through
+intermarriage, fading to auburn-brown over several generations before
+disappearing. Pale skin is also persistent. Eye color varies more readily.
+A person of partial Caelori heritage is often identifiable by hair alone
+long after other traits have blended out.
 
 ---
 
-## Clothing
+## Portable Tradition
 
-Practical and layered for cold, wet conditions with occasional ceremonial weight.
+### Core Values
 
-- **Base:** Wool close to the skin; treated against damp
-- **Outer:** Heavy woven cloaks in earth tones and muted greens; hooded for weather
-- **Ceremonial:** Intricately woven clan-pattern cloaks; the weaving patterns echo the tattoo notation in visual form — a clan can be identified by cloak pattern as well as skin
-- **Tattoo visibility:** Caelori clothing is often cut or arranged to display the tattoo score, particularly at collar and wrist — where lineage and recent additions tend to be placed
+- **The body and voice are the only trustworthy records.** Text can be
+  altered, burned, controlled, or simply kept from you. What is on your
+  skin and in your throat belongs to you and to your community. No
+  institution can administer what it cannot document, and the Caelori
+  have made themselves deliberately undocumentable on their own terms.
+- **Lineage is communal property.** Your history does not belong only
+  to you — it belongs to everyone who knows your song. The community
+  holds your lineage for you before you can hold it yourself, and will
+  hold it after you are gone.
+- **The dead persist through their songs.** A person whose song is still
+  being sung is not entirely gone. The specific grief of losing someone
+  with no kin left to carry their song — the second death — is treated
+  as a distinct and serious loss.
+- **Independence requires no external validation.** The terrain has
+  enforced this so long it has become instinct: you do not need outside
+  authority to confirm who you are. Your lineage confirms it. Your
+  community confirms it. The tattoo confirms it.
+- **Suspicion of administrative control.** Particularly text-based
+  record-keeping as a tool of outside authority. The Church's written
+  records are a form of power the Caelori decline to participate in.
+
+### Social Pattern
+
+When Caelori meet a stranger, they read the tattoo before the face.
+The score answers most of the important questions — lineage, clan
+affiliation, notable ancestors, significant events. A stranger without
+a tattoo is not dangerous by default, but genuinely opaque in a way
+Caelori find disorienting. There is no place to begin.
+
+Not warm to strangers; not hostile; withholding until lineage is
+established. Once it is — through tattoo reading, or introduction by
+a known party who vouches for the unknown — the social infrastructure
+exists and warmth follows it.
+
+Comfortable with longer silences than most cultures. Silence is part
+of the song. Outsiders read it as hostility; it is simply patience.
+
+Direct speech. The oral tradition values precision — exact words carry
+exact weight, and approximation is how songs get corrupted. The Caelori
+do not perform pleasantries they do not mean.
+
+### Theology (Portable)
+
+**Core beliefs:**  
+The dead persist as long as their songs persist. The song is the
+continuing life of the ancestor — not metaphorically, but in the
+Caelori understanding, functionally. Score-singers carry the dead.
+A score-singer who dies without transmitting their full repertoire
+has failed their community in a specific and serious way.
+
+The landscape is spiritually present — the sea, the inlets, particular
+geographic features carry weight — but the specific landscape of the
+heartland carries more. Diaspora communities carry this as memory and
+orientation rather than immediate experience.
+
+The Caelori relationship to Malachor is distant and functional. They
+do not openly reject the faith — they simply do not organize their
+spiritual life around it. Their ancestors and their landscape were
+present long before the Church arrived. The Church's administrative
+apparatus is received politely and not adopted.
+
+**Portable practice:**  
+The fi'des *(pronounced fi-DEZ — two deliberate syllables; the
+apostrophe prevents the English collapse into "FY-deez")* is the
+primary Caelori performative tradition. It exists at two levels:
+
+*The informal fi'des:* Performed at family meals and casual gatherings.
+The youngest able member — or a round-robin of the youngest — leads
+their lineage song, with the family participating actively: prompting
+when the child loses the thread, humming the next phrase, carrying
+the melody until the child finds it again. Not a performance to be
+judged. A supported practice. The child is not demonstrating mastery —
+they are learning, in safety, held up by everyone who already knows
+the song. They learn early that their lineage belongs to the table,
+not only to them. The community holds their history for them until
+they can hold it themselves.
+
+*The collective fi'des:* Performed at clan gatherings, before
+significant confrontations, at major events. Every voice, full
+strength — physical and vocal simultaneously. The declaration of
+presence, lineage, and identity. What all those dinner-table
+practices have been building toward. A diaspora community that can
+no longer field a collective fi'des has reached a threshold of
+dispersal that every Caelori recognizes as significant.
+
+The tattoo is tended at significant life moments — a score-singer
+or trained Ink-keeper adds to it; every major event becomes part
+of the composition. A life fully lived produces a complex, layered
+score. In diaspora, events away from home are recorded as faithfully
+as events on the inlet coast. The score does not pause because the
+location changed.
+
+Genealogical songs are sung at death — not as funeral rite exactly,
+but as continuation. The community performing someone's song after
+they are gone is the Caelori understanding of mourning: we are still
+carrying you.
+
+**Diaspora improvisation:**  
+The informal fi'des travels completely — family dinner anywhere,
+the practice continues. The collective fi'des requires sufficient
+Caelori in one place; a quarter can manage it.
+
+The score-singer is the critical institution for diaspora. Without
+one, the tradition begins to attenuate — songs get shorter, ancestors
+get dropped from the far ends of lineages, the repertoire narrows.
+A diaspora quarter's highest priority is ensuring at least one
+score-singer is being trained at all times. A quarter that has lost
+its score-singer and has no apprentice is a community in quiet crisis
+that may not know it yet.
+
+### Material Markers
+
+- **The tattoo score.** The primary identifier in every context. Visible
+  at collar and wrist by convention — where lineage and recent additions
+  tend to be placed. An elder's is a substantial composition. The score
+  grows across a lifetime; the body is the only document that does.
+- **Clan-pattern cloaks.** The weaving pattern echoes the tattoo notation
+  in visual form — a clan is identifiable by cloak as well as skin. The
+  two systems are parallel readings of the same information.
+- **The Ink-keeper's tools.** Carried visibly; the role carries legal
+  standing in Caelori social structure.
+
+### Clothing
+
+Practical and layered for cold, wet conditions with occasional ceremonial
+weight.
+
+- **Base:** Wool close to skin; treated against damp
+- **Outer:** Heavy woven cloaks in earth tones and muted greens; hooded
+  for weather; the hood is worn down in settlements, up in travel
+- **Ceremonial:** Clan-pattern cloaks — weaving echoes the tattoo
+  notation; clan identifiable by cloak pattern alone to those who know
+  how to read it
+- **Tattoo visibility:** Clothing is cut or arranged to keep the score
+  visible at collar and wrist — convention, not vanity. The score is
+  information. Covering it is the equivalent of refusing to introduce
+  yourself.
+
+### Voice and Manner
+
+Direct. The oral tradition values precision — approximation is how songs
+corrupt. A Caelori who says something means it exactly as said.
+
+Comfortable with silence. Outsiders read it as coldness; it is simply
+the space between phrases.
+
+Score-singers speak with additional care — formally, deliberately,
+with the precision of people who know that exact words carry exact
+weight and that the words they speak today may be carried forward for
+generations.
+
+In diaspora contexts, the Caelori in a market or trade hall is
+identifiable before they speak: reading the room the way score-readers
+read a score, assessing what is there before engaging with it.
+
+### Naming Conventions
+
+Celtic phonetic roots with Māori vowel openness — soft consonants,
+names that move through the mouth rather than stopping in it.
+
+**Given names:**  
+Masculine: Brennan, Calvar, Dorveth, Eiran, Faolan, Gwethren, Harvin,
+Iorveth, Kelvar, Lorcan  
+Feminine: Aeveth, Brìda, Caerwyn, Devna, Eirna, Faoln, Gwenna,
+Hareth, Iona, Keira  
+Neutral: Arvel, Breth, Caol, Duveth, Eirvel, Faov, Gwen
+
+**Titles:**  
+*Score-singer* — the trained bard; carries the community's full
+repertoire; spiritual intermediary as well as historian  
+*Ink-keeper* — the tattoo artist; social and legal standing; reads and
+writes the score  
+*Tideward* — [role TBD]
+
+**Clan names:** TBD
 
 ---
 
-## Naming Conventions
+## Heartland Expression
 
-Celtic phonetic roots with Māori vowel openness; names tend toward soft consonants and compound meaning.
+*⚠️ CITY FILE CONTENT — do not expand this section.*
 
-**Masculine:** Brennan, Calvar, Dorveth, Eiran, Faolan, Gwethren, Harvin, Iorveth, Kelvar, Lorcan
+The far north inlet coast of A'Maar — cold, hidden harbors, mountains
+backing the coast — is where the culture is fullest and the landscape
+theology most immediate. Specific inlets and sea features carry spiritual
+weight that diaspora carries as memory. The terrain has enforced
+Caelori independence so long the culture and the landscape are
+inseparable at the heartland level.
 
-**Feminine:** Aeveth, Brìda, Caerwyn, Devna, Eirna, Faoln, Gwenna, Hareth, Iona, Keira
+What diaspora cannot access: the specific geography that shapes the
+landscape theology; the sense that particular water and particular stone
+are spiritually present rather than spiritually remembered.
 
-**Neutral/Common:** Arvel, Breth, Caol, Duveth, Eirvel, Faov, Gwen
-
-**Titles:** Score-singer, Ink-keeper (tattoo artist; also a social role with legal standing), Tideward
+**City files:** Bryndval (TBD), Glannoch (TBD), Inisgow (TBD)
 
 ---
 
-## Related Characters
+## Coexistence and Contact
 
-- **Gabby D'Olivier** — Earth soul; transplanted into a Caelori body. Her red hair and pale skin are Caelori markers. Her body's tattoo score is a genealogical record she cannot yet read.
+Caelori quarters in foreign cities organize by clan lineage, not just
+by shared culture — the quarter has an internal hierarchy legible through
+tattoo and cloak before any words are exchanged. The score-singer and
+Ink-keeper are the quarter's institutional anchors.
+
+Contact with other cultures happens in neutral spaces. A Caelori at a
+market is reading the room before engaging it — assessing who is present,
+what their affiliations are, what the social geometry of the space is.
+They extend correct behavior to outsiders without warmth; warmth follows
+established lineage, not cultural category.
+
+The informal fi'des is not performed for outsiders. It is private,
+communal, and not explained. The collective fi'des in a diaspora setting
+may be witnessed by outsiders — it is not hidden — but it is not
+narrated or contextualized for them. Those who understand what they are
+seeing understand. Those who don't are not owed the explanation.
+
+The Church maintains that written records are the foundation of
+legitimate administration. The Caelori receive this position politely
+and continue doing what they were doing. A culture that cannot be
+documented on the Church's terms cannot be administered on the Church's
+terms. The Caelori understand this clearly. They do not say so.
 
 ---
 
-## Notes
+## Narrative Identifiers
 
-The Caelori are not isolationists by philosophy — they trade, they travel, they engage with the wider world. They are isolationists by terrain and reputation. The inlet coast does the work of keeping outsiders uncertain, and the Caelori see no reason to correct the uncertainty.
+- **At a glance:** Red to auburn hair; pale skin; the tattoo visible at
+  collar and wrist; the clan-pattern cloak in earth tones
+- **Up close:** They read the tattoo before the face; longer silences
+  than the surrounding culture; direct speech with no pleasantries that
+  aren't meant; the score-singer's particular formal precision
+- **The tell:** A Caelori in a foreign city who witnesses something
+  significant — a deal, a death, a change — will be seen touching their
+  own tattoo. Not the Kitzengai pendant-touch. A specific tracing gesture,
+  finding a particular point in their own score. Locating themselves in
+  their lineage before responding to what just happened.
 
-The tattoo-as-songsheet is the culture's most exportable concept and the thing other cultures most misunderstand. Outsiders who see it as decoration are missing the point. Outsiders who see it as magic are also missing the point. It is a notation system. It works because everyone agrees it works and everyone learns to read it.
+---
+
+*For city detail, see city files: Bryndval, Glannoch, Inisgow (all TBD).*  
+*For cultural identification cues, see [cultural_identification_cheat_sheet.md](cultural_identification_cheat_sheet.md).*

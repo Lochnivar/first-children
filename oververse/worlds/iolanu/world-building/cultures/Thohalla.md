@@ -1,176 +1,358 @@
-# The Thohalla: A People of Covenant and Wandering
+# Thohalla
 
-**Earth Reference:** Old Testament covenant motifs + Romani caravan resilience  
-**Historical Context:** The Thohalla are the **first race** — the original civilization of Iolanu, predating all other cultures. Malachor's chosen people, experimented on, gifted with quantum ability, and ultimately discarded. The quantum-adjacent gift spread to every other culture through Thohalla bloodline diffusing outward over generations. The **"A'" prefix** is their ancient linguistic fingerprint: A'Thohalla, A'Miz, A'Maar. Modern city names without the prefix are younger, named after the Thohalla era.  
-**Related Characters:** Loisa, Grayson, Elsbeth, Calder, Hara, Gabby, Rowan, Marek (canonical party names)
+**Earth Reference:** Old Testament covenant motifs × Romani caravan resilience  
+**Essence:** Malachor's first people, still keeping his rites — not for him,
+but because the rites are what holds the caravan together, and the caravan
+is the only home that cannot be taken.
 
-## Overview
-The Thohalla are a stateless, covenant-bound people who blend Old Testament–style covenant gravity with Romani-inspired caravan resilience. They live itinerantly, maintain strict oral and ritual customs, and treat service—particularly guarding, containing, and sealing the world's thin places (rifts)—as penance, duty, and identity. Their culture emphasizes memory, repair, and practical symbolism: bright color is used sparingly as identification, not ornamentation; garments read as lived armor; and ritual objects are integrated into everyday gear.
+**What each reference brings:**
+- **Old Testament:** The covenant structure itself — inherited sins, perpetual
+  vows, the weight of being in formal relationship with a god who has not
+  been entirely good to you; the Exodus narrative (the desert crossing,
+  the saltwater, the wandering); oral law as the governing structure of
+  justice and social obligation; the three-sins/three-vows architecture
+  echoing Mosaic law; the cultural practice of rites observed regardless
+  of whether the divine is listening.
+- **Romani:** The caravan as civilization rather than homelessness —
+  a complete, self-sufficient social structure that requires no fixed
+  geography; itinerant resilience; portable culture preserved under
+  continuous external pressure; bright color as coded identity signal
+  against a muted practical base; the internal cohesion that compensates
+  for external instability; the stigma of settled cultures misreading
+  movement as rootlessness, and the long-since-abandoned practice of
+  correcting them.
 
-## Historical Relationship with Malachor
-**The Thohalla were Malachor's chosen people.** He played with them, experimented with them, and ultimately discarded them. This history of being chosen and then abandoned shapes their entire culture—their wandering, their covenant structure, their sense of exile, and their dedication to service as both penance and identity. The weight of being discarded by a god they once served is woven into their Three Inherited Sins and Three Perpetual Vows.
-
-## Three Inherited Sins
-
-### Ancestral Burden
-A received stain on bloodlines and name that marks families with a history of transgression or loss. It shapes expectations, penances, and roles across generations.
-
-### Mad Gift
-A dangerous, unpredictable talent or mark passed down in some lines. It can save lives or ruin them; clans teach containment, ritual practice, and duty around such gifts.
-
-**World tie (Iolanu):** In the wider chronicle, the **quantum-adjacent gift** is taken to have **first arisen in ancient Thohalla**, then spread through ordinary inheritance into every mainland culture. Bigots still **map** “gifted” onto Thohallan names. The **Rathen Peaks** collect exiles from all those bloodlines — often **Thohalla-heavy** on some massifs, **never** a single people. See [quantum_abilities.md](../magic-systems/quantum_abilities.md) and [Rathen.md](Rathen.md).
-
-### Bound Tongue
-A cultural tendency toward guarded speech and bound names—some truths are measured in weight and consequence rather than casual utterance.
-
-## Three Perpetual Vows
-
-### Stateless Exile
-A lifelong vow to refuse permanent allegiance to any state or ruler, preserving the Thohalla as a mobile, self-governing people. Practically this produces highly mobile caravans with engineered nightly fortification systems, and cultural structures that favor mutual aid over centralized authority. The ability to move before a horde can concentrate to overwhelming numbers is the strategic logic; the nightly wall deployment is what makes movement survivable. 
-
-**Ritual marker:** Pennon renewal at the Day Vigil dawn.
-
-### Riftwalker Duties
-A vow to locate, guard, and when necessary seal or contain rifts—places where the world's order is thin. Many Thohalla train in songs, rites, engineering, and fieldcraft to identify and close rifts; organized Riftward teams and dolmens mark past work. 
-
-**Ritual marker:** Night watch and offerings at sealed dolmens.
-
-### Word's Reckoning
-A vow to guard sacred words, names, and oaths—speaking truth carefully, keeping bindings, and adjudicating covenant breaches. This generates strict oral protocol, named roles (scribes, wordkeepers), and public reckonings when covenants are broken. 
-
-**Ritual marker:** Midday recitation and public affirmation of remembered names during the Day Vigil.
-
-## The Remembrance
-
-A standalone ritual observance tied to the Thohalla crossing narrative — the event on the desert spit between A'Miz and A'Maar where Malachor led his chosen people across a waterless desert with saltwater on both sides, and many Thohalla died attempting to drink it.
-
-The observance is simple: every Thohalla drinks a shot of saltwater.
-
-Not symbolic saltwater. Not a token amount. Enough to taste, enough to be unpleasant, enough to be a small bodily experience of what their ancestors faced with no alternative. The physical discomfort is the point — it is not a gesture toward suffering but a brief encounter with it. A reminder that the covenant was written in thirst and bad choices, not in triumph.
-
-The Remembrance is observed separately from the Day Vigil. It can be performed alone or communally. There is no prescribed speech, no formal liturgy. Some caravans mark it in silence. Some speak the names of those who died. What is consistent is the saltwater — kept in small sealed vessels carried in the caravan stores, renewed annually, never substituted.
-
-Outsiders who witness it for the first time often mistake it for punishment. Thohalla who are asked to explain it usually say: *we drink it so we remember what he led us to, and what we survived anyway.*
+*Nomadic variant — see template.md for section modifications.*
 
 ---
 
-## Day Vigil Ritual (Annual)
-**Purpose:** Renew identity, recall debts and names, refresh pennons, and recommit to vows. Structure: Six phases from dawn to night, each with symbolic action and a practical marker.
+## Physical Heritage
 
-### Dawn — Forgiving Pennons
-Renew pennons: the physical renewal signals both identity and caravan readiness. Worn pennons are recycled into repairs.
+Shaped by generations of constant travel and nightly defense across
+varied terrain and climate. The Thohalla gene pool has been diffusing
+outward through Iolanu for generations — the quantum gift spread through
+Thohalla bloodlines into every mainland culture. Physical traits are
+consequently less distinct than most cultures; the coloring is common
+across many Iolanu populations.
 
-### Morning — Naming Roll
-Public recitation of names owed, debts remembered, and fresh names added to the caravan's oral ledger.
-
-### Midday — Word's Reckoning Recitation
-Public affirmation and adjudication: wordkeepers read oaths and pass judgment or penance where covenants were broken.
-
-### Afternoon — Communal Repair
-A day of patching tents, gear, and bodies. Skills are exchanged and old clothes are mended into new utility.
-
-### Dusk — Rite of Readiness
-Weapons and tools are blessed and checked; pennons and sashes are secured in combat-ready configurations.
-
-### Night — Feast of Perseverance and Watch
-A communal meal followed by night watch at sealed dolmens and sentinels of rifts; offerings are left and stories of riftwork are recounted.
-
-## Material Culture
-Mobility and defense are primary. The Thohalla favor caravans designed for quick strikes and quick withdrawal, mobile fortifications, fortified rest stops, and dolmens marking sealed rifts.
-
-Objects of ritual and use are integrated into daily life—pennons, iron tags, carved beads, word-keepers' lists, and rift-seal stones are all practical and portable.
-
-Tools, ritual objects, and indicators of covenant standing are treated as both utility and memory-keeping.
-
-### Nightly Fortification
-
-Every evening without exception, the caravan deploys a full defensive perimeter. This is not improvised — it is engineered, drilled, and executed with the efficiency of a people who have done it every night of their lives.
-
-The wagons form the outer ring, positioned wheel-to-wheel. Pre-built wall segments — designed and dimensioned to fit the specific gaps between wagons and the open ground beneath them — are deployed to seal every breach at ground level. The result is a closed perimeter: wagons as the primary wall, fitted segments as the fill. The whole system disassembles and loads the next morning.
-
-This is sufficient for most small horde encounters. The walls hold, the monsters move on, the caravan breaks camp at dawn. Against large concentrated hordes it is not sufficient — caravans are occasionally overrun, and everyone knows it. The fortification buys survival most nights. It does not guarantee it.
-
-The speed and precision of evening deployment is a caravan's most practiced skill. New members learn their assigned segment positions before they learn anything else. The caravan that deploys slowly is the caravan that loses people.
-
-## Clothing and Costume
-
-Thohallan clothing reads as lived armor: practical, repaired, and adapted for travel and conflict while preserving cultural markers.
-
-### Layered Practicality
-Lightweight mail or leather worn under heavy cloaks and wraps; scarves and wraps double as bandages, slings, or knots for hauling.
-
-### Reinforced Contact Points
-Elbows, shoulders, knees, and thighs show leather patches, sewn-on scales, or small metal studs.
-
-### Modular Protection
-Removable greaves, vambraces, brigandine panels, and short-layered brigandine-like reinforcements are common.
-
-### Visible Repair and Improvisation
-Mismatched patches, braided stitching, crude rivets, salvaged plate strips, and field-mended seams denote history and resourcefulness. Stitching patterns and specific patch fabrics can serve as caravan or family marks.
-
-### Everyday Tools Integrated into Dress
-Throwing knives, short blades, coils of rope, tinderboxes, small sewn-in pouches, and hidden pockets—often asymmetrically placed for rapid access.
-
-### Functional Adornment as Status Code
-Pennons, notches on belts, carved beads, and braided hair encode rift seals performed, oaths kept, or losses borne. These adornments are low-profile and waterproofed when needed.
-
-### Color and Texture Language
-- **Base palette:** earthy, muted tones—olivine, soot, russet, faded indigo—for concealment and durability
-- **Bright color:** used sparingly as coded highlight—single vivid pennons, sashes, narrow embroidered bands, or threads for caravan identity, ritual signaling, or lineage marks
-- **Metalwork:** patinated, leather softened, fabric sun-faded
-
-### Silhouette and Movement
-Compact, low-profile layers minimize snagging; cloaks are designed to hitch, roll, or shorten for mobility. Asymmetric loading and modular layering speak to long-term marching habits. Accessories and ritual objects should be concealable for safety.
-
-### Emotional and Ritual Integration
-Personal repairs (a scrap of a loved one's garment sewn into a lining), hidden wordkeeper lists (boot soles), Riftward tags hammered to vambraces, and small memory beads carried in secret pockets make gear both functional and emotionally resonant. Scars and stains are normalized details, not spectacle.
-
-## Naming Conventions
-- **Single given name convention:** each person is known by one name within a caravan
-- **Uniqueness within a caravan** is enforced socially
-- **Contextual epithets and sobriquets** may attach for clarity (e.g., a profession or deed) but are optional
-- **Names and certain words** may be ritually bound or withheld as part of Word's Reckoning
-
-### Canonical Party Names
-Loisa, Grayson, Elsbeth, Calder, Hara, Gabby, Rowan, Marek
-
-### Example Names
-
-**Masculine:** Barin; Calder; Daran; Eshar; Faryn; Gavren; Harek; Imren; Jorad; Kavel; Marek; Grayson; Rowan
-
-**Feminine:** Loisa; Marek; Nira; Orel; Pasha; Qira; Rysa; Sela; Tovah; Una; Elsbeth; Hara; Gabby
-
-**Neutral/Common:** Arin; Besh; Coru; Dov; Etta; Foll; Gali; Hain; Isha; Jalen
-
-**Ritual/Honor/Sobriquet:** Daykeeper; Riftward; Wordborne; Pennon; Stonehold
-
-## Physical Characteristics
 - **Skin:** Bronze to warm tan
-- **Hair:** Dark brown to black, often long and braided
+- **Hair:** Dark brown to black; long and braided for travel and combat
+  practicality; the braid style and binding materials vary by caravan
 - **Eyes:** Deep brown or warm hazel
-- **Build:** Agile muscular frames conditioned by travel, with occasional clan markings or painted motifs
+- **Build:** Agile, muscular frames conditioned by constant travel;
+  strong through the core and legs; the particular fitness of people
+  who walk everywhere and defend their camp every night without exception
+- **Distinguishing:** A Thohalla is more reliably identified by dress
+  and practice than by face — the single vivid caravan identifier against
+  an otherwise muted palette; the quality of readiness in how they hold
+  themselves; visible repairs in their gear that read as biography
 
-## General Clothing Notes
-Colorful portable textiles; layered wraps; foldable tunics and travel-ready coats; harness belts for tools and small shrines; portable rugs and bright pennants for camps and fairs.
+**On mixing:** Physical traits have been dispersing outward for
+generations and are not reliable identifiers at distance. The bright
+caravan pennon is a more certain marker than skin or hair. This is
+a known fact the Thohalla do not find troubling — being physically
+indistinct in a crowd is occasionally useful.
 
-## Quick Costume Checklist for NPCs and GM Use
-- Layering present and described (inner mail/leather + outer cloak)
-- Reinforced elbows, shoulders, thighs (materials noted)
-- Modular protection pieces (list what's removable)
-- Visible repairs and rivets called out with provenance (e.g., "patch from an old pennon")
-- Asymmetric tool placement (which side carries blades, rope, tinder)
-- Single vivid caravan identifier (pennon/sash/thread) and where it appears
+---
 
-## OOC Notes, Inspirations, and Suggested Uses
+## Portable Tradition
 
-**Inspirations:** Old Testament covenant motifs; Romani caravan resilience and color usage; folk practices around memory, penance, and oral law.
+### Core Values
 
-**Themes:** atonement, memory as social capital, service and penance as identity, unity without uniformity.
+- **The caravan is civilization.** No walls, no city, no fixed geography
+  required. The caravan is the home, the social structure, the defensive
+  perimeter, and the cultural vessel simultaneously. A Thohalla whose
+  caravan is destroyed has lost all of these at once.
+- **The vows define the person.** The Three Perpetual Vows are not
+  obligations taken — they are identity inherited. A Thohalla doesn't
+  choose to keep the vows any more than they choose to have dark hair.
+  The vows came before them and will outlast them.
+- **Memory is social capital.** The names of the dead, the debts owed,
+  the sealed rifts, the covenants broken and kept — maintained not as
+  records but as obligations. Forgetting is a form of default. The
+  Morning Roll names people because named people are owed to.
+- **Movement is strategic, not aimless.** The vow of stateless exile
+  is not homelessness — it is the survival logic of a people who learned
+  that being impossible to pin down is the only permanent defense. The
+  caravan that can leave is the caravan that survives.
+- **Service as identity.** The Riftwalker duty is penance and purpose
+  simultaneously. The Thohalla did not cause the rifts. They tend them
+  anyway. This is not generosity — it is the vow, which is the same as
+  saying it is who they are.
 
-**Suggested uses:** player handout (1 page); GM reference sheet (2 pages); faction dossier with rest-stop map and costume callouts; Day Vigil scene beats and NPC prompts.
+### Social Pattern
 
-## Notes
-Thohallan garments are lived armor: layered, often reinforced at contact points, and patched repeatedly. Bright threads and pennons appear as deliberate signals rather than ornament—single sashes or a narrow embroidered band encode caravan identity while the bulk of dress remains weathered and practical.
+Within the caravan: tight, interdependent, role-defined. Everyone has
+a position in the nightly fortification. Everyone knows their segment.
+New members learn their deployment position before anything else. The
+social structure is practical before it is hierarchical — the person
+who knows the mechanism has authority over the mechanism, regardless
+of other standing.
 
-When describing a Thohallan NPC, note one repair with a story, one hidden tool, and the single bright identifier the caravan uses.
+To outsiders: cautious, not hostile. They pass through; extended trust
+with settled people is a liability when you're leaving in the morning.
+Transactions are clean and complete — the Thohalla do not leave debts
+behind them in either direction. No debt left, no debt owed. This is
+not coldness. It is the only responsible way to move through the world.
 
+The caravan is closed at night. This is fortification, not social
+preference — but the effect is the same. Outsiders learn quickly that
+Thohalla hospitality has a perimeter, and what lies on the other side
+of it is not for them.
+
+Settled cultures misread movement as rootlessness, poverty, or
+unreliability. The Thohalla have heard this long enough to have stopped
+correcting it.
+
+### Theology
+
+The rites name Malachor. He is in the origin of every practice, in the
+liturgy of the Day Vigil, in the logic of the Three Inherited Sins. He
+is not the audience for any of it.
+
+The Three Vows are kept because they are what makes someone Thohalla.
+The Day Vigil renews the community, not the covenant with the god. The
+Remembrance preserves the memory of what happened, not a relationship
+with the one who caused it. The rites are culture now — they persist
+because a people without them stops being a people, and that outcome
+is worse than performing rites for a god who isn't watching.
+
+Malachor is present the way an origin is present: in everything,
+directing nothing. The Thohalla are not apostate. They are not devout.
+They are the people who have been doing this the longest, and they
+will still be doing it when everyone else has stopped.
+
+The Church's fervent institutional devotion to the god who discarded
+his first people registers with the Thohalla as something between
+baffling and darkly funny. They do not say this in mixed company.
+The Bound Tongue governs what gets spoken about theology to outsiders.
+
+**The Three Inherited Sins:**
+
+*Ancestral Burden* — a received condition on bloodlines and name,
+marking families with a history of transgression or loss. It shapes
+expectations, penances, and roles across generations. Not guilt. A
+condition. You carry what your bloodline carries.
+
+*Mad Gift* — a dangerous, unpredictable talent passed down in some
+lines. The quantum-adjacent gift first arose in ancient Thohalla and
+spread through ordinary inheritance into every mainland culture.
+Bigots still map it onto Thohalla names. Caravans teach containment,
+ritual practice, and duty around such gifts rather than suppression
+or shame.
+
+*Bound Tongue* — a cultural tendency toward guarded speech and bound
+names. Some truths are measured in weight and consequence rather than
+casual utterance. What is said aloud becomes real in ways that what
+is only thought does not.
+
+**The Three Perpetual Vows:**
+
+*Stateless Exile* — a lifelong vow to refuse permanent allegiance to
+any state or ruler. The caravan is the only governing body. Practically:
+highly mobile caravans with engineered nightly fortification, cultural
+structures favoring mutual aid over centralized authority. The ability
+to move before a threat concentrates is the logic; the nightly wall
+is what makes movement survivable.  
+Ritual marker: pennon renewal at Day Vigil dawn.
+
+*Riftwalker Duties* — a vow to locate, guard, and when necessary seal
+or contain rifts — places where the world's order is thin. Organized
+Riftward teams, fieldcraft, songs, rites, and engineering for
+identification and closure. Dolmens mark past work.  
+Ritual marker: night watch and offerings at sealed dolmens.
+
+*Word's Reckoning* — a vow to guard sacred words, names, and oaths.
+Speaking truth carefully, keeping bindings, adjudicating covenant
+breaches. Strict oral protocol, named roles (scribes, wordkeepers),
+and public reckonings when covenants are broken.  
+Ritual marker: midday recitation and public affirmation of remembered
+names during Day Vigil.
+
+**The Remembrance:**  
+Every Thohalla drinks saltwater. Not symbolic — enough to taste, enough
+to be unpleasant. The desert crossing on the spit between A'Miz and
+A'Maar, where Malachor led his chosen people across a waterless stretch
+with seawater on both sides. Many died trying to drink it. The physical
+discomfort is the point — not a gesture toward suffering but a brief
+encounter with it. Not prayer. Memory with a body attached.
+
+Observed separately from the Day Vigil. Performed alone or communally.
+No prescribed speech, no formal liturgy. Some caravans mark it in
+silence. Some speak the names of those who died. What is consistent
+is the saltwater — kept in small sealed vessels in caravan stores,
+renewed annually, never substituted.
+
+Outsiders who witness it mistake it for punishment. Thohalla who are
+asked to explain it usually say: *we drink it so we remember what he
+led us to, and what we survived anyway.*
+
+**The Day Vigil** *(annual):*  
+Six phases from dawn to night. Community renewal — the caravan
+reconstituting itself.
+
+- *Dawn — Forgiving Pennons:* Renew pennons; worn ones recycled into
+  repairs. The physical renewal signals both identity and readiness.
+- *Morning — Naming Roll:* Public recitation of names owed, debts
+  remembered, fresh names added to the oral ledger.
+- *Midday — Word's Reckoning:* Wordkeepers read oaths; judgment or
+  penance where covenants were broken.
+- *Afternoon — Communal Repair:* Patching tents, gear, bodies. Skills
+  exchanged. Old clothes mended into new utility.
+- *Dusk — Rite of Readiness:* Weapons and tools blessed and checked;
+  pennons and sashes secured in combat-ready configuration.
+- *Night — Feast of Perseverance and Watch:* Communal meal, then night
+  watch at sealed dolmens; offerings left; riftwork stories recounted.
+
+### Material Markers
+
+- **The caravan identifier** — a single vivid pennon, sash, or bright
+  thread in caravan colors; the one deliberate color against the muted
+  base palette; announces caravan affiliation to those who know the codes.
+  The specific color and pattern are caravan-distinct, not universal.
+- **Carved beads, iron tags, rift-seal stones** — portable record of
+  sealed rifts, oaths kept, losses borne. Worn in the gear or braided
+  into hair. Low-profile and waterproofed when needed.
+- **Visible repairs** — mismatched patches, braided stitching, salvaged
+  materials; read as biography by those who know how to look. A Thohalla
+  whose gear shows no repair history either hasn't lived in it or hasn't
+  been honest about it.
+- **The saltwater vessel** — small, sealed, carried in caravan stores.
+  Renewed annually. Unremarkable to look at. Non-negotiable.
+
+### Clothing
+
+Lived armor. Practical, repaired, adapted for travel and conflict while
+preserving cultural markers.
+
+- **Base palette:** Earthy, muted — olivine, soot, russet, faded indigo;
+  concealment and durability before appearance
+- **Single vivid identifier:** One pennon, sash, or embroidered thread
+  in caravan colors; the only bright element; the deliberate signal
+- **Layering:** Lightweight mail or leather under heavy cloaks and wraps;
+  scarves and wraps doubling as bandages, slings, or hauling rope
+- **Reinforced contact points:** Elbows, shoulders, knees, thighs —
+  leather patches, sewn scales, small metal studs; wherever wear
+  concentrates, protection follows
+- **Modular protection:** Removable greaves, vambraces, brigandine
+  panels; the gear configures for travel or for fight
+- **Tools integrated into dress:** Throwing knives, short blades, coils
+  of rope, tinderboxes, hidden pockets asymmetrically placed for
+  rapid access
+- **Visible repair as record:** Mismatched patches, braided stitching,
+  crude rivets, field-mended seams — each repair has a story; the gear
+  is a physical ledger
+- **Personal integrations:** Scraps of a loved one's garment sewn into
+  linings; wordkeeper lists hidden in boot soles; rift-seal tags hammered
+  to vambraces; small memory beads in secret pockets
+
+### Voice and Manner
+
+Economical. The Bound Tongue shapes how Thohalla communicate generally —
+words are measured before they're spent. Not coldness. Precision. A
+Thohalla who gives you many words has decided you're worth them.
+
+In transactions: clean and complete. No ambiguity about what was agreed.
+No debt left in either direction.
+
+They do not explain themselves to settled cultures. The misreading is
+old and the correction never takes. The caravan moves. The interpretation
+stays behind.
+
+Among their own — in the caravan, at the vigil, around the fire — the
+register opens entirely. The same people who speak sparingly to outsiders
+are the people who carry the full oral repertoire, argue wordkeeper
+protocol until dawn, and know every name on the Morning Roll.
+
+### Naming Conventions
+
+- **Single given name** within a caravan; uniqueness enforced socially
+- **Contextual epithets and sobriquets** may attach for distinction
+  (profession, deed) but are informal and optional
+- **Some names and words ritually bound or withheld** — Word's
+  Reckoning governs what is said and what is kept; named in the
+  Morning Roll is a social act with weight
+- **Ritual titles:** Daykeeper, Riftward, Wordborne, Pennon, Stonehold
+
+**Given names:**  
+Masculine: Barin, Calder, Daran, Eshar, Faryn, Gavren, Harek, Imren,
+Jorad, Kavel, Marek, Grayson, Rowan  
+Feminine: Loisa, Nira, Orel, Pasha, Qira, Rysa, Sela, Tovah, Una,
+Elsbeth, Hara  
+Neutral: Arin, Besh, Coru, Dov, Etta, Foll, Gali, Hain, Isha, Jalen
+
+---
+
+## Cultural Anchor
+
+The caravan is the heartland. Not A'Thohalla, not any fixed geography —
+the wagons, the nightly fortification, the deployment drill, the pennons,
+the internal social architecture. All of it mobile. All of it home.
+
+**The nightly fortification** is the most precise expression of what
+the caravan means. Every evening without exception: wagons form the
+outer ring wheel-to-wheel; pre-built wall segments — dimensioned to
+fit specific gaps between wagons and seal the ground beneath — deploy
+to close every breach. The result is a closed perimeter. The whole
+system disassembles and loads the next morning. The speed and precision
+of deployment is the caravan's most practiced skill. New members learn
+their segment positions before anything else.
+
+This is sufficient for most small horde encounters. Against large
+concentrated hordes it is not sufficient, and everyone knows it. The
+fortification buys survival most nights. It does not guarantee it.
+
+**A'Thohalla** exists as a nominal anchor — mostly ruins, maintained
+by a skeleton crew just sufficient to call it a functioning city. It
+marks where the first race originated. It is not where the Thohalla
+live. Its proximity to the Rathen Peaks is noted and felt: the first
+people, who originated the quantum gift, maintaining a presence near
+the mountains where those who carry that gift are now exiled.
+The proximity is not coincidence. It is not discussed.
+
+---
+
+## Passage and Contact
+
+The Thohalla pass through. This is the fundamental dynamic of every
+interaction with settled cultures — they arrive, they trade, they rest,
+they leave. Extended trust is a liability when you're leaving in the
+morning.
+
+What they bring to a settlement: rift-sealing expertise where it is
+needed, trade goods, the oral repertoire carried in their wordkeepers,
+and the unsettling efficiency of people whose fortification drill takes
+twenty minutes and leaves no gap.
+
+What they take: supplies, information, nothing that creates a debt.
+
+Settled cultures maintain their own interpretations of the Thohalla.
+The Thohalla have long since stopped engaging with the interpretations.
+The caravan moves. The interpretation stays behind.
+
+The Church wants administrative access — records, fixed addresses,
+taxable and doctrinal presence. The caravan leaves before any of this
+can be established. This has been the pattern long enough that both
+parties treat it as a natural law rather than a choice either side
+is making.
+
+---
+
+## Narrative Identifiers
+
+- **At a glance:** Muted earth tones with a single vivid identifier;
+  visible repairs throughout the gear; the quality of readiness in
+  how they stand — not tense, but never entirely at ease in a
+  settled space
+- **Up close:** Economical speech; clean transactions; they know
+  which exit they would use before they know your name
+- **The tell:** A Thohalla in a settled city is always slightly
+  oriented outward — aware of where the caravan is relative to
+  where they are. Not anxious. Just located. The caravan is the
+  fixed point; everything else is temporary geography.
+
+---
+
+*For A'Thohalla city detail, see [cities_iolanu.md](../../locations/cities/cities_iolanu.md).*  
+*For quantum gift context, see [quantum_abilities.md](../magic-systems/quantum_abilities.md).*  
+*For Rathen relationship, see [Rathen.md](Rathen.md).*
