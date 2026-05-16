@@ -1,31 +1,30 @@
 # Wrinomo
 
-**Earth Reference:** Alpine endurance tradition × Parthian transit empire  
-**Essence:** A people who do not conquer territory — they own routes — and
-have built an entire civilization on the principle that knowing how to move
-through terrain is the only power that cannot be taken by force.
+**Earth Reference:** Alpine guide tradition × Mongol steppe culture  
+**Essence:** A people whose power is not controlling terrain but knowing it —
+the guides who make dangerous land travel survivable, the insurers who price
+what others cannot assess, and the only force that has never lost a decisive
+engagement because they never accept one on ground that doesn't favor them.
 
 **What each reference brings:**
-- **Alpine endurance:** The physical adaptation to altitude and extreme
-  temperature variance; the military doctrine that emerges from terrain
-  advantage — withdrawal into passes the enemy cannot follow, strike-and-fade
-  against forces that arrive exhausted and altitude-sick; the self-sufficiency
-  of high-altitude communities that cannot depend on supply lines from below;
-  route-knowledge as inherently local power (the outsider who knows the terrain
-  is impossible; the outsider who doesn't is at your mercy); the clan
-  confederation governance that functions at altitude because centralized
-  authority cannot reach effectively across high terrain — each pass-lord
-  sovereign over their corridor.
-- **Parthian transit empire:** The transit-fee model — not merchants but
-  toll collectors; charging for access rather than goods; the alternative to
-  paying is not crossing, and there is no substitute for crossing; the
-  intermediary position between cultural spheres (as the Parthians sat between
-  Rome and China, the Wrinomo sit between the northern and southern cultures);
-  the Parthian shot — mounted archery fired backward at full gallop into a
-  pursuit already losing coherence on unfamiliar terrain; this is not a
-  technique, it is a doctrine, and its name comes from exactly this tradition;
-  the loose confederation of semi-independent satraps under minimal central
-  coordination.
+- **Alpine guide tradition:** The expert who makes the crossing possible rather
+  than the gatekeeper who permits it; survival knowledge that lives in people
+  not texts — monster territories, seasonal movement patterns, safe camps,
+  the signs that tell you something is wrong before you can see it; the guide's
+  personal stake in client survival (reputation is the only product; a guide
+  whose clients die has no further business); knowledge that cannot be
+  book-learned because the terrain changes and only the people who live in
+  it know what changed; the relationship between guide and client as one of
+  genuine expertise asymmetry — they know what you need to survive, you don't.
+- **Mongol steppe culture:** The Pax Mongolica model — guaranteed safe passage
+  across dangerous territory, backed by the authority of the people who know
+  it best and make it most dangerous; the confederation of semi-independent
+  clans under loose central coordination; the oral tradition as the primary
+  vehicle for knowledge that matters; mounted archery in withdrawal — strike
+  and fade into terrain the pursuit cannot follow, at full gallop, accurate
+  backward; mobility as both military and commercial identity; the
+  understanding that you never fight on ground that doesn't favor you and
+  you never stand still long enough to be fixed.
 
 ---
 
@@ -37,25 +36,25 @@ sustained movement across terrain that punishes imprecision.
 - **Skin:** Olive to medium tan; sun-darkened at altitude in ways that
   don't match lowland tanning; the particular weathering of high-altitude
   UV exposure at cheeks, nose, and the backs of hands
-- **Hair:** Dark brown to black; worn practical and close; the Wrinomo have
-  no patience for hair that catches wind or tangles in harness
-- **Eyes:** Dark brown to near-black; some lighter grey-brown in mountain-origin
-  lineages; a quality of distance-assessment — trained to read terrain at range
-  before it becomes immediate
+- **Hair:** Dark brown to black; worn practical and close; nothing that
+  catches wind or tangles in harness
+- **Eyes:** Dark brown to near-black; some lighter grey-brown in
+  mountain-origin lineages; trained for distance assessment — reading
+  terrain at range before it becomes immediate
 - **Build:** Lean high-endurance frames built for altitude and sustained
-  movement over rough ground; deceptively strong through the legs and core;
-  low body fat as a physiological adaptation; nothing about the build suggests
-  power at rest; everything about how they move suggests it
+  movement; deceptively strong through the legs and core; low body fat
+  as physiological adaptation; nothing about the build suggests power at
+  rest; everything about how they move suggests it
 - **Distinguishing:** The altitude squint that doesn't go away in lowlands;
   the crampon boots worn at all elevations as identity as much as function;
-  the economy of movement — Wrinomo don't waste effort in motion any more
-  than in speech
+  the economy of movement — Wrinomo don't waste effort any more than they
+  waste words
 
 **On mixing:** The lean endurance frame and the altitude squint are the
-most persistent physical traits through intermarriage. The crampon boots
-and the movement economy travel through upbringing — a Wrinomo child raised
-in a lowland city still moves like someone raised to conserve effort across
-long terrain.
+most persistent physical traits through intermarriage. The movement economy
+and the terrain-reading habit travel through upbringing — a Wrinomo child
+raised in a lowland city still moves like someone raised to conserve effort
+across long ground.
 
 ---
 
@@ -63,162 +62,195 @@ long terrain.
 
 ### Core Values
 
-- **The route is the only real asset.** Not goods, not land, not armies —
-  the knowledge of how to move through terrain that kills the unprepared.
-  This is what the Wrinomo own, what they defend, and what they pass on.
-  An army can hold land until a better army arrives. Route-knowledge held
-  in the throat of a living guide cannot be taken; it can only be lost,
-  which is why a dead route-keeper is treated as a territorial catastrophe.
-- **Oral knowledge is secure knowledge.** Written routes can be stolen,
-  copied, or sold by someone who was paid to keep them. Oral knowledge
-  dies with the traitor and must be deliberately passed on. This is doctrine
-  with a specific logic, and the Wrinomo have never been persuaded that the
-  convenience of text outweighs the risk.
-- **Withdrawal is not retreat.** The military doctrine is not passivity —
-  it is the understanding that you never fight in terrain that favors the
-  enemy and you never lose the route. An army that pursues a Wrinomo force
-  into the high passes arrives exhausted, altitude-sick, and uncertain of
-  where the next attack is coming from. The Wrinomo are already home. They
-  have never lost a decisive engagement because they never accept one.
-- **Access, not ownership.** The Wrinomo charge for passage; they do not
-  administer what passes through. This is a deliberate choice: empire is
-  expensive, requires garrison, requires administration, and creates the
-  kind of fixed asset that can be taken. The transit fee is more durable
-  than conquest. Less prestigious. Considerably more reliable.
-- **The confederation holds because the routes hold.** Pass-lord clans
-  dispute territory, water rights, and marriage alliances with the same
-  intensity as any mountain culture. The transit system is not disputed.
-  Dismantling it destroys everyone equally. This is what the loose central
-  authority actually protects — not sovereignty, not doctrine, but the
-  network that makes every clan's specific control worth anything.
+- **The knowledge that makes survival possible is the only real asset.**
+  Not geography, not armies, not maintained roads — the understanding of
+  what lives where, what season is passable, what the sign of danger looks
+  like before it becomes danger. This is what the Wrinomo own, what they
+  defend, and what they pass on. An army can hold land until a better army
+  arrives. Knowledge held in the throat of a living guide cannot be taken;
+  it can only be lost, which is why a dead route-keeper is treated as a
+  territorial catastrophe.
+- **Oral knowledge is secure knowledge.** Written information can be
+  stolen, copied, or sold by someone who was paid to keep it. Oral
+  knowledge dies with the traitor. Monster territories shift; seasonal
+  patterns change; what was safe last year may not be safe this year.
+  A living route-keeper updates their knowledge. A stolen map does not.
+- **The guarantee is the product.** A guide who cannot stake their
+  reputation on client survival is not a guide — they are a companion
+  dying alongside you. The Wrinomo sell expertise and they back it. A
+  clan whose clients consistently don't arrive has no further business,
+  which concentrates the mind wonderfully on being right about the terrain.
+- **Withdrawal is not retreat.** You never fight in terrain that favors
+  the enemy and you never stand still long enough to be surrounded. The
+  military doctrine is not passivity — it is the understanding that terrain
+  advantage is the only force multiplier that never runs out of supply.
+  The passes remember every army that pursued a Wrinomo force into them.
+  None of them held the ground afterward.
+- **The confederation holds because the reputation holds.** Clan disputes
+  are real. The guide-and-insurance network is not disputed. Dismantling
+  it destroys every clan's standing equally. The loose central authority
+  exists to protect the reputation system — not sovereignty, not doctrine,
+  but the collective credibility that makes any individual clan's guarantee
+  worth anything.
 
 ### Social Pattern
 
-Economical on first encounter — not unfriendly, simply efficient. They are
-assessing you: your cargo weight, your physical condition, your likely pace
-at altitude, your willingness to follow instruction in terrain where
-instruction is survival. This is professional evaluation, not social
-distance. A client who can manage the crossing receives what they paid for.
-A client who cannot is a problem that costs the guide more than the fee.
+Economical on first encounter — not unfriendly, precisely efficient. They
+are assessing you: your physical condition, your cargo, your likely pace
+in difficult terrain, your willingness to follow instruction when instruction
+means survival. This is professional evaluation before it is anything social.
+A client who can manage the terrain receives what they paid for. A client
+who cannot is a liability that costs the guide more than the fee.
 
-Long-term trade partners receive warmth. Strangers receive the crossing.
-The distinction is clear and not personal — it is simply that trust in
-high terrain is earned through demonstrated capability over multiple
-crossings, not through pleasantries at the base camp.
+Long-term clients receive warmth. New clients receive the service. The
+distinction is not coldness — it is that trust in dangerous terrain is
+earned through demonstrated capability over multiple successful crossings,
+not through pleasantries at the staging point.
 
-The route-keeper's neutrality is the culture's most important social value
-after the routes themselves. A route-keeper who takes sides in a clan
-dispute loses access to half the network. Every route-keeper knows this.
-The arbitration function — disputes between clans settled by route-keepers
-whose standing depends on being trusted by all parties — works because
-the incentive structure enforces the neutrality.
+The guide's neutrality is the culture's most important social value after
+the knowledge itself. A route-keeper who takes sides in a claim dispute
+loses standing with the parties on the other side, which is standing they
+need the next time a claim comes from that direction. The confederation's
+arbitration function works because the incentive structure enforces
+impartiality. This is not virtue. It is economics.
 
-Clan affiliation is legible through knot patterns on riding tack and harness.
-Visible to those who know the system; invisible to those who don't. A
-Wrinomo can place another's clan before they've said a word, at the distance
-of a horse's length, by the knot at the cheekpiece.
+Clan affiliation is legible through knot patterns on riding tack and
+harness — visible to those who know the system, invisible to those who
+don't. A Wrinomo places another's clan before they've exchanged a word,
+at the distance of a horse's length, by the knot at the cheekpiece.
+
+### The Guide and Insurance Economy
+
+In a world where overland travel is dangerous expedition, the Wrinomo
+do not own the roads — they make roads survivable. The economic model
+rests on two instruments.
+
+**The guide fee** covers expertise and presence: a Wrinomo guide's complete
+knowledge of the terrain being crossed — monster territories, seasonal
+movement patterns, the signs that tell you to stop before you can see why,
+the safe camps, the contingency routes when the primary route becomes
+unusable. You are paying for the knowledge that lives in a person and
+cannot be replicated by a map.
+
+**The insurance premium** covers what the guide cannot control: weather
+that changes faster than experience can predict, monster behavior outside
+known patterns, the genuinely unforeseeable. Paid into the clan pool
+before departure. Paid out in the event of loss beyond the guide's
+reasonable anticipation.
+
+The model works because the Wrinomo can price risk accurately. They know
+the terrain. They know the loss history — maintained orally by route-keepers,
+specific to each crossing corridor, updated every season. A clan with
+current knowledge of a given territory can set insurance rates that reflect
+actual rather than estimated risk. A client who tries to cross without a
+Wrinomo guide cannot self-insure against risk they cannot assess. This
+is the asymmetry that makes the business durable.
+
+Claim disputes go to arbitration by route-keepers whose standing depends
+on being trusted by all clans. A clan that loses too many claims — whose
+clients are not arriving, whose insurance pool is paying out faster than
+it fills — loses standing in the confederation faster than any martial
+challenge could accomplish. The reputation system enforces the expertise.
+The expertise justifies the premium.
+
+The Northern Strait tidal crossing at A'ardan sits slightly outside this
+model — the tide creates a genuine geographic bottleneck where the Wrinomo's
+value is partly control of the only available path at high tide. But even
+there, the Wrinomo's expertise in reading tidal timing, crossing hazards,
+and the specific threats of the strait approaches is what they are actually
+selling. Anyone can see the Footsteps. Not everyone survives crossing them
+without knowing when and how.
 
 ### Theology
 
-The Wrinomo most strategic geographic asset — the tidal crossing between
-A'Miz and A'Maar — is called the Footsteps of Eirendor. The straits that
-contain it bear the same name. This naming is not incidental.
+The Wrinomo's most strategic geographic asset — the tidal crossing between
+A'Miz and A'Maar — is called the Footsteps of Eirendor. The straits bear
+the same name. This naming is not incidental.
 
-Eirendor is the figure who walked the routes before anyone. The one who
-found the Footsteps when they were only a pattern in the tide; who mapped
-the high passes before the first Wrinomo clan followed; who is present in
-every crossing that goes well and absent from every one that doesn't. Not
-a creator deity. A guide. The first route-keeper. The one whose knowledge
-made all subsequent knowledge possible.
+Eirendor is the first guide. The one who walked the dangerous world before
+anyone else had mapped it — who found the Footsteps when they were only
+a pattern in the tide, who crossed the high passes before the first clan
+followed, who read the terrain signs that everyone who came after learned
+to read from her example. Not a creator deity. A guide. The first
+route-keeper. The one whose survival made all subsequent survival possible.
 
 The Wrinomo do not worship Eirendor in any formal sense the Church would
-recognize. They invoke her name at the start of a crossing the way a
-navigator checks their instruments — not prayer, orientation. When the
-tide is right and the Footsteps are visible, a Wrinomo guide speaks the
-name once, quietly, before the crossing begins. This is not liturgy. It
-is acknowledgment of whose road they are using.
+recognize. Before any significant crossing, a Wrinomo guide speaks her
+name once, quietly — not prayer, acknowledgment. We are using her road.
+She found it first. The name orients; it does not petition.
 
 The Church is aware that the Wrinomo's most important geographic crossing
-is named after a figure who is not Malachor, and that this figure appears
-in the folk theology of the broader Apostasy-adjacent underground. The
-Church's position on this has never been stated clearly, because stating
-it clearly would require either condemning the name of the crossing they
-depend on to project force across the Northern Strait, or acknowledging
-that the Wrinomo have an independent theological tradition that predates
-Church presence in the region. Neither option is comfortable. The ambiguity
-has persisted for centuries. The Wrinomo have never offered to resolve it.
+bears the name of a figure who also appears in the broader Apostasy-adjacent
+underground as a folk name for Nala. The Church has never clarified its
+position on this, because clarifying it would require either condemning
+the name of a crossing they depend on, or acknowledging that the Wrinomo's
+independent theological tradition predates Church presence in the region.
+The Wrinomo have never offered to resolve the ambiguity. They find the
+Church's discomfort mildly useful and have no reason to eliminate it.
 
 **Portable practice:**  
-The route-opening acknowledgment travels wherever Wrinomo guides work —
-the quiet invocation before any significant passage, regardless of geography.
-Off the mountain, this becomes a general practice before any undertaking
-where something could go wrong and someone needs to arrive. Not prayer.
-Orientation. Eirendor found the route. You are following it.
+The guide's acknowledgment before any significant undertaking travels
+wherever Wrinomo work — the quiet invocation before departure, regardless
+of geography. Off the mountain, this becomes a general practice before any
+venture where something could go wrong and someone needs to arrive. Not
+prayer. Professional orientation. Eirendor found the route. You are
+following it.
 
-The oral knowledge doctrine travels completely — a Wrinomo in any context
-treats knowledge worth protecting as knowledge worth not writing down. This
-occasionally produces friction with Takomai administrative instincts. Both
-parties understand the disagreement. Neither changes their practice.
-
-**Diaspora note:**  
-The Wrinomo do not diaspora in the standard sense. They guide and return.
-A Wrinomo presence in a foreign city is either temporary — a guide completing
-a route — or strategic, as at Nevarchester: a position established through
-trade and persistence to control a geographic chokepoint. Neither is a
-cultural quarter. The Wrinomo do not settle. They maintain positions.
+The oral knowledge doctrine travels completely. A Wrinomo treats knowledge
+worth protecting as knowledge worth not writing down. This produces reliable
+friction with Takomai administrative instincts wherever the two cultures
+share territory. Both parties understand the disagreement. Neither adjusts.
 
 ### Material Markers
 
-- **The crampon boots.** The most expensive thing most Wrinomo own;
+- **The crampon boots.** The most expensive item most Wrinomo own;
   crampon-compatible with multiple attachment points; worn at all elevations
-  as identity marker as much as function. A Wrinomo in lowland sandals is
-  either very far from home or making a statement about their current status.
-- **Altitude goggles.** Pale or smoked lens; standard equipment above the
-  snowline; worn around the neck below it. The mark of someone who regularly
-  operates at elevations where snow-blindness is a real consequence.
+  as identity as much as function. A Wrinomo in lowland footwear is either
+  very far from home or in an unusual situation.
+- **Altitude goggles.** Pale or smoked lens; standard above the snowline;
+  worn around the neck below it. The mark of someone who regularly operates
+  where glare blindness is a real consequence.
 - **Knot patterns on riding tack.** Clan identifier at the cheekpiece and
-  breast collar; specific patterns encoding pass-lord affiliation, corridor
-  rights, and arbitration standing. Readable to any Wrinomo; decorative to
-  everyone else.
+  breast collar; encodes clan affiliation, corridor specialization, and
+  arbitration standing. Readable to any Wrinomo; decorative to everyone else.
 - **Route-keeper's cord.** A length of knotted cord worn at the wrist or
-  kept in a specific pocket; the knots encode mnemonics for specific route
-  segments — not the route itself, which lives in memory, but the key
-  decision points. A route-keeper's cord is never shown to outsiders. Its
-  loss is treated with the same gravity as a death.
+  kept in a specific pocket; the knots are mnemonics for critical decision
+  points in specific crossings — not the knowledge itself, which lives in
+  memory, but the skeleton that holds it. Never shown to outsiders.
+  Its loss is treated with the same gravity as a death in the clan.
 
 ### Clothing
 
-Layered for extreme temperature variance — mornings and nights on the high
-plains are brutal; midday sun at altitude equally punishing; the same garment
-system must manage both.
+Layered for extreme temperature variance — mornings and nights in the high
+terrain are brutal; midday sun at altitude equally punishing; the same
+system must handle both.
 
-- **Base layers:** Tight wool or treated linen; wind-resistant; wicks
-  efficiently because sweat at altitude in wind is the fastest path to
-  hypothermia
-- **Outer layers:** Heavy felt or hide cloaks cut for riding; removable
-  panels for temperature management; nothing that catches on harness
-- **Riding integration:** The clothing is designed around being on horseback;
-  everything fits under or over saddle gear without adjustment
-- **Altitude goggles:** Around the neck below snowline; on the face above
-  it; the smoked lens is the mark
+- **Base layers:** Tight wool or treated linen; wind-resistant; moisture-wicking
+  because sweat at altitude in wind is the fastest path to hypothermia
+- **Outer layers:** Heavy felt or hide cloaks cut for riding and movement;
+  removable panels for temperature management; nothing that catches on
+  harness or rock
+- **Riding integration:** The clothing functions around being mounted; fits
+  under and over saddle gear without adjustment
+- **Altitude goggles:** Around the neck below snowline; on the face above it
 - **Crampon boots:** Always; the boot style is the immediate Wrinomo
-  identifier in any port city or lowland market
-- **Status through tack, not dress:** A pass-lord and their junior guide
-  wear functionally identical clothing; you read the difference in the
+  identifier in any lowland port or city market
+- **Status through tack, not dress:** A senior route-keeper and a junior
+  guide wear functionally identical clothing; the difference is in the
   knot patterns on the horse, not the cut of the coat
 
 ### Voice and Manner
 
-Economical. The assessment is always running — capability, cargo weight,
-probable pace, likelihood of following instruction. Not cold; the Wrinomo
-with an established trade partner are genuinely warm and occasionally
-very funny in a dry, high-altitude register. With a new client, they are
-professional. The professionalism is not distance. It is the manner of
-people who know what it costs when a crossing goes wrong.
+Economical. The assessment runs continuously — capability, cargo, probable
+pace, reliability under pressure. Not cold; a Wrinomo with an established
+client relationship is genuinely warm and occasionally very funny in a dry,
+high-altitude register. With a new client, they are professional. The
+professionalism is not distance — it is the manner of people who know
+exactly what it costs when a crossing goes wrong.
 
-Practical questions, practical answers. They do not offer information that
-wasn't requested, partly because in the passes information is cargo and
-partly because strangers don't know which questions to ask.
+Practical questions, practical answers. They don't offer information that
+wasn't requested, partly because in dangerous terrain information is cargo
+and partly because strangers don't know which questions to ask anyway.
 
 The humor surfaces once confidence is established. Tends toward assessment
 of other people's capabilities in terrain they underestimated — delivered
@@ -226,10 +258,8 @@ in the same tone used to describe favorable weather. Outsiders sometimes
 don't realize they're being told something instructive until several
 sentences later.
 
-The route-keeper register is more formal — the knowledge they carry is old
-and serious and they speak about it accordingly. Route-keepers at arbitration
-are the most precisely spoken people in the confederation; the words carry
-weight because the decisions do.
+Route-keepers in arbitration are the most precisely spoken people in
+the confederation. The words carry weight because the rulings do.
 
 ### Naming Conventions
 
@@ -237,17 +267,18 @@ Iranian/Central Asian phonetic roots — hard consonants and open vowels;
 names suited to calling across wind at distance.
 
 **Given names:**  
-Masculine: Arshan, Davar, Mirath, Suravan, Ardesh, Phravan, Kavesh, Zoran,
-Tarvel, Miran  
-Feminine: Dara, Roxan, Arsha, Vael, Suren, Mirava, Tarsha, Phravi, Kavan,
-Zoreth  
+Masculine: Arshan, Davar, Mirath, Suravan, Ardesh, Phravan, Kavesh,
+Zoran, Tarvel, Miran  
+Feminine: Dara, Roxan, Arsha, Vael, Suren, Mirava, Tarsha, Phravi,
+Kavan, Zoreth  
 Neutral: Ariv, Desh, Kavar, Mirel, Surath, Phran, Zavel
 
-**Titles:** Route-keeper (the highest standing; carrier of the full oral
-record for a specific corridor), Crossing-warden (A'ardan-specific;
-controls the tidal crossing), High Arbiter (inter-clan dispute resolution;
-must be a route-keeper in good standing with all parties), Strait-lord
-(the pass-lord whose clan controls the Northern Strait approach)
+**Titles:** Route-keeper (carrier of the full crossing knowledge for a
+specific corridor; highest standing in the confederation), Crossing-warden
+(A'ardan-specific; specialist in tidal crossing conditions and hazards),
+High Arbiter (claim and clan dispute resolution; must hold route-keeper
+standing trusted by all parties), Strait-lord (the clan whose specialists
+manage the Northern Strait approaches)
 
 ---
 
@@ -257,22 +288,22 @@ must be a route-keeper in good standing with all parties), Strait-lord
 separable here than for most cultures.*
 
 The Wrinomo are the high plains, the mountain corridor, and the Northern
-Strait crossing. The culture does not exist in full form without the terrain
-that produced it: the passes that define military doctrine, the altitude
-that shaped the body, the tidal crossing that anchors the entire transit
-network's value. A Wrinomo away from the passes retains the doctrine and
-the oral tradition, but the route-songs have nowhere to point.
+Strait crossing. The knowledge that constitutes their entire cultural and
+economic identity was built in specific terrain over generations and cannot
+be fully replicated elsewhere. A Wrinomo away from their territory retains
+the doctrine, the oral tradition, and the guide instinct — but the knowledge
+points to ground they are no longer standing on.
 
-What cannot be practiced away from the terrain: the full route-keeper
-oral tradition in its functional form (routes that don't exist in the new
-geography); the altitude adaptation at its most acute; the mounted archery
-withdrawal doctrine in the specific terrain it was developed for.
+What cannot be practiced away from the terrain: the crossing knowledge
+in its functional form; the monster-territory and seasonal-movement data
+that underpins the insurance model; the altitude adaptation at its most
+acute; the mounted withdrawal doctrine in the specific terrain it was
+developed for.
 
-What travels: the oral knowledge doctrine as philosophy; the withdrawal
-instinct applied to any conflict; the transit-fee economic model applied
-to whatever geographic or informational chokepoint is available; the
-Eirendor acknowledgment before any significant undertaking; the crampon
-boots, always.
+What travels: the oral knowledge doctrine as philosophy; the guide-and-
+guarantee economic model applied to whatever dangerous territory or
+information asymmetry is available; the Eirendor acknowledgment before
+any significant undertaking; the crampon boots, always.
 
 **City files:** A'ardan (TBD), Queensmount (TBD), Nevarchester (TBD)
 
@@ -280,59 +311,58 @@ boots, always.
 
 ## Contact at the Crossing
 
-Others come to the Wrinomo. This is not a posture — it is geography.
-The Northern Strait crossing and the mountain passes are not optional
-routes for cultures that need to move between A'Miz and A'Maar. The
-Wrinomo do not need to advertise. The clients arrive.
+Others come to the Wrinomo. This is not posture — it is the nature of the
+service. The Northern Strait crossing and the mountain approaches are not
+optional for cultures that need to move between A'Miz and A'Maar overland.
+The Wrinomo do not advertise. The clients arrive.
 
-At A'ardan and Queensmount, the dynamic is straightforward: you need to
-cross, you negotiate the rate, you follow the guide's instructions, you
-arrive. Long-term trade partners receive better rates over time — not
-because the Wrinomo are generous, but because reliable clients are less
-expensive than constantly vetting new ones. The warmth follows reliability.
+At the staging points, the dynamic is direct: you need to cross, you retain
+a guide, you pay the guide fee and the insurance premium, you follow
+instruction. Long-term clients receive better rates over time — not from
+generosity but because their loss history is known and their capability
+is established, which reduces the actual risk and therefore the actual
+cost. The warmth follows the track record.
 
 At destination points, Wrinomo guides are present in the professional
-register. They are completing a route and waiting for the return window.
-Social interaction at destinations is transactional — not coldly, but
-clearly. They are not settled. They are not staying. The crossing is
-not finished until they return.
+register. They are completing a crossing and waiting for the return.
+Social interaction at destinations is transactional — clearly, not coldly.
+They are not settled. They are not staying. A crossing is not complete
+until the guide returns.
 
 The Astelli tolerate Wrinomo presence at Nevarchester because the cost
 of removal exceeds the cost of tolerance. The Wrinomo established the
-position through trade and persistence rather than any territorial claim.
-Both parties understand exactly what the arrangement is and have never
-needed to discuss it.
+position through expertise and persistence. Both parties understand the
+arrangement precisely and have never needed to discuss it.
 
-The Church wants the strait crossing available for force projection across
-the Northern Strait. The Wrinomo charge for it. The rate is not negotiable
-in any meaningful sense. The Church has paid it for several centuries. The
-conversation about whether divine authority should be subject to transit
-fees has never been resolved, primarily because the Wrinomo have no
-interest in having it.
+The Church wants the Northern Strait available for force projection. The
+Wrinomo provide the guide service and charge for it. The conversation
+about whether divine authority should require guide fees has never been
+resolved — the Church keeps paying the fees, which answers the practical
+question if not the theological one.
 
 The Caelori face the Wrinomo across the Northern Strait — two cultures
-that take territory and their own customs seriously, neither controlling
-the other's shore, the relationship old and cautious with its own protocols.
-The Wrinomo know the Caelori approach to agreements; the Caelori know
-the Wrinomo approach to terrain. Both parties respect what the other
-controls without much warmth.
+that take their own territory and customs seriously, neither controlling
+the other's shore. The relationship is old, cautious, and has its own
+established protocols. The Wrinomo know the Caelori take agreements
+seriously. The Caelori know the Wrinomo know their terrain. Mutual respect
+without warmth.
 
 ---
 
 ## Narrative Identifiers
 
 - **At a glance:** Lean high-endurance frame; layered practical clothing
-  that reads as functional rather than fashionable; crampon boots regardless
-  of terrain; altitude goggles around the neck; the knot patterns on tack
-  if you're seeing them mounted; the economy of movement — nothing wasted
-- **Up close:** Assessing you — cargo, pace, condition, reliability at
-  altitude; practical questions with no social padding; the professional
-  warmth that comes with established relationship and not before it; the
-  knot cord at the wrist that is not shown and not explained
+  that reads as functional not fashionable; crampon boots regardless of
+  terrain; altitude goggles around the neck; the knot patterns on tack
+  if mounted; the economy of movement — nothing wasted
+- **Up close:** Assessing you — capability, cargo, probable pace, reliability
+  under pressure; practical questions with no social padding; professional
+  warmth available to established clients; the route-keeper's cord at the
+  wrist that is not explained and not shown
 - **The tell:** In any enclosed space, a Wrinomo has identified the high
-  route out before they have identified the exits at floor level. Not
-  anxiety. Professional habit. Everything has a route through it. Finding
-  the high line is what they do.
+  route out before identifying the exits at floor level. Not anxiety.
+  Professional habit. Everything has a route through it. Finding the
+  high line is what they do.
 
 ---
 
