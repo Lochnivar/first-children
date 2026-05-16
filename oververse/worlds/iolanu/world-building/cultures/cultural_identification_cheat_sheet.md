@@ -1,136 +1,151 @@
 # Cultural Identification Cheat Sheet
 
-**Category:** World-Building / Reference (Provisional - from AI-DUMP2 discussion)
-**Source:** AI-DUMP2 Cultural Identification Cheat Sheet
-**Note:** This information comes from AI-DUMP2 discussion and may be exploratory or subject to change
+Quick-reference for scene writing. Physical identifiers, narrative cues,
+and the single tell that persists regardless of context. For full detail
+see individual culture files.
 
-## Overview
-A comprehensive cheat sheet for identifying Iolanu cultures, with Earth references, physical traits, clothing cues, narrative identifiers, and recreation seeds. Each entry contains fusion notes or lineage updates to help quickly identify and describe members of each culture.
+---
 
-## Cultures
+## Kitzengai
+**Earth Reference:** Vietnamese river merchant energy × Phoenician commercial reach  
+**Skin:** Warm amber to light bronze  
+**Hair:** Dark brown to black; neat and reserved; elaborates with earned familiarity  
+**Eyes:** Dark brown, occasionally deep amber  
+**Build:** Lean and compact; deliberate stillness  
+**At a glance:** Nothing immediately readable — the reserve reads before anything else; warm-toned, well-dressed, unremarkable until they're not  
+**Up close:** Warmth that arrives once reserve lifts; the fox pendant; the most informed person in the room who volunteered the least  
+**Tell:** Touches the fox pendant when something significant happens — not superstition, location. Finding their footing in the moment relative to the ancestor line.
 
-### Kitzengai — Vertical Aquatech Monastics
-- **Earth Reference:** Tibetan monasteries × Aztec aqueducts × Balinese water temples
-- **Skin:** Pale olive to bronze, mist-stained
-- **Hair:** Black to dark brown, looped braids or topknots with carved wood pins
-- **Eyes:** Deep brown, amber, slate gray
-- **Build:** Lean, tendon-strong climbers
-- **Clothing:** Harness-integrated robes, mist veils, bone prayer chimes
-- **Narrative Identifiers:** Mineral-stained skin, rope harness lines, echo-trained posture
-- **Recreation Seed:** Kitzengai mist-climbers with bone chimes and aqueduct harnesses
+---
 
-### Veylori — Bayou Courtiers
-- **Earth Reference:** Venetian lagoon × Creole bayou
-- **Skin:** Olive to deep bronze, palm-shade pallor
-- **Hair:** Dark brown to black, silky to coiled, styled with shell pins or turbans
-- **Eyes:** Moss green, amber, deep brown
-- **Build:** Lithe, barefoot-trained balance
-- **Clothing:** Layered robes, translucent shawls, coin-fringe belts, spice pouches
-- **Narrative Identifiers:** Scented garments, coin jingles, barefoot plank-step
-- **Recreation Seed:** Veylori courtiers in translucent shawls and coin belts on spice-scented planks
+## Caelori
+**Earth Reference:** Celtic oral tradition × Māori tattoo and performance culture  
+**Skin:** Pale; weather-touched at cheeks and hands  
+**Hair:** Red to auburn — the primary at-distance identifier  
+**Eyes:** Grey, green, or pale blue  
+**Build:** Lean and wind-hardened  
+**At a glance:** Red hair; pale skin; tattoo visible at collar and wrist; clan-pattern cloak in earth tones  
+**Up close:** Reads the tattoo before the face; longer silences than the surrounding culture; direct speech with no pleasantries that aren't meant  
+**Tell:** When something significant happens, traces a specific point in their own tattoo — locating themselves in their lineage before responding.
 
-### Llosca — Andalusian Grassland Nobility
-- **Earth Reference:** Andalusian Spain × Arabian Nights
-- **Skin:** Warm olive to golden bronze
-- **Hair:** Dark brown to black, glossy and braided or veiled
-- **Eyes:** Amber, molten brown, sea-green
-- **Build:** Lithe dancers, sturdy riders
-- **Clothing:** Flowing gowns, diaphanous veils, coin belts, embroidered bodices
-- **Narrative Identifiers:** Perfumed garments, hennaed hands, veil shimmer
-- **Recreation Seed:** Llosca veil-dancers with hennaed hands and embroidered bodices on golden plains
+---
 
-### Orindi — Magnet-Safe Desert Ascetics
-- **Earth Reference:** Scandinavian cold-adapted × Saharan tech minimalism
-- **Role (canon):** Skimmer pilots and **sand-floor gatekeepers** at Rathen interfaces (non-interference pact with peaks; hard line on egress)
-- **Skin:** Very pale to sallow
-- **Hair:** Blond to platinum, often with dark roots
-- **Eyes:** Pale gray, icy blue, silvery green
-- **Build:** Narrow, endurance-built frames
-- **Clothing:** Reflective lenses, minimalist fastenings, stamped tunics
-- **Narrative Identifiers:** Pale skin, stamped wrists, magnet-safe fittings; **Rathen Veil** in route talk (virga curtain under peaks)
-- **Recreation Seed:** Orindi pale ascetics with stamped tunics and reflective lenses in magnetic desert
+## Thohalla
+**Earth Reference:** Old Testament covenant motifs × Romani caravan resilience  
+**Skin:** Bronze to warm tan  
+**Hair:** Dark brown to black; long and braided; braid style varies by caravan  
+**Eyes:** Deep brown or warm hazel  
+**Build:** Agile and muscular; the fitness of people who walk everywhere and defend their camp every night  
+**At a glance:** Muted earth tones with one vivid caravan identifier; visible repairs throughout the gear; the quality of readiness in how they stand  
+**Up close:** Economical speech; clean transactions; they know which exit they would use before they know your name  
+**Tell:** In a settled city, always slightly oriented outward — aware of where the caravan is relative to where they are. The caravan is the fixed point; everything else is temporary geography.
 
-### Caelori — Coastal Ritualists of the Salt Circle
-- **Earth Reference:** Māori × Celtic coastal tribes
-- **Skin:** Pale ivory to fair, windburned undertones
-- **Hair:** Red to auburn, braided with feather cords
-- **Eyes:** Bright green
-- **Build:** Compact, muscular, ritual-scarred
-- **Clothing:** Flax cloaks, feathered mantles, civic badges
-- **Narrative Identifiers:** Facial tattoos, carved scar motifs, salt-circle rites
-- **Recreation Seed:** Caelori ritualists with feathered cloaks and salt-circle scars on stormy shores
+---
 
-### Maneth — Harbor Oathkeepers of the Fogbound Steps
-- **Earth Reference:** Victorian England × Norse guildcraft
-- **Skin:** Pale to fair
-- **Hair:** Ash blond or dark brown, tied back with cords or shaved patterns
-- **Eyes:** Steel-gray or pale blue
-- **Build:** Wiry, cold-weather adapted
-- **Clothing:** Wool doublets, rope belts, mourning bands, fur collars
-- **Narrative Identifiers:** Oath-ring pendants, rune-marked cairns, soot-streaked cuffs
-- **Recreation Seed:** Maneth oathkeepers with soot-streaked cuffs and rune-marked cairns in harbor fog
+## Orindi
+**Earth Reference:** Polynesian navigator tradition × Icelandic catastrophe-as-home stoicism  
+**Skin:** Very pale to sallow — magnetic flux adaptation over generations  
+**Hair:** Light blond to platinum; often with darker roots  
+**Eyes:** Pale gray, icy blue, or silvery green; light-sensitive in bright non-desert environments  
+**Build:** Lean endurance frames; strong through core and legs  
+**At a glance:** Very pale skin; light blond hair; non-ferrous fittings on everything; the upward look  
+**Up close:** Flat affect that isn't coldness; practical questions; dry understatement delivered in the same tone as ordinary conversation  
+**Tell:** In any space, has clocked the overhead clearance before the exits. Not anxiety. The peaks drifted. You watched them. The ceiling is just a peak that isn't moving.
 
-### Astelli — Botanical Terrace Artisans
-- **Earth Reference:** Renaissance Florence × Japanese rooftop horticulture
-- **Skin:** Fair to light olive
-- **Hair:** Dark brown to chestnut, braided or coiled with Florentine ribbons and Japanese pins
-- **Eyes:** Warm brown or green, almond-shaped with soft lids
-- **Build:** Slender, poised hands, graceful movement
-- **Clothing:** Gardening smocks, pruning aprons, embroidered cloaks
-- **Narrative Identifiers:** Botanical embroidery, bamboo trellises, garden scent, terrace rituals
-- **Recreation Seed:** Astelli terrace artisans with Florentine-Japanese fusion, pruning citrus under wisteria
+---
 
-### Rathen — Terrace Graft-Keepers
-- **Earth Reference:** Incan terracecraft × Scandinavian structural craft
-- **Category (canon):** Legal/social label for **peak-bound gifted and kin** — **mongrel** exile population, **not** an Orindi offshoot; QM gift first in **ancient Thohalla**, now widespread by inheritance
-- **Skin:** Fair to medium olive with altitude pallor
-- **Hair:** Ash blond to platinum, tightly braided or crown-coiled
-- **Eyes:** Glass blue, pale gray, silvery green
-- **Build:** Compact, dense-boned, powerful legs
-- **Clothing:** Compression harnesses, stepped embroidery, slate badges, woven sashes
-- **Narrative Identifiers:** Terrace-trained stance, grafting tools, civic knotwork; **Rathen Oath** / **Long Walk** as dread horizon; **forbidden-air** teaching as heresy
-- **Recreation Seed:** Rathen graft-keepers with ash blond braids, glass-blue eyes, and stepped embroidery on misty terraces
+## Llosca
+**Earth Reference:** Canaanite sacred-city culture × Andalusian political model × Arabian Nights aesthetic × Sufi mystic brotherhood structure  
+**Skin:** Warm olive to golden bronze  
+**Hair:** Dark brown to black; glossy; long or loose braids; styled deliberately  
+**Eyes:** Deep amber, molten brown, or sea-green; heavy lashes; expressive brows  
+**Build:** Lithe and deliberate; posture and movement are culturally trained  
+**At a glance:** The dress standard (Burmallosca: inverted; Llosnagar: private); warm olive to golden skin; dark glossy hair; the scent, which arrives before the face does  
+**Up close:** Deliberate presence; sustained eye contact; unhurried warmth; every word and gesture carrying intent; the coin belt moving with the body  
+**Tell:** The scent. A Llosca anywhere in a city can be placed by scent before sight. A Llosca without scent has either lost something or is hiding, and other Llosca know the difference.
 
-### Wrenamo — Lake Magistrates (updated fusion)
-- **Earth Reference:** Swiss lake engineers × Vietnamese stilt towns
-- **Fusion Notes:** Explicit Swiss–Vietnamese facial and tailoring fusion; alpine structure blended with waterwise stilt-town adaptation
-- **Skin:** Olive to light tan with occasional alpine rosiness on cheeks and nose bridge
-- **Hair:** Dark brown to sun-streaked, mostly straight to gently wavy; practical low buns, short cropped backs, or shoulder braids with reed/cord wraps
-- **Eyes:** Freshwater blue, slate green, warm brown; include glassy pale blues in Orindi lines
-- **Build:** Broad-shouldered commons, finer magistrates; compact grounded stance for lake work
-- **Clothing:** Indigo/ochre weaves, reed-knot badges in ochre/bronze, semi-transparent organza aprons; Swiss reinforced seams with Vietnamese drape logic
-- **Narrative Identifiers:** Ledger-callused fingers, water-stained hems, reed-knot insignia, civic sashes with stepped embroidery
-- **Portrait Fusion Cues:** Moderate-to-high cheekbones with slightly broader zygomatic width; straighter nasal bridge with softened tip; gently rounded forehead with lower, softer brows; light-olive to warm-tan skin with cool undertones and subtle alpine rosiness; hair usually straight to gently wavy; eyes slightly larger almond-to-oval shape leaning Swiss proportions
-- **Recreation Seed:** Wrenamo magistrates: Swiss-Vietnamese faces, light-olive to tan skin, high cheekbones with softened jaw, freshwater blue/slate eyes, sun-streaked dark hair in low buns, indigo/ochre weaves, reed-knot badges, organza aprons on stilted lake platforms
+---
 
-### Takomai — Civic Engineers
-- **Earth Reference:** Imperial China × Roman public works
-- **Skin:** Warm olive to light brown
-- **Hair:** Black to dark brown, bound in utilitarian styles
-- **Eyes:** Dark brown to deep hazel
-- **Build:** Broad-shouldered officials, lithe clerks
-- **Clothing:** Structured robes, embroidered insignia, reinforced tunics
-- **Narrative Identifiers:** Scroll cases, survey tools, standardized insignia
-- **Recreation Seed:** Takomai engineers with scroll cases and embroidered insignia drafting public works
+## Losceati
+**Earth Reference:** Occitan troubadour tradition × Arabian Nights merchant storytelling  
+**Parent culture:** Llosca drift — behavioral and aesthetic, not theological  
+**Skin:** Warm olive to golden bronze (Llosca baseline)  
+**Hair:** Dark; elaborately styled with romantic ornamentation — flowers, verse-fragments, courtship tokens  
+**Eyes:** Deep and expressive; eye contact carries the Llosca intensity  
+**Build:** Llosca posture redirected — stillness oriented toward voice and word rather than movement  
+**At a glance:** Llosca coloring in a conservative register; full Arabian Nights aesthetic vocabulary without the exposed dress standard; romantic tokens visible on clothing; the garment's border work tells a story if you can read it  
+**Up close:** Llosca warmth expressed entirely through language and eye contact; words chosen with visible care; the merchant and the poet are the same person  
+**Tell:** When something significant happens — a deal, a declaration, a breach — reaches for language before anything else. Not to describe what happened. To frame it.
 
-### Thohalla — Nomadic Fairwrights
-- **Earth Reference:** Eurasian steppe nomads × Romani traveling fairs
-- **Skin:** Bronze to warm tan
-- **Hair:** Dark brown to black, long and braided
-- **Eyes:** Deep brown or warm hazel
-- **Build:** Agile, muscular, travel-trained
-- **Clothing:** Portable textiles, layered wraps, ankle bells, harness belts
-- **Narrative Identifiers:** Colorful pennants, bell sounds, braided hair in motion
-- **Recreation Seed:** Thohalla fairwrights with ankle bells and pennants dancing through steppe fairs
+---
 
-## Usage Notes
-- **Recreation Seeds:** Drop into future chats to recall the full profile
-- **Quick Reference:** Each entry designed for quick identification
-- **Fusion Approach:** Earth reference + Iolanu adaptation
+## Maneth
+**Earth Reference:** Victorian civic formality × Norse-Hittite foundation  
+**Skin:** Pale to fair; weather-touched at hands and face  
+**Hair:** Ash blond to dark brown; silver early in some lineages; worn close and practical  
+**Eyes:** Steel grey, pale blue, or muted green; steady and direct  
+**Build:** Varied by occupation; weathered hands; the posture of readiness that is not tension  
+**At a glance:** Structured coat; high collar; guild or house brooch at the clasp; weapons visible and unremarkable  
+**Up close:** Precise speech; formal address that softens with relationship but never becomes approximate; direct statement with no trailing qualifiers  
+**Tell:** When a Maneth agrees to something — even casually, even briefly — they have treated it as an agreement. The other party learns this later. The Maneth are never surprised by this discovery.
 
-## Notes
-- **Status:** This information comes from AI-DUMP2 discussion and may be exploratory
-- **Completeness:** Appears comprehensive but may be subject to change
-- **Integration:** Should be checked against existing culture files for consistency
-- **Verification:** May need confirmation against other sources
+---
 
+## Astelli
+**Earth Reference:** Renaissance Florence × Edo-period Japanese aesthetic philosophy  
+**Skin:** Fair to light olive; filtered-light pallor in terrace workers  
+**Hair:** Dark brown to chestnut; braided with seed pins (private) or lacquered rod (public)  
+**Eyes:** Warm brown or green; focused attention that reads as either intense interest or mild judgment  
+**Build:** Lean and precise; fine-motor strength; the work is sustained and careful  
+**At a glance:** The sash in formal contexts; bearing of someone who has been evaluated since childhood; the coded botanical embroidery if you know the growth-stage vocabulary  
+**Up close:** Oblique speech where the compliment is information-gathering and the observation is the argument; the complete different person who appears behind the screens  
+**Tell:** The hands. Always the hands. Soil staining that doesn't wash out; pruning calluses. No register hides it. They don't try. They simply change what it means.
+
+---
+
+## Takomai
+**Earth Reference:** Imperial Chinese examination culture × Roman civic engineering  
+**Skin:** Warm olive to light brown  
+**Hair:** Black to dark brown; utilitarian bound (working) or formal arrangement (ceremony)  
+**Eyes:** Dark brown to deep hazel; the habit of reading the room administratively before engaging it  
+**Build:** Varied by occupation; good posture from examination training since childhood  
+**At a glance:** Structured robe with rank insignia at collar and sleeve; examination seal visible; the bearing of someone who has been assessed and knows their standing  
+**Up close:** Categorizing you — not hostilely, but categorically; the questions they ask are organizing questions; treat casual agreements as agreements because it is now in the record  
+**Tell:** When something goes wrong, first instinct is to find the authorization failure in the chain — not to assign blame, but to identify where in the system the breakdown occurred. They believe most problems are procedural. They believe it absolutely.
+
+---
+
+## Wrinomo
+**Earth Reference:** Alpine guide tradition × Mongol steppe culture  
+**Skin:** Olive to medium tan; sun-darkened at altitude in ways that don't match lowland tanning  
+**Hair:** Dark brown to black; worn practical and close  
+**Eyes:** Dark brown to near-black; trained for distance assessment  
+**Build:** Lean high-endurance; deceptively strong through legs and core; economy of movement — nothing wasted  
+**At a glance:** Crampon boots regardless of terrain; layered practical clothing; altitude goggles around the neck; knot patterns on tack if mounted  
+**Up close:** Assessing capability, cargo, probable pace, reliability under pressure; practical questions with no social padding; professional warmth available to established clients  
+**Tell:** In any enclosed space, has identified the high route out before the floor-level exits. Not anxiety. Professional habit. Everything has a route through it.
+
+---
+
+## Veylori
+*(File rewrite pending — entries below are provisional)*  
+**Earth Reference:** Venetian lagoon × Creole bayou  
+**Skin:** Olive to deep bronze  
+**Hair:** Dark brown to black; styled with shell pins or turbans  
+**Eyes:** Moss green, amber, deep brown  
+**Build:** Lithe; barefoot-trained balance  
+**At a glance:** Layered robes, translucent shawls, coin-fringe belts  
+**Tell:** *TBD pending rewrite*
+
+---
+
+## Rathen
+*(Circumstantial variant — class treated as culture; file approach TBD)*  
+**Earth Reference:** *TBD*  
+**Notes:** Legal/social category for peak-bound gifted and kin; mixed population, not an ethnic group; quantum gift first arose in ancient Thohalla, spread through inheritance. Physical traits are mixed; cultural identity is defined by shared legal condition rather than shared origin.  
+**Tell:** *TBD pending file approach decision*
+
+---
+
+*For full detail on any culture, see the individual culture file.*  
+*Template and variant guidelines: [template.md](template.md)*
