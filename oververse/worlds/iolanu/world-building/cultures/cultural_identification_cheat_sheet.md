@@ -128,14 +128,38 @@ see individual culture files.
 ---
 
 ## Veylori
-*(File rewrite pending — entries below are provisional)*  
-**Earth Reference:** Venetian lagoon × Creole bayou  
-**Skin:** Olive to deep bronze  
-**Hair:** Dark brown to black; styled with shell pins or turbans  
-**Eyes:** Moss green, amber, deep brown  
-**Build:** Lithe; barefoot-trained balance  
-**At a glance:** Layered robes, translucent shawls, coin-fringe belts  
-**Tell:** *TBD pending rewrite*
+**Earth Reference:** Venetian merchant aristocracy × Louisiana Creole bayou culture  
+**Skin:** Olive to deep bronze; sun-and-shadow patterning from canopy life; variation from centuries of absorbing outside lineages  
+**Hair:** Dark brown to black; shell-pinned braids or turbans (canopy); tied back and practical (dock)  
+**Eyes:** Deep brown, amber, or moss green; amber runs in specific canopy family lines  
+**Build:** Lean and balanced; barefoot-trained stillness; balanced on surfaces as if they expect them to move  
+**At a glance:** Translucent layered shawls; coin-fringe belt that moves with the body; barefoot or near-barefoot regardless of register; the quality of stillness in how they stand  
+**Up close:** Warm before anything else; the pleasantry is genuine and also assessment; the sense that you are receiving the accessible version of this person and there is another version not yet offered; the story told as apparent digression that turns out to have been the point  
+**Tell:** In any social gathering, has already read the gap between who is speaking and who is deciding. Not tactical — habitual. The canopy is never where you first look for it. They have never stopped looking for it.
+
+---
+
+## Khalesar
+**Earth Reference:** Spartan martial discipline × Georgian feast tradition × Elamite civic matriarchy  
+**Skin:** Olive to warm tan; highland UV weathering at face and hands  
+**Hair:** Dark brown to near-black; practical in active contexts; lineage braid at back of head for civic women in formal contexts  
+**Eyes:** Dark brown to near-black; the stillness in the gaze reads as assessment because it is  
+**Build:** Highland-hardened across both genders; the stillness of people who complete what they start  
+**At a glance:** Covenant cord at the wrist on everyone; warrior's marking on those who train devotionally; lineage braid on civic women; highland earth tones; the quality of people waiting to begin the next thing  
+**Up close:** Direct in the active domain; fully warm in the feast domain — and do not mistake the warmth for the softer option; the tamada's toast requires you to have paid attention; the correction for error is thorough  
+**Tell:** They complete the form. Whatever was begun is finished. The prayer said to its end in an empty room. The toast given in full whether or not the cup is raised. The covenant act performed to its conclusion regardless of acknowledgment. Always.
+
+---
+
+## Pelessar
+**Earth Reference:** Minoan thalassocracy × Sea Peoples × Caribbean Pirate/Port Royal  
+**Skin:** Warm olive to deep bronze; ocean-UV weathering at face and forearms in patterns that don't match land-based tanning  
+**Hair:** Dark brown to black; city-state specific — gold/bronze pins and wound braids (Qens); rope-work and bone (Te'Ar); whatever the occasion requires (Teigh)  
+**Eyes:** Dark brown to amber; amber runs in specific Qens lineages  
+**Build:** Lean and strong through core and upper body; stance wider than the surface requires; bare feet regardless of context  
+**At a glance:** Warm olive to bronze with ocean weathering; dark hair with city-state ornamentation; the wide stance; bare feet; hull-marked vessel in the harbor if they arrived by sea  
+**Up close:** Charming before anything; the warmth is genuine and so is the assessment underneath; the story that turns out to be the negotiation; the sense that there is a version of this conversation you are not being offered yet  
+**Tell:** Always knows exactly how far they are from open water. Not the harbor — open water. The harbor is controlled space. This number is always current.
 
 ---
 

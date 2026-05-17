@@ -17,7 +17,7 @@ sophistication, and absorbed the institution that tried to eliminate them
   survival strategy — medieval al-Andalus is where three religious
   cultures lived in genuine if tense proximity and absorbed rather than
   eliminated each other; that is the exact political dynamic between
-  the Llosca and the Church; the Hierarchy of Lust is a convivencia
+  the Llosca and the Church; the Hierarchy of the Loving Heart is a convivencia
   outcome. The trading networks and urban sophistication that made
   Llosca cities politically untouchable.
 - **Arabian Nights aesthetic:** The sensory and visual register of
@@ -130,7 +130,7 @@ because those are the sacred areas. The body's desire-centers are not
 shameful. They are the point.
 
 This stream is what Burmallosca preserved in full. Public coupling is
-not permitted there — it is encouraged, because the Hierarchy of Lust
+not permitted there — it is encouraged, because the Hierarchy of the Loving Heart
 built doctrine around what was already being practiced, and the doctrine
 says it is worship.
 
@@ -148,7 +148,7 @@ a deepening. What Burmallosca puts in the street, Llosnagar puts
 behind a door. Same theology. Different understanding of what it means
 to take it seriously.
 
-**The Hierarchy of Lust as synthesis:**  
+**The Hierarchy of the Loving Heart as synthesis:**  
 One of the Church's five cardinal hierarchies; the only one that
 originated by absorbing a pre-existing cultural practice rather than
 inventing doctrine. The outer doctrine maps to the Canaanite stream —
@@ -272,7 +272,7 @@ trading authority)
 
 Burmallosca is the Canaanite stream at full expression: the dress
 standard in daily public life, public coupling as worship, the
-Hierarchy of Lust at full institutional presence. The city the rest
+Hierarchy of the Loving Heart at full institutional presence. The city the rest
 of Iolanu either wants to visit or refuses to discuss.
 
 Llosnagar is the Sufi evolution at full expression: the same theology

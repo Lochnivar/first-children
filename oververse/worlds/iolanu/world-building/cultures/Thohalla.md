@@ -310,6 +310,32 @@ people, who originated the quantum gift, maintaining a presence near
 the mountains where those who carry that gift are now exiled.
 The proximity is not coincidence. It is not discussed.
 
+The Church's Hierarchy of Envy has a chapter house in A'Thohalla.
+This is an imposition, not an invitation. The hierarchy is not there
+because of the quantum gift — that would be policing. It is there
+because the Thohalla are Malachor's first people, which means they
+hold a prior claim on his favor that predates the Church's entire
+institutional existence. The Envy hierarchy's purpose is to define
+what "chosen" means in Church terms before the Thohalla's version
+of it becomes a competing authority. They want to name the status,
+contain it, and make it legible within doctrine.
+
+The Thohalla find this the worst kind of flattery. They know what
+being chosen got them — the desert crossing, the saltwater, the
+abandonment. The Church insisting they are special, that their
+suffering was sacred, that their status as first people is something
+the hierarchy is there to honor and steward, is experienced as
+active insult by every caravan that drinks the Remembrance. They
+do not say this directly. The Bound Tongue governs what is said
+about theology to outsiders. They say very little. Then they leave.
+
+A'Thohalla stays ruins partly for this reason. A rebuilt city
+becomes an administrative seat. The skeleton crew is exactly enough
+city to maintain the cultural anchor — the first people have a
+heartland — and exactly not enough to give the Envy hierarchy
+something to administer. This calculation is never stated aloud.
+Everyone understands it.
+
 ---
 
 ## Passage and Contact
