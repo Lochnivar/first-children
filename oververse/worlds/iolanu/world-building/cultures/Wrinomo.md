@@ -161,6 +161,30 @@ and the specific threats of the strait approaches is what they are actually
 selling. Anyone can see the Footsteps. Not everyone survives crossing them
 without knowing when and how.
 
+The same expertise that makes caravan guiding viable — reading monster
+territories, tracking congregation rates, knowing what the sign of building
+pressure looks like before it becomes unmanageable — applies equally to
+city agricultural perimeters. Cities that maintain farming zones outside
+their walls depend on keeping congregation rates below the threshold that
+forces workers back inside. A Wrinomo who can read a trail for caravan
+safety can read a perimeter for the same purpose. The skill is identical.
+The territory is fixed.
+
+Perimeter contracts are municipal rather than episodic. A clan managing
+a city's agricultural zone maintains ongoing presence, runs regular culling
+operations to suppress congregation before it builds, and — when the rate
+climbs faster than culling can address — baits. Drawing a building
+congregation to a controlled kill point rather than letting it consolidate
+unpredictably is the most demanding application of the specialization.
+A guide who misjudges caravan risk loses clients. A bait-keeper who
+misjudges congregation consolidation rate does not return.
+
+This is not the core of what the Wrinomo are. The mountain crossings and
+the Northern Strait are where their identity and their most precise
+knowledge live. Perimeter work is what their skills also make possible —
+a secondary market that follows from the same expertise rather than
+departing from it.
+
 ### Theology
 
 The Wrinomo's most strategic geographic asset — the tidal crossing between
@@ -278,7 +302,11 @@ specific corridor; highest standing in the confederation), Crossing-warden
 (A'ardan-specific; specialist in tidal crossing conditions and hazards),
 High Arbiter (claim and clan dispute resolution; must hold route-keeper
 standing trusted by all parties), Strait-lord (the clan whose specialists
-manage the Northern Strait approaches)
+manage the Northern Strait approaches), Perimeter-warden (agricultural zone
+specialist; contracted to city governments; tracks and manages monster
+congregation rates around farming territory), Bait-keeper (perimeter
+subspecialty; draws and fixes building congregation at prepared kill points;
+requires senior standing; highest-mortality Wrinomo specialization)
 
 ---
 

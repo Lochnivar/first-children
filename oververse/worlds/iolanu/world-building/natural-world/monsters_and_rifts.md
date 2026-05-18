@@ -71,6 +71,37 @@ Monsters are not natural creatures, but horrors spawned directly from quantum ri
 - Their devouring nature might be an attempt to become "real" or simply the nature of quantum chaos
 - Not biological creatures with life cycles - they are reality breakdown made physical
 
+### Sapience and Signal
+
+**LOCKED** — Sapience is defined as the capacity to diverge from natural programming —
+to act in ways that are non-entropic, non-random, non-instinctual. By this definition,
+monsters are sapient in a narrow and specific way: their targeting behavior. An entropic
+quantum entity would wander randomly. Monsters do not wander randomly — they detect and
+congregation toward sapient signals. That targeting is itself a divergence from entropy.
+It is their sapience.
+
+**LOCKED** — Because monsters detect sapience by recognizing non-entropic behavior, and
+because their own targeting behavior is non-entropic, they generate a weak sapience signal
+themselves. They detect each other. In wilderness areas with no other sapient life present,
+monsters will slowly congregation toward each other as a floor behavior — the weakest
+available signal. This produces a self-culling equilibrium in deep wilderness: rifts spawn
+monsters, monsters congregation toward each other, concentration eventually produces
+attrition through competition and conflict. Monster population in true wilderness has a
+natural ceiling even without sapient prey.
+
+**LOCKED** — Sapience signal strength is a spectrum of divergence. Monsters diverge from
+their entropic baseline in one specific way and generate a weak signal. Humans and other
+sapient species diverge across many axes — language, culture, belief, technology, social
+organization — and generate a strong signal. Any human settlement completely overrides
+the monster-to-monster signal within range. A horde in wilderness is not ignoring other
+monsters; it is ignoring them because the city is louder.
+
+**LOCKED** — Monsters of unusual intelligence — those that diverge further from standard
+monster behavior — generate a stronger signal than their peers. A monster that plans,
+that waits, that adapts, is more sapient by this definition and more visible to
+congregation mechanics. The "polite monster" and "calm monster" variants are not merely
+dangerous outliers; they are drawing congregation toward themselves even as they hunt.
+
 ### Characteristics
 - Ubiquitous threat (everywhere because main rift constantly spawns them)
 - Can appear anywhere (mobile rifts spawn them unpredictably)
@@ -81,6 +112,57 @@ Monsters are not natural creatures, but horrors spawned directly from quantum ri
 - Various types of horrors and monsters spawned from quantum chaos
 - The "polite monster" (psychology-based threat, not just physical)
 - The "calm monster" (appears peaceful but dangerous)
+
+## Congregation Mechanics
+
+**LOCKED** — Monster attacks on settlements are not instantaneous. Individual monsters or small groups arrive first — manageable, dangerous, but not overwhelming. Over the course of days, others converge on the same signal: persistent occupation, consistent human presence, light, activity. The congregation builds until it exceeds the settlement's capacity to resist.
+
+This delay is the operative fact of survival on Iolanu. The gap between first contact and catastrophic congregation is where all survival strategies live.
+
+**What triggers congregation:** Consistent, persistent overnight presence of two or more
+intelligent beings in a fixed location. A settlement that is inhabited every night is a
+fixed, readable signal. The congregation finds it, grows toward it, and eventually overwhelms it.
+
+**LOCKED** — Monsters target intelligent life specifically. Non-intelligent life —
+wildlife, livestock, insects, birds — does not generate a congregation signal. This is
+why wilderness fauna exists at all. Deer, predators, and the full ecology of Iolanu's
+wilderness survive because monsters have no interest in them. A flock of sheep generates
+no signal. A shepherd alone with that flock generates minimal signal. Two shepherds
+together begin to draw.
+
+**LOCKED** — The threshold is two or more intelligent beings in fixed overnight occupation.
+A single person generates so weak a signal that normal monster wandering traffic is the
+greater risk, not congregation. This is the basis for wilderness homesteading — a lone
+person outside city walls is not suicidal, merely accepting a different and manageable
+risk profile. Two people together draw meaningfully faster. Groups draw faster still.
+The congregation signal scales with the number of intelligent occupants, not just presence.
+
+**What does not trigger congregation at the same rate:** Empty agricultural land. Fields
+are not settlements. Workers who arrive at dawn and return inside walls at dusk do not
+generate the sustained presence signal that builds a horde. Livestock in open fields
+contribute nothing to the signal. Monsters wander through, cause incidental damage, and
+occasionally attack workers caught in the open — these are real dangers, not congregation
+events. The farmland survives. The farm workers survive if they make it back inside.
+
+**LOCKED** — The congregation mechanic produces two distinct survival strategies, both
+valid, operating on opposite principles.
+
+*Stay below the threshold.* A lone homesteader, a single shepherd, a skeleton-crew
+tulou rotation — these survive by never generating a signal strong enough to build
+meaningful congregation. The risk is individual wandering monsters, not hordes. The
+strategy fails when the number of occupants rises above the threshold: a second person
+joins the homesteader, a second shepherd stays overnight, and the signal strengthens
+enough to start drawing.
+
+*Outpace congregation.* A Thohalla caravan is many intelligent beings together — a
+strong signal, well above the threshold, drawing congregation rapidly from the moment
+it stops. It survives not by staying below the threshold but by moving before congregation
+peaks. The horde builds toward the caravan's last location. The caravan is already
+somewhere else. The strategy fails when the caravan stops too long: weather, injury,
+mechanical failure, illness. Every additional night in the same location is a night the
+congregation has closed more of the gap. The Thohalla have calibrated exactly how long
+they can afford to stop. That calibration is cultural knowledge carried by every
+route-keeper in the confederation.
 
 ## Impact on World Structure
 
