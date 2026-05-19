@@ -5,7 +5,7 @@
 **Related Characters:** Loisa Xialing, Elsbeth Thane, Calder Voss, Gabby D'Olivier, Chance Hodgkins (can hijack)
 
 ## Overview
-Greyroses are embedded in flesh (NOT tattoos) that serve as marks of deep Apostasy membership. Having a Greyrose does not make someone an Earth Soul — many Greyrose-bearers are Iolanian-born dedicated members who will never host an Earth Soul. The Greyrose is a prerequisite for Earth Soul hosting, not synonymous with it: it creates a pool of candidate bodies Nala can draw from when placing a soul in transit. Bearers enable blood purification and carry a toxin bulb that serves as a suicide mechanism if ruptured. Discovery by the Church is a death sentence.
+Greyroses are embedded in flesh (NOT tattoos) that serve as marks of deep Apostasy membership. Having a Greyrose does not make someone an Earth Soul — many Greyrose-bearers are Iolanian-born dedicated members who will never host an Earth Soul. The Greyrose is a prerequisite for Earth Soul hosting, not synonymous with it: it creates a pool of candidate bodies Nala can draw from when placing a soul in transit. Bearers also benefit from blood purification and carry a quantum-triggered suicide mechanism that fires automatically when the probability field collapses around a compromising event. Discovery by the Church is a death sentence.
 
 ## Physical Description
 
@@ -58,11 +58,13 @@ Greyroses are embedded in flesh (NOT tattoos) that serve as marks of deep Aposta
 - May be related to keeping Earth souls healthy in Iolanu bodies
 - Could be part of the soul transfer mechanism
 
-### Suicide Mechanism (Toxin Bulb)
-- Contains a toxin bulb that can be ruptured
-- If ruptured, releases toxin causing death
-- Operational security: prevents capture/interrogation
-- Ultimate protection against Church discovery
+### Suicide Mechanism (Quantum Trigger)
+- The Greyrose is quantum-sensitive — it reads the probability field around its bearer
+- When the field collapses negatively around a compromising event (the bearer revealing the Apostasy, being broken under interrogation, the secret escaping), the rose fires
+- No warning. No choice. The rose determines when the future has closed and acts
+- The bearer cannot override it; the decision is not theirs to make
+- Operationally: the Apostasy does not rely on willpower under torture because it does not have to. Revelation becomes impossible — the rose fires before it can happen
+- A Quantumancer capable of manipulating probability fields could potentially spoof the trigger — forcing a false collapse or suppressing a real one. This is the core of the Chance Hodgkins threat
 
 ## Who Has Greyroses
 
@@ -139,6 +141,16 @@ Greyroses are embedded in flesh (NOT tattoos) that serve as marks of deep Aposta
 - The Greyrose is how the body becomes receptive to Nala's soul transfer — that is the extent of the connection
 - Once an Earth Soul is seated, the Greyrose's communicative and transfer function is complete
 - Nala does not use Greyroses as an ongoing channel; the silence after arrival is absolute
+
+### What Happens to the Original Soul — AUTHOR LEVEL
+
+**What characters and readers believe:** The original soul is destroyed in the transfer. Gone. The body is now entirely the Earth Soul's.
+
+**What is actually true:** The original soul is not destroyed. It is suppressed — buffered, offline, held beneath the Earth Soul's occupancy. The Greyrose maintains this suppression as part of its ongoing function.
+
+**The gap:** When an Earth Soul dies before the physical body does, the suppression briefly fails. In that window — mostly unmeasurable, potentially seconds — the original soul can reassert. The body's original inhabitant surfaces into a situation they have no context for, in a world that has moved on without them.
+
+This is an author-level secret. It is not known to Earth Souls, Iolanian members, or anyone in the Apostasy. As far as the world is concerned, the original soul is gone. The window exists whether anyone knows about it or not.
 
 ## Notes
 - Visual Model / Vibe: Actual flower embedded in flesh, not tattoo
