@@ -65,6 +65,20 @@ The Shattering was a catastrophic event where mad Quantumancers attempted to des
 - Used suffering minds as weapons - calculated manipulation
 - Shows Nala is morally grey, not pristine white savior
 
+**LOCKED** — Nala's specific point of intervention was Chance Hodgkins, whom she
+whispered to in order to direct the Quantumancers' nihilistic impulse toward the
+Godstone. This was possible because of Malachor's hubris — his confidence in his
+own sealed system created a blind spot she exploited.
+
+**LOCKED** — This communication was a calculated risk. Any direct divine intervention
+on Iolanu is potentially detectable by Malachor. Nala judged the Shattering worth
+the exposure. She does not assume the same blind spot remains available. This is
+the only known instance of Nala directly communicating with a living person on
+Iolanu. All subsequent Apostasy operations run without her ongoing direction.
+
+*For Nala's communication constraints and the Apostasy's operational implications,
+see [nalan_apostasy_reference.md](../organizations/nalan_apostasy_reference.md).*
+
 ### The Attempt
 - Combined their power
 - Focused on Godstone

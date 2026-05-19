@@ -27,7 +27,7 @@ Status markers: **LOCKED** = decided and stable; **PENDING** = established but n
 
 - **LOCKED** — Five is load-bearing to the entire faith. Anything less than five is "incomplete, unworthy."
 - **LOCKED** — Five days in a week. Fifteen months in a year (three fives). Five fingers, five toes.
-- **LOCKED** — Five Church hierarchies (+ Ebon). Five Apostasy orders (mirroring the Church). The parallelism is deliberate and noted explicitly by Solon in scene.
+- **LOCKED** — Five Church hierarchies (+ Ebon). In his interrogation scene, Solon uses "apostasy" in the generic theological sense — the subject's personal falling from the faith — not as the name of a known organized opposition. The Church has no intelligence that a capital-A Apostasy exists. If it did, it would crusade.
 - **LOCKED** — Calendar and theology are unified by the number. Any new Church structure must fit the five-framework. Do not expand to seven.
 
 ---
@@ -183,10 +183,10 @@ Promotion requires: time-in-rank (3 years as Praeparch), service record, two spo
 
 **Source:** [malachor_faith.md](../../cosmology/malachor_faith.md) · [axiarch_solon.md](../../../characters/antagonists/axiarch_solon.md)
 
-- **LOCKED** — Has five orders, mirroring the Church structure. The parallelism is deliberate — Solon uses it as a rhetorical weapon in scene.
 - **LOCKED** — Folk/underground name: Eirendor (for Nala). Plausibly deniable. Soft signal within the underground.
 - **LOCKED** — Nala's stated motivation ("good goddess") is recruitment framing. Real motivation: sibling fury at Malachor's illegal world-fork. Hard constraint: no extinction.
-- **OPEN** — What are the five Apostasy orders? Do they mirror the Church's five sins, or are they organized on a different principle?
+- **LOCKED** — The Church has no knowledge of an organized opposition. Solon and his order investigate individual suspected heretics. They extract fragments — a name, a contact, a practice that doesn't fit orthodox doctrine — but have never assembled those fragments into a picture of something larger. The absence of a target is the Apostasy's primary defense. The Church cannot crusade against something it cannot see.
+- **LOCKED** — "Apostasy" as the Church uses it is a theological category — falling from the faith — not the name of a known organization. The capital-A Apostasy is an internal designation unknown outside the innermost circle.
 
 ---
 
@@ -259,7 +259,7 @@ Today's zealot is a domesticated descendant of the paleozealot. Still dangerous.
 3. **The autopilot problem** — Malachor is absent. The two-language system means the institution functions without him — but does the Exarch know he's unreachable? Do they believe he's merely silent (normal), or that something is wrong?
 4. **Noctarch full definition** — Internal intelligence or Ebon-adjacent? Who do they answer to?
 5. **Canonical hagiography** — Does this document exist in-world? It would be a significant artifact for cultures who measure themselves against it.
-6. **Apostasy's five orders** — Parallel to the Church's five sins, or different organizing principle?
+6. **Church heresy intelligence** — What specific fragments has the Church extracted through interrogation? How close are they to connecting individual suspected heretics into a pattern that implies organization?
 7. **Locquodian Order's divine knowledge** — Political faction or theologically aware?
 8. **Godshards** — Seven pieces of Malachor's Godstone; who holds them; does guarding them prevent Church reassembly?
 

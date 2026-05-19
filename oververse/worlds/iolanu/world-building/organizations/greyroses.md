@@ -5,7 +5,7 @@
 **Related Characters:** Loisa Xialing, Elsbeth Thane, Calder Voss, Gabby D'Olivier, Chance Hodgkins (can hijack)
 
 ## Overview
-Greyroses are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apostasy membership. They are Nala's interface to Earth souls, enable blood purification, and contain a toxin bulb that serves as a suicide mechanism if ruptured. Discovery by the Church is a death sentence.
+Greyroses are embedded in flesh (NOT tattoos) that serve as marks of deep Apostasy membership. Having a Greyrose does not make someone an Earth Soul — many Greyrose-bearers are Iolanian-born dedicated members who will never host an Earth Soul. The Greyrose is a prerequisite for Earth Soul hosting, not synonymous with it: it creates a pool of candidate bodies Nala can draw from when placing a soul in transit. Bearers enable blood purification and carry a toxin bulb that serves as a suicide mechanism if ruptured. Discovery by the Church is a death sentence.
 
 ## Physical Description
 
@@ -47,11 +47,11 @@ Greyroses are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apos
 - Death sentence if Church discovers
 - Not all Apostasy members have them (only those with specific roles/connections)
 
-### Nala's Interface to Earth Souls
-- Enables Nala to communicate with or interact with Earth souls
-- Makes soul transfer possible (Gabby's case)
-- Connection point for Nala's power/influence
-- Possibly only works on quantum-gifted individuals?
+### Soul Transfer Prerequisite
+- Makes the body technically receptive to an incoming Earth Soul
+- Required for the transfer to occur — not all Greyrose bodies will be used this way, but no transfer can happen without it
+- Creates Nala's pool of candidate bodies she can draw on at a soul's transit moment
+- Nala has no ongoing communication channel through a Greyrose once the Earth Soul is seated
 
 ### Blood Purification
 - Purifies blood (specific function unclear)
@@ -136,9 +136,9 @@ Greyroses are embedded in flesh (NOT tattoos) that serve as marks of Nala's Apos
 - Part of the ritual that enables Earth souls to inhabit Iolanu bodies
 
 ### Nala's Connection
-- Interface point for Nala's communication/power
-- May be how Nala coordinates Earth soul activities
-- Possibly enables remote connection or guidance
+- The Greyrose is how the body becomes receptive to Nala's soul transfer — that is the extent of the connection
+- Once an Earth Soul is seated, the Greyrose's communicative and transfer function is complete
+- Nala does not use Greyroses as an ongoing channel; the silence after arrival is absolute
 
 ## Notes
 - Visual Model / Vibe: Actual flower embedded in flesh, not tattoo

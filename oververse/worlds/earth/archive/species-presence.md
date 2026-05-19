@@ -1,27 +1,25 @@
 # Species Presence on Earth
 
-**Category:** Races
+**Category:** Races  
 **Related:** [Trial Mechanics](../../trial-mechanics.md), [Races README](../../../../races/README.md)
-
----
 
 ## The Core Distinction
 
-**FC Homo Staff** — deployed, on assignment, institutional authority. They answer to someone. They were placed deliberately. Their FC staff role doesn't end when the situation resolves — they get reassigned, not "go home." They have skin in the game professionally.
+**FC Homo Staff** — deployed, on assignment, institutional authority. They answer to someone. They were placed deliberately. When the trial ends they get reassigned, not "go home." They have skin in the game professionally.
 
-**Wild Races** — following their own gravity. Each species present arrived for reasons emergent from who they are, not from Commission planning. Smaller numbers, self-selected individuals rather than communities. They come and go. They have no investment in the outcome. Their indifference is genuine — they'll do equally well regardless of how Earth resolves.
+**Wild Races** — following their own gravity. Each species present arrived for reasons emergent from who they are, not from trial design. Smaller numbers, self-selected individuals rather than communities. They come and go. They have no investment in the trial outcome. Their indifference is genuine — they'll do equally well regardless of how Earth resolves.
 
-**Orcus** — deployed by the Commission as adversarial pressure. Released and dispersed geographically in the early post-wall period to ensure coverage across the wall system. The Commission didn't so much decide to deploy them as process the requisition — the hobgoblin admin corps had the forms ready. Experienced wild races recognize the Orcus presence as standard Commission procedure for situations like this. Humans call them monsters.
+**Orcus** — deployed by FC staff as trial adversaries. Released and dispersed geographically to ensure coverage across the trial system. Not smuggled — staff have authority to place trial resources. Orcus is a trial resource. The documentation simply doesn't address it prominently. The relevant form has a checkbox on page twelve. Experienced wild races recognize the Orcus presence immediately as standard trial package. Humans call them monsters.
 
 ---
 
 ## FC Homo Staff (Deployed)
 
-The Homo genus species were embedded in human institutional infrastructure before the QWAN activation — placed in roles they were designed for, doing jobs that would turn out to be exactly what the aftermath required. They were not agents. They were simply good at what they did, and what they did happened to be useful.
+The Homo genus species were placed before the walls went up. They were embedded in human institutional infrastructure in roles they were designed for — municipal planning, infrastructure assessment, diplomatic liaison. They were not agents. They were simply good at jobs that happened to be exactly what the trial would need.
 
 - **Hobgoblins** — already in planning departments, admin roles, Wall Commission field corps. The hobgoblin in the Manchester planning office was never a surprise to anyone except the humans.
 - **Dwarves** — infrastructure, wall system maintenance, engineering.
-- **Elves** — communications, interface roles, PR layer between Commission institutions and human population.
+- **Elves** — communications, interface roles, PR layer between trial institutions and human population.
 - **Halflings** — logistics, supply chain assessment, corridor coordination.
 - **Tinkari** — operational infrastructure, QWAN maintenance.
 - **Homo Bovinus** — security, facility protection, heavy enforcement where Bruin authority doesn't reach.
@@ -32,16 +30,11 @@ The Homo genus species were embedded in human institutional infrastructure befor
 
 *Why the ones who came, came. Not every member of each species — just the self-selected individuals whose own logic pointed toward Earth.*
 
-*These are patterns, not mandates. None of these roles were assigned — they emerged from each species' own nature colliding with the conditions on the ground. A Geliss who came to study ended up running supply logistics. A Bandari crew operates with more integrity than most Commission contractors. A Pachi has been parked in the same corridor camp for eight months and shows no sign of moving. The profiles below are stereotypes close enough to work with at a narrative level, not rules with no exceptions.*
-
-### Kitsune
-Arbitration work. Every Gatelock dispute, every Wall Commission petition, every cross-species legal conflict needs someone who speaks both sides fluently and can make the agreement stick. Kitsune are that interface by temperament and by institutional design. They were in the room when the Commission was still figuring out what the Commission was going to be. The conflict of interest in Kitsune arbitrators representing human clients before a Commission they also staff as procedural guarantors, while simultaneously representing alien contractor organizations, has been fully disclosed. Page forty-seven.
-
-### Cayminus
-They saw the payment infrastructure opportunity before the walls were finished going up. Every Gatelock is revenue. The QWAN network was already active — the billing layer was an engineering problem they had solved elsewhere. They identified the Quedari armor market as a secondary opportunity and arranged transport. The conflict of interest in Cayminus designing the payment infrastructure for a situation that tests human integration with alien species has been noted. Kitsune arbitrators filed the relevant disclosures. Page forty-seven.
-
 ### Pachi
 New roads to roam. The corridor network is free movement once you're in — unlimited travel across a continent from one entry toll. A Pachi on I-93 isn't going anywhere in particular. They're going everywhere eventually. They're probably the only species treating the corridor network as genuinely joyful rather than economically necessary. You remember the Pachi who stopped at your fire for an hour, said something that reframed your entire situation, and walked north into the dark.
+
+### Cayminus
+They built the payment infrastructure. Every Gatelock is revenue. They identified the Quedari armor market opportunity and arranged transport. The conflict of interest in Cayminus designing the payment infrastructure for a trial that tests human integration has been noted. Kitsune arbitrators filed the relevant disclosures. Page forty-seven.
 
 ### Quedari
 Brought by Cayminus, who saw a market for Quedari armor in a world suddenly full of Orcus and no functional supply chain for protection. The Quedari looked at the arrangement and understood immediately: on Earth, a Quedari who makes armor is *valuable*. Valuable means people leave you alone. The Cayminus brought them thinking they were exploiting a labor opportunity. The Quedari understood the leverage before the Cayminus did.
@@ -53,7 +46,7 @@ One human apprentice was accepted — probably because a human buffer reduces in
 There are three Quedari in Manchester NH. They are in a building. They are fine.
 
 ### Iridari (Pristails)
-What is happening on Earth is the most watched event in recent multiverse memory. A 21st-century first-planet species encountering genuine sapient life for the first time, with full QWAN broadcast capability and real-time integration metric drama — the audience across the multiverse is substantial. The Iridari are proportionally present.
+The Earth trial is the most watched event in recent multiverse history. A 21st-century first-planet species encountering genuine sapient life for the first time, with full QWAN broadcast capability, real-time integration metric drama, and a trial design the veterans read as prosecutorial. The audience is substantial. The Iridari are proportionally present.
 
 Two factions with a third emergent category:
 
@@ -70,7 +63,10 @@ Collapsed supply chain is a frontier economy. Frontier economies are where Banda
 A first-contact event is the academic research opportunity of a lifetime. The Geliss who showed up are the ones for whom genuine immersion in a first-planet species encountering the multiverse is a career-defining moment. They learn human languages fastest. They act as informal cultural liaisons without being asked. The "spy" misread follows them everywhere. It is incorrect but understandable.
 
 ### Bruin
-County remainder needs someone. Unincorporated land, no town-level governance, no wall structure below county level — that's Bruin territory by temperament and function. They're also operating in the same spaces where Orcus dispersed. Whether the Commission coordinated the Bruin presence with the Orcus deployment, or whether these are two independent decisions that happen to overlap, has not been clarified. The Bruin haven't asked.
+County remainder needs someone. Unincorporated land, no town-level governance, no wall structure below county level — that's Bruin territory by temperament and function. They're also operating in the same spaces where Orcus dispersed. Whether the FC staff coordinated the Bruin presence with the Orcus deployment, or whether these are two independent decisions that happen to overlap, has not been clarified.
+
+### Kitsune
+Arbitration work. Every Gatelock dispute, every Wall Commission petition, every cross-species legal conflict needs someone who speaks both sides. Kitsune are that interface by temperament. The conflict of interest in Kitsune arbitrators representing human clients before a Commission they also staff as procedural guarantors, while simultaneously representing alien contractor organizations, has been fully disclosed. Page forty-seven.
 
 ### Equan
 New trade routes to establish. The corridor network is a distribution system and the Equan read it immediately as such. Surplus-to-deficit patterns across the room network register as wrongness before they're reasoned. The Equan are fixing that. They'd rather not explain the theology behind it.
@@ -78,7 +74,7 @@ New trade routes to establish. The corridor network is a distribution system and
 ### Felari
 Manchester NH is *the* place right now and a Felari is constitutionally incapable of not being where the interesting people are. The most aesthetically compelling, historically unprecedented event in recent multiverse memory is happening on this corridor network and a Felari who stayed home made a choice they'd never forgive themselves for.
 
-There's also a significant stratum who are here because the social cost of *not* being here became untenable. Susie's posts about the last situation she witnessed were insufferable. Becca got cat-measles and missed it. Earth is Becca's redemption arc and she is committed. Susie showed up too. She has opinions about the authenticity of certain Gatelock-adjacent social scenes.
+There's also a significant stratum who are here because the social cost of *not* being here became untenable. Susie's posts about the last trial world were insufferable. Becca got cat-measles and missed it. Earth is Becca's redemption arc and she is committed. Susie showed up too. She has opinions about the authenticity of certain Gatelock-adjacent social scenes.
 
 The Felari who've been here long enough to actually get it — who've sat at a corridor fire at 2am with a Pachi and three humans and a Gnoll — have stopped posting. The integration metric in their blocks trends quietly upward. They're not trying to help. They're just being themselves.
 
@@ -86,10 +82,10 @@ The Felari who've been here long enough to actually get it — who've sat at a c
 Chaos is fun. Someone told someone it was interesting and now there's a whole camp of them on the I-93 shoulder with fires going until 3am. The social structure is already established. Something is always happening. The Iridari Springer contingent has a standing camera position nearby.
 
 ### Corvani
-Corridor communities with no functional medical infrastructure and an Orcus problem in county remainder are exactly the conditions that pull Corvani in. They're reading the damage and mending the chain. The humans don't always understand what the Corvani healer is doing or why the ritual feels so specifically death-adjacent. It works anyway.
+Corridor communities with no functional medical infrastructure and a Orcus problem in county remainder are exactly the conditions that pull Corvani in. They're reading the damage and mending the chain. The humans don't always understand what the Corvani healer is doing or why the ritual feels so specifically death-adjacent. It works anyway.
 
 ### Tzvari
-Disrupted ecology. The QWAN activation and subsequent wall system have shattered land management patterns across New Hampshire — watershed disruption, corridor walls bisecting migration routes, agricultural collapse in isolated rooms. A Tzvari ecologist reading what the land is signaling would find it professionally agonizing. Probably a few here. Not many. They arrived quietly and are spending most of their time in the woods looking troubled.
+Disrupted ecology. The trial has shattered land management patterns across New Hampshire — watershed disruption, corridor walls bisecting migration routes, agricultural collapse in isolated rooms. A Tzvari ecologist reading what the land is signaling would find it professionally agonizing. Probably a few here. Not many. They arrived quietly and are spending most of their time in the woods looking troubled.
 
 ### Sungrun
 They knew things were coming before the instruments did. The sensory capability that makes them invaluable at the Storm Gate makes them unsettling on Earth — they flinch before the raid happens, they stop what they're doing before the integration shimmer starts. The folk percussion culture means the corridor camps have a specific sound when Sungrun are present. Humans find it either deeply comforting or deeply unnerving depending on the human.
@@ -104,5 +100,5 @@ The density is thin enough that every individual presence is legible. You know t
 
 ---
 
-*For trial mechanics and the wall system, see [Trial Mechanics](../../trial-mechanics.md)*
+*For trial mechanics and the wall system, see [Trial Mechanics](../../trial-mechanics.md)*  
 *For species full profiles, see [Races README](../../../../races/README.md)*

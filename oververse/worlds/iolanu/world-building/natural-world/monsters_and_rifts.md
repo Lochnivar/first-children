@@ -3,6 +3,7 @@
 **Category:** World-Building / Threat / Cosmology
 **Related Concepts:** The Shattering, Quantum Fabric, Main Rift, Mobile Rifts, Thohalla Riftwalkers
 **Related Factions:** Thohalla (hunt mobile rifts), Locquodian Order (opposes reunification that might affect rifts)
+**Downstream:** [city_state_survival.md](city_state_survival.md) — applies congregation mechanics to agricultural viability; [Wrinomo.md](../cultures/Wrinomo.md) — perimeter-warden and bait-keeper specializations
 
 ## Overview
 Monsters are not natural creatures, but horrors spawned directly from quantum rifts—tears in reality created by the Shattering. They are quantum fluctuations made manifest, "living quantum noise." The world is mostly city-states because wandering hordes of monsters will devour (sometimes literally) any unprotected settlement. This monster pressure, combined with the Locquodian Order's political fragmentation, prevents the formation of larger political entities.

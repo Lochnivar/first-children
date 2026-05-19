@@ -40,20 +40,15 @@ Book 1 is an orientation tour through Gabby's eyes. The premise is an educationa
 7. Rowan Ashby - Fieldcraft instructor, mentor to Gabby
 8. Marek Ilyan - Cultural polymath, lore source
 
-## Proposed Chapter Structure
+## Plot Reference
 
-See [chapter-structure.md](chapter-structure.md) for a detailed proposed chapter breakdown based on the arc documentation.
-
-**Proposed Structure:**
-- ~22 chapters total
-- Pattern: City stops → Travel legs → City stops
-- Primary POV: Gabby (third-person limited)
-- Aside POVs: Axiarch Solon, Jasin Lochnivar (strategic exposition)
+See [PLOT.md](PLOT.md) for the consolidated route, party, chapter structure, and open decisions.
 
 ## Key Files
 
-- `chapter-structure.md` - Proposed chapter breakdown
-- `../../plots/arcs/book1-the-nalan-apostasy.md` - Complete arc documentation
+- [PLOT.md](PLOT.md) - Consolidated plot reference (route, party, chapters, open decisions)
+- [ch01.md](ch01.md) - Written: Chapter 1
+- [ch02.md](ch02.md) - Written: Chapter 2
 - `../../characters/main/gabby_dolivier.md` - Protagonist profile
 - `../../characters/groups/nala_party.md` - Party documentation
 

@@ -30,7 +30,7 @@ The only FC staff species that doesn't know they're FC staff — the generalist 
 
 The First Children's problem with generalists is consistent across genera: specialist species pass trials because they're exactly what the trial demands; generalists fail because no trial is designed for "somewhat capable of everything." Djemari survive desert trials. Kibo survive endurance trials. The generalist equivalent — Camelus sapiens, Elephas sapiens — tends to collapse under the same conditions that produce specialists. They're adequate at everything and optimized for nothing, and trials are not designed to reward adequacy.
 
-Homo sapiens passed their Earth trial. The current Earth assessment is ongoing. Previous sapiens deployments didn't survive. The selected Earth population is the surviving expression of a culling process that has been running for approximately two and a half million years.
+Homo sapiens were entered into the FC genetic repository approximately 40,000 years ago, when sapiens emerged as the sole surviving human subspecies variant and the FC formally closed the development file. Previous sapiens deployments to other FC domains since repo inclusion have not succeeded. The selected Earth population is the surviving expression of a culling process that has been running for approximately two and a half million years.
 
 What the culling produced was not a refined specialist but something different: a generalist whose defining trait is the refusal to stop. The previous sapiens deployments failed in ways that were elegant and comprehensible — they hit the specific wall their generalism couldn't clear and they stopped. The Earth selection didn't produce humans who couldn't be stopped; it produced humans for whom stopping was somehow worse than continuing. "We'll figure it out" isn't optimism. It's an orientation. They don't know what they'll figure out. They don't know that they'll succeed. They continue anyway, and periodically this produces outcomes that FC taxonomists classify as anomalous.
 
@@ -86,9 +86,9 @@ An FC deployed Homo baseline on Earth approximately 2.5 million years ago and ma
 
 Generalist staff — adaptable to many roles, baseline comparison for other Homo variants, source of "Earth souls" for transfer operations to other worlds where human populations have failed and replacement is required.
 
-### Trial Status
+### Repository Status
 
-Active. Earth's current transformation is the ongoing trial. FC assessment of the generalist model remains inconclusive pending trial resolution.
+Complete. Sapiens were formally entered into the FC genetic repository approximately 40,000 years ago. The current Earth situation — QWAN activation, Commission management, the wall system — is not a formal FC evaluation. The FC ran a QWAN sandbox experiment on Earth, walked away when results were unexpected, and have not returned. The "trial" framing is Commission mythology, not FC doctrine.
 
 ---
 
@@ -114,11 +114,15 @@ Active. Earth's current transformation is the ongoing trial. FC assessment of th
 
 ### Origin
 
-Earth, under FC management. The managed evolution produced Homo sapiens as the surviving generalist variant of the Homo baseline. Earth's unusual biodiversity is partly intentional — FC study non-sapient baselines there, and many Earth species are related to the repository templates deployed elsewhere in Hypatia. Humans live surrounded by the genetic cousins of species they haven't met, on a world that has been a controlled test environment for their entire history.
+Earth, under FC management. The managed evolution produced Homo sapiens as the surviving generalist variant of the Homo baseline. Earth's unusual biodiversity is partly intentional — FC study non-sapient baselines there, and many Earth species are related to the repository templates deployed elsewhere in Hypatia. Humans live surrounded by the genetic cousins of species they haven't met, on a world that has been a controlled environment for their entire history.
 
-### Trial History
+FC terminated active Earth management and formally registered sapiens in the FC genetic repository when neanderthalensis went extinct — approximately 40,000 years ago — marking the end of the subspecies competition and the beginning of sapiens' solo development period. What humans mythologized as alien visitation, pyramid construction, and spacecraft was FC presence during the final observation and sample collection period, including early terminus operations transporting genetic samples to Mercara's Cross for formal repository filing. Humans taken through that terminus and returned intact became the alien abduction mythology. The hobgoblin who processed their intake form noted the distress in the appropriate field.
 
-Active. The Earth trial is currently ongoing. Previous sapiens deployments across other FC domains have failed — the specific failure modes vary, but the pattern is that generalists hit a threshold that specialist species were built to clear. Earth's sapiens population has not hit that threshold yet, or has hit it and produced anomalous outcomes that don't look like failure. Assessment is ongoing.
+Sapiens development continued without active FC management for tens of thousands of years until anomalous advancement triggered FC attention again, resulting in the QWAN activation that initiated the current Earth situation.
+
+### Deployment History
+
+Previous sapiens deployments to other FC domains since repo inclusion have not succeeded — the specific failure modes vary, but the pattern is that generalists hit a threshold that specialist species were built to clear. Earth's sapiens population remains the primary active expression of the generalist model. What happens on Earth informs whether future deployments are attempted.
 
 ### Governance & Politics
 
