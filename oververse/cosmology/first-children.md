@@ -196,6 +196,13 @@ A placeholder name for a specific First Child whose actual name is unknown. The 
 - **Not tied to any actual First Child named Jeff.** The name is arbitrary; any generic human name would serve the same function.
 - **Relationship to "Grey":** Grey is categorical (the species/type); Jeff is specific (this particular one). "A Grey" could be anyone. "Our Jeff" is whoever caused *this* disaster. You need both: Grey tells you what they are, Jeff points at which one.
 
+### "Jeff-Class Incident" *(provisional — may not survive to final draft)*
+The staff race administrative designation for a First Child-caused catastrophe requiring full Commission-level response. As in: *"This is a Jeff-class incident."* Implies scale, implies a Grey is responsible, and implies the hobgoblin admin corps already has the forms.
+
+The dark comedy of the term is that it exists at all — that staff races have bureaucratized FC disasters into a named incident category complete with associated paperwork. The hobgoblin in the Mercaran boardroom bristled at "Grey" while reaching for his Jeff-class deployment checklist.
+
+- **Flagged provisional:** The snark earns its place contextually. Whether it survives to final draft depends on whether the tone holds at that point in the story.
+
 ---
 
 ## Notes

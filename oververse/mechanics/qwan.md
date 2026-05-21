@@ -8,21 +8,25 @@
 
 ## What QWAN Is
 
-The Quantum Wide Area Network is the FC infrastructure layer that underlies all trial and FC-operated worlds. It is not visible, not detectable by most mortal instruments, and not something inhabitants of a world generally know exists. It carries the transport layer for wetware-linked systems (pineal-amygdala interfaces, Cayminus banking, Gatelock verification, integration metric logging) and provides the substrate through which FC operational infrastructure functions.
+The quantum field is not FC technology. It is physics — as fundamental and universal as electromagnetism, operating at the substrate level of every world, every organism, every particle interaction, whether FC have ever touched that world or not. Radioactive decay is the quantum field arbitrating particle tunneling. Quantum talents are biological structures interfacing with the quantum field. The field was there before the first FC authored the first world. It will be there after.
 
-QWAN is not the product. It is the plumbing. The product layers (iQuest, `QWST`, Cayminus banking terminals, Gatelock toll systems) run on top of it.
+QWAN — the Quantum Wide Area Network — is the broadcast infrastructure FC build on top of that existing field.
+
+The analogy is radio. The electromagnetic field exists everywhere. Radio technology doesn't create a new field — it uses the existing one, organized and broadcast at amplitude high enough for receivers to work with. QWAN does the same thing for the quantum field: it takes what is already present at the substrate level and elevates it to operational amplitude. The field is the medium. QWAN is the broadcast tower.
+
+What runs on that broadcast — pineal-amygdala interfaces, Cayminus banking, Gatelock verification, integration metric logging, iQuest trial infrastructure — are the product layers. QWAN is not the product. It is the signal. The products are what you build once the signal is strong enough to carry them.
 
 ---
 
 ## Field States: Quiescent and Agitated
 
-QWAN operates as a binary field condition. The quantum substrate is always present — quantum mechanics operates at baseline everywhere, including Earth and worlds with no FC involvement. But presence is not the same as utility.
+The quantum field exists in two practically relevant states, from the perspective of biological and technological interfaces:
 
-**Quiescent** is the natural state: the quantum field at rest. Behavior exists at the substrate level but at energy levels too low for biological systems to interface with deliberately. In a quiescent field, pineal glands exist but have nothing to log into. Quantum talents may be genetically present but have almost nothing to work with. The field is there. Nothing can reach it.
+**Quiescent** is the natural state: the field doing its physics at baseline amplitude. Everything quantum mechanics does — particle behavior, radioactive decay, the probabilistic underpinnings of physical law — happens at quiescent levels continuously. But quiescent amplitude is too low for biological systems to interface with deliberately. Pineal glands exist but have no signal strong enough to connect to. Quantum talents may be genetically present but have almost nothing to work with. The field is there. The receivers exist. The broadcast isn't strong enough to reach them.
 
-**Agitated** is what QWAN infrastructure produces: the same quantum substrate elevated past the threshold at which biological interface becomes possible. In an agitated field, the pineal gland can connect. A bootjacked amygdala can make the field real. Quantum manipulation becomes something a practitioner can actually sustain rather than grasp at.
+**Agitated** is what QWAN infrastructure produces: the same quantum field, elevated past the threshold at which biological and technological interface becomes possible. Same field. Stronger broadcast. In an agitated field, the pineal gland connects. A bootjacked amygdala makes the field real as subjective experience. Quantum manipulation becomes something a practitioner can sustain rather than grasp at.
 
-QWAN is both floor and ceiling. It sets the agitated level and holds it there. No practitioner, regardless of skill or training, can push the field beyond the agitated ceiling through personal effort, nor drop it below the quiescent baseline. The field is what it is. Practitioners work within it.
+QWAN sets the agitated level and holds it there — floor and ceiling simultaneously. No practitioner, regardless of skill or training, can push the field beyond the agitated ceiling through personal effort, nor drop it below the quiescent baseline. The broadcast is what it is. Practitioners work within it.
 
 ---
 
