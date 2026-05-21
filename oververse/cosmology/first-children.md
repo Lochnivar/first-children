@@ -178,6 +178,26 @@ First Children can play various roles in stories:
 - Power and influence levels (despite nominal equality as siblings)
 - Involvement level in stories (from active to background)
 
+## Informal Terminology
+
+How other species casually refer to First Children — not official designations, not slurs in the hard sense, but loaded with attitude.
+
+### "Grey" / "Gray"
+A shorthand for First Children used by mortals and other species, derived from the Roswell Grey — the humanoid form First Children default to when manifesting physically. Not technically wrong (it's what they look like), but reductive: it collapses ancient immortal quantum waveforms down to a visual descriptor. Tone varies by speaker and context.
+
+- **Usage:** Ranges from neutral shorthand to mildly dismissive. Generally acceptable the way "Black" is generally acceptable — descriptive, widely used, but context-sensitive. The wrong tone in the wrong room can still cause friction.
+- **In-universe sensitivity:** Some staff races (species with cultural or historical ties to a specific First Child) bristle at it. Others use it without a second thought. The hobgoblin's reaction in the Mercaran boardroom is on the tender end of the spectrum — most people aren't that careful.
+- **Not a hard slur:** Nobody gets thrown out of a meeting for saying it. It just signals how seriously you take them.
+
+### "Jeff"
+A placeholder name for a specific First Child whose actual name is unknown. The equivalent of "what's-his-name" or "some guy" — used when you need to refer to a particular individual but can't or don't know what to call them.
+
+- **Usage:** "Which Jeff did it?" / "Our Jeff left us another mess." Not a general insult at First Children as a category — it's pointing at one specific Grey, the one responsible for *this* situation. You just don't know their name.
+- **Not tied to any actual First Child named Jeff.** The name is arbitrary; any generic human name would serve the same function.
+- **Relationship to "Grey":** Grey is categorical (the species/type); Jeff is specific (this particular one). "A Grey" could be anyone. "Our Jeff" is whoever caused *this* disaster. You need both: Grey tells you what they are, Jeff points at which one.
+
+---
+
 ## Notes
 
 - Details about "what they really are" are background only, out of scope for stories
