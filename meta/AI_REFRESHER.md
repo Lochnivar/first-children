@@ -480,11 +480,13 @@ Each major directory has a `README.md` that serves as a comprehensive index:
 - **Voice varies by character:** Gabby's modern/American voice vs. Loisa's precise/strategic voice
 - **Humor from character:** Not slapstick—comes from character dynamics (puns, delayed jokes, etc.)
 - **Quiet moments:** Shared silences, perfectly timed cups of tea, unspoken understanding
+- **No technical mechanics vocabulary in prose:** Terms like HiRB, LoRB, Resolution Bias, QWAN, and "product stack" are authorial/AI reference shorthand only. Characters experience consequences — gunpowder misfiring, talents emerging with no name for them, the world becoming unreliable — not infrastructure. Write what they see, feel, and can't explain.
 
 ### Common Pitfalls to Avoid
 
 **Framework-Level:**
 - **FRAMEWORK.md is PRIMARY:** Always check framework rules first; Iolanu must conform
+- **No mechanics vocabulary in prose:** HiRB, LoRB, Resolution Bias, QWAN, and "product stack" are reference terms for authorial and AI use only — they never appear in story text. Characters experience the field state's consequences (misfiring powder, emerging talents, unreliable world) without naming the mechanism.
 - Don't confuse Prime Author with "The Author" (First Children's term for Prime Author)
 - Remember: Physical laws come from Prime Author; moralistic rules are First Children constructs
 - First Children cannot be truly destroyed but can be reformed (effectively the same thing)
