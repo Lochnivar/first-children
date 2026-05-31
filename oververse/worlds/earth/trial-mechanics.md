@@ -276,9 +276,15 @@ The NDA is a filing. It has a form number. It exists in the hobgoblin admin corp
 
 Humans who notice that asking "how did your people handle their trial" produces the same evasive non-answer from a Pachi, a Geliss, a Kitsune, and a Hobgoblin have found the same crack from a different angle. The deflection is universal. If you're paying attention, the pattern is legible.
 
-### 8.4 Outreach
+### 8.4 Outreach — CORP
 
-Outreach into human communities is one of the Commission's primary tools for influencing conditions outside its own walls. Without enforcement authority, persuasion and relationship are the mechanisms available. Human outreach employees — humans employed by the Commission to interface with human communities — are therefore significant operational assets. They are also the most visible target for the collaborator accusation.
+The Commission's primary outreach mechanism is the Commission Outreach Resource Personnel (CORP) — paid human employees recruited and trained in Manchester whose mandate is to assist other humans in adapting to HiRB conditions. The Commission cannot govern the world and does not want to. CORP is the alternative: demonstrate the model locally, train humans who believe in it, and let it spread organically.
+
+CORP operates in partners on assigned beats, with each room under Commission influence staffed by a precinct-equivalent team. Operational tiers extend from Manchester-adjacent beats to wild room outreach in rooms with no Commission presence, to long-distance missions establishing new precincts or assessing conditions at range.
+
+CORP personnel are the most visible target for the collaborator accusation. Earth Front's derogatory is *Corpses*.
+
+*Full institutional detail: [CORP](world-building/institutions/corp.md)*
 
 ---
 
@@ -293,6 +299,58 @@ Experienced contractors arriving on Earth and seeing the wall geometry read the 
 The wall system is Commission-specific. It is not exported. It is not a template. It is the answer a competent staff body under pressure arrived at for a specific problem on a specific world.
 
 The walls retire when they are no longer needed. A segment that reaches full integration has answered its question. The instrument removes itself. The end state is no walls — not because the FC returned to take them down, but because every segment answered correctly and there was nothing left to measure. Whether that end state is achievable is the question nobody at the Commission will answer on the record.
+
+---
+
+## 9.1 Known Seams
+
+The wall system was assembled under pressure on available maps. The Commission used human administrative boundaries because those were the finest-grained, most precisely documented infrastructure available. That precision is real — but it only extends to what humans had mapped. What existed below the administrative surface, and what the growth process produced when it encountered that subsurface, was not on any map.
+
+Two categories of seam are known to exist.
+
+### The Wall's Institutional Structure
+
+Three species have direct knowledge of the wall system, each with a different kind of knowledge.
+
+**Dwarves** seeded the wall growth. The walls are not conventional construction — dwarves initiated an organic growth process that spread and developed its internal structure as it grew. Dwarves understand the seed and the growth mechanism. This technology has never been deployed at planetary scale before. No other world has needed world-spanning walls. The behavior of the growth mechanism across an entire planet's varied geology, following an administrative grid rather than natural terrain, is genuinely new territory. The growth produced emergent behavior the dwarves did not fully predict. Some of what grew is uncharted even to them. Dwarves can interpret what specific conditions likely produced — growth principles applied to known geology — but no map of the interior was possible to draw in advance. The growth was seeded to produce internal maintenance passages; where those passages grew was determined by the growth itself.
+
+**Gnomes** monitor the wall's signal integrity and dispatch dwarves when something needs physical attention. Their monitoring is direct perception of the wall's QWAN signal — not cameras, not sensors, not feeds. There is no remote view. A gnome senses the wall they are physically near. Coverage is wherever gnomes are present, and only there. For remote sections, a survey means a gnome traveling to that section. Gnome perceptual knowledge lives in gnome minds, not in Commission records.
+
+The grown wall has active QWAN presence — coherent and continuous. This produces two distinct readings:
+
+- *Irregular signal:* where the wall grew around natural geology — cave intersections, unusual formations, places where the growth encountered existing subsurface features. These read as geological character. Distinguishing a navigable passage from geological variation requires physical inspection.
+- *Blank spots:* patches are inert, non-grown material with no QWAN presence. A patch reads as silence in what should be continuous signal. Gnomes perceive all patches in any section they survey immediately and without consulting records. Blank spots are opaque — gnomes know where patches are, not what is behind them or whether a patch has been disturbed.
+
+**Hobgoblins** administer the wall system from the Commission records layer — surface geometry, administrative boundaries, petition filings, repair logs. Their map is complete on paper. The physical reality of what the growth produced is not in their records.
+
+None of the three knowledge layers is complete. Together they still do not produce a full picture.
+
+### Seam One — Waterway Classification Ambiguity
+
+The wall system's established rule: walls end at bank level on parallel waterways; where walls cross waterways they create navigable tunnels. Natural waterways are escape valves, not primary corridors.
+
+Artificial waterways that connect to natural ones were not cleanly classified during the hasty construction period. The Amoskeag canal system in Manchester is the documented instance — industrial canals diverting Merrimack River water for the 19th-century mills. The canals are artificial infrastructure. They also connect to and carry water from the Merrimack, a natural waterway with full classification protection. At the points where canal feeds from and returns to river, the wall system's classification was not cleanly drawn.
+
+The Commission's wall geometry in that area was contested immediately. Three Wall Commission petitions are active. The ongoing jurisdictional dispute noted as one "nobody can figure out how to close" is specifically this canal network.
+
+The canal/river boundary remains legally unresolved. At the ambiguous points, a person who understands both the pre-Commission Amoskeag canal geography and the wall system's waterway classification rules can navigate this seam — entering the Merrimack (clearly waterway-protected), moving to a canal intake at the classification ambiguity, and crossing what would otherwise be a Gatelock boundary without triggering one.
+
+The Commission headquarters at the Millyard sits above this network. The Commission knows the petition is open. It has not located the specific passage implication within it.
+
+### Seam Two — Cave and Grown Wall Intersections
+
+The organic growth process encountered the existing subsurface geology of a planet not surveyed with wall construction in mind. Natural cave systems, karst formations, and geological passages running through areas where wall boundaries were projected downward were not on any administrative surface map.
+
+Where natural caves intersect the wall's internal structure — including the maintenance passages the growth was seeded to produce — a physical connection between geological space and wall interior exists. This is not a legal ambiguity. It is a physical gap between what was mapped and what grew.
+
+The Commission knows this category of seam exists. When unauthorized access points are found, they are patched — dwarves dispatched to block the passage with conventional material. Patches are not grown wall. The original grown wall is organic and QWAN-active; a patch is an inert addition, materially distinct. A knowledgeable person can identify the difference. A motivated person can remove a patch. The passage underneath remains.
+
+Patching produces two further consequences:
+
+- The Commission repair log is a partial map of known cave intersections. The same history is written in the wall's signal as blank spots visible to any gnome surveying that section.
+- Unpatched passages, where the cave intersection reads as geological irregularity rather than a clear anomaly, may be traversed without gnome-detectable disturbance. Traversal does not damage the wall. If no gnome is physically present to survey the section, no detection occurs.
+
+In areas where gnome presence is infrequent — the North Country, Carroll County, remote rural sections — unpatched cave intersections may remain unknown to the Commission indefinitely, and use of them undetectable. The Commission's patching operation is as thorough as its survey coverage. Its survey coverage thins with distance from Manchester.
 
 ---
 

@@ -20,7 +20,8 @@
 The Homo genus species were embedded in human institutional infrastructure before the QWAN activation — placed in roles they were designed for, doing jobs that would turn out to be exactly what the aftermath required. They were not agents. They were simply good at what they did, and what they did happened to be useful.
 
 - **Hobgoblins** — already in planning departments, admin roles, Wall Commission field corps. The hobgoblin in the Manchester planning office was never a surprise to anyone except the humans.
-- **Dwarves** — infrastructure, wall system maintenance, engineering.
+- **Dwarves** — seeded the wall growth process; dispatched for physical repair and interior work when gnomes identify problems. The wall system is not conventional construction — dwarves initiated an organic growth that developed its own internal structure. This technology has never been deployed at planetary scale before. Some of what grew is uncharted even to them.
+- **Gnomes** — QWAN signal monitoring and wall integrity assessment. Direct perceptual sensing of the wall's signal — no instruments, no cameras, no remote feeds. A gnome senses the wall they are physically near. Gnomes identify anomalies and blank spots (Commission patches), assess irregularities, and dispatch dwarves for physical intervention. They do not do the repair work themselves.
 - **Elves** — communications, interface roles, PR layer between Commission institutions and human population.
 - **Halflings** — logistics, supply chain assessment, corridor coordination.
 - **Tinkari** — operational infrastructure, QWAN maintenance.

@@ -131,6 +131,7 @@ The result: every non-human on Earth knows the trial is mythology. The humans ar
 |------|----------|
 | `trial-mechanics.md` | Full canonical Earth mechanics — walls, integration metric, Commission, legal landscape |
 | `AI-REFRESHER.md` | This document |
+| `world-building/institutions/corp.md` | CORP structure — precinct model, operational tiers, the work, governance relationships |
 | `world-building/races/species-presence.md` | Why each species is on Earth; Homo staff vs. wild race distinction |
 | `world-building/geography/manchester-nh.md` | Terminus, city character, wall geometry, Millyard |
 | `world-building/cultures/qwan-broadcast.md` | Iridari as witnesses; tail performance mechanic |

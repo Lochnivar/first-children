@@ -22,15 +22,19 @@ An elven woman raised her hand before the hobgoblin could retort.
 
 "We don't know," she said in her musical voice.  "We just know that Earth's QWAN field has been activated and the early reports show massive explosions around the world."
 
+The tinkari gnome twitched and grimaced. 
+
+"The QWAN isn't a field, it's the tech that runs on a High Resolution Bias setting that -- ".   It paused as it searched for the right word before just sighing and resigning itself. "the setting that Jeff changed."
+
 "And it doesn't matter", the dwarf spoke up.  "We now have to pick up yet another mess our 'Jeff' left for us to clean up."
 
-"To be fair," the tinkari gnome mused, "nobody could have predicted the QWAN would have lowered the activation threshold of unstable..."
+"To be fair," the tinkari gnome mused, "nobody could have predicted the HiRB would have lowered the activation threshold of unstable..."
 
 "Can you say that in Standard please?" The cayminus interrupted the short gnome.
 
 "The QWAN makes things go boom more easily", the dwarf drawled.
 
-The beings around the table shuffled as that sank in.  The kitsune, the other of the only two wild races in the room, coughed and rubbed the bridge of her nose over round framed glasses.
+The gnome crossed her arms and grumbled under her breath about the ignorance of QWAN and HiRB.  The rest of the beings around the table shuffled as what the dwarf said sank in.  The kitsune, the other of the only two wild races in the room, coughed and rubbed the bridge of her nose over round framed glasses.
 
 "So, I think we're agreed this is a something we can't just ignore.  The fact that you pulled me into this suggests that you need to negotiate a process and Edmund is here is because you need funding."  She pointed to the cayminus leader.
 
