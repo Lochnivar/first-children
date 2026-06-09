@@ -24,7 +24,7 @@ Complete index of all world-building elements organized by category.
 - [Knights of the Lustrous Lance](organizations/knights_of_the_lustrous_lance.md) - KLL: fighting credential, character system, and merchandise ecosystem; A.J.'s primary cultural disruption operation
 - [Level Accreditation System](organizations/level_accreditation_system.md) - Portable skills certification using RPG vocabulary; A.J.'s long-game attack on feudal fixed circumstance
 - [Greyroses](organizations/greyroses.md) - Apostasy marks, Nala's interface, blood purification, suicide mechanism
-- [Chapterhouse of Nala in Ibelin](organizations/chapterhouse_nala_ibelin.md) - Facility where Earth souls are housed and acclimated
+- [University of Ibelin / The Chapterhouse](organizations/chapterhouse_nala_ibelin.md) - Public university (cover institution) with the Chapterhouse embedded silently within; where Earth souls are housed and acclimated
 
 ## Cultures
 - [Cultural Identification Cheat Sheet](cultures/cultural_identification_cheat_sheet.md) - Comprehensive culture reference (provisional)

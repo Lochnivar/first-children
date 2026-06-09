@@ -138,6 +138,161 @@ score. In diaspora, events away from home are recorded as faithfully
 as events on the inlet coast. The score does not pause because the
 location changed.
 
+**The Keys (Ta', Te', Ti').** The score is not written in a single
+vocabulary of symbols — it is written in keys. Each key is a
+fundamental orientation, a coloring that inflects everything composed
+within it. The same life-event recorded in Ta'Eirnath reads
+differently than in Ta'Caorven. The key is the frame; the key gives
+the meaning.
+
+Keys come in threes. The *Ta'* is the major — bright, forward-facing,
+declarative. The *Te'* is the minor — the same quality heard from a
+darker place, honest but not proud. The *Ti'* is the flat — a formal
+warning, written alongside a Ta' when the Ink-keeper judges it
+warranted. Not a standalone entry; a paired caution. Uphold this Ta'.
+Watch for this Ti'. Whether to add it is the Ink-keeper's judgment,
+not the family's request.
+
+The six sets:
+
+*Ta'Faeln* (Devotion) — complete orientation toward something outside
+yourself. A person, a practice, a cause. Not servility; chosen
+commitment. The life written here finds its meaning through dedication.
+*Te'Faeln* — devotion as vigil. What remains after what you served
+is gone. Loyalty that outlasts its object; the weight of a love
+that cannot be put down.
+*Ti'Faeln* — devotion become self-erasure. The self dissolved into
+what it serves; the person who no longer exists apart from their
+dedication.
+
+*Ta'Caorven* (Protection) — the stance of standing between. Where
+Ta'Faeln turns toward, Ta'Caorven faces outward to meet what
+threatens. A warden's key, told with strength.
+*Te'Caorven* — the warden who has already taken the wound. Protection
+from a place of cost rather than surety. Still standing between.
+Not proud of the price.
+*Ti'Caorven* — protection become control. The guardian who cannot
+release what they guard; the ward that has become a prison.
+
+*Ta'Eirnath* (Remembrance) — the orientation toward continuity.
+Carrying the dead, refusing to let things be lost, honoring what
+has been. The most distinctly Caelori of the keys.
+*Te'Eirnath* — remembrance as burden. Carrying what cannot be set
+down. The grief that has not yet found its resolution, and may not.
+*Ti'Eirnath* — remembrance become imprisonment. The past swallowing
+the present; the person who cannot move through their grief because
+they will not set it down.
+
+*Ta'Durven* (Endurance) — not passive survival but active persistence.
+The quality of continuing when continuation costs something.
+*Te'Durven* — the persistence of someone who has already paid too
+much and continues anyway. Not stubborn; simply still here. The
+endurance that has forgotten what it was enduring toward.
+*Ti'Durven* — endurance become stubbornness. The refusal to yield
+when yielding is wisdom; persistence past the point where it serves
+anything.
+
+*Ta'Brethael* (Truth) — precision, clarity, the refusal to
+approximate. The key of exact words and honest reading, closely
+tied to the oral tradition's understanding that inexact transmission
+corrupts. Truth told as proclamation.
+*Te'Brethael* — truth told without pride. The honest account of a
+disgrace, a failure, a moment that cannot be recalled with anything
+but plainness. Still exact. Still unvarnished. Not triumphant.
+*Ti'Brethael* — truth become cruelty. Honesty deployed without
+mercy; the precision that wounds because it does not consider
+whether wounding serves.
+
+*Ta'Feoval* (Kinship) — the orientation toward belonging. Not loyalty
+to a person (that is Ta'Faeln's territory) but to the web itself —
+the table, the clan, the quarter, the community.
+*Te'Feoval* — kinship after rupture. Belonging that has been changed
+by something that cannot be unchanged. Still kin. The shape of it
+is different now.
+*Ti'Feoval* — kinship become suffocation. The web as cage; belonging
+that cannot tolerate the one who must leave or become something new.
+
+Other keys exist — finer shadings, combinations, modulations — but
+these six sets are the major registers. A Lifesong written across
+more than one key is a composition in tension, which the Ink-keeper
+treats as craft challenge rather than problem to resolve.
+
+The keys govern the full score, not only the Lifesong. In the
+ledger — the accumulating record of a life — the key choice is an
+interpretive act. The Ink-keeper does not merely record what
+happened; they choose the register in which it is remembered. An
+act of courage recorded in Ta'Brethael is triumphal and permanent.
+The same act's cost, recorded in Te'Durven, is also permanent.
+Both can sit in the same score. The community reads both for as
+long as the score exists.
+
+This gives the Ink-keeper real authority and real responsibility.
+A family may press for a more flattering key; the Ink-keeper may
+decline. A Te'Brethael entry cannot be softened by time or
+sympathetic descendants — it sits exactly as it was recorded,
+without mediation, for every reader who comes after.
+
+**The Lifesong.** The chest and heart area carries a distinct zone of
+the score — not a record, but a guiding stone. Where the rest of the
+score looks backward, the Lifesong looks forward. It is aspiration in
+ink: not what you have been, but who you might become.
+
+Additions are made gradually through early childhood. The Ink-keeper
+executes the work, but the aspiration comes from the family elders —
+primarily parents or guardians, those who know the child most
+intimately. They observe what is genuinely present in the child and reach for
+the Ta' that elevates it. A child who clings is written in Ta'Faeln —
+devotion as chosen commitment, not need. A child who fights is written
+in Ta'Caorven — the outward-facing stance, the warden, not the
+aggressor. The aspiration is never invented — it is always tethered
+to something real in the child — but the key chosen is always the
+more demanding, more fully realized version of what is merely there.
+
+This makes each addition an act of interpretation. The family decides
+what the stubborn child's stubbornness means about them. What the
+fearful child's caution means about them. The Lifesong is a collection
+of bets placed by the people who love you most, in the language of
+what they believe you are capable of.
+
+The Lifesong is not visible by default. Clothing convention keeps
+the collar and wrist accessible — the public score, the readable
+identity. The chest is covered. The Lifesong is seen by those who have
+earned the right: family, close clan, eventually a partner. Its
+private placement is not accident. It guides from within rather than
+declaring outward.
+
+The maturity ceremony seals it. At a point the family and community
+recognize as the crossing into adulthood, the final elements are
+added in a formal gathering — family, close clan, the Ink-keeper
+present. After this, the Lifesong is not touched again. Not added
+to, not darkened, not refreshed. The Ink-keeper's tools do not
+return to it. What was placed is placed. The aspiration that was
+given to the child is now carried by the adult exactly as it was
+given — and will fade as it fades, and say what it says, and no
+one will correct it. Whatever the rest of the score records going
+forward, the Lifesong remains untouched: the full weight of what
+the family believed you could become, over your heart, aging
+honestly, for the rest of your life.
+
+For those who outlive their parents, the Lifesong becomes the last
+place their voices persist. It is not a song anyone else can sing.
+But it is there.
+
+Ink fades. The Caelori know this and read it. An elder whose Lifesong
+has gone pale and soft-edged with age carries a visible question that
+the community holds quietly: was that aspiration consumed, or missed?
+An Ink-keeper reading the full score can sometimes answer it — the
+ledger sections tell the story of a life, and a faded Lifesong read
+against a life well-lived in its direction carries a different weight
+than the same fading on a life that went elsewhere. The ink does not
+judge. The reader does.
+
+A vivid Lifesong on an old body is notable in its own way. It might
+mean the aspiration was so large it was never fully absorbed. It might
+mean the person is still working toward it. It might mean the family
+inked it deep, confident in what they saw — a statement of certainty
+rather than hope. Only the life alongside it can say which.
+
 Genealogical songs are sung at death — not as funeral rite exactly,
 but as continuation. The community performing someone's song after
 they are gone is the Caelori understanding of mourning: we are still
@@ -161,7 +316,9 @@ that may not know it yet.
 - **The tattoo score.** The primary identifier in every context. Visible
   at collar and wrist by convention — where lineage and recent additions
   tend to be placed. An elder's is a substantial composition. The score
-  grows across a lifetime; the body is the only document that does.
+  grows across a lifetime; the body is the only document that does. The
+  chest carries the Lifesong — aspirational, private, sealed at the
+  maturity ceremony; see the Portable Tradition section.
 - **Clan-pattern cloaks.** The weaving pattern echoes the tattoo notation
   in visual form — a clan is identifiable by cloak as well as skin. The
   two systems are parallel readings of the same information.

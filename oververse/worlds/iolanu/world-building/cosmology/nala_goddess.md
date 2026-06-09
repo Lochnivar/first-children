@@ -19,7 +19,7 @@ The "Goddess of Liberation" framing is real but selective. It describes what Nal
 - **Status:** First Child (little 'g' goddess) — not the Big G God
 - **Powers:** Full Quantumancy — all five quantum abilities combined (Quantumancer, Reader, Weaver, Echo, Nullwraith simultaneously). First Children are not split the way Iolanu mortals are.
 - **Operational constraint on Iolanu:** Cannot be directly active on Iolanu or speak directly to anyone there without unacceptable risk of exposure. Can reach souls in transit — between worlds, outside Malachor's awareness. Once agents are deployed on Iolanu, she cannot course-correct. They operate on her pre-arrival briefing.
-- **Last fresh contact point:** Ibelin's Chapterhouse, where her guidance is still translatable and agents receive their final briefing before deployment.
+- **Last fresh contact point:** the Chapterhouse within Ibelin's University, where her guidance is still translatable and agents receive their final briefing before deployment.
 - **Note for story:** What First Children "really are" — waveforms, energy patterns, the mechanics of their existence — is background only and out of scope for readers. They are gods with godly powers.
 
 ---
@@ -65,7 +65,7 @@ The moment any agent pieces this together is a major story beat. The reveal does
 - **Greyrose:** The physical mark of Apostasy membership — an actual gray rose embedded in flesh, not a tattoo. Nala's interface to Earth souls; also functions as blood purification mechanism and suicide failsafe (toxin bulb if ruptured). Anyone bearing a Greyrose can be trusted as a fellow agent.
 - **Laila:** One of Nala's most devout followers, who volunteered her body so Gabby could come to Iolanu. Laila's soul was transferred to Nala's keeping before her body became available.
 - **Memory suppression:** Agents won't remember most of their direct conversation with Nala — too dangerous. What they retain is operational: the mission, the Greyrose signal, the briefing.
-- **Course-correction:** Once an agent is deployed on Iolanu, Nala cannot reach them directly. The briefing at Ibelin's Chapterhouse is the last point of live guidance. Agents operate on pre-arrival instructions from that point forward.
+- **Course-correction:** Once an agent is deployed on Iolanu, Nala cannot reach them directly. The briefing at the Chapterhouse within Ibelin's University is the last point of live guidance. Agents operate on pre-arrival instructions from that point forward.
 
 ---
 

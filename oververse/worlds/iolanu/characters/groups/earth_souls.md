@@ -27,7 +27,7 @@ Nala has brought a few Earth souls to Iolanu to serve as her agents. There are n
 
 ### Daochen
 - **Origin:** Xian, China
-- **Role:** Mother Superior at the Chapterhouse of Nala in Ibelin
+- **Role:** Mother Superior; runs the Chapterhouse embedded within the University of Ibelin
 - **Status:** Head of the order on Iolanu, responsible for fulfilling Nala's plans. Serves as liaison between Nala and the Earth souls she brings here. Supports Earth souls adapting to their new life and mission, coordinates their activities once acclimated, and manages the Chapterhouse.
 - **Religious Beliefs:** A Christian who doesn't worship Nala but approves of Nala's mission and plans. Wears a simple silver crucifix. She doesn't preach Nala's message but serves as support and coordination.
 - **Appearance:** About 45 Earth years old, brown hair with generous strands of gray, hazel eyes, light brown skin from an ages-old tan. You'd never know she's from China from her host body.

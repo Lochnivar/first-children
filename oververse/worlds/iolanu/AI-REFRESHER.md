@@ -135,6 +135,7 @@
 | **Rathen** | Scandinavian × Incan | High plateau |
 | **Takomai** | Imperial China × Roman | Bureaucracy, civic engineering |
 | **Wrinomo** | Swiss × Vietnamese | Alpine lake engineers |
+| **Wereshi** | Anglo-Saxon × Shinto × Slavic | Forest land-covenant; threshold-keepers; kannagi ritual specialists; Ibelin and Doicas (Book 1 entry cities) |
 
 ---
 
@@ -155,7 +156,7 @@
 - **Grayson McKenzie** — Civilian; not 'Rosed; knows Loisa's "tattoo" but not significance
 - **Jasin "Loch" Lochnivar** — Prepositioned at Kitzigen Falls for Book 2
 - **Axiarch Solon** — Church; Nullwraith; chasing Nalan party; aside POV
-- **Daochen** — Mother Superior, Chapterhouse Ibelin
+- **Daochen** — Mother Superior, the Chapterhouse (hidden within the University of Ibelin)
 - **Chance Hodgkins** — Disembodied Quantumancer; can hijack Greyroses; threat
 
 ---

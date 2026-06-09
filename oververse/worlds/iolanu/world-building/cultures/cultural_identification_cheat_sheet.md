@@ -8,13 +8,13 @@ see individual culture files.
 
 ## Kitzengai
 **Earth Reference:** Vietnamese river merchant energy × Phoenician commercial reach  
-**Skin:** Warm amber to light bronze  
+**Skin:** Warm olive to medium brown  
 **Hair:** Dark brown to black; neat and reserved; elaborates with earned familiarity  
 **Eyes:** Dark brown, occasionally deep amber  
 **Build:** Lean and compact; deliberate stillness  
-**At a glance:** Nothing immediately readable — the reserve reads before anything else; warm-toned, well-dressed, unremarkable until they're not  
-**Up close:** Warmth that arrives once reserve lifts; the fox pendant; the most informed person in the room who volunteered the least  
-**Tell:** Touches the fox pendant when something significant happens — not superstition, location. Finding their footing in the moment relative to the ancestor line.
+**At a glance:** The pendant at throat or chest; dark practical clothing without display; a quality of stillness in a room that is moving around them  
+**Up close:** A specific question where you expected small talk; the hand that moves to the chest when something matters; answers that cost more than they appear to  
+**Tell:** The most informed person in the room who volunteered the least.
 
 ---
 
@@ -145,7 +145,7 @@ see individual culture files.
 **Hair:** Dark brown to near-black; practical in active contexts; lineage braid at back of head for civic women in formal contexts  
 **Eyes:** Dark brown to near-black; the stillness in the gaze reads as assessment because it is  
 **Build:** Highland-hardened across both genders; the stillness of people who complete what they start  
-**At a glance:** Covenant cord at the wrist on everyone; warrior's marking on those who train devotionally; lineage braid on civic women; highland earth tones; the quality of people waiting to begin the next thing  
+**At a glance:** Covenant cord at the wrist on everyone; warrior's marking on those who train devotionally; lineage braid on civic women; highland earth tones; the stillness of people who have already completed the relevant act and are simply waiting for the next one to begin  
 **Up close:** Direct in the active domain; fully warm in the feast domain — and do not mistake the warmth for the softer option; the tamada's toast requires you to have paid attention; the correction for error is thorough  
 **Tell:** They complete the form. Whatever was begun is finished. The prayer said to its end in an empty room. The toast given in full whether or not the cup is raised. The covenant act performed to its conclusion regardless of acknowledgment. Always.
 
@@ -164,10 +164,22 @@ see individual culture files.
 ---
 
 ## Rathen
-*(Circumstantial variant — class treated as culture; file approach TBD)*  
-**Earth Reference:** *TBD*  
-**Notes:** Legal/social category for peak-bound gifted and kin; mixed population, not an ethnic group; quantum gift first arose in ancient Thohalla, spread through inheritance. Physical traits are mixed; cultural identity is defined by shared legal condition rather than shared origin.  
-**Tell:** *TBD pending file approach decision*
+*(File rework in progress — see [Rathen.md](Rathen.md))*  
+**Earth Reference:** *TBD — being reworked as mountain culture of A'Miz's N-S range*  
+**Notes:** Original mountain culture of the great N-S spine on A'Miz, predating the Quantumancer catastrophe that created the floating Peaks. The Peaks-dwellers (gifted exiles and their kin) are a distinct population within the broader Rathen range — not the culture's defining characteristic. Bausaulis sits on the north end of the range; the Orindibar high valley is the middle section.  
+**Tell:** *TBD pending rework*
+
+---
+
+## Wereshi
+**Earth Reference:** Anglo-Saxon land-covenant × Shinto animism × Slavic seasonal ritual  
+**Skin:** Warm olive to medium brown; earthy rather than sun-weathered  
+**Hair:** Dark brown to chestnut; practical (braided, knotted, wrapped) with small objects worked in — a river stone, carved wood bead, or covenant knot marking the homestead  
+**Eyes:** Warm brown to forest green; threshold-reading quality — always aware of which zone they're in  
+**Build:** Lean and quiet-moving; stillness is as much a physical skill as strength  
+**At a glance:** Earthy practical clothing; small object in hair or at belt; the threshold pause — a half-breath of stillness at any zone transition so habitual it's unconscious  
+**Up close:** Acknowledges the kami of wherever they are before discussing anything else; clarifying questions with actual waiting for the answer; exact words of a greeting matter more than warmth of delivery  
+**Tell:** In any space, has already found the threshold. Not the door. The threshold — where the zone changes. They know where they are relative to it before they've done anything else.
 
 ---
 

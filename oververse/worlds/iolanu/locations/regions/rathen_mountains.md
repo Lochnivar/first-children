@@ -27,7 +27,8 @@ The mountains are essentially debris from a casual act of destruction—a remind
 
 ## Geography
 - **Location:** Floating above the Orindibar Desert
-- **Magnetic field:** Sustained by the black magnetic sand below
+- **Magnetic field:** Sustained by the black magnetic sand below — handles vertical suspension
+- **Steelvine anchors:** Massive root-like structures descending from the peaks into the magnetic sand below; what prevents horizontal drift. The steelvines are the tethers — without them the peaks would drift unpredictably across the desert. Their roots drive deep into the sand and are ferrous enough to interact with the magnetic field. Orindibar is built within and around the base of these anchor roots at sand level — the city exists at the junction of peak and desert, within the root structure like a city inside a massive mangrove system. See [orindibar.md](../../locations/cities/orindibar.md).
 - **Access:** Landings and supply runs rely chiefly on **Orindi mag-lev skimmers** and pilot knowledge; **Church pressure** squeezes **who** gets passage and **what** counts as cargo vs fugitive. Orindi **do not** police peak kitchens; they **hold the line at interfaces** (egress, skimmer hire, descent).
 - **Hydrology / Rathen Veil:** Peaks sit high enough to **intercept snowpack**; seasonal **melt** pools in basins and crevices; overspill leaves cliff lines as falls that **shred into virga** — mist and dying rain that **rarely wets** the desert floor. Orindi call that visual curtain the **Rathen Veil** (see [Orindi.md](../../world-building/cultures/Orindi.md)). **Virga is water physics, not Long Walk forensics** — Walk victims **usually** **impact the sand** by trajectory and gravity, not because “the veil hid the body.”
 - **Stability:** Permanently suspended (ancient fixity + ongoing upkeep); ice load and drift are **chronic anxiety**, not hand-waved away for story years

@@ -10,10 +10,11 @@
 A vast magnetic desert with black sand that supports magnetic levitation. The sand itself is magnetically charged, allowing for mag-lev technology to function. The desert is crossed by Polynesian-inspired mag-lev skimmers that float across the black sand. The landscape is dominated by the floating Rathen Mountains (Hallelujah Mountains/Avatar-inspired peaks) that hover above the magnetic sand.
 
 ## Geography
-- **Black magnetic sand:** The foundation of the desert, enabling magnetic levitation
+- **Black magnetic sand:** The foundation of the desert, enabling magnetic levitation; not static — behaves as a viscous fluid under the magnetic pull of the peaks overhead
+- **Sand tides:** At night, when thermal convection stills, the sand shifts in slow rhythmic magnetic ridges driven by the peaks' pull — predictable in pattern, significant for skimmer navigation and mooring
 - **Floating Rathen Mountains:** Massive mountain peaks that float above the sand
-- **Travel routes:** Mag-lev skimmer routes crossing the desert
-- **Surrounding areas:** Connects A'Thohalla region to Orindibar city
+- **Travel routes:** Mag-lev skimmer routes crossing the desert; departure windows are informed by sand tide timing
+- **Surrounding areas:** Boarding outposts at the desert's edges feed traffic inward to Orindibar at the center
 
 ## History
 ### Origin: Ancient Quantumancer Experiment

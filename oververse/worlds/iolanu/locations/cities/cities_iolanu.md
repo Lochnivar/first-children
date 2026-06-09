@@ -135,7 +135,7 @@
 
 65. **Amiendo** - Romance-language naming with a warm, southern feel. [Culture and location TBD — possibly trading league adjacent given the Occitan register.]
 
-66. **Doicas** - Celtic feel with the -as ending; possible Caelori. [Culture and location TBD.]
+66. **Doicas** - Wereshi hall-complex city-state in A'Maar; second city on the Book 1 route (after Ibelin). Sits adjacent to territory held by a semi-intelligent horde — the understanding between them is unwritten and predates anyone living; sustained correct Wereshi behavior is what earned it, not negotiation. See [doicas.md](doicas.md).
 
 67. **Ryeleigh** - English compound; rye + leigh (field or clearing). Agricultural origin, probably grew from farmland rather than fort or ford. The -leigh suffix puts it in the same naming register as Doleigh — possibly Caelori [inferred]. [Location TBD.]
 
@@ -206,7 +206,7 @@
 - **Stridence** - Khalesar highland city; seat of the Hierarchy of the Open Fist
 
 ## Previously Mentioned Locations
-- **Ibelin** - Location of the Chapterhouse of Nala (where Earth souls are housed and acclimated). Founded by Iolanu's first known Earth soul — **Camulous**, a Celtic Druid turned Templar Knight, pulled from the Crusades. He established the Chapterhouse and gave it the name he carried with him. Long dead by the time of the story, but his founding is present in the architecture and the institution.
+- **Ibelin** - Wereshi hall-complex city-state in northern A'Maar; Book 1 opening city. Home to the University of Ibelin (public institution, founded by Camulous) with the Chapterhouse embedded silently within it. Camulous — Celtic Druid turned Templar Knight, Iolanu's first known Earth soul — named the city from his own world; the Wereshi kept the name without knowing its origin. See [ibelin.md](ibelin.md).
 
 ## Notes
 - This list corrects previous OCR errors from handwritten notes
