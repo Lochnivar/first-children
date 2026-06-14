@@ -5,7 +5,7 @@
 
 ## Overview
 
-The **University of Ibelin** is a legitimate educational institution in the Wereshi city of Ibelin — founded by Camulous, Iolanu's first known Earth soul, who used his experience synthesizing Celtic druidic and Templar Knight institutional traditions to build something that would outlast him. From the outside it is exactly what it appears to be: a functioning university in a northern city, a place people travel to in order to learn things.
+The **University of Ibelin** is a legitimate educational institution in the Wereshi city of Ibelin — founded by Camulos, Iolanu's first known Earth soul, who used his experience synthesizing Celtic druidic and Templar Knight institutional traditions to build something that would outlast him. From the outside it is exactly what it appears to be: a functioning university in a northern city, a place people travel to in order to learn things.
 
 Embedded within it, silently, is **the Chapterhouse** — Nala's operational facility for receiving and acclimating Earth souls brought to Iolanu. The Chapterhouse has no public presence. It is a quiet portion of the university's physical structure, unremarkable from the outside, indistinguishable from administrative or residential university space. Daochen, the Mother Superior, manages it as a function of the university rather than a separate institution. The cover is not a thin one. The university is real; the Chapterhouse simply lives inside it.
 
@@ -52,7 +52,7 @@ Embedded within it, silently, is **the Chapterhouse** — Nala's operational fac
 
 ## Founding
 
-Camulous — Celtic Druid turned Templar Knight, pulled from the Crusades; Iolanu's first known Earth soul — founded the University of Ibelin and embedded the Chapterhouse within it. He gave it the name he carried from his own world. Long dead by the time of the story. His institutional design has held for approximately 900 years.
+Camulos — Celtic Druid turned Templar Knight, pulled from the Crusades; Iolanu's first known Earth soul — founded the University of Ibelin and embedded the Chapterhouse within it. He gave it the name he carried from his own world. Long dead by the time of the story. His institutional design has held for approximately 900 years.
 
 ---
 

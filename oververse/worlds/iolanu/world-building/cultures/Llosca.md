@@ -42,6 +42,8 @@ like — with the dress grammar rewritten.*
 
 ---
 
+> **Historical Framing:** Llosca is a pre-Shattering ancestral category — the cultural tradition as it developed across the First and Second Ages (IY 1–1050) and was expressed under Malachor's Third Age empire (IY 1051–1381). The Shattering (IY 1381) and ~614 years of post-Shattering isolation have fragmented this culture into city-state lineages that share ancestry and recognizable practices but no longer maintain unified political identity. "Llosca" is what historians and outsiders use; individual cities identify by city-state name first, ancestral lineage second or not at all. The Losceati are a present-day emergent offshoot. *See [timeline/index.md](../../timeline/index.md).*
+
 ## Physical Heritage
 
 City people, shaped by warm coastal and near-coastal environments with

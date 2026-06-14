@@ -21,13 +21,13 @@ Large timber framing and earthwork berm construction — the Wereshi hall-comple
 
 ## Founding and the Name
 
-Ibelin was named not by the Wereshi but by Camulous — a Celtic Druid turned Crusader knight, pulled from the historical moment of the Crusades and made Iolanu's first known Earth soul. He established the Chapterhouse of Nala here, gave the city the name he carried with him, and is long dead by the time of the story. The Wereshi adopted the name without knowing its source. The Celtic register of the name and the Wereshi character of the city are both genuine — one layered on the other across centuries.
+Ibelin was named not by the Wereshi but by Camulos — a Celtic Druid turned Templar Knight, pulled from the historical moment of the Crusades and made Iolanu's first known Earth soul. He established the Chapterhouse of Nala here, gave the city the name he carried with him, and is long dead by the time of the story. The Wereshi adopted the name without knowing its source. The Celtic register of the name and the Wereshi character of the city are both genuine — one layered on the other across centuries.
 
 ---
 
 ## Notable Features
 
-**University of Ibelin:** A legitimate educational institution — the public face of the city's most important building. Founded by Camulous; real in every functional sense. The Chapterhouse (Nala's operation for receiving and acclimating Earth souls) is embedded within it silently, indistinguishable from administrative or residential university space. The university provides natural cover: people arriving from elsewhere, learning unfamiliar things, asking basic questions about the world. Earth souls blend into that pattern without effort. See [chapterhouse_nala_ibelin.md](../../world-building/organizations/chapterhouse_nala_ibelin.md).
+**University of Ibelin:** A legitimate educational institution — the public face of the city's most important building. Founded by Camulos; real in every functional sense. The Chapterhouse (Nala's operation for receiving and acclimating Earth souls) is embedded within it silently, indistinguishable from administrative or residential university space. The university provides natural cover: people arriving from elsewhere, learning unfamiliar things, asking basic questions about the world. Earth souls blend into that pattern without effort. See [chapterhouse_nala_ibelin.md](../../world-building/organizations/chapterhouse_nala_ibelin.md).
 
 **Threshold-keeper at the main gate:** The greeting formula is non-negotiable. Travelers who know the words move through efficiently.
 
@@ -37,4 +37,4 @@ Ibelin was named not by the Wereshi but by Camulous — a Celtic Druid turned Cr
 
 - See [Wereshi.md](../../world-building/cultures/Wereshi.md) for cultural context
 - Route: Ibelin → Doicas → A'Thohalla (Book 1 itinerary)
-- Name origin: Camulous (Celtic Druid / first Earth soul); Wereshi adopted the name without knowing its history
+- Name origin: Camulos (Celtic Druid / first Earth soul); Wereshi adopted the name without knowing its history

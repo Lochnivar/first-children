@@ -1,16 +1,24 @@
 # The Shattering
 
 **Category:** Historical Event / World-Changing Catastrophe  
-**Related Concepts:** Godstone, Godshards, Quantumancers, Rifts, Monsters
+**Age:** End of Third Age — Iolanu Year 1381  
+**Related Concepts:** Godstone, Godshards, Quantumancers, Rifts, Monsters  
+**See also:** [Timeline Index](../../timeline/index.md)
 
 ## Overview
-The Shattering was a catastrophic event where mad Quantumancers attempted to destroy the Godstone to escape their eternal suffering, but instead shattered it into seven Godshards, creating a massive rift in reality that spawned monsters and permanently damaged Iolanu.
+The Shattering was a catastrophic event where mad Quantumancers attempted to destroy the Godstone to escape their eternal suffering, but instead shattered it into seven Godshards, creating a massive rift in reality that spawned monsters and permanently damaged Iolanu. It marks the end of the Third Age and the beginning of the Fourth Age (present day).
 
 ## Historical Context
 
+### Timeline Position
+The Shattering occurs at **IY 1381** — end of the Third Age (IY 1051–1381). By this point:
+- The First Age (IY 1–560): Proto-culture establishment; Thohalla dominant
+- The Second Age (IY 561–1050): Thohalla conquest-slavery cycles; Fall of A'Thohalla; kingdoms formed in response
+- The Third Age (IY 1051–1381): Malachor's world empire; 330 years of direct God-King rule
+
 ### The God-King Era
 - Malachor ruled directly as God-King through the Godstone
-- Unified world empire under his control
+- Unified world empire under his control — built on the kingdoms forged during the Second Age
 - Quantumancers ran unchecked, shattered mountains, remade landscapes
 - Absolute power, absolute madness
 
@@ -140,11 +148,11 @@ see [nalan_apostasy_reference.md](../organizations/nalan_apostasy_reference.md).
 ## Timeline
 
 ### When Did It Happen?
-- Nala became interested in Iolanu after "the final fall of the Thohalla"
-- Decided to intervene to take world from Malachor
-- Needed initial break in Malachor's power
-- Created Greyroses to interface and start Apostasy after Shattering
-- Timeline unclear - generations? centuries?
+- **IY 1381** — end of the Third Age; ~614 years before present day (~IY 1996)
+- Nala became interested in Iolanu after "the final fall of the Thohalla" = Fall of A'Thohalla, end of Second Age (~IY 1050)
+- Spent the Third Age escalating: began Earth soul recruitment; Camulos (first known Earth soul) arrives ~IY 1089–1261
+- The Shattering is Nala's most direct intervention — she judged it worth the exposure risk
+- Created Greyroses to interface and start Apostasy after Shattering; Fourth Age begins
 
 ## The Seven Godshards
 - Scattered when Godstone shattered

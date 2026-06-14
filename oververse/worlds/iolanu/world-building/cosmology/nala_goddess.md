@@ -60,6 +60,24 @@ The moment any agent pieces this together is a major story beat. The reveal does
 
 ---
 
+## The Shattering — Pre-Apostasy Operations
+
+The Apostasy is a Fourth Age institution. At the time of the Shattering (IY 1381), it did not yet exist. Nala had no institutional infrastructure — no Greyroses, no Chapterhouse, no Earth soul pipeline. She had to work directly with individuals already on Iolanu.
+
+**Chance Hodgkins** was her primary instrument. He was the oldest and most powerful Quantumancer alive — ~1,181 years old at the Shattering, having witnessed the full arc of Thohalla destruction, enabled the Takomai empire that then used and broke him, and spent centuries increasingly consumed by the quantum haze. His desire was not liberation. It was oblivion.
+
+Nala presented herself to him as **"The Other"** — he used this deliberately vague label in case Malachor could detect specific names in his thoughts. She did not identify herself as Malachor's sibling or reveal her actual motivation. She presented as a sympathetic alternate deity: something that agreed existence was a wound, that the Godstone was the mechanism, that its destruction would end Iolanu.
+
+The pitch was calibrated precisely for him. Chance did not care about the scope — whether it was Iolanu or all of reality was irrelevant to him; his only concern was that *he* would no longer exist to suffer. Nala let him believe the annihilation would be total. She knew it would not be. The Godstone was always going to shatter into Godshards rather than destroy. Iolanu surviving was the plan.
+
+**What Nala got:** Malachor's direct power over Iolanu broken. The God-King era ended. Space to build the Apostasy in the ruins.
+
+**What Chance got:** His body destroyed. His soul intact. The quantum haze unabated. Disembodied, unable to complete the work, more trapped than before. He has been in this state for 614 years.
+
+The Shattering is the prototype from which everything she builds in the Fourth Age is a correction. Direct manipulation of a single ancient and broken individual is blunt, high-risk, and produces unpredictable residue. The Apostasy's institutional approach — gradual, briefed agents, operational security, the Greyrose infrastructure — is partly a response to how badly the Chance operation went for *him*, and what a disembodied, mad, ancient Quantumancer who knows he was used represents as a long-term liability.
+
+---
+
 ## Followers and Mechanics
 
 - **Greyrose:** The physical mark of Apostasy membership — an actual gray rose embedded in flesh, not a tattoo. Nala's interface to Earth souls; also functions as blood purification mechanism and suicide failsafe (toxin bulb if ruptured). Anyone bearing a Greyrose can be trusted as a fellow agent.

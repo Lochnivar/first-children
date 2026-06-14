@@ -26,6 +26,24 @@ is the only home that cannot be taken.
 
 ---
 
+## Historical Context
+
+The Thohalla are Iolanu's original civilization — Malachor's deliberate creation, present from the fork, the one culture that did not need to migrate to find its range. For the First Age (IY 1–560), they were dominant: the quantum gift originated in Thohalla bloodlines, A'Thohalla was a functioning city, and their position as Malachor's first people was not yet the wound it would become.
+
+The Second Age (IY 561–1050) is what made them what they are now.
+
+**The Crossing Disaster** opened it: Malachor led his chosen people across a desert crossing between A'Miz and A'Maar, and over half died from thirst — seawater on both sides, no preparation. Instead of acknowledgment, Malachor converted the deaths into theological obligation: a ritual of mortification, a liturgy that blamed the victims ("those who drank from the sea when faith flagged"), a commemoration that bound the survivors to the memory of their own people's failure. The Remembrance — the saltwater — is the Thohalla's answer to that liturgy: *we drink it so we remember what he led us to, and what we survived anyway.*
+
+What followed was the **Rage of the Thohalla**: Malachor militarized his chosen people and turned them against the other cultures establishing themselves across Iolanu. Multiple conquest-slavery-liberation cycles of irregular length — some captivities lasting decades, some generations — with the Thohalla as the instrument of Malachor's dominance. The other cultures formed kingdoms as defensive response. The Thohalla, already carrying the weight of the Crossing, became the oppressors; the cruelty cycle was complete.
+
+The **Fall of A'Thohalla** (~IY 1050) ended it. Malachor withdrew his protection. The newly formed kingdoms — organized in the first place because of Thohalla aggression — came together and butchered A'Thohalla. Every culture that participated carries that in its history. The Thohalla carry what was done to them, and what they did before it was done to them. Neither can be set down.
+
+The Three Perpetual Vows, the Stateless Exile, the caravan as civilization — these are not ancient traditions. They are the survival logic of people who lost their homeland ~946 years ago and have been moving ever since. The vow of Stateless Exile is not philosophy; it is the lesson of A'Thohalla: a fixed home can be surrounded and destroyed. The caravan cannot.
+
+*See [timeline/index.md](../../timeline/index.md) for full age structure.*
+
+---
+
 ## Physical Heritage
 
 Shaped by generations of constant travel and nightly defense across

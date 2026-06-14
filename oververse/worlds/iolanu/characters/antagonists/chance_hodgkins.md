@@ -6,7 +6,7 @@
 
 ## Basic Information
 - **Full Name:** Chance Hodgkins
-- **Age:** ~10,000+ years (immortal since the Fall, disembodied since Shattering)
+- **Age:** ~1,796 years (born ~IY 200, First Age; immortal since sometime in the Second Age — exact year unknown, living in the wilderness; disembodied since the Shattering, IY 1381)
 - **Gender/Pronouns:** Male
 - **Occupation/Title:** Former Thohalla fisherman; Quantumancer; Disembodied antagonist
 - **Physical Description:** Currently disembodied (soul only, no body). Formerly Thohalla fisherman.
@@ -55,12 +55,13 @@ Mad, driven by nihilistic desire for complete oblivion. Suffers from eternal qua
 - Theological abuse commemorated
 
 ### The Shattering Attempt
-- Nala manipulated him and other Quantumancers
-- Tried to destroy Godstone (believed it would evaporate the universe, ending his eternal suffering)
-- Succeeded in shattering it (not destroying)
-- His body destroyed in attempt
-- Soul survived (quantum nature)
-- Still exists as disembodied Quantumancer
+- Approached by a being he knew only as **"The Other"** — deliberately vague, in case Malachor could detect specific names in his thoughts
+- "The Other" presented as a sympathetic alternate deity: not Malachor, not his enemy, something that agreed existence was a wound
+- The pitch: destroy the Godstone and Iolanu ends — the "book" gets shredded; his suffering ends with it
+- Chance's response to the pitch: indifference to scope — he didn't care whether it was Iolanu or all of reality; his only concern was that *he* would no longer exist to suffer; the scale was irrelevant
+- He did not know "The Other" was Nala, Malachor's sibling, with her own agenda; he did not know Iolanu would survive
+- The rug pull: the Godstone shattered into 7 Godshards rather than destroyed; Iolanu survived, damaged; Nala got exactly what she wanted — Malachor's direct power broken; Chance got the worst possible outcome — body destroyed, soul intact, still fully perceiving the quantum haze, disembodied and unable to complete the work
+- "By Chance" was written just before the attempt as a farewell testament; its opening line — "If you are reading this, then we have failed" — reflects his belief that surviving readers would mean failure; he had no idea what success looked like from Nala's side
 
 ## Current Threat
 - **Mad:** Wants to complete the Shattering

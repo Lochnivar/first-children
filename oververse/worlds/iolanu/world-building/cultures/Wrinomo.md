@@ -28,6 +28,8 @@ engagement because they never accept one on ground that doesn't favor them.
 
 ---
 
+> **Historical Framing:** Wrinomo is a pre-Shattering ancestral category — the cultural tradition as it developed across the First and Second Ages (IY 1–1050) and was expressed under Malachor's Third Age empire (IY 1051–1381). The Shattering (IY 1381) and ~614 years of post-Shattering isolation have fragmented this culture into city-state lineages that share ancestry and recognizable practices but no longer maintain unified political identity. "Wrinomo" is what historians and outsiders use; individual cities identify by city-state name first, ancestral lineage second or not at all. *See [timeline/index.md](../../timeline/index.md).*
+
 ## Physical Heritage
 
 Shaped by generations at altitude — sun at height, cold wind, low oxygen,

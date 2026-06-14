@@ -30,6 +30,8 @@ civic virtue.
 
 ---
 
+> **Historical Framing:** Takomai is a pre-Shattering ancestral category — the culture that provided the administrative apparatus of Malachor's Third Age empire (IY 1051–1381). Their institutional machinery survived the Shattering when the empire it served did not, which is why the Church still functions on Takomai-derived administrative logic 614 years later. Present-day Takomai city-states share ancestry and the deep instinct for running systems, but no longer serve a unified empire — the apparatus persists without a center. "Takomai" is what historians and outsiders use; individual cities identify by city-state name first. *See [timeline/index.md](../../timeline/index.md).*
+
 ## Physical Heritage
 
 Shaped by generations of settled urban life in a temperate agricultural
@@ -210,9 +212,12 @@ historically demonstrable. Both parties maintain formal working relationships
 because neither can afford not to.
 
 The sacred site dispute at Eleish and Yelish — two cities on opposite banks
-of the same river mouth, arguing over which bank hosted a specific founding
-event, with an extensive theological literature on the spelling of the site's
-name — is considered by the Takomai themselves to be a minor and local dispute.
+of the Portage Strait, grown from the ruins of the imperial canal city the
+Shattering split — arguing over which bank hosted the original Portage's
+central administrative function, which spelling of the derived name is correct,
+and which side the Colossus of Malachor's primary leg stood on, with an
+extensive theological literature on all three questions — is considered by
+the Takomai themselves to be a minor and local dispute.
 By everyone else, it is considered a perfect emblem of the culture.
 
 **Portable practice:**  

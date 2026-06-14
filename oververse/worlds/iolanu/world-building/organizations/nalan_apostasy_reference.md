@@ -157,7 +157,7 @@ assessment of whether the work is worth doing.
 
 | Name | Quality | Contribution |
 |------|---------|--------------|
-| Camulous | Ability to synthesize radically different institutional traditions into something new that outlasts both — Celtic Druid turned Templar Knight | Founded the University of Ibelin as the cover institution; embedded the Chapterhouse silently within it; named the city Ibelin (a Crusader name he carried from Earth, now embedded in Iolanu's geography with its origin unknown); established the foundational institutional design that has held for 900 years |
+| Camulos | Ability to synthesize radically different institutional traditions into something new that outlasts both — Celtic Druid turned Templar Knight | Founded the University of Ibelin as the cover institution; embedded the Chapterhouse silently within it; named the city Ibelin (a Crusader name he carried from Earth, now embedded in Iolanu's geography with its origin unknown); established the foundational institutional design that has held for 900 years |
 | A.J. | Gamer mindset + fascination with humanity-as-system | Knights of the Lustrous Lance; Level Accreditation System; attacks feudal fixed circumstance through incentive design |
 | Daochen | Deep well of faith + focus within serenity | Runs the Chapterhouse; receives Earth Souls at their most disoriented; holds the operational center |
 | Loisa Xialing | Intelligent risk-taking + attention to detail | Intelligence Chief; operational cover as hydrologist; calibrates new Earth Souls |

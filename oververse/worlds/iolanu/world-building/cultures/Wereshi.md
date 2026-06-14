@@ -10,6 +10,8 @@
 
 ---
 
+> **Historical Framing:** Wereshi is a pre-Shattering ancestral category — the cultural tradition as it developed across the First and Second Ages (IY 1–1050) and was expressed under Malachor's Third Age empire (IY 1051–1381). The Shattering (IY 1381) and ~614 years of post-Shattering isolation have fragmented this culture into city-state lineages that share ancestry and recognizable practices but no longer maintain unified political identity. "Wereshi" is what historians and outsiders use; individual cities identify by city-state name first, ancestral lineage second or not at all. *See [timeline/index.md](../../timeline/index.md).*
+
 ## Physical Heritage
 
 Shaped by generations of forest life and the constant negotiation between cleared homestead and encroaching wild — physically adapted for moving quietly and reading environments precisely.
@@ -46,11 +48,15 @@ Kinship is reckoned through the holding as much as the bloodline. Two families w
 
 The kami are Malachor's infusion into the world — his presence dispersed into particular things and particular places: the hearth-stone, the old oak at the field's edge, the crossing where two streams meet. The Wereshi engage with them not as powers separate from Malachor but as aspects of Malachor made local and addressable. Where the Church offers centralized liturgy, the Wereshi have ten thousand small conversations.
 
+The Wereshi do not separate the world into kami and monsters. Everything that moves and threatens in the land is kami — from the hearth-presence that keeps the fire even to the thing that came out of the deep forest last winter and killed three homesteaders before the fyrd put it down. What differs is not the category but the nature: some kami can be spoken with, compacted with, acknowledged into something like coexistence. Others are simply hatred wearing a shape, and no formula reaches them.
+
+The Wereshi know the difference. Not from philosophy — from generations of learning it the hard way. A culture that has lived at the forest margin for as long as the Wereshi have accumulates a precise, unsentimental understanding of what can be held in relationship and what cannot. The kannagi carries that knowledge in the zagovory and in the older unwritten knowledge beneath it. When something comes out of the trees that is beyond speaking with, the Wereshi do not agonize. The fyrd deals with it. This is why the fyrd principle exists — not as civic virtue but as theological fact. If a kami cannot be reached, someone has to be ready to put it down, and that person is never far away.
+
 This makes the Church uncomfortable. The Wereshi are not heretics — they are unorthodox but technically Malachor-faithful. The Church's actual problem is that Wereshi worship is unadministered: no priest mediates, no tithe flows, no inquisitor has jurisdiction over a kami-acknowledgment said under a particular oak before dawn. The relationship is direct, local, and carries no paperwork. The Church considers this a problem; the Wereshi consider the Church's discomfort irrelevant to whether the rite works.
 
 The **kannagi** is the specialist who carries the zagovory — the precise formulas for addressing specific kami, managing the seasonal rites, and negotiating at thresholds where the dangerous presences are. The kannagi both listens (attunement; reading what the kami requires) and speaks (formula; giving it the correct words). The two functions are inseparable. A kannagi who only listens has no mechanism. One who only speaks has no understanding of what they're answering.
 
-What lives in the deep forest is another question. The kami there are older, less domesticated. Some kannagi maintain that the forest's most ancient presences are not merely Malachor's infusion but something that has developed intention over long centuries of isolation — kami that have become something more. The Church finds this speculation alarming. The Wereshi find it a reason for caution rather than disbelief.
+What lives in the deep forest is another question. The kami there are older, less domesticated. Some kannagi maintain that the forest's most ancient presences are not merely Malachor's infusion but something that has developed intention over long centuries of isolation — kami that have become something more. The deep-forest kannagi who work that margin carry formulas the village kannagi don't know, for presences the standard zagovory cannot address. They are respected and slightly feared by their own people. Whether the oldest things in the deep wild can be killed at all is a question no one raises at a witan unless they have to.
 
 ### Material Markers
 

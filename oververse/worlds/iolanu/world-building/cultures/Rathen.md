@@ -3,6 +3,8 @@
 **Earth Reference:** Scandinavian–Incan fusion (terrace craft, altitude life)  
 **What “Rathen” is:** A **legal and social category** for the **quantum-adjacent gifted** and those **exiled or fled with them** to the floating peaks — **not** a single ethnic people. Peak society is **mongrel** (Thohalla-heavy lines are common; so are Astelli, Maneth, Caelori, Kitzengai, and every other mainland group that produced a manifesting child or a family racing ahead of the hunt). Outsiders say “Rathen culture”; from inside it reads as **survival under containment**. Interface politics and Orindi gatekeeping: [Orindi.md](Orindi.md). Region file: [rathen_mountains.md](../../locations/regions/rathen_mountains.md).
 
+> **Historical Framing:** Rathen is a **post-Shattering legal and social category** (Fourth Age, IY 1382–present) — not a pre-Shattering ancestral culture but a construct that emerged as monster pressure and Church persecution drove the quantum-gifted and their families to the floating peaks. Rathen society is deliberately mongrel; the culture is survival under containment, not ethnic heritage. *See [timeline/index.md](../../timeline/index.md).*
+
 ## The Rathen Oath
 
 Inclusion and collective shelter on the peaks — **where the Orindibar moat still holds** — hinge on **the Rathen Oath**: to **contain** the **gift**, **its sanctioned teaching**, and **uncontrolled effects** **to the Rathen Peaks** as far as honor and force allow, and **not** to **allow or encourage** its **spread beyond** into the wider world. The Oath **buys** breathing room **inside the cage**; it is **not** Church **pardon**. Caught on the mainland or **extracted**, you **still burn**.

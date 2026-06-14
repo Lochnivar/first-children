@@ -18,6 +18,8 @@
 
 ---
 
+> **Historical Framing:** Caelori is a pre-Shattering ancestral category — the cultural tradition as it developed across the First and Second Ages (IY 1–1050) and was expressed under Malachor's Third Age empire (IY 1051–1381). The Shattering (IY 1381) and ~614 years of post-Shattering isolation have fragmented this culture into city-state lineages that share ancestry and recognizable practices but no longer maintain unified political identity. "Caelori" is what historians and outsiders use; individual cities identify by city-state name first, ancestral lineage second or not at all. *See [timeline/index.md](../../timeline/index.md).*
+
 ## Physical Heritage
 
 Shaped by generations on a cold, wet inlet coast with little direct sun
@@ -138,22 +140,25 @@ score. In diaspora, events away from home are recorded as faithfully
 as events on the inlet coast. The score does not pause because the
 location changed.
 
-**The Keys (Ta', Te', Ti').** The score is not written in a single
-vocabulary of symbols — it is written in keys. Each key is a
-fundamental orientation, a coloring that inflects everything composed
-within it. The same life-event recorded in Ta'Eirnath reads
-differently than in Ta'Caorven. The key is the frame; the key gives
-the meaning.
+**The Keys and Chords (Ta', Te', Ti', To', Tu').** The score is not
+written in a single vocabulary of symbols — it is written in keys
+and chords. Five notations, two categories: the Living and the
+Ancestral.
 
-Keys come in threes. The *Ta'* is the major — bright, forward-facing,
-declarative. The *Te'* is the minor — the same quality heard from a
-darker place, honest but not proud. The *Ti'* is the flat — a formal
-warning, written alongside a Ta' when the Ink-keeper judges it
-warranted. Not a standalone entry; a paired caution. Uphold this Ta'.
-Watch for this Ti'. Whether to add it is the Ink-keeper's judgment,
-not the family's request.
+*The Living Keys*
 
-The six sets:
+The living keys govern the active score — the Lifesong, the ledger,
+everything written during a life as it unfolds. The *Ta'* is the
+major: bright, forward-facing, declarative. The *Te'* is the minor:
+the same quality heard from a darker place, honest but not proud.
+The *Ti'* is the flat: a prospective warning written alongside a
+Ta' when the Ink-keeper sees the tendency and judges the caution
+warranted. Ti' is not a verdict on someone who has already crossed
+the line — it is a caution written in the present tense. Uphold
+this Ta'. Watch for this Ti'. Whether to add it is the Ink-keeper's
+judgment, not the family's request.
+
+The six living sets:
 
 *Ta'Faeln* (Devotion) — complete orientation toward something outside
 yourself. A person, a practice, a cause. Not servility; chosen
@@ -217,9 +222,9 @@ these six sets are the major registers. A Lifesong written across
 more than one key is a composition in tension, which the Ink-keeper
 treats as craft challenge rather than problem to resolve.
 
-The keys govern the full score, not only the Lifesong. In the
-ledger — the accumulating record of a life — the key choice is an
-interpretive act. The Ink-keeper does not merely record what
+The living keys govern the full score, not only the Lifesong. In
+the ledger — the accumulating record of a life — the key choice is
+an interpretive act. The Ink-keeper does not merely record what
 happened; they choose the register in which it is remembered. An
 act of courage recorded in Ta'Brethael is triumphal and permanent.
 The same act's cost, recorded in Te'Durven, is also permanent.
@@ -231,6 +236,47 @@ A family may press for a more flattering key; the Ink-keeper may
 decline. A Te'Brethael entry cannot be softened by time or
 sympathetic descendants — it sits exactly as it was recorded,
 without mediation, for every reader who comes after.
+
+*The Ancestral Chords*
+
+The ancestral chords are different in kind. They are not registers
+for writing — they are marks added to the lineage, posthumously,
+by the community. They pass from ancestor to descendant, written
+into each new score as the lineage is copied forward. A child
+inherits their ancestors' To' and Tu' marks the way they inherit
+clan affiliation: not chosen, not earned, simply carried.
+
+*To'* — the Martyr's Chord. Written after death, by the community,
+for those who gave everything in service of something beyond
+themselves. Not the same as Ti': a martyr did not go too far in
+the wrong direction — they went all the way in the right one. To'
+is the community's final word on a life. It cannot be anticipated
+or performed toward. You either earn it or you do not, and you will
+never know which while you are alive.
+
+*Tu'* — the Black Sheep Chord. Also written posthumously, also
+inherited. The mark of those whose dishonor was significant enough
+to be carried forward — the oathbreaker, the traitor, the one who
+failed the community in a way that could not be absorbed or forgiven
+in their lifetime. Tu' is not applied to the merely flawed or the
+personally difficult. It marks the specific failure the community
+determines must be remembered, so that it is not forgotten, and
+inherited, so that it is never only one person's story.
+
+For the ancestral chords, the Ink-keeper's obligation is fidelity,
+not judgment. The living keys require interpretation — choosing
+registers, deciding whether Ti' is warranted. The ancestral chords
+require faithful copying: To' and Tu' marks pass into each new
+lineage section exactly as they were, regardless of how the current
+family feels about what they are inheriting. A family cannot
+petition to remove a Tu'. A family cannot request a To' the
+community did not grant. The Ink-keeper is custodian here, not
+author.
+
+A score carrying both To' and Tu' from different ancestors is not
+unusual. The lineage is not edited for comfort. It holds the
+martyrs and the black sheep in the same body, for the same living
+person to carry forward.
 
 **The Lifesong.** The chest and heart area carries a distinct zone of
 the score — not a record, but a guiding stone. Where the rest of the

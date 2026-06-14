@@ -1,17 +1,18 @@
 # Losceati
 
-> **STATUS: PROTO-CULTURE**  
-> The Losceati are not yet a fully realized culture. They are a mixed
-> population with enough shared identity, aesthetic, and values to
-> constitute a recognizable cultural bloc — but they lack a self-applied
-> name, a unified origin myth, and the institutional depth of established
-> cultures. "Losceati" is what neighbors call them. They have not yet
-> decided what they call themselves. Treat all sections below as
-> directional rather than definitive; this file should develop as the
-> culture solidifies in the narrative.
+> **STATUS: PROTO-CULTURE (INTERRUPTED)**  
+> The Losceati split from Llosca in the Second Age (~IY 800–1000) and were actively
+> developing toward their own kingdom when Malachor's Third Age conquest (~IY 1051)
+> absorbed them before they could consolidate. They have been carrying the bones of
+> an unfinished culture for ~946 years — the identity is real, the institutional depth
+> never happened. "Losceati" is what neighbors call them. They have not yet decided
+> what they call themselves, because the moment they were about to was taken from them.
+> The Losceatic League is not a new idea. It is the second attempt at the first one.
+> Treat all sections below as directional rather than definitive; this file should
+> develop further as the League narrative progresses.
 
 **Earth Reference:** Occitan troubadour tradition × Arabian Nights merchant storytelling  
-**Parent Culture:** Llosca (drift, not schism — the break is behavioral and aesthetic, not theological)  
+**Parent Culture:** Llosca (Second Age schism, ~IY 800–1000 — the break is behavioral and aesthetic rather than theological, but it was sharp enough to constitute a schism: these communities chose a different expression of the inherited theology and did not return)  
 **Secondary Influences:** Maneth covenant culture and Caelori oral-tradition posture, absorbed through Sea of Malachor trade  
 **Essence:** A people who inherited Llosca desire-theology and redirected its expression from the body to the word — the same intensity, the same sacredness, aimed entirely at poetry, courtship, and the well-crafted story.
 
@@ -46,11 +47,16 @@
 
 ---
 
+> **Historical Framing:** Losceati is a **Second Age schismatic culture, interrupted before completion**. The break from Llosca occurred ~IY 800–1000; these communities were actively developing toward a distinct kingdom when Malachor's Third Age conquest (~IY 1051) absorbed them before consolidation. The empire administered them as Llosca-adjacent, refusing to recognize a distinction that hadn't yet hardened into formal institutions. The Shattering (IY 1381) ended the empire but delivered 614 years of post-apocalyptic survival rather than the breathing room to finish the work. The Losceatic League (present-day saga) is their second attempt at what was interrupted ~946 years ago — not a new ambition but a very old unfinished one. *See [timeline/index.md](../../timeline/index.md).*
+
 ## Physical Heritage
 
-Primarily Llosca inheritance, insufficient time for meaningful differentiation.
-The Losceati have not been a distinct population long enough to generate a
-distinct gene pool; cultural markers are accumulating faster than physical ones.
+Primarily Llosca inheritance. The Losceati were developing toward a distinct
+kingdom — and the geographic consolidation that would have driven physical
+differentiation — when Malachor's conquest interrupted the process. They have
+existed as a distinct population for ~600–900 years but never had the settled
+homeland that accelerates divergence. Physical traits remain close to Llosca
+baseline; cultural markers differentiate more reliably than genetics.
 
 - **Skin:** Warm olive to golden bronze — Llosca baseline; unchanged
 - **Hair:** Dark, often elaborately styled; the Losceati aesthetic tends toward
@@ -245,7 +251,7 @@ hybrid forms that read as neither parent language cleanly.
 - Double consonants flowing into Romance equivalents
 - City names (Locassier, Yantier, Elcoxier, Poillorteau) model the register
 
-[Full naming conventions TBD — too early in culture formation to finalize]
+[Full naming conventions TBD — the hybrid Semitic-Romance register has been developing for ~600–900 years; the city names (Locassier, Yantier, Elcoxier, Poillorteau) model the register; individual name patterns to be developed as city files are built out]
 
 ---
 
