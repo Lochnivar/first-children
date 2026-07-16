@@ -104,6 +104,14 @@ World documentation at the framework level shows how each world **expands upon o
 - There's a hint that Marcion of Sinope's theology might have some validity regarding Earth's status
 - **Earth trial:** Final vetting for Homo sapiens as generalist FC staff. World-to-dungeon transformation—administrative-boundary rooms, limited-access corridors, Gatelocks, integration metric. Independent contractors deploy via Platform 934. Narrative focus: human survival in a drastically changed world. See [Earth Trial Mechanics](earth/trial-mechanics.md) and [Earth AI Refresher](earth/AI-REFRESHER.md).
 
+### [The Reclamation](reclamation.md) *(working title)*
+- **Creator(s):** Earth's original FC creator — the same one who activated Earth's HiRB field, forcibly reclaiming his stolen "repo entry" (Iolanu) after Malachor's defeat
+- **Status:** Not a new solo/collaborative creation — a forced one-way absorption of an existing world (Iolanu) into another existing world (Earth), roughly 10 years into Earth's Trial and after the Gabby/Apostasy arc concludes. Structurally closest to Hegemon-Stratara Connection (documents an interaction between established worlds) but one-directional: Iolanu stops being an independent Book.
+- **Premise:** Iolanu was always an illegitimate bootleg fork of Earth. Its creator (Malachor) is gone; the FC he stole from takes it back, carelessly, in "typical FC fashion" — an auto-merge with no curation, resolved mechanically rather than meaningfully.
+- **Defining concept:** No Earth equivalent = clean apply (rifts as collateral damage, Homo Quantus as a surviving population with intact sub-cultures like Thohalla); Earth equivalent exists = Earth wins (geography, place-bound institutions, cities resolved individually by coordinate occupancy). Gives Iolanu's built-to-be-unsolvable rift problem (see [monsters_and_rifts.md](iolanu/world-building/natural-world/monsters_and_rifts.md)) an actual ending without cheating its own premise.
+- **Framework demonstration:** FC indifference/carelessness at scale, illegal-creation consequences arriving decades late, cross-world population survival vs. place survival, existing Earth infrastructure (walls, integration metric) acquiring an unintended second function
+- **Documentation:** [reclamation.md](reclamation.md) for full working notes; Earth and Iolanu's own files remain the authoritative pre-merge baseline and are not edited to anticipate this event
+
 ### [Rakaiah](rakaiah.md)
 - **Creator:** Unnamed FC — sole creator; indifferent, data collected and departed
 - **Premise:** Controlled experiment — does QWAN activation suppress technological development? Answer: yes. Rakaiah was built without QWAN to test the hypothesis.
