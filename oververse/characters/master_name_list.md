@@ -1,10 +1,6 @@
 Jacobsen Sharraud
 Shiloh Rodriguez
 Odette Leighton
-Logan Moreau, Duke of Ryeleigh
-Lucas Higgs, Bosun
-Lauren D'Iallo
-Leah Rosano
 Ward Prescott
 Jenny Paige
 Olivia Barrington

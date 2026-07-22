@@ -15,6 +15,12 @@ files linked at the bottom of each entry.
 
 ## Iolanu
 
+### Sketch
+- [Logan Moreau, Duke of Ryeleigh](logan_moreau.md) — Human duke; feels everything, expresses none of it; runs a duchy the way the one person who stayed for him ran a nursery
+- [Lucas Higgs, Bosun](lucas_higgs.md) — Human bosun; warm, hands-first, always right and always checking anyway; fast to fury if anyone mocks the checking
+- [Lauren D'Iallo](lauren_diallo.md) — Human heiress to the D'Iallo expedition fortune; generous on her own terms, no warning shots once you've crossed the line
+- [Leah Rosano](leah_rosano.md) — Human soprano; flighty-and-giggly is a real toolkit, not a mask; true voice is a high alto she saves for when she actually wants it
+
 ### Main
 - [Gabby D'Olivier](gabby_dolivier.md) — Caelori Greyrose Ranger; Earth soul transplanted into a Caelori body
 - [Loisa Xialing](loisa_xialing.md) — Apostasy Intelligence Chief; Earth soul in an Orindi body; hydrologist cover

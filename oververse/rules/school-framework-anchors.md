@@ -34,6 +34,34 @@ A school works as an anchor through three reinforcing mechanisms:
 
 ---
 
+## The Will / Formula / Proxy Triad
+
+Every school divides the labor of managing raw Quantumancy into three elements. This division is what makes a school function as effective cognitive armor — not by adding power to the practitioner, but by keeping their mind from ever having to confront the quantum layer unshielded.
+
+**Will** — the imposition itself. This is Quantumancy in its rawest form: the intent to collapse a specific possibility into reality. Will is present in every practitioner, schooled or not — no school grants it. What a school does is keep Will from having to survey the full field of possible outcomes in order to act. An unschooled Quantumancer confronts the shadow-swarm directly to choose an outcome; a schooled one lets Formula and Proxy carry that weight instead.
+
+**Formula** — the compositional grammar of a specific working. Not the school's whole framework, but the particular arrangement — sequence, proportion, structure — that shapes one effect out of the school's vocabulary. The Formula is what can be taught, documented, stolen, forged, or misread.
+
+**Proxy** — the school's physical vocabulary: the non-fungible material substrate that gives each aspect of a working a graspable, external form. Ink strokes for Kan-ji. Pigmented glass colors for Prismari. Distinct reagents for Alchemy. A school cannot use a generic, undifferentiated Proxy — the specificity of the vocabulary (this stroke means this, this color means that, this reagent represents this aspect) is what lets the practitioner's attention rest on something bounded and comprehensible instead of the raw quantum field.
+
+Formula and Proxy do not make Will more powerful. They are armor, not fuel. What separates schooled use from unschooled use is not strength of effect but survivability — a mind that never has to look at the shadow-swarm directly.
+
+Will's presence and design is also what separates a school's craft from a merely mundane version of the same physical actions. Identical technique performed by an untrained hand — correct reagents, correct proportions, correct strokes — produces only the mundane process: cooking, not Alchemy; ink on paper, not a rune. Will is what gives the technique design. Without it, Formula and Proxy are just correct materials in correct arrangement, inert.
+
+## Completion as Pause, Not Discharge
+
+Every school reaches a point where active, Will-engaged construction stops — a final stroke, a final glass piece set, a potion imbibed. This point is not a fourth element of the triad; it is simply where assembly halts, and it is not always an ending.
+
+What happens at and after that pause is school-specific:
+
+- **Discharge-on-pause:** The framework fires completely at the pause and is spent. (Kan-ji: the final stroke closes the rune and fires the collapse in the same instant — physical completion and mental engagement intersect, and nothing persists afterward.)
+- **Persistence carried by the Proxy:** The pause ends active construction, but the physical Proxy structure remains intact and continues sustaining the effect indefinitely without further Will from the practitioner. (Prismari: setting the final glass piece doesn't discharge the effect, it starts it running — the structure itself carries the persistence forward.)
+- **Persistence carried elsewhere:** The pause hands the unfolding effect to something other than the practitioner or the Proxy object — a body, a system, a process that continues independently once triggered. (Alchemy: imbibing is the pause; the compound's effect continues to unfold within whoever swallowed it, regardless of whether they are a trained practitioner themselves.)
+
+A school's trigger moment reveals less about raw power than about who or what inherits the effect once the practitioner's active engagement ends.
+
+---
+
 ## Distinction from Natural Fragments (Iolanu Model)
 
 The five fragments on Iolanu were **imposed** by Malachor's creative act — a structural split built into the world at foundation. Practitioners receive a natural, involuntary slice of quantum perception. They cannot choose their fragment, expand it, or exchange it for another. The split is a constraint of the world's architecture.
