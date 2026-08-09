@@ -127,6 +127,13 @@ World documentation at the framework level shows how each world **expands upon o
 - **Framework demonstration:** FC-to-FC transactions through mortal instruments, Gatelock infrastructure, multi-world experiments
 - **Documentation:** [mc20/README.md](mc20/README.md), [mc20/RACE_RULES_QA.md](mc20/RACE_RULES_QA.md), [../../meta/MC20_WORLD_SKELETONS_QA.md](../../meta/MC20_WORLD_SKELETONS_QA.md)
 
+### [Skyfall](skyfall.md)
+- **Creator:** Greater Dragons (Prime Author creations) — built for themselves and their Lesser Dragon children
+- **Infiltrator:** The Four Pantheons — 54 First Children organized like a card deck (four suits of thirteen, plus two wild cards), openly worshipped as legitimate religion by the FC-repository species they seeded
+- **Defining event:** Competing mage factions, inheriting the Pantheons' suit rivalries, built dungeons that spawned monsters past containment — survivors now live in floating cities, raiding the ruined surface
+- **Defining concept:** The Skyfall Bargain — Greater Dragons went silent rather than fight an unwinnable war, trading something unspecified for the Pantheons' non-interference; their Lesser Dragon children don't know why, and have split into a faction that still has faith and one that calls it betrayal
+- **Framework demonstration:** FC infiltration of a non-FC-created world, sibling tension pushed to the edge of the FC/Greater-Dragon non-aggression norm, open pantheon worship as a distinct mode from Hegemon/Stratara's self-aware contested game
+
 ## World Documentation
 
 Each world entry includes:

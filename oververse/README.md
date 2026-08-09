@@ -53,6 +53,7 @@ The oververse/ directory is organized into categories similar to world-building 
 - **[Quantum Foundation](metaphysics/quantum-foundation.md)** - Quantum manipulation as universal force
 - **[Coherent Patterns](metaphysics/coherent-patterns.md)** - Ghosts, spirits, and non-corporeal entities (coherent energy patterns)
 - **[Souls and Identity](metaphysics/souls-and-identity.md)** - Souls as self-anchored consciousness, memory as identity structure
+- **[QSON](metaphysics/qson.md)** - FC's descriptive notation for quantum patterns; excitation floor, dimensions, recipes vs. templates (background/speculative)
 
 ### [Magic Systems](magic-systems/)
 - **[Quantumancy](magic-systems/quantumancy.md)** - Full quantum manipulation (First Children) and fragmented versions (mortals)

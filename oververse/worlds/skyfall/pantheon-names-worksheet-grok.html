@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Pantheon Name Worksheet (Grok)</title>
+<style>
+  @page { size: letter; margin: 0.42in 0.48in 0.48in 0.48in; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Segoe UI", "Noto Sans", Arial, sans-serif;
+    font-size: 8.4pt;
+    line-height: 1.27;
+    color: #111;
+    margin: 0;
+  }
+  h1 { font-size: 15.5pt; margin: 0 0 2pt 0; }
+  h1 .sub { display: block; font-size: 8.5pt; font-weight: 500; color: #444; margin-top: 2pt; }
+  h2 {
+    font-size: 11.5pt; margin: 10pt 0 5pt 0; padding: 3pt 6pt;
+    color: #fff; page-break-after: avoid; break-after: avoid;
+  }
+  h2.spades { background: #222; }
+  h2.hearts { background: #5a1a1a; }
+  h2.diamonds { background: #1a3a5a; }
+  h2.clubs { background: #1a4a2a; }
+  h2.wild { background: #3a2a5a; }
+  h2.meta { background: #333; }
+  h3 { font-size: 9.5pt; margin: 6pt 0 3pt 0; page-break-after: avoid; }
+  p { margin: 0 0 3pt 0; }
+  ul { margin: 0 0 6pt 1.1em; padding: 0; }
+  li { margin: 0 0 2pt 0; }
+  .lede { color: #333; margin-bottom: 4pt; }
+  table {
+    width: 100%; border-collapse: collapse; margin: 3pt 0 7pt 0; font-size: 7.2pt;
+  }
+  th, td {
+    border: 0.55pt solid #888; padding: 2.2pt 3pt; vertical-align: top; text-align: left;
+  }
+  th { background: #e8e8e8; font-weight: 600; }
+  tr { page-break-inside: avoid; break-inside: avoid; }
+  .card {
+    border: 1pt solid #333; border-radius: 2pt; padding: 4.5pt 6.5pt 5.5pt 6.5pt;
+    margin: 0 0 5.8pt 0; page-break-inside: avoid; break-inside: avoid; background: #fff;
+  }
+  .card.stretch { border-color: #8a4b00; background: #fffdf8; }
+  .card .head {
+    border-bottom: 0.7pt solid #999; margin-bottom: 2.5pt; padding-bottom: 1.5pt;
+  }
+  .card .head .title { font-weight: 700; font-size: 9.3pt; }
+  .badge {
+    display: inline-block; font-size: 6.3pt; font-weight: 700; letter-spacing: 0.04em;
+    padding: 0.4pt 3pt; border: 0.6pt solid #8a4b00; color: #8a4b00;
+    border-radius: 2pt; margin-left: 4pt; vertical-align: middle;
+  }
+  .row { margin: 0.8pt 0; }
+  .label { font-weight: 600; color: #222; }
+  .write {
+    border-bottom: 0.7pt solid #555; display: inline-block; min-width: 52%;
+    height: 10.5pt; margin-left: 2pt; vertical-align: baseline;
+  }
+  .write.short { min-width: 24%; }
+  .write.long { min-width: 96%; display: block; margin: 1.5pt 0 0 0; height: 11.5pt; }
+  .picks {
+    margin-top: 2.5pt; padding-top: 2pt; border-top: 0.5pt dashed #aaa; font-size: 7.9pt;
+  }
+  .root-alt {
+    margin: 1.2pt 0; padding-left: 5pt; border-left: 2pt solid #c9a06a;
+  }
+  .note { color: #333; font-size: 7.6pt; margin-top: 1.5pt; }
+  .footer-note {
+    font-size: 7.3pt; color: #555; margin-top: 8pt;
+    border-top: 0.5pt solid #ccc; padding-top: 3pt;
+  }
+  @media print {
+    body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .card { break-inside: avoid; }
+    h2 { break-after: avoid; }
+  }
+</style>
+</head>
+<body><h1>Pantheon Name Worksheet (Grok)<span class="sub">Printable name-review sheet · pantheon-names-worksheet-grok</span></h1>
+<h3>Printable name-review sheet — `pantheon-names-worksheet-grok.md`</h3>
+<p><b>How to use</b></p>
+<ul>
+<li>Print double-sided if you like; each block is one decision.</li>
+<li>Circle or check <b>Keep</b> / <b>Alt A–C</b> / <b>Custom</b>.</li>
+<li>Write your own theonym on the underline when none of the candidates fit.</li>
+<li>Optional note line: gender, collision worry, “sounds like X,” etc.</li>
+</ul>
+<p><b>Naming convention (quick)</b></p>
+<p class="lede">Semitic consonantal root → stylized vowel-fill → theonym. Not scholarly transcription; not unmodified real words. Suffixes in this file tend to be <b>-on</b>, <b>-iel/-el</b>, <b>-an</b>, or bare.</p>
+<p><b>Two kinds of alternate</b></p>
+<table>
+<tr><th>Kind</th><th>Label</th><th>Meaning</th></tr>
+<tr><td>Same-root theonym</td><td><b>Alt A / B / C</b></td><td>New surface name; root stays</td></tr>
+<tr><td>Root swap</td><td><b>Root alt 1 / 2 / …</b></td><td>Cleaner root for the <i>current</i> domain + sample theonyms</td></tr>
+</table>
+<p class="lede">When a domain moved but the theonym didn’t, prefer a <b>root alt</b> over a same-root rename. Pick boxes cover both.</p>
+<p><b>Phonetics key</b></p>
+<table>
+<tr><th>Symbol</th><th>Sound</th></tr>
+<tr><td><b>ʾ</b></td><td>Glottal stop (catch in <i>uh-oh</i>)</td></tr>
+<tr><td><b>ʿ</b></td><td>Pharyngeal “pressed <i>a</i>” (ayin); soft in speech, often just thickens the vowel</td></tr>
+<tr><td><b>Ḥ / ḥ</b></td><td>Harsh <i>kh</i> as in German <i>Bach</i> or Scottish <i>loch</i></td></tr>
+<tr><td><b>Ṣ / ṣ</b></td><td>Emphatic <i>ts</i> (as in <i>tsar</i>), heavier than plain <i>s</i></td></tr>
+<tr><td><b>Š / š</b></td><td><i>sh</i> as in <i>ship</i></td></tr>
+<tr><td><b>Ṭ / ṭ</b></td><td>Emphatic <i>t</i> (heavier <i>t</i>)</td></tr>
+<tr><td><b>Ś / ś</b></td><td><i>s</i> / <i>sh</i> border (here treated like <i>s</i> in <i>saraph</i>)</td></tr>
+<tr><td>Stress</td><td>CAPS in approximations = primary stress</td></tr>
+</table>
+<p><b>Columns</b></p>
+<table>
+<tr><th>Label</th><th>Meaning</th></tr>
+<tr><td><b>Current</b></td><td>Name in the locked sketches / reference right now</td></tr>
+<tr><td><b>Domain</b></td><td>Portfolio label <i>as currently locked</i> (not always the old roster label)</td></tr>
+<tr><td><b>Root</b></td><td>Consonantal true-name pattern <i>in use now</i></td></tr>
+<tr><td><b>Phonetic</b></td><td>How to say the root / source word</td></tr>
+<tr><td><b>Original</b></td><td>Earlier theonym and/or earlier domain label, if different</td></tr>
+<tr><td><b>Alts</b></td><td>Same-root theonym proposals</td></tr>
+<tr><td><b>Root alt</b></td><td>Better root for this domain + sample names (where the current root stretches)</td></tr>
+<tr><td><b>Custom</b></td><td>Your write-in (name and/or root)</td></tr>
+</table>
+<h3>Root-upgrade cheat sheet (stretch &amp; collision cases)</h3>
+<table>
+<tr><th>Card</th><th>Current root</th><th>Problem</th><th>Prefer root…</th><th>Sample theonyms</th></tr>
+<tr><td><b>Shalalon</b> Covenant</td><td>Š-L-L <i>shalal</i> spoils</td><td>Wealth leftover</td><td><b>B-R-T</b> <i>brit</i> covenant · <b>Ḥ-Q-Q</b> <i>ḥoq</i> statute</td><td>Briton, Britiel · Ḥoqqon, Ḥuqiel</td></tr>
+<tr><td><b>Sha'alon</b> Necessity</td><td>Š-ʾ-L <i>sha'al</i> ask</td><td>Fine root; <i>Sha-</i> cluster</td><td><b>Ṣ-R-K</b> <i>tsorekh</i> need · <b>ʾ-N-S</b> <i>ones</i> compulsion</td><td>Tsorkhon, Tsorkiel · Onson, Onesiel</td></tr>
+<tr><td><b>Sha'ashon</b> Discord</td><td>Š-ʿ-Š <i>sha'ashua</i> play</td><td>Stretch + <i>Sha-</i> cluster</td><td><b>P-R-D</b> <i>pered/perud</i> separation · <b>R-Y-B</b> <i>riv</i> quarrel · <b>M-D-N</b> <i>madon</i> strife</td><td>Perudon, Pirdiel · Rivon, Riviel · Madon, Medaniel</td></tr>
+<tr><td><b>Tzelahar</b> Hearth</td><td>Ṣ-L-L <i>tzel</i> shade</td><td>Soft for hearth</td><td><b>B-Y-T</b> <i>bayit</i> house · <b>ʾ-Š</b> <i>esh</i> fire · <b>Ḥ-M</b> <i>ḥom</i> heat/warmth</td><td>Bayiton, Baytiel · Eshon, Ishiel · Ḥamon, Ḥomiel</td></tr>
+<tr><td><b>Koseb</b> Adulthood</td><td>K-S-B account</td><td>Ledger ≠ full adult arc</td><td><b>B-G-R</b> <i>bagar</i> mature · <b>G-D-L</b> <i>gadal</i> grow up · <b>ʾ-Y-Š</b> <i>ish</i> man/adult</td><td>Bagaron, Bagriel · Gadolon, Gedoliel · Ischon, Ishiel</td></tr>
+<tr><td><b>Kefiron</b> Orthodoxy</td><td>K-P-R <i>kafar</i> deny</td><td>Heresy leftover</td><td><b>ʾ-M-N</b> <i>emunah</i> faithfulness · <b>Y-Š-R</b> <i>yashar</i> upright · <b>Q-W-M</b> <i>qiyum</i> standing/uphold</td><td>Emunon, Emuniel · Yasharon, Yashriel · Qiyumon, Qomiel</td></tr>
+<tr><td><b>Aravon</b> Luck</td><td>ʿ-R-B mix/confusion</td><td>Chaos leftover</td><td><b>M-Z-L</b> <i>mazal</i> luck · <b>G-D</b> <i>gad</i> fortune</td><td>Mazalon, Mazliel · Gadon, Gadiel</td></tr>
+<tr><td><b>Riqqavon</b> Chaos</td><td>R-Q-B rot</td><td>Rot leftover</td><td><b>B-L-L</b> <i>balal</i> confuse · <b>H-M-M</b> <i>hamam</i> confound · <b>T-H-W</b> <i>tohu</i> formless &#9888; Tohuel</td><td>Balalon, Biluliel · Hamamon, Homiel · (avoid Tohu*)</td></tr>
+<tr><td><b>Aritzon</b> Tyranny</td><td>ʿ-R-Ṣ <i>aritz</i></td><td>Near <b>Aretzon</b></td><td><b>R-D-H</b> <i>radah</i> rule/dominate · <b>ʿ-R-Y-Ṣ</b> keep root, new shape</td><td>Radon, Radahiel · Aritz (bare), Ritzon</td></tr>
+<tr><td><b>Aretzon</b> Earth</td><td>ʾ-R-Ṣ <i>eretz</i></td><td>Near <b>Aritzon</b></td><td><b>ʾ-D-M-H</b> <i>adamah</i> ground · keep <b>ʾ-R-Ṣ</b>, new shape</td><td>Adamahon, Admiel · Eretzon, Artziel</td></tr>
+</table>
+<h2 class="spades">SPADES — Hard Mode</h2>
+<div class="card"><div class="head"><span class="title">♠ A · Winter · Qorathiel</span></div>
+<div class="row"><span class="label">Current:</span> Qorathiel</div>
+<div class="row"><span class="label">Domain:</span> Winter</div>
+<div class="row"><span class="label">Root:</span> Q-R-Ḥ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>qerach</i> ≈ <b>keh-RAKH</b> (“frost, ice”); Ḥ = <i>kh</i></div>
+<div class="row"><span class="label">Original:</span> — (grid original)</div>
+<div class="row"><span class="label">Alt A:</span> Qerachiel  <b>Alt B:</b> Qorachon  <b>Alt C:</b> Korathiel</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ K · War · Harban</span></div>
+<div class="row"><span class="label">Current:</span> Harban <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> War</div>
+<div class="row"><span class="label">Root:</span> Ḥ-R-B</div>
+<div class="row"><span class="label">Phonetic:</span> <i>cherev</i> ≈ <b>KHEH-rev</b> (“sword”); Ḥ = <i>kh</i></div>
+<div class="row"><span class="label">Original:</span> — (carried; domain stable)</div>
+<div class="row"><span class="label">Alt A:</span> Cherevon  <b>Alt B:</b> Harbiel  <b>Alt C:</b> Charabon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ Q · Hunt · Tzaydon</span></div>
+<div class="row"><span class="label">Current:</span> Tzaydon</div>
+<div class="row"><span class="label">Domain:</span> Hunt</div>
+<div class="row"><span class="label">Root:</span> Ṣ-Y-D</div>
+<div class="row"><span class="label">Phonetic:</span> <i>tzayid</i> ≈ <b>tsah-YEED</b> (“hunt, game”); Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Tzayidel  <b>Alt B:</b> Sayadon  <b>Alt C:</b> Tzidon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ J · Fire · Sarphon</span></div>
+<div class="row"><span class="label">Current:</span> Sarphon</div>
+<div class="row"><span class="label">Domain:</span> Fire</div>
+<div class="row"><span class="label">Root:</span> Ś-R-P</div>
+<div class="row"><span class="label">Phonetic:</span> <i>saraph</i> ≈ <b>sah-RAHF</b> (“to burn”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Saraphiel  <b>Alt B:</b> Sarephon  <b>Alt C:</b> Seraphon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> <i>Seraphon</i> leans angelic; use only if you want that echo.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ 10 · Forests · Ya'aron</span></div>
+<div class="row"><span class="label">Current:</span> Ya'aron</div>
+<div class="row"><span class="label">Domain:</span> Forests</div>
+<div class="row"><span class="label">Root:</span> Y-ʿ-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>ya'ar</i> ≈ <b>yah-AHR</b> (“forest”); ʿ thickens the <i>a</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Yaaron  <b>Alt B:</b> Ya'ariel  <b>Alt C:</b> Yaron</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ 9 · Strength · Kochon</span></div>
+<div class="row"><span class="label">Current:</span> Kochon</div>
+<div class="row"><span class="label">Domain:</span> Strength</div>
+<div class="row"><span class="label">Root:</span> K-Ḥ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>koach</i> ≈ <b>KO-akh</b> (“strength, power”); Ḥ = <i>kh</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Koachiel  <b>Alt B:</b> Kochiel  <b>Alt C:</b> Kachon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ 8 · Oaths · Shevuon</span></div>
+<div class="row"><span class="label">Current:</span> Shevuon</div>
+<div class="row"><span class="label">Domain:</span> Oaths</div>
+<div class="row"><span class="label">Root:</span> Š-B-ʿ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>shevuah</i> ≈ <b>sheh-voo-AH</b> (“oath”); Š = <i>sh</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Shevuiel  <b>Alt B:</b> Shevuahon  <b>Alt C:</b> Shavuon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> Fence name against Shalalon (Covenant).</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ 7 · Fate · Goralon</span></div>
+<div class="row"><span class="label">Current:</span> Goralon</div>
+<div class="row"><span class="label">Domain:</span> Fate</div>
+<div class="row"><span class="label">Root:</span> G-R-L</div>
+<div class="row"><span class="label">Phonetic:</span> <i>goral</i> ≈ <b>go-RAHL</b> (“lot, fate”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Goraliel  <b>Alt B:</b> Goron  <b>Alt C:</b> Goralath</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♠ 6 · Covenant · Shalalon <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Shalalon</div>
+<div class="row"><span class="label">Domain:</span> Covenant <i>(was Wealth)</i></div>
+<div class="row"><span class="label">Root:</span> Š-L-L</div>
+<div class="row"><span class="label">Phonetic:</span> <i>shalal</i> ≈ <b>shah-LAHL</b> (“plunder, spoils”); root kept, sense shifted to group standard</div>
+<div class="row"><span class="label">Original theonym:</span> Shalalon (same) · <b>Original domain:</b> Wealth</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Shalaliel · B Shalor · C Shalalon (keep)</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>B-R-T</b> <i>brit</i> ≈ <b>BREET</b> (“covenant, treaty”) → <b>Briton</b> · <b>Britiel</b> · <b>Beriton</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>Ḥ-Q-Q</b> <i>ḥoq / ḥuqqah</i> ≈ <b>KHOKE</b> (“statute, fixed rule”) → <b>Ḥoqqon</b> · <b>Ḥuqiel</b> · <b>Hoqqaron</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> <b>B-R-Y-T</b> extended covenant spelling → <b>Britahon</b> · <b>Beryaton</b></div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep name+root &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Stretch — spoils ≠ covenant. Root alt 1 is the cleanest domain match; alt 2 leans “locked rule” (suits Hard Mode). Also eases <i>Sha-</i> cluster with Sha'alon / Sha'ashon.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ 5 · Death · Motiel</span></div>
+<div class="row"><span class="label">Current:</span> Motiel <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Death</div>
+<div class="row"><span class="label">Root:</span> M-W-T</div>
+<div class="row"><span class="label">Phonetic:</span> <i>mavet / mot</i> ≈ <b>MAH-vet</b> / <b>MOTE</b> (“death”)</div>
+<div class="row"><span class="label">Original:</span> carried from older King seat; domain stable</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Moton · B Mawetiel · C Motaron</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <i>(optional)</i> <b>G-V-ʿ</b> <i>gava</i> ≈ <b>gah-VAH</b> (“expire”) → <b>Gavaon</b> · <b>Gaviel</b> — only if Motiel feels too on-the-nose</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Current root is clean; root alt only if you want less transparent “death.”</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♠ 4 · Necessity · Sha'alon <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Sha'alon <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Necessity <i>(broadened from Executioners)</i></div>
+<div class="row"><span class="label">Root:</span> Š-ʾ-L</div>
+<div class="row"><span class="label">Phonetic:</span> <i>sha'al</i> ≈ <b>shah-AHL</b> (“to ask / demand”); ʾ = glottal catch</div>
+<div class="row"><span class="label">Original domain:</span> Executioners</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Sha'aliel · B Shaalon · C She'alon</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>Ṣ-R-K</b> <i>tsorekh</i> ≈ <b>tso-REKH</b> (“need, necessity”) → <b>Tsorkhon</b> · <b>Tsorkiel</b> · <b>Sorkhon</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>ʾ-N-S</b> <i>ones</i> ≈ <b>OH-nes</b> (“compulsion, force majeure”) → <b>Onson</b> · <b>Onesiel</b> · <b>Anson</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> <b>Ḥ-Y-V</b> <i>ḥiyuv</i> ≈ <b>khee-YOOV</b> (“obligation”) → <b>Ḥiyvon</b> · <b>Ḥiyviel</b></div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Root is fine for “forced choice”; rename mainly to break <i>Sha-</i> cluster (Shalalon / Sha'ashon). Alt 1 is the domain word itself.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♠ 3 · Weapons · Neshakon</span></div>
+<div class="row"><span class="label">Current:</span> Neshakon</div>
+<div class="row"><span class="label">Domain:</span> Weapons</div>
+<div class="row"><span class="label">Root:</span> N-Š-Q</div>
+<div class="row"><span class="label">Phonetic:</span> <i>neshek</i> ≈ <b>NEH-shek</b> (“weapon, armament”); Š = <i>sh</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Neshekiel  <b>Alt B:</b> Neshqon  <b>Alt C:</b> Nashakon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♠ 2 · Tyranny · Aritzon <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Aritzon</div>
+<div class="row"><span class="label">Domain:</span> Tyranny <i>(terminal)</i></div>
+<div class="row"><span class="label">Root:</span> ʿ-R-Ṣ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>aritz</i> ≈ <b>ah-REETS</b> (“tyrant, ruthless”); ʿ + Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Aritziel · B Aratzon · C Ritzon <i>(drops leading A — eases collision)</i></div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>R-D-H</b> <i>radah</i> ≈ <b>rah-DAH</b> (“rule, dominate, tread down”) → <b>Radon</b> · <b>Radahiel</b> · <b>Rodon</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>M-Š-L</b> <i>mashal</i> ≈ <b>mah-SHAHL</b> (“rule, have dominion”) → <b>Mashlon</b> · <b>Mashliel</b> · <b>Moshelon</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> keep <b>ʿ-R-Ṣ</b>, bare/short form → <b>Aritz</b> · <b>Ritzon</b></div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep pair-joke &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Intentional near-collision with <b>Aretzon</b>. If the joke costs more than it pays, alt 1–2 break it cleanly; alt 3 softens without leaving the root.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<h2 class="hearts">HEARTS — Social Mode</h2>
+<div class="card"><div class="head"><span class="title">♥ A · Spring · Chadashiel</span></div>
+<div class="row"><span class="label">Current:</span> Chadashiel</div>
+<div class="row"><span class="label">Domain:</span> Spring</div>
+<div class="row"><span class="label">Root:</span> Ḥ-D-Š</div>
+<div class="row"><span class="label">Phonetic:</span> <i>chadash</i> ≈ <b>khah-DASH</b> (“new, renewal”); Ḥ = <i>kh</i>, Š = <i>sh</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Chadashon  <b>Alt B:</b> Hadashiel  <b>Alt C:</b> Chadariel</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ K · Glory · Shevachiel</span></div>
+<div class="row"><span class="label">Current:</span> Shevachiel</div>
+<div class="row"><span class="label">Domain:</span> Glory</div>
+<div class="row"><span class="label">Root:</span> Š-B-Ḥ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>shevach</i> ≈ <b>sheh-VAKH</b> (“praise, acclaim”); Ḥ = <i>kh</i></div>
+<div class="row"><span class="label">Original:</span> — (gender flipped in prose; theonym kept)</div>
+<div class="row"><span class="label">Alt A:</span> Shevachon  <b>Alt B:</b> Shevachan  <b>Alt C:</b> Shivchon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ Q · Love · Ahavel</span></div>
+<div class="row"><span class="label">Current:</span> Ahavel <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Love</div>
+<div class="row"><span class="label">Root:</span> ʾ-H-B</div>
+<div class="row"><span class="label">Phonetic:</span> <i>ahav</i> ≈ <b>ah-HAHV</b> (“love”)</div>
+<div class="row"><span class="label">Original:</span> — (carried)</div>
+<div class="row"><span class="label">Alt A:</span> Ahaviel  <b>Alt B:</b> Ahavon  <b>Alt C:</b> Ahavah</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ J · Water · Demahel</span></div>
+<div class="row"><span class="label">Current:</span> Demahel</div>
+<div class="row"><span class="label">Domain:</span> Water</div>
+<div class="row"><span class="label">Root:</span> D-M-ʿ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>dema</i> ≈ <b>DEH-mah</b> (“tear”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Demaon  <b>Alt B:</b> Dimahiel  <b>Alt C:</b> Demaron</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ 10 · Deserts · Midvaron</span></div>
+<div class="row"><span class="label">Current:</span> Midvaron</div>
+<div class="row"><span class="label">Domain:</span> Deserts</div>
+<div class="row"><span class="label">Root:</span> D-B-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>midbar</i> ≈ <b>meed-BAHR</b> (“desert, wilderness”; also “speech” play)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Midbariel  <b>Alt B:</b> Devoron  <b>Alt C:</b> Midbaron</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> Root also sits under “word/speech” — fits storytelling miscollapse.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ 9 · Health · Chayelon</span></div>
+<div class="row"><span class="label">Current:</span> Chayelon</div>
+<div class="row"><span class="label">Domain:</span> Health</div>
+<div class="row"><span class="label">Root:</span> Ḥ-Y</div>
+<div class="row"><span class="label">Phonetic:</span> <i>chai / chayim</i> ≈ <b>KHYE</b> / <b>khah-YEEM</b> (“life, living”); Ḥ = <i>kh</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Chayiel  <b>Alt B:</b> Chayon  <b>Alt C:</b> Chaimon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ 8 · Secrets · Sodiel</span></div>
+<div class="row"><span class="label">Current:</span> Sodiel <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Secrets <i>(retitled from Music/Song)</i></div>
+<div class="row"><span class="label">Root:</span> S-W-D</div>
+<div class="row"><span class="label">Phonetic:</span> <i>sod</i> ≈ <b>SODE</b> (“secret, counsel”)</div>
+<div class="row"><span class="label">Original domain:</span> Music / Song</div>
+<div class="row"><span class="label">Alt A:</span> Sodon  <b>Alt B:</b> Sodaron  <b>Alt C:</b> Sodayel</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ 7 · Trade · Chalufon</span></div>
+<div class="row"><span class="label">Current:</span> Chalufon</div>
+<div class="row"><span class="label">Domain:</span> Trade</div>
+<div class="row"><span class="label">Root:</span> Ḥ-L-P</div>
+<div class="row"><span class="label">Phonetic:</span> <i>chalufin</i> ≈ <b>khah-loo-FEEN</b> (“exchange, barter”); Ḥ = <i>kh</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Chalufiel  <b>Alt B:</b> Chalafon  <b>Alt C:</b> Hilufon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♥ 6 · Hearth · Tzelahar <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Tzelahar</div>
+<div class="row"><span class="label">Domain:</span> Hearth <i>(was Beauty)</i></div>
+<div class="row"><span class="label">Root:</span> Ṣ-L-L</div>
+<div class="row"><span class="label">Phonetic:</span> <i>tzel / tzlal</i> ≈ <b>TSEL</b> / <b>tslah-LAHL</b> (“shadow, shade” → shelter/roof register); Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original domain:</span> Beauty · <b>theonym kept</b></div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Tzelalon · B Tzeliel · C Tzalhar</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>B-Y-T</b> <i>bayit</i> ≈ <b>BAH-yeet</b> (“house, household”) → <b>Bayiton</b> · <b>Baytiel</b> · <b>Beton</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>ʾ-Š</b> <i>esh</i> ≈ <b>ESH</b> (“fire”) → <b>Eshon</b> · <b>Ishiel</b> · <b>Esharon</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> <b>Ḥ-M</b> <i>ḥom / ḥam</i> ≈ <b>KHOME</b> (“heat, warmth”) → <b>Ḥamon</b> · <b>Ḥomiel</b> · <b>Chamon</b></div>
+<div class="root-alt row"><span class="label">Root alt 4:</span> <b>M-Q-M</b> <i>maqom</i> ≈ <b>mah-KOME</b> (“place”) → <b>Maqomon</b> · <b>Maqmiel</b> — “whose place is set”</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Root alt 4 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Soft stretch. Alt 1 = membership/roof; alt 2–3 = fire warmth; alt 4 = place-set rite without fire monopoly.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ 5 · Birth · Yaladiel</span></div>
+<div class="row"><span class="label">Current:</span> Yaladiel</div>
+<div class="row"><span class="label">Domain:</span> Birth</div>
+<div class="row"><span class="label">Root:</span> Y-L-D</div>
+<div class="row"><span class="label">Phonetic:</span> <i>yalad</i> ≈ <b>yah-LAHD</b> (“to bear, give birth”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Yaladon · B Yoledet · C Yaldaron</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <i>(optional)</i> <b>Ḥ-Y-H</b> <i>ḥayah</i> ≈ <b>khah-YAH</b> (“live, give life”) → <b>Ḥayon</b> · <b>Ḥayiel</b> — only if you want “new life” over “birth act”</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Current root is clean.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ 4 · Seduction · Pituyel</span></div>
+<div class="row"><span class="label">Current:</span> Pituyel</div>
+<div class="row"><span class="label">Domain:</span> Seduction <i>(label narrowed from Sex/Seduction)</i></div>
+<div class="row"><span class="label">Root:</span> P-T-H</div>
+<div class="row"><span class="label">Phonetic:</span> <i>patah / pituy</i> ≈ <b>pah-TAHKH</b> / <b>pee-TOO-ee</b> (“entice, seduce”)</div>
+<div class="row"><span class="label">Original domain label:</span> Sex / Seduction</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Pituyon · B Patahiel · C Pitayon</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <i>(optional)</i> <b>P-T-H</b> keep · or <b>M-Š-K</b> <i>mashakh</i> ≈ <b>mah-SHAKH</b> (“draw, attract”) → <b>Mashkhon</b> · <b>Mashkiel</b></div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Current root is already the domain word — root swap only for variety.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♥ 3 · Jewels · Takshiton</span></div>
+<div class="row"><span class="label">Current:</span> Takshiton</div>
+<div class="row"><span class="label">Domain:</span> Jewels</div>
+<div class="row"><span class="label">Root:</span> K-Š-Ṭ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>takhshit</i> ≈ <b>takh-SHEET</b> (“jewelry, ornament”); Š = <i>sh</i>, Ṭ = heavy <i>t</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Takhshiel · B Takshiton (keep) · C Kishiton</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <i>(optional)</i> <b>Ḥ-N</b> <i>ḥen</i> ≈ <b>KHEN</b> (“grace, charm, favor”) → <b>Ḥenon</b> · <b>Ḥaniel</b> — gift-as-favor rather than ornament</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Current root is clean for the object; alt 1 if you want the <i>sacrifice/gift</i> mechanic audible.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♥ 2 · Discord · Sha'ashon <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Sha'ashon <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Discord <i>(broadened from Paranoia)</i></div>
+<div class="row"><span class="label">Root:</span> Š-ʿ-Š</div>
+<div class="row"><span class="label">Phonetic:</span> <i>sha'ashua / sha'ash</i> ≈ <b>shah-ah-SHOO-ah</b> (“delight, play” → corrosive social play); Š = <i>sh</i></div>
+<div class="row"><span class="label">Original domain:</span> Paranoia</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Sha'ashiel · B Shaashon · C Sha'asharon</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>P-R-D</b> <i>pered / perud</i> ≈ <b>peh-ROOD</b> (“separation, parting”) → <b>Perudon</b> · <b>Pirdiel</b> · <b>Paradon</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>R-Y-B</b> <i>riv / meriva</i> ≈ <b>REEV</b> / <b>meh-ree-VAH</b> (“quarrel, contention”) → <b>Rivon</b> · <b>Riviel</b> · <b>Merivon</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> <b>M-D-N</b> <i>madon</i> ≈ <b>mah-DONE</b> (“strife, contention”) → <b>Madon</b> · <b>Medaniel</b> · <b>Madanon</b></div>
+<div class="root-alt row"><span class="label">Root alt 4:</span> <b>P-L-G</b> <i>pelag / palag</i> ≈ <b>peh-LAG</b> (“split, divide”) → <b>Pelagon</b> · <b>Pilgiel</b> — arithmetic split of the <i>we</i></div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Root alt 4 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Stretch + <i>Sha-</i> cluster. Alt 1 matches terminal “nobody in the same ungrouped thing”; alt 4 matches feud-as-arithmetic.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<h2 class="diamonds">DIAMONDS — Systems Mode</h2>
+<div class="card"><div class="head"><span class="title">♦ A · Autumn · Asaphon</span></div>
+<div class="row"><span class="label">Current:</span> Asaphon</div>
+<div class="row"><span class="label">Domain:</span> Autumn</div>
+<div class="row"><span class="label">Root:</span> ʾ-S-P</div>
+<div class="row"><span class="label">Phonetic:</span> <i>asaph</i> ≈ <b>ah-SAHF</b> (“to gather in”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Asaphiel  <b>Alt B:</b> Asifon  <b>Alt C:</b> Osefon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ K · Honor · Kevodon</span></div>
+<div class="row"><span class="label">Current:</span> Kevodon</div>
+<div class="row"><span class="label">Domain:</span> Honor</div>
+<div class="row"><span class="label">Root:</span> K-B-D</div>
+<div class="row"><span class="label">Phonetic:</span> <i>kavod</i> ≈ <b>kah-VOHD</b> (“honor, weight, glory”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Kevodiel  <b>Alt B:</b> Kavodon  <b>Alt C:</b> Kevadon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ Q · Fertility · Rabakhon</span></div>
+<div class="row"><span class="label">Current:</span> Rabakhon</div>
+<div class="row"><span class="label">Domain:</span> Fertility</div>
+<div class="row"><span class="label">Root:</span> R-B-H</div>
+<div class="row"><span class="label">Phonetic:</span> <i>rabah</i> ≈ <b>rah-BAH</b> (“multiply, increase”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Rabahiel  <b>Alt B:</b> Ribon  <b>Alt C:</b> Rabahon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♦ J · Earth · Aretzon <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Aretzon</div>
+<div class="row"><span class="label">Domain:</span> Earth</div>
+<div class="row"><span class="label">Root:</span> ʾ-R-Ṣ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>eretz</i> ≈ <b>EH-rets</b> (“land, earth”); Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Eretziel · B Aretziel · C Artzon</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>ʾ-D-M-H</b> <i>adamah</i> ≈ <b>ah-dah-MAH</b> (“ground, soil, land”) → <b>Adamahon</b> · <b>Admiel</b> · <b>Admon</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>Y-S-D</b> <i>yesod</i> ≈ <b>yeh-SODE</b> (“foundation”) → <b>Yesodon</b> · <b>Yasdiel</b> · <b>Yesdon</b> — foundation/claim read</div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> keep <b>ʾ-R-Ṣ</b>, reshape only (if Aritzon is the one that moves)</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep pair-joke &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Near-collision with <b>Aritzon</b> is intentional. Alt 2 matches Diamonds “foundation/deed” better than plain “land.”</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ 10 · Mountains · Tzuron</span></div>
+<div class="row"><span class="label">Current:</span> Tzuron</div>
+<div class="row"><span class="label">Domain:</span> Mountains</div>
+<div class="row"><span class="label">Root:</span> Ṣ-W-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>tzur</i> ≈ <b>TSOOR</b> (“rock, mountain-fastness”); Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original theonym:</span> <b>Hararon</b> (retired — spelling collision with Harashon)</div>
+<div class="row"><span class="label">Alt A:</span> Tzuriel  <b>Alt B:</b> Tzuraron  <b>Alt C:</b> Selaon <i>(different root: S-L-ʿ rock-cliff)</i></div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> Prefer Alts A/B if staying on Ṣ-W-R.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ 9 · Wisdom · Chakamon</span></div>
+<div class="row"><span class="label">Current:</span> Chakamon</div>
+<div class="row"><span class="label">Domain:</span> Wisdom</div>
+<div class="row"><span class="label">Root:</span> Ḥ-K-M</div>
+<div class="row"><span class="label">Phonetic:</span> <i>chokhmah</i> ≈ <b>khokh-MAH</b> (“wisdom”); Ḥ = <i>kh</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Chokmiel  <b>Alt B:</b> Chakmiel  <b>Alt C:</b> Hokhmon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ 8 · Law · Takanor</span></div>
+<div class="row"><span class="label">Current:</span> Takanor <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Law</div>
+<div class="row"><span class="label">Root:</span> T-Q-N</div>
+<div class="row"><span class="label">Phonetic:</span> <i>tikkun / takanah</i> ≈ <b>tee-KOON</b> / <b>tah-kah-NAH</b> (“set right; ordinance”)</div>
+<div class="row"><span class="label">Original:</span> carried from older King seat</div>
+<div class="row"><span class="label">Alt A:</span> Takaniel  <b>Alt B:</b> Tikkon  <b>Alt C:</b> Taqanor</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ 7 · Justice · Mishpaton</span></div>
+<div class="row"><span class="label">Current:</span> Mishpaton</div>
+<div class="row"><span class="label">Domain:</span> Justice</div>
+<div class="row"><span class="label">Root:</span> Š-P-Ṭ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>mishpat</i> ≈ <b>meesh-PAHT</b> (“judgment, justice”); Š = <i>sh</i>, Ṭ = heavy <i>t</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Mishpatiel  <b>Alt B:</b> Shofeton  <b>Alt C:</b> Mishpatan</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> <i>Shofeton</i> pulls from <i>shofet</i> (judge) — same domain family.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ 6 · Healing · Rifon</span></div>
+<div class="row"><span class="label">Current:</span> Rifon</div>
+<div class="row"><span class="label">Domain:</span> Healing</div>
+<div class="row"><span class="label">Root:</span> R-P-ʾ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>refuah / rapha</i> ≈ <b>reh-foo-AH</b> / <b>rah-FAH</b> (“healing”)</div>
+<div class="row"><span class="label">Original:</span> label unchanged; re-grounded as body-as-system</div>
+<div class="row"><span class="label">Alt A:</span> Refuel  <b>Alt B:</b> Raphiel  <b>Alt C:</b> Refuon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> <i>Raphiel</i> is very angel-coded; keep only if you want that.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♦ 5 · Adulthood · Koseb <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Koseb <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Adulthood <i>(was Elderly / Inheritance)</i></div>
+<div class="row"><span class="label">Root:</span> K-S-B</div>
+<div class="row"><span class="label">Phonetic:</span> <i>kasav / kosev</i> ≈ <b>kah-SAHV</b> (“write / account” register — ledger of a life)</div>
+<div class="row"><span class="label">Original domain:</span> Inheritance → Elderly → <b>Adulthood</b></div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Kosebon · B Kasavon · C Kosebiel</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>B-G-R</b> <i>bagar / boger</i> ≈ <b>bah-GAR</b> / <b>BO-ger</b> (“mature, come of age”) → <b>Bagaron</b> · <b>Bagriel</b> · <b>Bogeron</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>G-D-L</b> <i>gadal</i> ≈ <b>gah-DAHL</b> (“grow up, become great”) → <b>Gadolon</b> · <b>Gedoliel</b> · <b>Gadlon</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> <b>ʾ-Y-Š</b> <i>ish</i> ≈ <b>EESH</b> (“man, adult person”) → <b>Ischon</b> · <b>Ishiel</b> · <b>Enoshon</b></div>
+<div class="root-alt row"><span class="label">Root alt 4:</span> keep <b>K-S-B</b> if you want the <i>account</i> personality audible (anxious ledger adult)</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Keep root (alt 4) &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Soft stretch. Alt 1 is the life-stage word; alt 4 keeps “Account Closed Twice” etymology.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ 4 · Bribery · Heteron</span></div>
+<div class="row"><span class="label">Current:</span> Heteron <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Bribery <i>(retitled from Hoarding)</i></div>
+<div class="row"><span class="label">Root:</span> H-T-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>heter</i> ≈ <b>HEH-ter</b> (“permission, allowance, license”)</div>
+<div class="row"><span class="label">Original domain:</span> Hoarding</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Heteriel · B Hataron · C Heteran</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <i>(optional)</i> <b>Š-Ḥ-D</b> <i>shochad</i> ≈ <b>sho-KHAD</b> (“bribe”) → <b>Shochdon</b> · <b>Shachdiel</b> — domain word itself</div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <i>(optional)</i> <b>S-T-R</b> <i>seter</i> ≈ <b>SEH-ter</b> (“secret, hidden”) → <b>Seteron</b> · <b>Sitriel</b> — silence/unentered exception</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Current root already fits “purchased exception” better than old Hoarding — swap only if you want the word <i>bribe</i> or <i>secret</i> audible.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♦ 3 · Coins · Ashiron</span></div>
+<div class="row"><span class="label">Current:</span> Ashiron <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Coins</div>
+<div class="row"><span class="label">Root:</span> ʾ-S-H-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>osher / ashir</i> ≈ <b>OH-sher</b> / <b>ah-SHEER</b> (“wealth, rich”)</div>
+<div class="row"><span class="label">Original:</span> carried from older Ace seat</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Oshiron · B Ashiriel · C Osheron</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <i>(optional)</i> <b>K-S-F</b> <i>kesef</i> ≈ <b>KEH-sef</b> (“silver, money”) → <b>Kesfon</b> · <b>Kaspiel</b></div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Current root is clean.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♦ 2 · Orthodoxy · Kefiron <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Kefiron</div>
+<div class="row"><span class="label">Domain:</span> Orthodoxy <i>(was Heresy)</i></div>
+<div class="row"><span class="label">Root:</span> K-P-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>kafar / kofer</i> ≈ <b>kah-FAR</b> / <b>KO-fer</b> (“deny; also cover/atonement”)</div>
+<div class="row"><span class="label">Original domain:</span> Heresy · <b>theonym kept</b> (label flipped to match fidelity mechanic)</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Kefiriel · B Koferon · C Kafaron</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>ʾ-M-N</b> <i>emunah / ne'eman</i> ≈ <b>eh-moo-NAH</b> (“faithfulness, trustworthiness”) → <b>Emunon</b> · <b>Emuniel</b> · <b>Ne'emon</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>Y-Š-R</b> <i>yashar</i> ≈ <b>yah-SHAR</b> (“upright, straight”) → <b>Yasharon</b> · <b>Yashriel</b> · <b>Yishron</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> <b>Q-W-M</b> <i>qiyum / heqim</i> ≈ <b>kee-YOOM</b> (“uphold, establish”) → <b>Qiyumon</b> · <b>Qomiel</b> · <b>Heqimon</b></div>
+<div class="root-alt row"><span class="label">Root alt 4:</span> <b>D-Q-D-Q</b> <i>diqduq</i> ≈ <b>deek-DOOK</b> (“precision, exactness”) → <b>Diqdon</b> · <b>Diqdiel</b> — procedure exactness</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Root alt 4 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Stretch — deny ≠ orthodoxy. Alt 1 = fidelity; alt 3–4 = “followed every step.” Same-root keeps ironic “heresy-named orthodoxy” if you like the joke.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<h2 class="clubs">CLUBS — Sandbox Mode</h2>
+<div class="card"><div class="head"><span class="title">♣ A · Summer · Qayitzon</span></div>
+<div class="row"><span class="label">Current:</span> Qayitzon</div>
+<div class="row"><span class="label">Domain:</span> Summer</div>
+<div class="row"><span class="label">Root:</span> Q-Y-Ṣ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>kayitz</i> ≈ <b>KAH-yits</b> (“summer”); Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Qayitziel  <b>Alt B:</b> Kayitzon  <b>Alt C:</b> Qitzon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ K · Freedom · Derorel</span></div>
+<div class="row"><span class="label">Current:</span> Derorel</div>
+<div class="row"><span class="label">Domain:</span> Freedom</div>
+<div class="row"><span class="label">Root:</span> D-R-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>dror</i> ≈ <b>DRORE</b> (“liberty, Jubilee-release”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Droron  <b>Alt B:</b> Deroriel  <b>Alt C:</b> Droran</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ Q · Exploration · Taturiel</span></div>
+<div class="row"><span class="label">Current:</span> Taturiel</div>
+<div class="row"><span class="label">Domain:</span> Exploration</div>
+<div class="row"><span class="label">Root:</span> T-W-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>tur</i> ≈ <b>TOOR</b> (“to scout, explore”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Turon  <b>Alt B:</b> Taturon  <b>Alt C:</b> Tayeriel</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ J · Air · Sharaq</span></div>
+<div class="row"><span class="label">Current:</span> Sharaq <i>(carried, expanded)</i></div>
+<div class="row"><span class="label">Domain:</span> Air</div>
+<div class="row"><span class="label">Root:</span> Š-R-Q</div>
+<div class="row"><span class="label">Phonetic:</span> <i>sharaq / sarak</i> ≈ <b>shah-RAHK</b> (“whistle, hiss” → wind/vector)</div>
+<div class="row"><span class="label">Original:</span> carried; portfolio expanded</div>
+<div class="row"><span class="label">Alt A:</span> Sharaqon  <b>Alt B:</b> Sharaqiel  <b>Alt C:</b> Sarak</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> Bare form is rare in the deck — keep if you want the outlier feel.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ 10 · Swamps · Bitzon</span></div>
+<div class="row"><span class="label">Current:</span> Bitzon</div>
+<div class="row"><span class="label">Domain:</span> Swamps</div>
+<div class="row"><span class="label">Root:</span> B-Ṣ-H</div>
+<div class="row"><span class="label">Phonetic:</span> <i>bitzah</i> ≈ <b>bee-TSAH</b> (“swamp, marsh”); Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Bitzahiel  <b>Alt B:</b> Bitzaron  <b>Alt C:</b> Batzon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ 9 · Cunning · Aromon</span></div>
+<div class="row"><span class="label">Current:</span> Aromon</div>
+<div class="row"><span class="label">Domain:</span> Cunning</div>
+<div class="row"><span class="label">Root:</span> ʿ-R-M</div>
+<div class="row"><span class="label">Phonetic:</span> <i>arum</i> ≈ <b>ah-ROOM</b> (“cunning, crafty”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Arumiel  <b>Alt B:</b> Aromiel  <b>Alt C:</b> Orumon</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♣ 8 · Luck · Aravon <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Aravon</div>
+<div class="row"><span class="label">Domain:</span> Luck <i>(was Chaos on roster; Chaos moved to Riqqavon)</i></div>
+<div class="row"><span class="label">Root:</span> ʿ-R-B</div>
+<div class="row"><span class="label">Phonetic:</span> <i>erev / arbuv</i> ≈ <b>EH-rev</b> / <b>ar-BOOV</b> (“mixture, confusion, evening mix”)</div>
+<div class="row"><span class="label">Original domain:</span> Chaos</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Araviel · B Eravon · C Arubon</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>M-Z-L</b> <i>mazal</i> ≈ <b>mah-ZAHL</b> (“luck, constellation-fortune”) → <b>Mazalon</b> · <b>Mazliel</b> · <b>Mazalonel</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>G-D</b> <i>gad</i> ≈ <b>GAHD</b> (“fortune, troop-luck”) → <b>Gadon</b> · <b>Gadiel</b> · <b>Gadaron</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> <b>Q-R-Y</b> <i>miqreh / qarah</i> ≈ <b>meek-REH</b> (“chance occurrence”) → <b>Miqron</b> · <b>Qariel</b> · <b>Miqrehon</b></div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Stretch — mix/confusion was Chaos. Alt 1 is the plain “luck” word; alt 3 is undesigned outcome without Fortune-god baggage.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ 7 · Creativity · Yetziron</span></div>
+<div class="row"><span class="label">Current:</span> Yetziron</div>
+<div class="row"><span class="label">Domain:</span> Creativity</div>
+<div class="row"><span class="label">Root:</span> Y-Ṣ-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>yetzirah</i> ≈ <b>yeh-tsee-RAH</b> (“creation, formation”); Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Yetziriel · B Yotzeron · C Yetzaron</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <i>(optional)</i> <b>Ḥ-D-Š</b> <i>ḥidush</i> ≈ <b>khee-DOOSH</b> (“innovation, renewal”) → <b>Ḥidshon</b> · <b>Ḥidshiel</b> — watch collision with Chadashiel (Spring)</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Current root is clean; alt 1 only for “new variant” emphasis.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ 6 · Crafting · Harashon</span></div>
+<div class="row"><span class="label">Current:</span> Harashon</div>
+<div class="row"><span class="label">Domain:</span> Crafting <i>(was Architecture)</i></div>
+<div class="row"><span class="label">Root:</span> Ḥ-R-Š</div>
+<div class="row"><span class="label">Phonetic:</span> <i>charash</i> ≈ <b>khah-RASH</b> (“craftsman, artisan”); Ḥ = <i>kh</i>, Š = <i>sh</i></div>
+<div class="row"><span class="label">Original theonym:</span> <b>Bonahel</b> (retired) · <b>Original domain:</b> Architecture</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Charashon · B Harashiel · C Ḥarashon</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <i>(optional)</i> <b>B-N-H</b> <i>banah</i> ≈ <b>bah-NAH</b> (“build”) → <b>Banon</b> · <b>Banael</b> · <b>Bonahel</b> (retired form)</div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <i>(optional)</i> <b>Y-Ṣ-R</b> — avoid; already Yetziron</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Custom</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Current root is the clean craft root. Old Hararon collision already solved by Tzuron.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ 5 · Youth · Tza'iron</span></div>
+<div class="row"><span class="label">Current:</span> Tza'iron</div>
+<div class="row"><span class="label">Domain:</span> Youth</div>
+<div class="row"><span class="label">Root:</span> Ṣ-ʿ-R</div>
+<div class="row"><span class="label">Phonetic:</span> <i>tza'ir</i> ≈ <b>tsah-EER</b> (“young, small”); Ṣ = <i>ts</i></div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Tza'iriel  <b>Alt B:</b> Tzairon  <b>Alt C:</b> Tza'aron</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ 4 · Alcohol · Yayinon</span></div>
+<div class="row"><span class="label">Current:</span> Yayinon</div>
+<div class="row"><span class="label">Domain:</span> Alcohol</div>
+<div class="row"><span class="label">Root:</span> Y-Y-N</div>
+<div class="row"><span class="label">Phonetic:</span> <i>yayin</i> ≈ <b>YAH-yin</b> (“wine”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Yayiniel  <b>Alt B:</b> Yinon  <b>Alt C:</b> Yayaron</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">♣ 3 · Seeds · Zerael</span></div>
+<div class="row"><span class="label">Current:</span> Zerael <i>(carried)</i></div>
+<div class="row"><span class="label">Domain:</span> Seeds</div>
+<div class="row"><span class="label">Root:</span> Z-R-ʿ</div>
+<div class="row"><span class="label">Phonetic:</span> <i>zera</i> ≈ <b>ZEH-rah</b> (“seed, offspring”)</div>
+<div class="row"><span class="label">Original:</span> carried from older Ace seat</div>
+<div class="row"><span class="label">Alt A:</span> Zeraon  <b>Alt B:</b> Zeraiel  <b>Alt C:</b> Ziron</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="row"><span class="label">Notes:</span><span class="write long"></span></div>
+</div>
+<div class="card stretch"><div class="head"><span class="title">♣ 2 · Chaos · Riqqavon <span class="badge">ROOT REVIEW</span></span></div>
+<div class="row"><span class="label">Current:</span> Riqqavon</div>
+<div class="row"><span class="label">Domain:</span> Chaos <i>(was Rot / Pestilence)</i></div>
+<div class="row"><span class="label">Root:</span> R-Q-B</div>
+<div class="row"><span class="label">Phonetic:</span> <i>riqqavon / raqav</i> ≈ <b>ree-kah-VONE</b> / <b>rah-KAHV</b> (“rot, decay”)</div>
+<div class="row"><span class="label">Original domain:</span> Rot / Pestilence · <b>theonym kept</b> while label became Chaos</div>
+<div class="root-alt row"><span class="label">Same-root alts:</span> A Riqqaviel · B Raqavon · C Riqbon</div>
+<div class="root-alt row"><span class="label">Root alt 1:</span> <b>B-L-L</b> <i>balal / bilbul</i> ≈ <b>bah-LAHL</b> / <b>beel-BOOL</b> (“confuse, mix up”) → <b>Balalon</b> · <b>Biluliel</b> · <b>Balbelon</b></div>
+<div class="root-alt row"><span class="label">Root alt 2:</span> <b>H-M-M</b> <i>hamam</i> ≈ <b>hah-MAHM</b> (“confound, throw into turmoil”) → <b>Hamamon</b> · <b>Homiel</b> · <b>Mehumon</b></div>
+<div class="root-alt row"><span class="label">Root alt 3:</span> <b>P-R-ʿ</b> <i>paraʿ</i> ≈ <b>pah-RAH</b> (“let loose, unbridled”) → <b>Paraon</b> · <b>Parʿiel</b> · <b>Peraon</b> — never-stop unrestraint</div>
+<div class="root-alt row"><span class="label">Root alt 4:</span> <b>T-H-W</b> <i>tohu</i> ≈ <b>TOH-hoo</b> (“formless”) → &#9888; avoid <i>Tohu\<b> forms — collides with </b>Tohuel</i>*</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; Same-root A/B/C &#9744; Root alt 1 &#9744; Root alt 2 &#9744; Root alt 3 &#9744; Custom (not Tohu)</div>
+<div class="row"><span class="label">Custom name:</span> <span class="write"></span> <span class="label">Custom root:</span> <span class="write short"></span></div>
+<div class="note"><span class="label">Notes:</span> Stretch — rot ≠ chaos-as-unstopped-growth. Alt 3 closest to “never learned to stop”; alt 1–2 = disorder. Same-root keeps rot-horror etymology if you still want that flavor under Chaos.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<h2 class="wild">WILD CARDS &amp; THE 55th</h2>
+<div class="card"><div class="head"><span class="title">★ Tohuel — The Weaver</span></div>
+<div class="row"><span class="label">Current:</span> Tohuel</div>
+<div class="row"><span class="label">Domain / role:</span> Wild Card — re-weave / Unwritten Current</div>
+<div class="row"><span class="label">Root:</span> THW (T-H-W)</div>
+<div class="row"><span class="label">Phonetic:</span> <i>tohu</i> ≈ <b>TOH-hoo</b> (“formless, void” — Genesis echo, stylized)</div>
+<div class="row"><span class="label">Original:</span> bare <b>Tohu</b> in source draft → stylized <b>Tohuel</b></div>
+<div class="row"><span class="label">Alt A:</span> Tohuon  <b>Alt B:</b> Tohuiel  <b>Alt C:</b> Toharah</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> Keep sibling echo with Bohuel if both rename.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">★ Bohuel — The Unweaver</span></div>
+<div class="row"><span class="label">Current:</span> Bohuel</div>
+<div class="row"><span class="label">Domain / role:</span> Wild Card — tear / Void Mirror / storms</div>
+<div class="row"><span class="label">Root:</span> BHW (B-H-W)</div>
+<div class="row"><span class="label">Phonetic:</span> <i>bohu</i> ≈ <b>BOH-hoo</b> (“void, emptiness” — paired with <i>tohu</i>)</div>
+<div class="row"><span class="label">Original:</span> bare <b>Bohu</b> stylized to <b>Bohuel</b></div>
+<div class="row"><span class="label">Alt A:</span> Bohuon  <b>Alt B:</b> Bohuiel  <b>Alt C:</b> Boharah</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> Pair with Tohuel decision.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<div class="card"><div class="head"><span class="title">★ Shorash — The 55th</span></div>
+<div class="row"><span class="label">Current:</span> Shorash</div>
+<div class="row"><span class="label">Domain / role:</span> Central arbiter / table / function (not a suit card)</div>
+<div class="row"><span class="label">Root:</span> Š-R-Š</div>
+<div class="row"><span class="label">Phonetic:</span> <i>shoresh</i> ≈ <b>sho-RESH</b> (“root”)</div>
+<div class="row"><span class="label">Original:</span> —</div>
+<div class="row"><span class="label">Alt A:</span> Shoreshon  <b>Alt B:</b> Shorashiel  <b>Alt C:</b> Shoresh</div>
+<div class="picks"><span class="label">Pick:</span> &#9744; Keep &#9744; A &#9744; B &#9744; C &#9744; Custom</div>
+<div class="row"><span class="label">Custom:</span> <span class="write"></span></div>
+<div class="note"><span class="label">Notes:</span> Bare <i>Shoresh</i> is more transparent; <i>Shorash</i> is the stylized form.</div>
+<div class="row"><span class="write long"></span></div>
+</div>
+<h2 class="meta">Quick collision checklist (mark while you go)</h2>
+<table>
+<tr><th>Pair / cluster</th><th>Risk</th><th>Your call</th></tr>
+<tr><td>Aretzon ↔ Aritzon</td><td>Near-identical speech</td><td>&#9744; Keep joke &#9744; Rename one (see root alts on both cards)</td></tr>
+<tr><td>Shalalon ↔ Sha'alon ↔ Sha'ashon</td><td>Triple <i>Sha-</i> cluster</td><td>&#9744; OK &#9744; Root-swap 1+ (see intra-entry)</td></tr>
+<tr><td>Harashon (was near Hararon)</td><td>Solved by Tzuron</td><td>&#9744; Still fine</td></tr>
+<tr><td>Tohuel ↔ Bohuel</td><td>Sibling pair</td><td>&#9744; Keep pair &#9744; Rename both together</td></tr>
+<tr><td>Stretch roots (see cheat sheet)</td><td>Domain moved, root lagged</td><td>&#9744; Keep ironic lag &#9744; Root alt</td></tr>
+</table>
+<h2 class="meta">Scorecard (optional)</h2>
+<table>
+<tr><th>Suit</th><th>Keeps</th><th>Alts</th><th>Customs</th><th>Still open</th></tr>
+<tr><td>Spades (13)</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>Hearts (13)</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>Diamonds (13)</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>Clubs (13)</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>Wild + 55th (3)</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td><b>Total (55)</b></td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+</table>
+<h2 class="meta">Parking lot — names you almost used</h2>
+<p class="lede">Write candidates you like but didn’t assign yet (prevents losing good coinages):</p>
+<ul>
+<li>________________________________  root / idea: ________________  </li>
+<li>________________________________  root / idea: ________________  </li>
+<li>________________________________  root / idea: ________________  </li>
+<li>________________________________  root / idea: ________________  </li>
+<li>________________________________  root / idea: ________________  </li>
+</ul>
+<h2 class="meta">Retired / off-deck names (for memory only)</h2>
+<table>
+<tr><th>Name</th><th>Was</th><th>Status</th></tr>
+<tr><td><b>Hararon</b></td><td>Mountains (Diamonds 10)</td><td>Replaced by <b>Tzuron</b></td></tr>
+<tr><td><b>Bonahel</b></td><td>Architecture → Crafting (Clubs 6)</td><td>Replaced by <b>Harashon</b></td></tr>
+<tr><td><b>Chagavel</b></td><td>Festivals (old Hearts)</td><td>Off-grid; Festivals still unassigned</td></tr>
+<tr><td><b>Tohu / Bohu</b></td><td>Wild Card bare forms</td><td>Stylized to Tohuel / Bohuel</td></tr>
+</table>
+<p class="lede"><i>Sources: [four-pantheons-roster.md](four-pantheons-roster.md), [pantheon-sketches.md](pantheon-sketches.md), [pantheon-reference-grok.md](pantheon-reference-grok.md). Alternates are proposals only — not canon until you mark them.</i></p>
+<p class="footer-note">Sources: four-pantheons-roster.md · pantheon-sketches.md · pantheon-reference-grok.md. Alternates and root swaps are proposals only until you mark them. Cards with a ROOT REVIEW badge have domain/root lag or name collisions.</p>
+</body></html>

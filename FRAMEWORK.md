@@ -279,6 +279,7 @@ Individual world documentation (in `worlds/[world-name]/`) contains world-specif
 - Different worlds may present quantum manipulation as different "magic" systems (spells, rituals, schools, etc.), but they're all ultimately quantum manipulation
 - **Coherent Energy Patterns:** All existence (physical bodies, ghosts, spirits, etc.) are patterns of coherent energy at the quantum layer—ghosts/spirits are looser, non-corporeal patterns (see [oververse/metaphysics/coherent-patterns.md](oververse/metaphysics/coherent-patterns.md))
 - **Souls and Identity:** Souls are self-anchored through consciousness; memory is structurally essential to soul persistence (see [oververse/metaphysics/souls-and-identity.md](oververse/metaphysics/souls-and-identity.md))
+- **QSON:** The First Children's own descriptive notation for quantum patterns — not the substrate itself, a model of it. Background/speculative depth layer, not required story knowledge (see [oververse/metaphysics/qson.md](oververse/metaphysics/qson.md))
 
 **Core Limitation - The Persistence Problem:**
 - Quantumancy lets First Children collapse quantum probabilities into desired realities (rewriting existence)

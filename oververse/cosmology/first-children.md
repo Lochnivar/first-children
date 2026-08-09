@@ -69,6 +69,11 @@ See [Quantumancy](../magic-systems/quantumancy.md) for detailed breakdown.
 - Each First Child has their own motivations and goals
 - Some respect the laws/judgments of the Prime Author and peers, others violate them
 - Can be allies, enemies, or indifferent to each other
+
+### Investment and Attention (General Law)
+- **Boredom is the default state.** A First Child needs an active, ongoing stake in a project — not just the initial spark that started it — or attention drifts to whatever's next. The spark that begins something and the hook that keeps a First Child locked onto it are two different things, and only the second one is scarce.
+- **Demonstrated by Malachor:** having created Iolanu, Malachor is currently distracted across off-stage continents while the Church of Malachor runs on autopilot. He had enough investment to *start* a world; nothing has kept generating a reason to stay. This is the law's base case, not an exception to explain away.
+- **Contrast case:** see [Skyfall](../worlds/skyfall.md) — same starting motive (bored First Children, a new hobby) but a mid-hobby discovery gave that world's Four Pantheons an ongoing reason that never runs dry, which is why they haven't drifted the way Malachor has. "Came for the hobby, stayed for the experiment."
 - Personality drives their actions and conflicts
 
 ### Relationships and Hierarchy
