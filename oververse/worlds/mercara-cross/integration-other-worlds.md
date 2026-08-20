@@ -79,6 +79,27 @@ Mercara's Cross connects to all worlds in Hypatia, serving as the central transi
 - Liberation operation staging (framework pattern)
 - Cultural exchange (framework allows)
 
+## Ya'arnahal Connection
+
+### Platform 1249
+
+**Function:**
+- Handles LGA land-grant traffic — the concrete realization of the Margin Speculation pattern below, now an active, named deployment
+- Homesteader package distribution: land grant bundled with QWST integration, issued at the platform before departure
+- Outfitter and survival-gear merchants specializing in cold-frontier equipment
+- LGA claims office — registration desk for the land run
+
+**Story Potential:**
+- New emigrant collecting their homesteader package, culture shock at how little the LGA actually promises
+- A settler returning to the Cross after months out of mesh range, discovering what changed in their absence
+- LGA administrator explaining the land-grant terms without ever using the word "mesh" or admitting the density motive
+- Someone trying to register a claim from Nahal Junction on behalf of a backcountry claimant who can't reach a node in time
+
+**Framework Alignment:**
+- New world connection (framework allows)
+- Speculation and risk, without a resource driving it — a deliberate variant on the pattern (world-specific)
+- LGA plausibly leverages existing Legara/Nummus contract-and-ledger infrastructure (framework pattern)
+
 ## Unknown/New Worlds
 
 ### Margin Speculation

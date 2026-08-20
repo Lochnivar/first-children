@@ -127,6 +127,13 @@ World documentation at the framework level shows how each world **expands upon o
 - **Framework demonstration:** FC-to-FC transactions through mortal instruments, Gatelock infrastructure, multi-world experiments
 - **Documentation:** [mc20/README.md](mc20/README.md), [mc20/RACE_RULES_QA.md](mc20/RACE_RULES_QA.md), [../../meta/MC20_WORLD_SKELETONS_QA.md](../../meta/MC20_WORLD_SKELETONS_QA.md)
 
+### [Ya'arnahal](ya-arnahal.md) · [working folder](ya-arnahal/README.md)
+- **Institution:** Land Grants Authority (LGA) — headquartered at Mercara's Cross, chartered under Cross infrastructure (likely Legara/Nummus contract-and-ledger backend) rather than a sole FC creator
+- **Premise:** Hypatia-wide frontier land run — a "cold rush." No treasure resource; the land grant itself (bundled with QWST integration) is the draw. Authority's real motive is mesh densification dressed as generosity.
+- **Structure:** Twin-river settled north, single Yukon-style trunk river frontier south of Nahal Junction (capital, Cross terminus, LGA seat); one arterial road; scattered trading posts
+- **Defining concept:** QWAN/QWST's always-true range-limited, nodal mesh coverage — normally imperceptible in dense populations — made visible and load-bearing by Ya'arnahal's sparse settlement. Claim registration is a network operation; claim jumping resolves in a settler's absence, discovered only on next contact.
+- **Framework demonstration:** No new QWAN physics — a world-specific distribution model (land-grant-bundled QWST) built entirely from existing [qwan.md](../mechanics/qwan.md) mechanics. Contrast case to Delverium: LitRPG via theway, but *Call of the Wild* register, not dungeon-crawl.
+
 ### [Skyfall](skyfall.md)
 - **Creator:** Greater Dragons (Prime Author creations) — built for themselves and their Lesser Dragon children
 - **Infiltrator:** The Four Pantheons — 54 First Children organized like a card deck (four suits of thirteen, plus two wild cards), openly worshipped as legitimate religion by the FC-repository species they seeded

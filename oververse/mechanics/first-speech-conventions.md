@@ -48,6 +48,7 @@ Canonical examples of **First Speech for [world]** as a **deployment label**:
 | **Iolanu** | `YLN` / `!'YLN` | World-token flavor; **cosmological** tag and drift to the name *Iolanu*: [Malachor’s graffiti](../cosmology/first-speech.md#cosmological-footnote-malachors-graffiti) |
 | **Legara** | `LGRH` | First Speech for Legara |
 | **Mercara** | `MRCRH` | First Speech for Mercara |
+| **Ya'arnahal** | `'YRNHL` (proposed) | Deployment label for the LGA land-grant program; see [Ya'arnahal](../worlds/ya-arnahal.md) |
 
 New worlds can add rows here as they enter trial fiction.
 

@@ -109,6 +109,7 @@ Mercara's Cross contains over 1,247 documented platforms connecting to worlds th
 | 1243 | Flameweft | Volcanic archipelago with fire-weaving dragonkin | Active |
 | 1245 | Chronoshift | Time-dilated islands where centuries pass in days | Active (heavily regulated) |
 | 1247 | Edgeflux | Current highest stable connection - raw quantum storms and new rift spawns | Active (experimental, frontier) |
+| 1249 | **Ya'arnahal** | LGA land-grant frontier world; QWST-bundled homesteader packages, "cold rush" (no treasure resource, land itself is the stakes) | Active (experimental, frontier — margin speculation) |
 
 ## Platform 1: Protomundus (The "Hello World")
 
@@ -314,6 +315,7 @@ Platform maintenance difficulty varies:
 - **936:** High inbound traffic world
 - **1237:** Iolanu (newest before seal)
 - **1247:** Current highest stable platform
+- **1249:** Ya'arnahal — LGA land-grant frontier, newest active connection
 
 ## Expansion Notes
 

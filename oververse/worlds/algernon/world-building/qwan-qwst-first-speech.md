@@ -18,6 +18,7 @@
 ## QWST — First Speech (iQuest)
 
 - **Branded name:** The official product string is **a leading grave accent / backtick (U+0060) immediately followed by `QWST`** — i.e. `` `QWST `` as characters, not “QWST” alone. In copy you may write **backtick-QWST** if a literal `` ` `` would break layout.
+- **Backronym:** **Q**uantum **W**ideband **S**ensory **T**ransduction. The name was chosen to abbreviate to something that sounds like "quest" — a wink at the LitRPG UI it powers — and the backronym happens to double as an accurate description of what the amygdala layer actually does (see [QWAN — Biological Interfaces](../../../mechanics/qwan.md#biological-interfaces): converting abstract signal into felt, subjective experience is literally sensory transduction). In-fiction, this reads as the product namers landing the pun on purpose *and* getting the terminology right, not as marketing puffery. Note the shared "Quantum Wide—" prefix with QWAN is intentional brand-family echo, not an accidental layer conflation — QWST itself does not touch the field directly (see [HiRB Is Not QWAN](../../../mechanics/qwan.md#hirb-is-not-qwan)).
 - **Role:** **First Speech** for **iQuest** — the participant-facing voice and console layer that sits *above* raw QWAN plumbing (compare: TCP/IP vs a given app’s UI).
 - **In fiction:** The layer Charlie treats as the “snarky tin can”; official lines use `*` bullets; unofficial bleed uses `~` (see [TheWay Interface](theway-interface.md)).
 
