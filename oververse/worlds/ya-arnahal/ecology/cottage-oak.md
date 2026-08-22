@@ -64,6 +64,10 @@ There is, inevitably, a strain of parental anxiety that attaches itself to this 
 
 ---
 
+## Fauna Conflict
+
+**[Lumberjacks](lumberjacks.md)** — a gopher–jackrabbit cross that tunnels into the corky heartwood for den space, discarding cork as waste rather than using it. Not a threat, a nuisance: purely material, one-sided friction between a settler who wants the cork and an animal indifferently wasting it. Colonized trees are easy to spot even for a green claimant (cast-off cork debris at the base), unlike judging overall tree health, which takes real experience.
+
 ## Notes for the Homestead Arc
 
 - A Cottage Oak's suitability for habitation scales with the severity of the winters it's adapted to — meaning the best shelter and the worst latitude are frequently the same piece of land. **The Land Grants Authority does not, as a rule, make this tradeoff obvious up front** — a direct, concrete instance of the Authority's real-motive-vs-stated-motive pattern already established (see [world bible — the LGA](../../ya-arnahal.md)): the generosity framing doesn't volunteer that the best free housing material grows precisely where the winters are worst.

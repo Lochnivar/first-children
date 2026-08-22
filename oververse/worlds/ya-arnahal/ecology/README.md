@@ -6,6 +6,7 @@ Flora and fauna of Ya'arnahal, detailed enough to warrant their own file.
 - [The Cottage Oak](cottage-oak.md) (*Quercus domesticus*) — corky-heartwood tree settlers excavate for shelter; northern/upland latitudes
 
 ## Fauna
+- [Lumberjacks](lumberjacks.md) — gopher–jackrabbit cross that dens in Cottage Oak heartwood, wasting cork settlers want; low-key recurring nuisance, not a threat
 - *To be developed* — near-wolves, ash bears named in prose (`../books/snippets/saras-open.md`) but not yet detailed here; one apex predator deliberately held in reserve as myth, not encounter (see [world bible](../../ya-arnahal.md))
 
 ## Other Flora

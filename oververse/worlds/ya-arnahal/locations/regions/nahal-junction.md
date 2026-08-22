@@ -24,7 +24,7 @@ Densest node concentration on Ya'arnahal. Law enforcement and mesh density both 
 ## Notable Locations
 - **LGA Claims Office:** TBD
 - **Cross terminus / Platform 1249 gate:** TBD
-- **The T-intersection:** main arterial road (western terminus at Nahal Junction, running east toward Kitzigen Falls and the backcountry) crosses a second, north-south road running to the two river-side settlements — TBD names for those settlements
+- **The T-intersection:** main arterial road (western terminus at Nahal Junction, running east to Kitzigen Falls, where it ends — no maintained road continues past the Falls into the backcountry) crosses a second, north-south road running to the two river-side settlements — TBD names for those settlements
 
 ## Key Events
 TBD
