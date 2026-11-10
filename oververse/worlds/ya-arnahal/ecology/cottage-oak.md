@@ -30,9 +30,9 @@ The core is not undifferentiated. Radial ribs of harder structural tissue run th
 
 Ya'arnahal's winters are not gentle. Dense-cored hardwoods — the pines especially — are known to crack or snap outright when sap trapped in tight cell structures freezes and expands with nowhere to go. The Cottage Oak's cellular, air-filled core sidesteps this failure mode entirely: the cells compress rather than rupture, and cork's poor thermal conductivity slows the rate at which cold reaches the tree's living tissue in the first place. The trait that makes the tree survive winter is, not coincidentally, the same trait that makes its core a good place for a person to survive winter too.
 
-### Pest Defense
+### Pest Defense (Primarily Antifungal)
 
-The core is not simply dead scaffolding the tree ignores once grown. Like the tannins and resins many terrestrial trees invest in heartwood defense, the Cottage Oak continuously renews its cork with deterrent compounds, keeping borers, grubs, and rot at bay. A core left unmaintained — through age, injury, or human overharvest — loses that chemical defense long before it loses structural soundness, and pest damage compounds quietly, often for years, before the tree fails.
+The core is not simply dead scaffolding the tree ignores once grown. Like the tannins and resins many terrestrial trees invest in heartwood defense, the Cottage Oak continuously renews its cork with deterrent compounds. **Corrected framing:** these compounds are primarily antifungal, not anti-insect — Ya'arnahal has no true insects anywhere on the planet (see [Hummingbee — Why Avian/Reptilian](hummingbee.md); ectotherm exclusion is global, not just cold-latitude-local), so fungi are the dominant decomposer guild and the real, ongoing threat to a tree's — and a home's — structural integrity in a cold, damp environment. A core left unmaintained — through age, injury, or human overharvest — loses that chemical defense long before it loses structural soundness, and fungal rot spreading unnoticed through structurally sound-looking wood compounds quietly, often for years, before the tree fails. This is a more climate-appropriate, more insidious failure mode than insect damage would have been, and it sharpens the "overharvest kills slowly" mechanic rather than just restating it.
 
 This is the tree's actual reason for renewing cork at all. Structural upkeep and pest defense turn out to be the same maintenance behavior, viewed from two angles.
 
@@ -64,6 +64,24 @@ There is, inevitably, a strain of parental anxiety that attaches itself to this 
 
 ---
 
+## Building Applications: Caulking, Construction, and Oil
+
+**Log construction.** Cabin logs are hewn/planed flat on their top and bottom faces before stacking — the historically standard flat-hewn approach real frontier log construction used (distinct from the more skill-intensive Scandinavian full-scribe method), achievable without specialized tools or training. Flattening the mating surfaces gives real structural bearing contact and significantly reduces the gap that needs sealing, compared to round-on-round stacking (narrow line contact, large voids).
+
+**Resin-cork caulking (mortar-style chinking).** Rather than pure shredded/packed cork (friction-and-compression only, prone to falling loose), the household uses a binder-and-aggregate mortar: cork fragments as solid filler, suspended and bound in a resin-based liquid binder, applied wet into the gaps between flattened log faces, then cured in place — mechanically identical in principle to real historical daub (clay/mud binder plus straw or hair aggregate), just executed with Ya'arnahal materials. **The binder is the same resin chemistry used in [Ya'arnahal Glass](yaarnahal-glass.md)** — the cattail-extract-triggered resin that hyper-hardens as it dries — used here uncured and mixed with cork aggregate rather than cast pure into clear panes. One resin system, two architectural applications (fine-cast-and-clear for windows, bulked-with-cork for caulking), not two separate craft traditions.
+
+**Fresh cork preserves antifungal properties.** Using *fresh, uncured* cork fragments as the mortar aggregate (rather than cured/dried cork) retains the active antifungal compounds within the sealed walls themselves — dual function for free: thermal/structural sealing and ongoing fungal resistance. Consistent with the material's established safety rule (see [Curing](#curing) above): the deterrent compound stays inert while locked in intact cell structure, only hazardous if ground to dust or set alight — neither applies to cork sealed whole within a mortar mix.
+
+**Cork oil.** Pressing cork specifically for its concentrated antifungal oil is a distinct, genuinely destructive process — consuming cork that could otherwise go toward building or caulking, so oil production and construction material compete for the same limited, slow-regrowing resource. A real economic trade-off, consistent with the tree's established scarcity economics.
+- **Extraction:** lipophilic (oil-based, non-water-soluble) — extracted by pressing, not the aqueous steeping used for [Pemi Cattail](pemi-cattail.md) extract; two genuinely distinct extraction crafts, not one reskinned technique.
+- **Yield/value:** low-yield, concentrated, bottled in small amounts — a valuable, potent trade good distinct from the household's bulkier resources (lumber, caulking, [Milknut](milknut.md) fluid).
+- **Uses:** protective treatment for cut ends, joints, and exposed non-Cottage-Oak timber; plausible mold-prevention for stored food over a long winter (ties into the household's existing nutrition/scurvy-adjacent concerns).
+- **Medicinal use — real, but genuinely dangerous carelessly handled.** Effective as a wound antiseptic only in careful, minimal application — a cloth lightly dabbed, applied briefly, then left to air-dry rather than left wet or rubbed in. Toxic/harmful in larger doses or careless use, consistent with how real plant-derived antifungal/antiseptic compounds actually behave (a genuine therapeutic window, not a fictional convenience). A teachable, ritual-precision technique — the kind of exact, passed-down procedure a caregiver (most plausibly Sarah) would drill into an older child learning basic home medicine, where getting it wrong has real consequences.
+
+## Byproduct Use
+
+Cork dust doubles as a fine polishing/buffing medium — used with wet leather to clear the mineralized release skin off cured [Ya'arnahal Glass](yaarnahal-glass.md) panes, and mixed with plant wax as a frame-sealing paste. A small but real extension of the tree's economic role beyond cork itself.
+
 ## Fauna Conflict
 
 **[Lumberjacks](lumberjacks.md)** — a gopher–jackrabbit cross that tunnels into the corky heartwood for den space, discarding cork as waste rather than using it. Not a threat, a nuisance: purely material, one-sided friction between a settler who wants the cork and an animal indifferently wasting it. Colonized trees are easy to spot even for a green claimant (cast-off cork debris at the base), unlike judging overall tree health, which takes real experience.
@@ -78,3 +96,4 @@ There is, inevitably, a strain of parental anxiety that attaches itself to this 
 
 *For world-level ecology overview, see [../../ya-arnahal.md](../../ya-arnahal.md).*
 *For the ecology index, see [README.md](README.md).*
+*For the shared "work with what the tree gives you" harvesting philosophy expressed a second way, see [Wicker Willow](wicker-willow.md).*

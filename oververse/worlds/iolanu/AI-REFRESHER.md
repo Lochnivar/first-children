@@ -94,7 +94,10 @@
 - Must stay quiet until strong enough
 
 ### Locquodian Order
+- **Motive:** Fear of another God-Emperor (the mission is how the fear explains itself)
 - **Mission:** Prevent any central world empire. No God-King return. Enforced fragmentation.
+- **Method:** Identify a need → gain monopoly → use as leverage (a hostile-takeover firm with happy faces; motive is fear, not profit). Holdings include healing, banking, imposed "beneficial" diplomacy
+- Very quiet; public mostly unaware; failed unions read as bad luck or a curse
 - Formed after Shattering; response to God-King era
 - Prevents political unification (along with monster pressure)
 - May guard/hide Godshards to prevent reassembly
@@ -117,6 +120,7 @@
 - **Mobile rifts:** Smaller tears; move unpredictably; Thohalla hunt and seal these
 - **Monsters:** Quantum fluctuations made manifest; "living quantum noise." Not natural creatures.
 - **Political effect:** Monster pressure + Locquodian Order = city-state fragmentation (no larger entities)
+- **Feel:** Arrested nationhood, not isolation and not empire nostalgia. Between cities is sparse but claimed kin-space; peoples naturally pull toward kingdoms and nations and keep failing. See meta/PREMISE_TONE_PERSPECTIVE.md
 
 ---
 

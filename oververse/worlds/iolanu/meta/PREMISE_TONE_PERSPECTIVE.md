@@ -54,6 +54,13 @@ A fantasy novel about Earth souls transplanted into Iolanu to help liberate the 
 **Current Understanding (for refinement):**
 Iolanu is a fractured world of city-states, prevented from unifying by monsters and the Locquodian Order. The world was damaged by The Shattering, which broke the Godstone into seven Godshards and created rifts that spawn monsters. Multiple cultures exist (11+ distinct cultures with Earth fusion elements). Low-magic setting with quantum-adjacent abilities that are persecuted. The Church of Malachor enforces orthodoxy and hunts the gifted.
 
+**The feel between the cities: arrested nationhood (LOCKED, 2026-11-09)**
+- The land between city-states is mostly unpopulated, but not starkly isolated. It is claimed, related and argued-over space between cities whose people are kin.
+- Peoples naturally pull toward kingdoms and nations, through shared race-template cores, kinship, marriage and trade. The pull needs no explaining. What needs explaining is why it keeps failing.
+- Two ceilings make unification almost impossible: the **rifts** (the congregation mechanic; see [city_state_survival.md](../world-building/natural-world/city_state_survival.md)) and the **Locquodian Order** (quiet; see [locquodian_order.md](../world-building/organizations/locquodian_order.md)).
+- **Not empire nostalgia.** The average Iolanian does not dream of the Empire, because the God-King's tyranny was extreme. The feeling looks forward ("we should be countries by now"), not back.
+- Because the Order is quiet, failed unions read to most people as bad luck or a curse.
+
 ### The Conflict
 [TO BE DEFINED BY USER]
 

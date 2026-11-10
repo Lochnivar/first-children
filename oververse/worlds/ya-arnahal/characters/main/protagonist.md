@@ -23,7 +23,8 @@ Arrived solo per the original premise, but the story's present finds her married
 
 ## Family
 - **Ann Ratkowski** — daughter, age 8. QWST-enabled with a governed child package (safety-capped physical stat expression, ~1.5× baseline strength). Energetic, not fully in control of her enhanced strength yet ("Papa Bear's Here!" door-slamming energy). Has at least "level 3" senses, enough detection range to spot Marshall Pelask at the extreme edge of range — prompts Sarah's parenting worry about roaming distance
-- Other family members implied ("the rest of the family") — not yet named
+- **Nick Ratkowski** — husband (confirmed). Co-MC status confirmed — see [his own character file](nick.md) rather than treating him as a footnote here. First appearance in `ecology/rainbow-heather.md`
+- Other family members possibly still implied beyond Ann and Nick — not yet named
 
 ## Relationships
 - **Ann Ratkowski** — daughter (see Family above)

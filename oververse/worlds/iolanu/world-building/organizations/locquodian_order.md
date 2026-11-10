@@ -29,6 +29,19 @@ He sets vision and mission. He does not run local operations. His perspective is
 
 ---
 
+## Core Motive: Fear
+
+**Status:** LOCKED
+
+The Order runs on fear: fear of another God-Emperor. The mission below is how that fear explains itself. The fear came first.
+
+- **Caladon's fear is firsthand.** He met Malachor as God-King. For him it is memory, not doctrine.
+- **Everyone else inherits it.** Cell members who never saw the God-King receive the fear as teaching. Second-hand fear tends to be louder and less precise than the original, so the cells may overreact where Caladon would not.
+- **Fear doesn't weigh odds.** This is why the Order moves against modest unions (three cities that want a shared king, two cities sharing farms) and not just against would-be conquerors. Every union looks like the first step back toward a God-Emperor.
+- **The fear is justified.** Malachor is distracted, not gone.
+
+---
+
 ## Core Mission
 
 **Status:** LOCKED
@@ -47,9 +60,25 @@ The Order's opposition to unification is therefore not ideological balkanization
 
 **Covert by default** — espionage, intelligence, targeted pressure, manipulation of political conditions. Overt action damages operations and reputation. The Order does not advertise itself.
 
-**Threshold for force** — PENDING (what triggers physical intervention vs. political maneuvering)
+**Need → monopoly → influence** — LOCKED. This is the Order's core operating method. It identifies a need that cities and peoples depend on, works to gain a monopoly over meeting it, and uses that control as political leverage. Model: an investment firm running hostile takeovers and putting happy faces on them. The firm analogy describes *method* only. The Order's motive is fear (above), not profit. Revenue from its holdings is incidental and pays for operations.
 
-**Funding and resources** — OPEN
+Current holdings are not a fixed list. They include:
+- **Healing.** Decides which heirs and royal marriages survive. Dynastic unions die without a visible blow, which is why ordinary people believe their kingdoms are cursed.
+- **Banking, in any form.** Credit for walls, patrols and wars, and a loan that can be called in at the worst moment.
+- **Imposed diplomacy in a beneficial guise.** Mediation that keeps the peace but never lets it become partnership. The mediators are praised as peacemakers.
+
+These are the institutions a growing nation would otherwise build for itself. By supplying them, the Order makes sure nobody does.
+
+**Public perception** — LOCKED. The Order is very quiet about keeping peoples apart, and the public largely does not know it exists in this role. People resent the healers' prices, the bankers' interest and the mediators' meddling as separate, ordinary grievances. Failed unions read as bad luck or a curse.
+
+**Threshold for force** — PENDING (what triggers physical intervention vs. political maneuvering). The holdings make force rarely necessary. The consolidation threshold is set in [city_state_survival.md](../natural-world/city_state_survival.md): cross-city resource sharing is a consolidation event.
+
+**Funding and resources** — PENDING. Partly answered: revenue from holdings (banking above all). Details open.
+
+**Proposed, not yet confirmed:**
+- *Roll-up structure.* A monopoly underneath that looks plural from outside: competing banking houses, healer orders and mediating offices with Order cells placed inside them, many keeping their original names and founders' portraits. Most staff don't know. Fits the cellular structure.
+- *Acquire rather than found.* The Order lets others build an institution, waits until it matters, then takes it over. Every new institution in Iolanu is a future target, and takeovers can be on-page plot events.
+- *The irony.* An organization that runs healing, credit and diplomacy across every city is itself a quiet supra-state. Caladon has built an empire's skeleton so that no one else can build one. This is a candidate for the Order's thematic core.
 
 **Recruitment pipeline** — OPEN (who joins, how cells find people, what new members know)
 
@@ -61,6 +90,8 @@ The Order's opposition to unification is therefore not ideological balkanization
 The League's formation is high on Caladon's radar — a pre-formal political union among Losceati cities trending toward consolidation. The Order is organizing a response, but the League has been savvy about avoiding LO moves. Their public framing (mutual defense against monster pressure) leaves little shadow to work in. Overt interference would damage the Order's operations and reputation. The angle is not yet clear.
 
 The League's formal declaration will trigger a Locquodian Order response — the nature of that response is an active problem the cells are working.
+
+*Proposed, not yet confirmed:* The League's savvy may include **refusing to sell**, keeping its own credit, healers and mediators in-house. That defeats the Order's method without giving it anything to break.
 
 ---
 
@@ -83,7 +114,8 @@ Active problem. See above.
 
 - What does "Locquodian" mean in-world? Is it their internal name or an exonym?
 - Membership profile — who joins and why; what do new recruits know
-- Funding and resource base
-- Does the Order know about the Godshards? Do they hold any?
+- Funding and resource base (partly answered: revenue from holdings)
+- Which holdings the Order runs directly vs. through institutions people can see
+- Does the Order know about the Godshards? Do they hold any? (If they know, reassembly would be their greatest fear: the most direct route back to a God-Emperor.)
 - Full relationship with the Apostasy
 - The failed intervention ~1,000 years ago — what was it, what went wrong

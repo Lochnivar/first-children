@@ -138,7 +138,7 @@ Malachor is unusual for having noticed the lever exists and chosen to pull it. M
 
 ## QWAN and Earth
 
-Earth is the only FC-operated context where the field was shifted to HiRB on a world that already had functioning explosive and firearm technology. When the walls appeared, the field shifted to HiRB simultaneously — and applied to everything already in service.
+Earth is the only FC-operated context where the field reached HiRB on a world that already had functioning explosive and firearm technology. It did not get there by a deliberate present-day FC assertion — see [The Long Suppression](../worlds/earth/the-long-suppression.md) for the current account: Earth's native field state was HiRB all along, held artificially below that baseline by a 40,000-year-old suppression experiment until the suppressor exhausted its own fuel. When it failed, the field reasserted simultaneously across the planet — and applied to everything already in service.
 
 The effect on Earth's existing technology is identical to what HiRB does everywhere else. Explosive compounds become hair-trigger. Ammo depots begin detonating spontaneously. Conventional warheads, artillery shells, and munitions stockpiles become unreliable and increasingly dangerous to store. The infrastructure Earth had built around reliable explosive chemistry stops being reliable.
 

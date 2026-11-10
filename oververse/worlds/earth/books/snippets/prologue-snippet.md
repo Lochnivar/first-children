@@ -20,19 +20,23 @@ The cayminus snorted.
 
 An elven woman raised her hand before the hobgoblin could retort.
 
-"We don't know," she said in her musical voice.  "We just know that Earth's QWAN field has been activated and the early reports show massive explosions around the world."
+"We don't know," she said in her musical voice.  "We just know Earth's QWAN field is about to fail. The models all agree on that much — it's not an if anymore, just a when, and the window's closing fast."
 
 The tinkari gnome twitched and grimaced. 
 
-"The QWAN isn't a field, it's the tech that runs on a High Resolution Bias setting that -- ".   It paused as it searched for the right word before just sighing and resigning itself. "the setting that Jeff changed."
+"The QWAN isn't a field, it's the tech that runs on a High Resolution Bias setting that -- ".   It paused as it searched for the right word before just sighing and resigning itself. "the setting that Jeff never came back to maintain."
 
 "And it doesn't matter", the dwarf spoke up.  "We now have to pick up yet another mess our 'Jeff' left for us to clean up."
 
-"To be fair," the tinkari gnome mused, "nobody could have predicted the HiRB would have lowered the activation threshold of unstable..."
+"Can we shut it down? Reinforce it, buy some time?" the hobgoblin asked.
+
+"With what?" The gnome didn't look up. "It isn't a machine with a dial on it. It's forty thousand years of borrowed time finally running out. There's nothing left to reinforce, and nobody's coming to fix it."
+
+"To be fair," the tinkari gnome mused, "nobody could have predicted containment would hold forty thousand years and then give out with no warning at all."
 
 "Can you say that in Standard please?" The cayminus interrupted the short gnome.
 
-"The QWAN makes things go boom more easily", the dwarf drawled.
+"Once it drops, it's going to make things go boom a lot more easily, planet-wide", the dwarf drawled.
 
 The gnome crossed her arms and grumbled under her breath about the ignorance of QWAN and HiRB.  The rest of the beings around the table shuffled as what the dwarf said sank in.  The kitsune, the other of the only two wild races in the room, coughed and rubbed the bridge of her nose over round framed glasses.
 

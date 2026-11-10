@@ -313,9 +313,9 @@ When they finally exhaust, they do not lose energy. Their locally resolved quant
 
 ## Earth as Edge Case
 
-Earth is the only FC-operated context where the field was shifted to HiRB on a civilization that had already developed past the explosive chemistry threshold. Every other Hypatia world encountered the gunpowder ceiling during development and stopped there, building along paths that the instability naturally shaped.
+Earth is the only FC-operated context where the field reached HiRB on a civilization that had already developed past the explosive chemistry threshold. Every other Hypatia world encountered the gunpowder ceiling during development and stopped there, building along paths that the instability naturally shaped.
 
-Earth developed under a LoRB field with no QWAN infrastructure running. The LoRB field produced no instability. Earth built a technological civilization calibrated to LoRB probability distributions across two centuries of industrialization, optimizing its engineering progressively closer to the LoRB baseline with each generation of advancement.
+Earth's case is not simply a world an FC never touched. Per [The Long Suppression](../worlds/earth/the-long-suppression.md), Earth's native field state is HiRB like every other Hypatia world — what made its development path possible was a standing suppression mechanism, built and abandoned by its creator some 40,000 years prior, that held the field artificially below HiRB for the whole of Earth's recorded development. That mechanism functioned as infrastructure, not a field-state assertion — it required continuous throughput and eventually ran out. While it ran, the practical effect was identical to LoRB: no instability, nothing to push explosive chemistry or biological interfaces toward resolution. Earth built a technological civilization calibrated to those conditions across two centuries of industrialization, optimizing its engineering progressively closer to the suppressed baseline with each generation of advancement — with no way to know the baseline was artificial.
 
 When the field shifted to HiRB, Earth was normalized to the same field conditions every other Hypatia world operates under. The damage is not targeted. It is not punitive. It is what happens when you shift the resolution bias of a field that a civilization spent two centuries engineering against.
 

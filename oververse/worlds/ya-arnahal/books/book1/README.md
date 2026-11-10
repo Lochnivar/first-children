@@ -1,7 +1,7 @@
 # Book 1: Little House on Maple Valley (working title)
 
 **Status:** In Development
-**Primary POV:** Protagonist (name TBD), likely third-person limited
+**Primary POV:** Sarah Ratkowski, third-person limited (confirmed by prose). **Open question:** Nick is now confirmed co-MC status (see [characters/main/nick.md](../../characters/main/nick.md)) — whether this means dual-POV chapters or Sarah stays sole POV with Nick as a major character isn't decided yet. Don't assume dual-POV in future drafting without checking
 
 ## Overview
 
